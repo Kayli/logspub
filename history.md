@@ -136,6 +136,16 @@
       kuwait, iraq, syria, jordan, israel, lebanon
 
 
+## europe
+
+- byzantine empire
+  - also referred to as the eastern roman empire
+  - was the continuation of the roman empire in its eastern provinces during Late Antiquity and the Middle Ages, 
+  - capital city Constantinople
+  - survived the fragmentation and fall of the Western Roman Empire in the 5th century AD and continued to exist 
+    for an additional thousand years until the fall of Constantinople to the Ottoman Empire in 1453
+
+
 ## religions
 
 - world religions

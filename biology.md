@@ -64,6 +64,25 @@ keywords: cell, replicator, life, evolution
 - hyoid bone (подъязычная кость)
 
 
+## microbiology
+
+- feeding habit
+  - autotrophic: can produce their own food
+  - heterotrophic: rely on other organisms for food
+
+- procaryotes
+  - archaea
+  - bacteria
+- eucaryotes
+  - animalia
+  - fungi
+  - plantalia
+  - protozoa
+    - plasmodium
+      - malaria
+  - others
+
+
 ## references 
 
 https://en.wikipedia.org/wiki/Symbiosis
