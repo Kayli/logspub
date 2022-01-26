@@ -159,6 +159,9 @@ sudo ufw enable
 - create snapshot using snapper
   $ ?
 
+- diff 2 folders recursively skipping hidden files
+  - diff -qr -x".*"  logspub/ logspub-old/
+
 
 ## kernel related
 
