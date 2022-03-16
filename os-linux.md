@@ -86,11 +86,14 @@
   - amend last commit
     > git commit --amend -m'message'
 
-- list all git lfs files 
-  > git lfs ls-files --all
+  - list all git lfs files 
+    > git lfs ls-files --all
 
-- stage changed files with detecting renamed ones
-  > git -A add .
+  - stage changed files with detecting renamed ones
+    > git -A add .
+  
+  - register nccommit alias
+    > git config --global alias.nccommit 'commit -a --allow-empty-message -m ""'
 
 - flashing images
   - list partitions for the devices matched by a pattern sdi*
