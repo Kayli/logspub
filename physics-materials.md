@@ -5,7 +5,7 @@
 - crystal - is a solid where the atoms form a periodic arrangement
 
 - mineral
-  - solid chemical compound 
+  - solid chemical compound
   - has fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form
 
 - rock
