@@ -143,9 +143,15 @@
 
 ## accumulators
 
-- lithium ions move from anode to cathode and back during charge/discharge process
-  - anode is positive electrode
-  - cathode is negative electrode
+- key elements
+  - electrodes
+    - anode is positive electrode
+    - cathode is negative electrode
+  - electrolyte
+
+- ions move from anode to cathode and back during charge/discharge process
+  - in a specific example of a lithium batterey its lithium ions
+ 
 - removal of the electron from a neutral atom gives a cation (left), whereas addition of an electron gives an anion (right).
 - materials used
   - silicon (carbon-coated crystal silicon flakes) is used in a cathode (negative electrode)
