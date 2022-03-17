@@ -141,6 +141,21 @@
 - something to consider https://geology.com/store/collections/
 
 
+## accumulators
+
+- lithium ions move from anode to cathode and back during charge/discharge process
+  - anode is positive electrode
+  - cathode is negative electrode
+- removal of the electron from a neutral atom gives a cation (left), whereas addition of an electron gives an anion (right).
+- materials used
+  - silicon (carbon-coated crystal silicon flakes) is used in a cathode (negative electrode)
+  - lithium and nickel (lithium nickel manganese cobalt oxide) are used in anode (positive electrode)
+- diversified cathode design approach
+  - iron-based - longer lifecycle
+  - nickel-manganese(марганец) - long range
+  - high nickel - mass sensitive
+
+
 ## references 
 
 - https://www.rsc.org/periodic-table/element/4/beryllium
