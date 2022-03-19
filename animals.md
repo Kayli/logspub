@@ -12,7 +12,8 @@
 - passerine (воробъиные)
 - thrush (дрозд)
   - thrushes are a passerine bird family, turdidae, with a worldwide distribution
-  
+ - chickadee (синица)
+
 
 ### chicken
 
