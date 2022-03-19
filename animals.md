@@ -4,6 +4,7 @@
 
 - most games that animals play are not competitive and more focused on togetherness [^1]
   - quote from frans de waal, but maybe politically twisted?
+  - but one does not exclude the other, as there are different degrees of competitiveness i guess
 
 
 ## birds
