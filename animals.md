@@ -19,6 +19,8 @@
 - was domesticated from red junglefowl about 8,000 years ago
   - was native to india and southeast asia
   - 71–79% of red junglefowl DNA is shared with the domestic chicken
+- during their mating season
+  - the male birds announce their presence with the well known "cock-a-doodle-doo" call or crowing
 
 
 ## insects
