@@ -3,6 +3,7 @@
 ## basics
 
 - most games that animals play are not competitive and more focused on togetherness [^1]
+  - quote from frans de waal, but maybe politically twisted?
 
 
 ## birds
