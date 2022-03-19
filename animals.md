@@ -5,12 +5,6 @@
 - most games that animals play are not competitive and more focused on togetherness [^1]
 
 
-## insects
-
-- chilopoda
-  - a class of myriapod arthropods which comprises the centipedes
-
-
 ## birds
 
 - passerine (воробъиные)
@@ -25,6 +19,12 @@
 - was domesticated from red junglefowl about 8,000 years ago
   - was native to india and southeast asia
   - 71–79% of red junglefowl DNA is shared with the domestic chicken
+
+
+## insects
+
+- chilopoda
+  - a class of myriapod arthropods which comprises the centipedes
 
 
 
