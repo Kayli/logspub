@@ -1,5 +1,9 @@
 # notes related to animals
 
+## basics
+
+- most games that animals play are not competitive and more focused on togetherness [^1]
+
 
 ## insects
 
@@ -10,9 +14,10 @@
 ## birds
 
 - passerine (воробъиные)
+  - chickadee (синица)
+
 - thrush (дрозд)
   - thrushes are a passerine bird family, turdidae, with a worldwide distribution
- - chickadee (синица)
 
 
 ### chicken
@@ -21,10 +26,6 @@
   - was native to india and southeast asia
   - 71–79% of red junglefowl DNA is shared with the domestic chicken
 
-
-## animals
-
-- most games that animals play are not competitive and more focused on togetherness [^1]
 
 
 ## references
