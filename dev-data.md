@@ -1,10 +1,29 @@
-# notes about data formats and processing approaches
+# notes about data formats, management system and related stuff
 
 ## databases
 
 - types
   - relational
-  - nosql
+    - sqlite
+    - postgresql
+    - mssql
+    - oracle
+  - document
+    - mongodb
+  - graph
+    - neo4j
+  - cloud native
+    - amazon RDS, SimpleDB, DynamoDB
+    - azure Cosmos DB, SQL Database
+
+
+## orms
+
+- sqlalchemy (python)
+  - allow returning data from disconnected entities (closed session)
+    - session.expire_on_commit = False
+  - sqlite+pysqlite does not support Decimal objects natively
+    - possible loss of data
 
 
 ## streamable data formats

@@ -1,4 +1,29 @@
-# notes on functional programming [^1]
+# notes on languages which are new for me
+
+## actor based
+
+###  pony
+
+- type-safe
+  - with safety math proof, but what it practically means? 
+- object-oriented
+- compiled ahead of time using LLVM
+- actor
+  - is like a class with specifics
+  - can have behaviours, which are async functions
+  - single message queue
+  - back pressure problem
+    - automatically deprioritise actors that send messages to "loaded queues"
+  - has its own heap
+- exception safe
+  - exceptions are always handled
+- dealing with hard concurrency problems is the main area for which Pony has been designed
+- reference capabilities (rcaps)
+
+- inspired by: erlang, elixir, akka, haskell, scala, python
+
+
+## classic functional programming [^1]
 
 - basics
   - pure function
@@ -11,7 +36,7 @@
     - is like '+' or '*' operators that is placed between 
   
 
-## haskell
+### haskell
 
 - evaluation of statements is lazy by default
 

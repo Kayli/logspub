@@ -245,6 +245,11 @@
     - install a bunch of software
       > sudo pacman -S pamac kitty 
 
+- popos specific
+  - install touche from popshop to invert touchpad 4-finger gestures [^6]
+  
+
+
 - xfce specific
   - windows resize
     - alt + right mouse button
@@ -262,4 +267,4 @@
 [^3]: https://www.techrepublic.com/article/how-to-start-stop-and-restart-services-in-linux/
 [^4]: https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267
 [^5]: https://askubuntu.com/questions/448836/how-do-i-with-ufw-deny-all-outgoing-ports-excepting-the-ones-i-need
-
+[^6]: https://www.reddit.com/r/pop_os/comments/oin0ev/invert_workspace_touchpad_gestures/h4wjyz0/
