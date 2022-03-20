@@ -153,23 +153,21 @@
 ## data visualization
 
 - progress bar https://github.com/tqdm/tqdm
+- matplotlib
+  - popular plotting library 
+  - repository url: https://github.com/matplotlib/matplotlib
+  - on garuda linux use the following to make it work
+    $ pip install pyqt5 matplotlib      # install needed dependencies
+    $ import matplotlib
+    $ python                            # start python repl
+    >>> matplotlib.use("QTAgg")         # change plotting backend to use QT
+    >>> import matplotlib.pyplot as plt
+    >>> plt.ion()                       # enable interactive mode
+    >>> plt.plot([1,2,3])
+  - on macos
+    - similar to linux, but use 'MacOSX' plotting backend instead
 
-### matplotlib
-
-- popular plotting library 
-- repository url: https://github.com/matplotlib/matplotlib
-
-- on garuda linux use the following to make it work
-  $ pip install pyqt5 matplotlib      # install needed dependencies
-  $ import matplotlib
-  $ python                            # start python repl
-  >>> matplotlib.use("QTAgg")         # change plotting backend to use QT
-  >>> import matplotlib.pyplot as plt
-  >>> plt.ion()                       # enable interactive mode
-  >>> plt.plot([1,2,3])
-
-- on macos
-  - similar to linux, but use 'MacOSX' plotting backend instead
+- plotly https://medium.com/codex/dont-use-matplotlib-or-seaborn-for-your-python-plots-d5f03e750757
 
 
 ## scientific analysis tools

@@ -4,8 +4,8 @@
 
 - crystal - is a solid where the atoms form a periodic arrangement
 
-- mineral 
-  - solid chemical compound 
+- mineral
+  - solid chemical compound
   - has fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form
 
 - rock
@@ -139,6 +139,28 @@
   - graphite
 
 - something to consider https://geology.com/store/collections/
+
+
+## accumulators
+
+- key elements
+  - electrodes
+    - anode is positive electrode
+    - cathode is negative electrode
+  - electrolyte
+    - lithium salts are one of the most common types
+
+- ions move from anode to cathode and back during charge/discharge process
+  - in a specific example of a lithium batterey its lithium ions
+ 
+- removal of the electron from a neutral atom gives a cation (left), whereas addition of an electron gives an anion (right).
+- materials used
+  - silicon (carbon-coated crystal silicon flakes) is used in a cathode (negative electrode)
+  - lithium and nickel (lithium nickel manganese cobalt oxide) are used in anode (positive electrode)
+- diversified cathode design approach
+  - iron-based - longer lifecycle
+  - nickel-manganese(марганец) - long range
+  - high nickel - mass sensitive
 
 
 ## references 
