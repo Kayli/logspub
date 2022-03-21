@@ -1,8 +1,16 @@
 # random notes about stuff. kinda liary of sorts
 
+- coverage.py tool typical usage
+  > poetry add coverage --dev
+  > coverage run -m pytest
+  > coverage report -m
+  > coverage html
+
+
 - reading article https://www.infoq.com/news/2016/03/pony-fintech/
   - in FinTech we don’t write software, we write time-dependent event stream processors 
     that are performance critical but not formally verified
+
 
 - паттерн "подсос"
   - приветствовать любую инициативу, часто демонстративно
