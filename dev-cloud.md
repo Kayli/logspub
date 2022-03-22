@@ -52,20 +52,20 @@
     - stateful set
       - provides replication services for volumes
 
-- integration projects
-  - projects caught my attention recently
-    - openstack
-      - written in: python
-      - supported by the "open infrastructure foundation" (openinfra foundation)
-        - wikipedia says that original founders are Rackspace Hosting and NASA
-      - website feels like a marketing blob vaguely explaining how to configure services in a cloud
-      - root repository https://github.com/openstack/openstack
-    - openshift
-      - developer: redhat
-      - written in: go, angular.js
-      - an on-premises platform as a service
-        - built around docker containers orchestrated and managed by kubernetes 
-          on a foundation of red hat enterprise linux
+- openstack
+  - written in: python
+  - supported by the "open infrastructure foundation" (openinfra foundation)
+    - wikipedia says that original founders are Rackspace Hosting and NASA
+  - website feels like a marketing blob vaguely explaining how to configure services in a cloud
+  - root repository https://github.com/openstack/openstack
+
+- openshift
+  - developer: redhat
+  - written in: go, angular.js
+  - an on-premises platform as a service
+    - built around docker containers orchestrated and managed by kubernetes 
+      on a foundation of red hat enterprise linux
+
 - monitoring
   - cloudkeeper https://github.com/someengineering/cloudkeeper
 
