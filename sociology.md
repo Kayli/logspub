@@ -19,7 +19,7 @@
     - had to stop experiment on the sixth day
 
 
-- what is religion
+- what is religion [^3]
   - things that surpass the limits of our knowledge (sociologist Émile Durkheim, 1915)
 
 
@@ -27,3 +27,4 @@
 
 [^1]: https://en.wikipedia.org/wiki/Milgram_experiment
 [^2]: https://en.wikipedia.org/wiki/Stanford_prison_experiment
+[^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
