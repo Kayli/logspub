@@ -101,16 +101,13 @@
 ## google cloud platform
 
 - some stuff to be aware of
-  - sudo command on ubuntu instance is not working when connecting via external ssh client
-      - use `su` instead
-    - you can change root password via web ssh client by running `sudo passwd` command
   - to connect with external ssh client
     - generate ssh key on your client machine
       > ssh-keygen -t ed25519 -C "<comment>"
     - copy public key and save as a file in a cloud shell terminal
     - add public key from cloud shell terminal
       - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
-    - connect to gcp machine using following command:
+    - connect to gcp machine using following command
       - ssh <username>@<public_ip_address>
   - start instance from cloud shell terminal
     > gcloud compute instances start instance-1 --zone=us-west4-b
