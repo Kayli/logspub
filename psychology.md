@@ -7,7 +7,8 @@
     адекватно ориентировать свою активность по отношению к компонентам среды
 
 - neurosis
-  - a class of functional mental disorders involving chronic distress, but neither delusions nor hallucinations
+  - a class of functional mental disorders involving chronic distress, 
+    but neither delusions nor hallucinations
 
 
 ## stress
