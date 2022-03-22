@@ -52,6 +52,12 @@
 
 ## psychoanalysis
 
+- founder: sigmund freud 1856 - 1939
+  - was an austrian neurologist
+
+- a clinical method for evaluating and treating pathologies in the psyche through dialogue 
+  between a patient and a psychoanalyst
+
 - первичная и вторичная выгоды болезни [^2] [^3]
   — снижение уровня тревоги субъекта, за счёт возникновения патологического симптома
     - например, опредмечивание тревоги и возникновение фобии
