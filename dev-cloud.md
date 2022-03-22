@@ -32,25 +32,7 @@
 
 ## foss cloud solutions
 
-- docker
-- kubernetes k8s 
-  - repository https://github.com/kubernetes/kubernetes
-  - key entities
-    - node
-      - controller
-      - worker
-    - pod
-    - service
-    - replica set
-      - defines how many pod instances we need across cluster
-    - deployment
-      - yaml with desired state
-      - defines/configures pods and replica sets via deployment controller
-      - abstraction on top of pods
-    - volume
-      - local or remote storage for stateful apps
-    - stateful set
-      - provides replication services for volumes
+
 
 - openstack
   - written in: python

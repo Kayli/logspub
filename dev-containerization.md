@@ -24,15 +24,33 @@
   > docker ps -alq # get last container id
   > docker cp <containerId>:/file/path/within/container /host/path/target
 
+- dockerfile basic commands
+  - RUN
+    - executes commands inside of your Docker image during build time
+    - get written into your Docker image as a new layer
+  - CMD
+    - default command to run when your container starts
 
-### dockerfile basic commands
 
-- RUN
-  - executes commands inside of your Docker image during build time
-  - get written into your Docker image as a new layer
-- CMD
-  - default command to run when your container starts
-  
+## kubernetes k8s
+  - repository https://github.com/kubernetes/kubernetes
+  - key entities
+    - node
+      - controller
+      - worker
+    - pod
+    - service
+    - replica set
+      - defines how many pod instances we need across cluster
+    - deployment
+      - yaml with desired state
+      - defines/configures pods and replica sets via deployment controller
+      - abstraction on top of pods
+    - volume
+      - local or remote storage for stateful apps
+    - stateful set
+      - provides replication services for volumes
+
 
 ## other useful tools
 
