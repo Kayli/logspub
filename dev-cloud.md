@@ -110,6 +110,10 @@
       - copy public key (file contents) to remote machine's ~/.ssh/authorized_keys file
       - connect to gcp machine using following command:
         - ssh -i /Users/illiak/.ssh/<key> <username>@<public_ip_address>
+      - alternatively, you can add public key from cloud shell terminal
+        - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
+  - start instance from cloud shell terminal
+    > gcloud compute instances start instance-1 --zone=us-west4-b
 
 
 ## references
