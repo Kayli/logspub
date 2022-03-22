@@ -33,7 +33,8 @@
 ## foss cloud solutions
 
 - docker
-- kubernetes k8s
+- kubernetes k8s 
+  - repository https://github.com/kubernetes/kubernetes
   - key entities
     - node
       - controller
