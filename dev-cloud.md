@@ -100,17 +100,19 @@
 
 ## google cloud platform
 
-- some stuff to be aware of
-  - to connect with external ssh client
-    - generate ssh key on your client machine
-      > ssh-keygen -t ed25519 -C "<comment>"
-    - copy public key and save as a file in a cloud shell terminal
-    - add public key from cloud shell terminal
-      - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
-    - connect to gcp machine using following command
-      - ssh <username>@<public_ip_address>
-  - start instance from cloud shell terminal
-    > gcloud compute instances start instance-1 --zone=us-west4-b
+- manage GCP compute instances
+  > gcloud compute instances list
+  > gcloud compute instances start <name>
+
+- to connect with external ssh client
+  - generate ssh key on your client machine
+    > ssh-keygen -t ed25519 -C "<comment>"
+  - copy public key and save as a file in a cloud shell terminal
+  - add public key from cloud shell terminal
+    - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
+  - connect to gcp machine using one of the following commands
+    > gcloud compute ssh <name>
+    > ssh <username>@<public_ip_address>
 
 
 ## references
