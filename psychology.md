@@ -78,8 +78,8 @@
 ## conflict resolution
 
 - in animal and human illiterate societies
-  - Boehm, C. (1984). Blood Revenge: The Anthropology of Feuding in Montenegro 
-    and Other Nonliterate Societies. Lawrence: University Press of Kansas
+  - boehm, C. (1984). blood revenge: the anthropology of feuding in montenegro 
+    and other nonliterate societies. lawrence: university press of kansas
 
 
 ## psychophysiology
