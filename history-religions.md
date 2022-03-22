@@ -7,6 +7,12 @@
   - islam (forms 610-670 ce)
   - buddhism (forms between 600-400 bce)
 
+- classification [^3]
+  - animism
+  - polytheism
+  - monotheism
+  - atheism
+
 
 ## christianity
 
@@ -103,3 +109,4 @@
 
 [^1]: https://en.wikipedia.org/wiki/Charvaka
 [^2]: https://en.wikipedia.org/wiki/Rastafari
+[^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
