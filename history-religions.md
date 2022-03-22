@@ -84,6 +84,22 @@
 - rejects ritualism and supernaturalism 
 
 
+## rastafari (rastafarianism) [^2]
+
+- developed in Jamaica during the 1930s
+  - haile selassie, the emperor of Ethiopia between 1930 and 1974
+    - many regard him as the second coming of jesus and jah incarnate
+- here is no central authority in control of the movement, lots of diversity
+- practitioners call themselves rastafari, rastafarians, or rastas
+- based on a specific interpretation of the bible
+  - monotheistic belief in a single god, referred to as jah
+    - partially reside within each individual
+- classified as
+  - religious movement
+  - social movement
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Charvaka
+[^2]: https://en.wikipedia.org/wiki/Rastafari
