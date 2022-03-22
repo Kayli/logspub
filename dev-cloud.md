@@ -104,14 +104,14 @@
   - sudo command on ubuntu instance is not working when connecting via external ssh client
       - use `su` instead
     - you can change root password via web ssh client by running `sudo passwd` command
-    - to connect with external ssh client
-      - generate ssh key on your client machine
-        > ssh-keygen -t rsa -f ~/.ssh/<key> -C <username> -b 2048
-      - copy public key (file contents) to remote machine's ~/.ssh/authorized_keys file
-      - connect to gcp machine using following command:
-        - ssh -i /Users/illiak/.ssh/<key> <username>@<public_ip_address>
-      - alternatively, you can add public key from cloud shell terminal
-        - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
+  - to connect with external ssh client
+    - generate ssh key on your client machine
+      > ssh-keygen -t ed25519 -C "<comment>"
+    - copy public key and save as a file in a cloud shell terminal
+    - add public key from cloud shell terminal
+      - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
+    - connect to gcp machine using following command:
+      - ssh <username>@<public_ip_address>
   - start instance from cloud shell terminal
     > gcloud compute instances start instance-1 --zone=us-west4-b
 
