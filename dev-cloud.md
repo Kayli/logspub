@@ -114,6 +114,10 @@
     > gcloud compute ssh <name>
     > ssh <username>@<public_ip_address>
 
+- costs
+  - free tier: one e2-micro instance
+  - machine image $0.05 gb/month (typical debian image is about 10GB)
+
 
 ## references
 
