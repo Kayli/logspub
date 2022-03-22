@@ -12,7 +12,7 @@
 
 ## stress
 
-- manifested as 
+- manifested as
   - discharges of nervous systems
   - hormonal output
     - higher cortisol levels
