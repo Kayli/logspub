@@ -52,28 +52,13 @@
       - provides replication services for volumes
 
 - integration projects
-  - is a project that tries to integrate a bunch of smaller projects while making money selling consultancy services
-  - recipe
-    - just generate a bunch of <your favorite language> wrappers around some more popular community-driven components
-    - give them some funny names to create a customer-engaging story
-    - say its sponsored or originated by nasa or something
-      - bend the truth as much as you can, just to sell shit
-
   - projects caught my attention recently
     - openstack
       - written in: python
       - supported by the "open infrastructure foundation" (openinfra foundation)
         - wikipedia says that original founders are Rackspace Hosting and NASA
       - website feels like a marketing blob vaguely explaining how to configure services in a cloud
-      - most likely goals are 
-        - to provide overview (possibly twisted) of a cloud services landscape
-        - generate leads
-      - can be viewed as an ideological adapter/lens through which cloud prescribed to be percieved
       - root repository https://github.com/openstack/openstack
-      - red flags
-        - why when browsing through a list of their components i rarely recognize anything as familiar
-          - are they living in some parallel universe or somehting?
-          
     - openshift
       - developer: redhat
       - written in: go, angular.js
@@ -82,6 +67,7 @@
           on a foundation of red hat enterprise linux
 - monitoring
   - cloudkeeper https://github.com/someengineering/cloudkeeper
+
 
 ## azure services
 
