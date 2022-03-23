@@ -19,7 +19,7 @@
   - animism
   - polytheism
   - monotheism
-  - atheism
+  - atheistic
 
 
 ## christianity
