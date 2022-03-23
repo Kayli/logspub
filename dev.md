@@ -6,6 +6,8 @@
   - recursively git latest version
     > git submodule update --recursive --remote
 
+- mercurial
+
 
 ## modelling languages and tools
 
