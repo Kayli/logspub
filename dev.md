@@ -9,6 +9,7 @@
 
 - mercurial
   - foss, written in python
+  - repository https://www.mercurial-scm.org/repo/hg/
 
 
 ## modelling languages and tools
