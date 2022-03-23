@@ -1,4 +1,4 @@
-# notes on languages which are new for me
+# notes related to software development
 
 ## actor based
 
