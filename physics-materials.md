@@ -148,7 +148,7 @@
     - anode is positive electrode
     - cathode is negative electrode
   - electrolyte
-    - lithium salts are one of the most common types
+    - lithium salts are one of the most common types (неорганическая соль растворена в органических растворителях)
 
 - ions move from anode to cathode and back during charge/discharge process
   - in a specific example of a lithium batterey its lithium ions
