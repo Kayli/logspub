@@ -35,9 +35,9 @@
   - this referred as functionalist perspective in sociology
 
 - protestants vs catholics (by max weber)
+  - catholics are more community focused, but protestants are more individualistic
   - protestants are more likely reflect the values of hard work and savings conducive to capitalist ideology
   - protestant values influenced the rise of capitalism and helped create the modern world order
-  - catholics are more community focused, but protestants are more individualistic
 
 ## references
 
