@@ -2,6 +2,11 @@
 
 ## basics
 
+- founding thinkers of modern sociology
+  - Émile Durkheim 1858–1917
+  - Max Weber 1864–1920
+  - Karl Marx 1818–1883
+
 - milgram social psychology experiments [^1]
   - study obedience to authority figures
   - participants were asked 
