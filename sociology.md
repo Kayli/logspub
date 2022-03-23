@@ -34,6 +34,10 @@
   - brings people together, provide a ritual and symbolic focus, and unify them
   - this referred as functionalist perspective in sociology
 
+- protestants vs catholics (by max weber)
+  - protestants are more likely reflect the values of hard work and savings conducive to capitalist ideology
+  - protestant values influenced the rise of capitalism and helped create the modern world order
+
 
 ## references
 
