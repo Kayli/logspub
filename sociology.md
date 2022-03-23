@@ -39,6 +39,7 @@
   - protestants are more likely reflect the values of hard work and savings conducive to capitalist ideology
   - protestant values influenced the rise of capitalism and helped create the modern world order
 
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Milgram_experiment
