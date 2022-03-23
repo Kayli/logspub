@@ -38,8 +38,10 @@
 
 - protestants vs catholics (by max weber)
   - catholics are more community focused, but protestants are more individualistic
+    - poverty is a virtue and labour simply a means for maintaining the individual and community
   - protestants are more likely reflect the values of hard work and savings conducive to capitalist ideology
-  - protestant values influenced the rise of capitalism and helped create the modern world order
+    - hard, continuous labour as a spiritual end in itself
+    - such values influenced the rise of capitalism and helped create the modern world order
 
 
 ## references
