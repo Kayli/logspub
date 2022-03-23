@@ -1,5 +1,11 @@
 # notes related to software development
 
+## source control
+
+- git
+  - recursively git latest version
+    > git submodule update --recursive --remote
+
 
 ## programming languages
 
