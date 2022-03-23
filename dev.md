@@ -7,6 +7,12 @@
     > git submodule update --recursive --remote
 
 
+## modelling languages and tools
+
+- universal modelling language
+- mermaid https://mermaid.live/
+
+
 ## programming languages
 
 - pony
