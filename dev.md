@@ -17,7 +17,7 @@
 - universal modelling language
 - mermaid https://mermaid.live/
   - declarative uml diagrams, similar to websequencediagrams
-  - supports: flow charts, sequence diagrams, class diagrams, 
+  - supports: flow charts, sequence diagrams, class diagrams, erd diagrams
 
 
 ## programming languages
