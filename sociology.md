@@ -24,8 +24,16 @@
     - had to stop experiment on the sixth day
 
 
+## religion
+
 - what is religion [^3]
   - things that surpass the limits of our knowledge (sociologist Émile Durkheim, 1915)
+
+- performs the key function of providing social solidarity in a society
+  - rituals, worship of icons, and belief in supernatural beings 
+    “excite, maintain or recreate certain mental states” (Durkheim 1912) 
+  - brings people together, provide a ritual and symbolic focus, and unify them
+  - this referred as functionalist perspective in sociology
 
 
 ## references
