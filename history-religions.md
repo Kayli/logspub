@@ -1,17 +1,21 @@
 # history of some religions
 
-## basics
+## basics [^3]
 
 - etymology
   - religio (respect for what is sacred)
   - religare (to bind, in the sense of an obligation)
+
+- religious experience
+  - refers to the conviction or sensation that one is connected to “the divine” 
+  - this type of communion might be experienced when people are praying or meditating
 
 - world religions
   - christianity (forms around 0ce)
   - islam (forms 610-670 ce)
   - buddhism (forms between 600-400 bce)
 
-- classification [^3]
+- classification 
   - animism
   - polytheism
   - monotheism
