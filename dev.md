@@ -3,10 +3,12 @@
 ## source control
 
 - git
+  - foss, written in shell + c
   - recursively git latest version
     > git submodule update --recursive --remote
 
 - mercurial
+  - foss, written in python
 
 
 ## modelling languages and tools
