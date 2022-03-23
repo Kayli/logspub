@@ -2,6 +2,10 @@
 
 ## basics
 
+- etymology
+  - religio (respect for what is sacred)
+  - religare (to bind, in the sense of an obligation)
+
 - world religions
   - christianity (forms around 0ce)
   - islam (forms 610-670 ce)
