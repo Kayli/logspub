@@ -75,6 +75,9 @@
   > gcloud compute ssh <name>
   > gcloud compute instances delete <name>
 
+- google cloud doesn't provide an easy solution to backup/restore vm instances
+  - you can only make a snapshot disks attached to instances
+
 - to connect with external ssh client
   - generate ssh key on your client machine
     > ssh-keygen -t ed25519 -C "<comment>"
