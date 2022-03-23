@@ -69,9 +69,13 @@
 
 ## google cloud platform
 
-- manage GCP compute instances
+- manage GCP compute instances within free tier defaults
+  > gcloud compute instances create <name> \
+      --image-project debian-cloud --image-family debian-11 --zone=us-west4-b --machine-type=e2-micro
   > gcloud compute instances list
   > gcloud compute instances start <name>
+  > gcloud compute ssh <name>
+  > gcloud compute instances delete <name>
 
 - to connect with external ssh client
   - generate ssh key on your client machine
