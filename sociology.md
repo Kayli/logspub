@@ -15,7 +15,6 @@
   - experiment found
     - very high proportion of subjects would fully obey the instructions
 
-
 - stanford prison experiment [^2]
   - was designed to examine the effects of situational variables on participant's
     reactions and behaviors in a two-week simulation of a prison environment
