@@ -26,7 +26,9 @@
 ## religion
 
 - what is religion [^3]
-  - things that surpass the limits of our knowledge (sociologist Émile Durkheim, 1915)
+  - things that surpass the limits of our knowledge (durkheim)
+  - a sigh of the oppressed creature, the heart of a heartless world, and the soul of 
+    soulless conditions. It is the opium of the people (marx)
 
 - performs the key function of providing social solidarity in a society
   - rituals, worship of icons, and belief in supernatural beings 
