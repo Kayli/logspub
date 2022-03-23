@@ -32,8 +32,6 @@
 
 ## foss cloud solutions
 
-
-
 - openstack
   - written in: python
   - supported by the "open infrastructure foundation" (openinfra foundation)
