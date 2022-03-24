@@ -20,6 +20,7 @@
   - polytheism
   - monotheism
   - atheistic
+    - practices of dialectical materialism in ussr
 
 
 ## christianity
