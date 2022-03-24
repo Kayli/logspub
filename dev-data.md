@@ -24,6 +24,12 @@
     - session.expire_on_commit = False
   - sqlite+pysqlite does not support Decimal objects natively
     - possible loss of data
+  - json types
+    - PostgreSQL, SQLite as of version 3.9
+    - supports JSON SQL operations
+    - allows nested selectors into json column [^2]
+
+
 
 
 ## streamable data formats
@@ -64,3 +70,4 @@
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/YAML
+[^2]: https://stackoverflow.com/questions/31197813/sqlalchemy-filtering-nested-json-data-in-postgresql-jsonb
