@@ -90,6 +90,16 @@
     - 5 million y.o.???
 
 
+- kardashev scale - classification of civilizations
+  - planetary - planet resources are utilized (type 1)
+  - stellar - star resources are utilized (type 2)
+  - galactic - galactic core resources utilized? (type 3)
+  - extension to a model
+    - universe - can control or use the entire universe (type 4)
+    - multiverse - can control collections of universes (type 5)
+    - humans - ones that don't qualify, like we are now (type 0)
+
+
 ## milky way
 
 - saggitarius a*
