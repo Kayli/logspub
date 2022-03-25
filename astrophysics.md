@@ -2,11 +2,9 @@
 
 ## universe
 
-- observable universe
-  - is a ball-shaped region of the universe comprising all matter that can be observed from Earth 
-    or its space-based telescopes and exploratory probes at the present time, because the electromagnetic 
-    radiation from these objects has had time to reach the Solar System and Earth since the beginning 
-    of the cosmological expansion
+- observable (local) universe
+  - is a ball-shaped region of the universe comprising all matter that can be observed from earth
+  - diameter 93 giga light years
 
 - composition
   - not well studied
