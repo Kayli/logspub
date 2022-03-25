@@ -235,6 +235,13 @@
   - lightweight container with simple interface
 
 
+## command line interface (cli) 
+
+- interactive command line interfaces, cli wizards [^4]
+  - https://github.com/CITGuru/PyInquirer
+
+
+
 ## advanced features
 
 - slotted class
@@ -257,4 +264,4 @@
 [^1]: https://realpython.com/python-scipy-fft/
 [^2]: https://stackoverflow.com/questions/141545/how-to-overload-init-method-based-on-argument-type
 [^3]: https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
-
+[^4]: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
