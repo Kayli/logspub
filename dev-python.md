@@ -235,10 +235,13 @@
   - lightweight container with simple interface
 
 
-## command line interface (cli) 
+## command line interface (cli) [^4]
 
-- interactive command line interfaces, cli wizards [^4]
+- PyInquirer: interactive command line interfaces, cli wizards 
   - https://github.com/CITGuru/PyInquirer
+
+- python-fire: cli arugments automapper to functions, tuples, classes etc. 
+  - https://github.com/google/python-fire
 
 
 
