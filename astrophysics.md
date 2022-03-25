@@ -5,6 +5,7 @@
 - observable (local) universe
   - is a ball-shaped region of the universe comprising all matter that can be observed from earth
   - diameter 93 giga light years
+  - mass of ordinary matter 1.5×10^53
 
 - composition
   - not well studied
