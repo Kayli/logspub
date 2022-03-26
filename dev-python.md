@@ -235,6 +235,7 @@
   - lightweight container with simple interface
 
 
+
 ## command line interface (cli) [^4]
 
 - PyInquirer: interactive command line interfaces, cli wizards 
@@ -243,6 +244,13 @@
 - python-fire: cli arugments automapper to functions, tuples, classes etc. 
   - https://github.com/google/python-fire
 
+
+## serialization
+
+- using jsonpickle library
+  > import jsonpickle
+  > frozen = jsonpickle.encode(obj)
+  > thawed = jsonpickle.decode(frozen)
 
 
 ## advanced features
