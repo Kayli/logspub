@@ -5,6 +5,18 @@
 - etymology
   - religio (respect for what is sacred)
   - religare (to bind, in the sense of an obligation)
+  - god
+    - english word itself is derived from the Proto-Germanic * ǥuđan
+    - reconstructed Proto-Indo-European form * ǵhu-tó-m 
+      - was likely based on the root * ǵhau(ə)-, which meant either "to call" or "to invoke"
+  - allāh (arabic: الله)
+    - arabic term with no plural used by muslims and arabic speaking christians and jews meaning "The God"
+    - ʾilāh (arabic: إِلَٰه plural `āliha آلِهَة) is the term used for a deity or a god in general
+  - бог
+    - общеславянское происхождение и родственно иранскому baga и санскритскому bhagas — «податель благ»
+    - богатство, bogatъ, ubogъ
+    - доля, делить, получать долю, наделять
+  
 
 - religious experience
   - refers to the conviction or sensation that one is connected to “the divine” 
