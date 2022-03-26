@@ -228,6 +228,9 @@
   - provides classes and functions for the estimation of many different statistical models
   - https://www.statsmodels.org/stable/index.html
 
+- markets schedule
+  - https://github.com/rsheftel/pandas_market_calendars
+
 
 ## dependency injection
 
