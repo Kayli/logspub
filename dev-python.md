@@ -273,6 +273,12 @@
   - rarely used
 
 
+## misc
+
+- Sequential UUID generator
+  > pip install sequential-uuids
+
+
 ## references
 
 [^1]: https://realpython.com/python-scipy-fft/
