@@ -28,7 +28,7 @@
 - halting problem
 
 
-## lambda calculus
+## λ-calculus
 
 - was introduced by the mathematician alonzo church in the 1930s
 - definition
