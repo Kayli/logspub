@@ -32,7 +32,8 @@
 
 - was introduced by the mathematician alonzo church in the 1930s
 - definition
-  - formal system in mathematical logic for expressing computation based on 
+  - formal system in mathematical logic for expressing computation based on
+    - variables
     - function abstraction
     - application using variable binding and substitution
   - it is a universal model of computation that can be used to simulate any turing machine
