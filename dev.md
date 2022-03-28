@@ -43,6 +43,7 @@
 
 - classic functional programming [^1]
   - basics
+    - lambda calculus is one of the origins of functional programming
     - pure function
       - one that has no side-effects
       - has referential transparency
