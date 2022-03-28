@@ -41,6 +41,12 @@
 - abstraction is a definition of an anonymous function
   - for example: abstraction λx.t taking a single input x and substituting it into the expression t
 - application is the act of calling function on some input
+  - function application is regarded as left-associative, so that 'stx' means '(st)x'
+- variable declaration is not defined in lambda calculus
+- functions are taken to be 'first class values'
+  - so functions may be used as the inputs, or be returned as outputs from other functions
+- identity function x -> x
+- constant function x -> y
 
 
 ## proofs [^2]
