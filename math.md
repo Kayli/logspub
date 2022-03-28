@@ -38,6 +38,9 @@
   - it is a universal model of computation that can be used to simulate any turing machine
 
 - a valid lambda calculus expression is called a "lambda term"
+- abstraction is a definition of an anonymous function
+  - for example: abstraction λx.t taking a single input x and substituting it into the expression t
+- application is the act of calling function on some input
 
 
 ## proofs [^2]
