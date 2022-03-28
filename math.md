@@ -21,6 +21,11 @@
   - highest l.e. represents chaoticity of a system
 
 
+## self-referential systems
+
+- russell's paradox and godel incompletness theorem 
+
+
 ## proofs [^2]
 
 - axiomatic proof
