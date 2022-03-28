@@ -27,6 +27,7 @@
   - deductive derivations of propositions from primitive premisses that are true in some sense of ‘true’
   - they start from given primitive premisses and go down to the proposition to be proved
   - aim is to give a foundation and justification of the proposition
+  
 - analytic proof
   - proofs are non-deductive derivations of plausible hypotheses from problems, in some sense of ‘plausible’
   - they start from a given problem and go up to plausible hypotheses
@@ -39,6 +40,9 @@
         by specialization, by variation of the data, and so on
   - aim is to discover plausible hypotheses capable of giving a solution to the problem
   - hypothesis, in turn, is a problem that must be solved, so the process is recursive a potentially infinite
+  - statement of the problem may be modified to a certain extent to make it more precise,
+    may even be radically changed as new data emerge, so development of the statement of the problem 
+    and the development of the solution of the problem may proceed in parallel
 
 
 ## automated theorem provers
