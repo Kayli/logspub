@@ -21,7 +21,7 @@
   - highest l.e. represents chaoticity of a system
 
 
-## proofs
+## proofs [^2]
 
 - axiomatic proof
   - deductive derivations of propositions from primitive premisses that are true in some sense of ‘true’
@@ -30,7 +30,15 @@
 - analytic proof
   - proofs are non-deductive derivations of plausible hypotheses from problems, in some sense of ‘plausible’
   - they start from a given problem and go up to plausible hypotheses
+    - a problem is any open question
+    - a hypothesis is any means that can be used to solve a problem
+    - a hypothesis is said to be plausible if and only if it is compatible with the existing data
+    - look for some hypothesis that is a sufficient condition for solving the problem
+    - hypothesis is obtained from the problem, and possibly other data, by some non-deductive inference
+      - inductive, analogical, diagrammatic, metaphorical, metonymical, by generalization, 
+        by specialization, by variation of the data, and so on
   - aim is to discover plausible hypotheses capable of giving a solution to the problem
+  - hypothesis, in turn, is a problem that must be solved, so the process is recursive a potentially infinite
 
 
 ## automated theorem provers
@@ -49,3 +57,4 @@
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Duality_(mathematics)
+[^2]: https://www.researchgate.net/publication/225203043
