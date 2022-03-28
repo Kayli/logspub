@@ -21,6 +21,18 @@
   - highest l.e. represents chaoticity of a system
 
 
+## proofs
+
+- axiomatic proof
+  - deductive derivations of propositions from primitive premisses that are true in some sense of ‘true’
+  - they start from given primitive premisses and go down to the proposition to be proved
+  - aim is to give a foundation and justification of the proposition
+- analytic proof
+  - proofs are non-deductive derivations of plausible hypotheses from problems, in some sense of ‘plausible’
+  - they start from a given problem and go up to plausible hypotheses
+  - aim is to discover plausible hypotheses capable of giving a solution to the problem
+
+
 ## automated theorem provers
 
 - provers 
