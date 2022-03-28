@@ -50,6 +50,15 @@
   - constant function x -> y
 - data storage
   - it is stored as parameters to a function that does not yet have all the parameters required for application
+- numbers(ordinals) and booleans can be expressed as functions
+  - for numbers
+    - having function f and parameter x
+    - function f is applied to x fixed number of times
+      - 0 means that f is not applied, 1 means that f applied to x once and so on
+  - for booleans
+    - having function f and two parameters x and y
+    - true value represented as function that always returns x
+    - false value represented as function that always returns y
 
 
 ## proofs [^2]
