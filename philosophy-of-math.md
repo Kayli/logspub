@@ -15,7 +15,7 @@
 - formalization of mathematics
   - peano axioms (dedekind–peano axioms, peano postulates) 
     - are 9 axioms for the natural numbers presented by the 19th century Italian mathematician Giuseppe Peano
-    - formulated in a language of set theory
+    - formulated in a languages of set theory and second-order logic 
     - helped answering questions of whether number theory is consistent and complete
 
 
