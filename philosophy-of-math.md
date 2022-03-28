@@ -6,12 +6,17 @@
     develop it in such a way that, at the same time, the interconnections between the individual propositions
     and facts become clear" [^1][^2]
 
-
 - reverse mathematics
   - program in mathematical logic that seeks to determine which axioms are required to prove theorems of mathematics 
   - can briefly be described as "going backwards from the theorems to the axioms", 
     - in contrast to the ordinary mathematical practice of deriving theorems from axioms
   - can be conceptualized as sculpting out necessary conditions from sufficient ones
+
+- formalization of mathematics
+  - peano axioms (dedekind–peano axioms, peano postulates) 
+    - are 9 axioms for the natural numbers presented by the 19th century Italian mathematician Giuseppe Peano
+    - formulated in a language of set theory
+    - helped answering questions of whether number theory is consistent and complete
 
 
 ## references
