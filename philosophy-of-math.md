@@ -7,6 +7,13 @@
     and facts become clear" [^1][^2]
 
 
+- reverse mathematics
+  - program in mathematical logic that seeks to determine which axioms are required to prove theorems of mathematics 
+  - can briefly be described as "going backwards from the theorems to the axioms", 
+    - in contrast to the ordinary mathematical practice of deriving theorems from axioms
+  - can be conceptualized as sculpting out necessary conditions from sufficient ones
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Foundations_of_mathematics
