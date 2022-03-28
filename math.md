@@ -20,19 +20,24 @@
   - quantity that characterizes the rate of separation of infinitesimally close trajectories
   - highest l.e. represents chaoticity of a system
 
-- lambda calculus
-  - was introduced by the mathematician alonzo church in the 1930s
-  - formal system in mathematical logic for expressing computation based on 
-    - function abstraction
-    - application using variable binding and substitution
-  - it is a universal model of computation that can be used to simulate any turing machine
-
 
 ## self-referential systems
 
 - russell's paradox
 - godel incompletness theorem 
 - halting problem
+
+
+## lambda calculus
+
+- was introduced by the mathematician alonzo church in the 1930s
+- definition
+  - formal system in mathematical logic for expressing computation based on 
+    - function abstraction
+    - application using variable binding and substitution
+  - it is a universal model of computation that can be used to simulate any turing machine
+
+- a valid lambda calculus expression is called a "lambda term"
 
 
 ## proofs [^2]
