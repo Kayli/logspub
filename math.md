@@ -33,9 +33,9 @@
 - was introduced by the mathematician alonzo church in the 1930s
 - definition
   - formal system in mathematical logic for expressing computation based on
-    - variables
-    - function abstraction
-    - application using variable binding and substitution
+    - variable:    a character or string representing a parameter or mathematical/logical value
+    - abstraction: function definition in which variable becomes bound in the expression
+    - application: applies a function to an argument, using variable binding and substitution
   - it is a universal model of computation that can be used to simulate any turing machine
 
 - a valid lambda calculus expression is called a "lambda term"
