@@ -8,7 +8,7 @@
 
 - reverse mathematics
   - program in mathematical logic that seeks to determine which axioms are required to prove theorems of mathematics 
-  - can briefly be described as "going backwards from the theorems to the axioms", 
+  - can briefly be described as "going backwards from the theorems to the axioms"
     - in contrast to the ordinary mathematical practice of deriving theorems from axioms
   - can be conceptualized as sculpting out necessary conditions from sufficient ones
 
@@ -17,6 +17,11 @@
     - are 9 axioms for the natural numbers presented by the 19th century Italian mathematician Giuseppe Peano
     - formulated in a languages of set theory and second-order logic 
     - helped answering questions of whether number theory is consistent and complete
+
+- foundational philosophy of intuitionism or constructivism
+  - requires proofs to be "constructive" in nature
+    - the existence of an object must be demonstrated 
+      rather than inferred from a demonstration of the impossibility of its non-existence
 
 
 ## references
