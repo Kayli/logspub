@@ -45,8 +45,11 @@
 - variable declaration is not defined in lambda calculus
 - functions are taken to be 'first class values'
   - so functions may be used as the inputs, or be returned as outputs from other functions
-- identity function x -> x
-- constant function x -> y
+- primitive functions
+  - identity function x -> x
+  - constant function x -> y
+- data storage
+  - it is stored as parameters to a function that does not yet have all the parameters required for application
 
 
 ## proofs [^2]
