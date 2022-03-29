@@ -20,3 +20,9 @@
     - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
     - defend this position on the basis of natural law, economics, or tradition
 
+
+## political language
+
+- problems
+  - staleness of imagery
+  - lack of precision
