@@ -23,6 +23,14 @@
 
 ## political language
 
-- problems
-  - staleness of imagery
+- problems [^1]
+  - circus of unnecessarily complex words 
+    - which are completely devoid of imagery 
+    - in an attempt to fane sophistication
   - lack of precision
+    - 'fascist' often signifies 'something not desirable'
+    - democracy, socialism, freedom, patriotic, realistic, justice 
+      - have multiple often incompatible meanings
+
+
+[^1]: https://www.youtube.com/watch?v=whPnobbck9s
