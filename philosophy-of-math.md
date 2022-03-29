@@ -23,6 +23,8 @@
     - the existence of an object must be demonstrated 
       rather than inferred from a demonstration of the impossibility of its non-existence
 
+- если богу требуется математика для его собственных нужд, пусть он создаст ее для себя
+
 
 ## references
 
