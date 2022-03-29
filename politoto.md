@@ -9,7 +9,9 @@
   - emphasizing free association, freedom of choice, individualism and voluntary association
   - share a skepticism of authority and state power
 
-- left–right political spectrum
+- conservative-progressive spectrum
+
+- left–right spectrum
   - system of classifying political positions
   - emphasis placed on issues of social equality and social hierarchy
   - left
