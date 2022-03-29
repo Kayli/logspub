@@ -23,10 +23,12 @@
     - the existence of an object must be demonstrated 
       rather than inferred from a demonstration of the impossibility of its non-existence
 
-- если богу требуется математика для его собственных нужд, пусть он создаст ее для себя
+- если богу требуется математика для его собственных нужд, пусть он создаст ее для себя [^3]
+- не спрашивай, истинно ли утверждение, пока не знаешь, что оно означает [^3]
 
 
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Foundations_of_mathematics
 [^2]: Hilbert 1927 The Foundations of Mathematics in van Heijenoort 1967:475
+[^3]: https://www.amazon.ca/Proof-Pudding-Changing-Nature-Mathematical/dp/0387489088
