@@ -264,6 +264,7 @@
 - gpio drivers and library allow not to write kernel drivers in most cases [^7]
   - you write your drivers in userspace instead
   - allows to control pulse-width modulation with most modern system-on-a-chip (socs)
+    - duty cycle (pulse width), period (how often pulses are emitted)
 
 
 ## references
