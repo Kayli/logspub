@@ -261,7 +261,8 @@
 
 ## embedded development
 
-- gpio drivers and library [^7]
+- gpio drivers and library allow not to write kernel drivers in most cases [^7]
+  - you write your drivers in userspace instead
 
 
 ## references
