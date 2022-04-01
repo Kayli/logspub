@@ -18,12 +18,14 @@
 
 - sysfs interface (deprecated)
   - sysfs is a pseudo filesystem provided by the kernel 
+    - is mounted under the /sys mount point
+    - if it is not mounted during initialization, you can always mount it using the command
+      > "mount -t sysfs sysfs /sys"
   - makes information about various kernel subsystems, hardware devices, and device drivers 
     available in user space through virtual files
   - GPIO devices appear as part of sysfs
   - allows to control pulse-width modulation with most modern system-on-a-chip (socs)
     - duty cycle (pulse width), period (how often pulses are emitted)
-
 
 
 ## references
