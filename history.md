@@ -151,6 +151,15 @@
     for an additional thousand years until the fall of Constantinople to the Ottoman Empire in 1453
 
 
+### england
+
+- стримы бушвакера
+  - скандинавы, варяги, викинги https://www.youtube.com/watch?v=M1xwsNqF8ks
+  - закат эпохи викингов и конец темных веков https://www.youtube.com/watch?v=9rQy2BORj5o
+  - англосаксы и рождение англии https://www.youtube.com/watch?v=jQtj8uANmIE
+  - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
+
+
 ## americas
 
 - first people 
