@@ -3,7 +3,7 @@
 ## basics
 
 - bus interfaces
-  - i2c: two wire serial bus
+  - i2c: simple two wire serial bus
   - can (controller area network bus)
 
 
