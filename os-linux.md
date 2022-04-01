@@ -249,7 +249,6 @@
   - install touche from popshop to invert touchpad 4-finger gestures [^6]
   
 
-
 - xfce specific
   - windows resize
     - alt + right mouse button
@@ -260,6 +259,11 @@
       - use touch pad to actually resize a window
 
 
+## embedded development
+
+- gpio drivers and library [^7]
+
+
 ## references
 
 [^1]: https://superuser.com/questions/118642/recursive-filesystem-notifications-inotify-for-ubuntu-karmic-koala
@@ -268,3 +272,4 @@
 [^4]: https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267
 [^5]: https://askubuntu.com/questions/448836/how-do-i-with-ufw-deny-all-outgoing-ports-excepting-the-ones-i-need
 [^6]: https://www.reddit.com/r/pop_os/comments/oin0ev/invert_workspace_touchpad_gestures/h4wjyz0/
+[^7]: https://www.youtube.com/watch?v=QIO2pJqMxjE
