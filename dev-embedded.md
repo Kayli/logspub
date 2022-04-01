@@ -7,6 +7,7 @@
     - simple two-wire serial bus
     - has a 7-bit address space (with a rarely used 10-bit extension)
     - speeds from arbitrary low to up to 5 Mbit/s in ultra-fast mode
+    - can pass signal only to short distances about 2 meters max
   - can (controller area network bus)
 
 
