@@ -9,6 +9,7 @@
     - speeds from arbitrary low to up to 5 Mbit/s in ultra-fast mode
     - can pass signal only to short distances about 2 meters max
   - can (controller area network bus)
+    - max length 40 meters at 1 mbit/sec speed
 
 
 
