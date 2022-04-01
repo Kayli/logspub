@@ -13,7 +13,6 @@
     - max length 40 meters at 1 mbit/sec speed
 
 
-
 ## linux kernel embedded drivers [^1]
 
 - gpio drivers and library allow not to write kernel drivers in most cases
