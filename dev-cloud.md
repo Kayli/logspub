@@ -92,8 +92,9 @@
   - create new rule to allow all inbound traffic for all instances
     > gcloud compute firewall-rules create allow-all --direction=INGRESS --action=ALLOW --priority=500 \
         --project=rock-module-342604 --network=default --rules=all
-  - disable rule
+  - disable/enable rule
     > gcloud compute firewall-rules update allow-all --disabled --project=rock-module-342604
+    > gcloud compute firewall-rules update allow-all --no-disabled --project=rock-module-342604
 
 - costs
   - free tier: one e2-micro instance
