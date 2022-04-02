@@ -28,6 +28,12 @@
       - so they are executed concurrently
 
 
+### useful commands
+
+- copy file from remote ssh to host
+  > scp 'ilichpost_gmail_com@35.233.131.109:/home/ilichpost_gmail_com/Downloads/*.pdf' ~/Downloads
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Real-time_operating_system
