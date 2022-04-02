@@ -76,7 +76,7 @@
   > gcloud compute instances delete <name>
 
 - google cloud doesn't provide an easy solution to backup/restore vm instances
-  - you can only make a snapshot disks attached to instances
+  - you can only make a snapshot of disks attached to instances
 
 - to connect with external ssh client
   - generate ssh key on your client machine
@@ -87,6 +87,13 @@
   - connect to gcp machine using one of the following commands
     > gcloud compute ssh <name>
     > ssh <username>@<public_ip_address>
+
+- manage firewall
+  - create new rule to allow all inbound traffic for all instances
+    > gcloud compute firewall-rules create allow-all --direction=INGRESS --action=ALLOW --priority=500 \
+        --project=rock-module-342604 --network=default --rules=all
+  - disable rule
+    > gcloud compute firewall-rules update allow-all --disabled --project=rock-module-342604
 
 - costs
   - free tier: one e2-micro instance
