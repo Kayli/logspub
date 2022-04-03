@@ -16,6 +16,7 @@
   - webpack + graphql + react
   - integration with cms plugins like strapi, graphcms and many others [^1]
   - deferred static generation
+  - server-side rendering
 
 - isomorphic
   - aspnet core blazor
