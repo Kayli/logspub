@@ -14,6 +14,10 @@
   - standard form of axiomatic set theory and as such is the most common foundation of mathematics
   - zfc is zf with has axiom of choice (ac) included
 
+- implementations
+  - zfc++ [^3]
+  - zfc in coq [^4]
+
 
 ## random notes
 
@@ -113,7 +117,14 @@
       a certain formal theory in first-order logic with equality
 
 
+## tutorials
+
+- https://ncatlab.org/nlab/show/ZFC
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Duality_(mathematics)
 [^2]: https://www.researchgate.net/publication/225203043
+[^3]: https://esolangs.org/wiki/ZFC%2B%2B
+[^4]: https://github.com/coq-contribs/zfc
