@@ -6,6 +6,7 @@
   - is a ball-shaped region of the universe comprising all matter that can be observed from earth
   - diameter 93 giga light years
   - mass of ordinary matter 1.5×10^53
+  - age 13.77 byo
 
 - composition
   - not well studied
@@ -107,6 +108,7 @@
 
 ## milky way
 
+- age: 13 byo
 - saggitarius a*
   - agn - active galactic nucleus
     - supermassive black hole at the center
