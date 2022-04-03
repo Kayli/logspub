@@ -16,6 +16,13 @@
   - webpack + graphql + react
   - plugins: strapi, graphcms
 
+- isomorphic
+  - aspnet core blazor
+  - meteor
+  - python
+    - anpylar
+    - nagare
+
 
 ## headless cms
 
