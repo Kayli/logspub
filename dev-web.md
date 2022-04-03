@@ -27,7 +27,8 @@
 - contentstack
 - strapi
 - kentico
-- netlify
+- netlify 
+  - hosts content in a git repository
 - agilitycms
 - flotiq
 - prismic
