@@ -120,6 +120,16 @@
     - name is derived from the fact that these expressions are interpreted within ("modulo") 
       a certain formal theory in first-order logic with equality
 
+### coq
+
+- commands
+  - Theorem
+    - aliases: "Lemma", "Remark", "Fact", "Corollary", "Proposition"
+    - example: Theorem my_first_proof : (forall A : Prop, A -> A).
+  - Proof
+    - indicates beginning of the proof, plays similar role as an open curly brace in c
+  - Qed
+    - ends the proof, plays similar role as a closing curly brace in c
 
 ## tutorials
 
