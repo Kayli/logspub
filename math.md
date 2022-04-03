@@ -11,6 +11,12 @@
   - is an abbreviation for the latin phrase "quod erat demonstrandum" ("that which was to be demonstrated")
   - a notation which is often placed at the end of a mathematical proof to indicate its completion
 
+- type theory
+  - is a formal system in which every "term" has a "type"
+  - a "type" in type theory has a role similar to a "type" in a programming language as it dictates 
+    - operations that can be performed on a term
+    - the possible values variables might be replaced with
+
 
 ## set theory
 
@@ -113,10 +119,8 @@
 - components
   - theorem: thing we want to prove
   - logic: a type theory, e.g. calculus of constructions [^5]
-    - is a formal system in which every "term" has a "type"
-    - a "type" in type theory has a role similar to a "type" in a programming language as it 
-      dictates the operations that can be performed on a term and, for variables, the possible values 
-      it might be replaced with
+    
+  - validity checker
 
 - types of provers ?
   - SAT (abbr from satisfiability)
