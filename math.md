@@ -9,9 +9,9 @@
 
 ## set theory
 
-- zermelo–fraenkel set theory
+- zermelo–fraenkel set theory (zf)
   - standard form of axiomatic set theory and as such is the most common foundation of mathematics
-  - ZFC is ZF with has axiom of choice (AC) included 
+  - zfc is zf with has axiom of choice (ac) included
 
 
 ## random notes
