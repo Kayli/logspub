@@ -109,8 +109,7 @@
 ## milky way
 
 - age: 13 byo
-- saggitarius a*
-  - agn - active galactic nucleus
+- saggitarius a* active galactic nucleus
     - supermassive black hole at the center
 
 
