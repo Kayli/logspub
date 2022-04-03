@@ -110,7 +110,15 @@
 
 ## automated theorem provers
 
-- types of provers
+- components
+  - theorem: thing we want to prove
+  - logic: a type theory, e.g. calculus of constructions [^5]
+    - is a formal system in which every "term" has a "type"
+    - a "type" in type theory has a role similar to a "type" in a programming language as it 
+      dictates the operations that can be performed on a term and, for variables, the possible values 
+      it might be replaced with
+
+- types of provers ?
   - SAT (abbr from satisfiability)
     - solve constraints involving(written in) propositional logic
   - SMT (satisfiability modulo theories)
@@ -135,3 +143,4 @@
 [^2]: https://www.researchgate.net/publication/225203043
 [^3]: https://esolangs.org/wiki/ZFC%2B%2B
 [^4]: https://github.com/coq-contribs/zfc
+[^5]: https://en.wikipedia.org/wiki/Calculus_of_constructions
