@@ -110,8 +110,7 @@
 
 ## automated theorem provers
 
-- provers 
-- widely used provers
+- types of provers
   - SAT (abbr from satisfiability)
     - solve constraints involving(written in) propositional logic
   - SMT (satisfiability modulo theories)
@@ -120,20 +119,9 @@
     - name is derived from the fact that these expressions are interpreted within ("modulo") 
       a certain formal theory in first-order logic with equality
 
-### coq
-
-- tactics
-  - are the commands between "Proof." and "Qed."
-
-- commands
-  - Theorem
-    - aliases: "Lemma", "Remark", "Fact", "Corollary", "Proposition"
-    - example: Theorem my_first_proof : (forall A : Prop, A -> A).
-  - Proof
-    - indicates beginning of the proof, plays similar role as an open curly brace in c
-  - Qed
-    - ends the proof, plays similar role as a closing curly brace in c
-    - proofs may end with "Admitted" or "Defined" commands, but they are not aliases of Qed
+- implementations
+  - z3
+  - coq
 
 
 ## tutorials
