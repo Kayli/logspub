@@ -112,11 +112,12 @@
 
 ## automated theorem provers
 
-- components
+- components of a typical prover
   - theorem: thing we want to prove
-  - logic: a type theory, e.g. calculus of constructions [^5]
-    
+  - logic, which is a type theory, e.g. calculus of constructions [^5]
   - validity checker
+  - language
+  - proof assistaint (debugger??)
 
 - types of provers ?
   - SAT (abbr from satisfiability)
