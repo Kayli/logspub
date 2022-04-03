@@ -40,3 +40,8 @@
   - flotiq
   - prismic
   - buttercms
+
+
+## references
+
+[^1]: https://www.gatsbyjs.com/plugins/#cms
