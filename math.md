@@ -110,7 +110,7 @@
     and the development of the solution of the problem may proceed in parallel
 
 
-## automated theorem provers
+## theorem provers
 
 - components of a typical prover
   - theorem: thing we want to prove
@@ -119,7 +119,7 @@
   - language
   - proof assistaint (debugger??)
 
-- types of provers ?
+- types of provers
   - SAT (abbr from satisfiability)
     - solve constraints involving(written in) propositional logic
   - SMT (satisfiability modulo theories)
@@ -129,8 +129,8 @@
       a certain formal theory in first-order logic with equality
 
 - implementations
-  - z3
-  - coq
+  - z3 (smt)
+  - coq (interactive theorem prover, assistaint)
 
 
 ## tutorials
