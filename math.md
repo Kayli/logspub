@@ -1,5 +1,18 @@
 # some basic math facts that i usually tend to forget
 
+## basics
+
+- universe of discourse
+  - generally refers to the collection of objects being discussed in a specific discourse
+  - in model-theoretical semantics, a universe of discourse is the set of entities that a model is based on
+
+
+## set theory
+
+- zermelo–fraenkel set theory
+  - standard form of axiomatic set theory and as such is the most common foundation of mathematics
+  - ZFC is ZF with has axiom of choice (AC) included 
+
 
 ## random notes
 
@@ -18,7 +31,7 @@
 
 - lyapunov exponent (lyapunov characteristic exponent) of dynamical system
   - quantity that characterizes the rate of separation of infinitesimally close trajectories
-  - highest l.e. represents chaoticity of a system
+  - highest lyapunov exponent represents chaoticity of a system
 
 
 ## self-referential systems
