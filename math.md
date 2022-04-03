@@ -130,6 +130,8 @@
     - indicates beginning of the proof, plays similar role as an open curly brace in c
   - Qed
     - ends the proof, plays similar role as a closing curly brace in c
+    - proofs may end with "Admitted" or "Defined" commands, but they are not aliases of Qed
+
 
 ## tutorials
 
