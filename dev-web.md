@@ -14,7 +14,8 @@
 - express (ui, api)
 - gatsby (ui)
   - webpack + graphql + react
-  - plugins: strapi, graphcms
+  - integration with cms plugins like strapi, graphcms and many others [^1]
+  - deferred static generation
 
 - isomorphic
   - aspnet core blazor
