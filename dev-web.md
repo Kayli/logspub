@@ -11,9 +11,10 @@
 - aspnet core (ui, api)
 - laravel (ui, api)
 - ember (ui)
-- nodejs, express (ui, api)
+- express (ui, api)
 - gatsby (ui)
-  - asd
+  - webpack + graphql + react
+  
 
 
 ## headless cms
