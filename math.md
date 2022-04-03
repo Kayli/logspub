@@ -5,7 +5,7 @@
 - universe of discourse
   - generally refers to the collection of objects being discussed in a specific discourse
   - in model-theoretical semantics, a universe of discourse is the set of entities that a model is based on
-  - synonyms: domain of discourse, universal set, or simply universe
+  - synonyms: domain of discourse, universal set, universe
 
 
 ## set theory
