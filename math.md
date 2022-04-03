@@ -7,6 +7,10 @@
   - in model-theoretical semantics, a universe of discourse is the set of entities that a model is based on
   - synonyms: domain of discourse, universal set, universe
 
+- qed 
+  - is an abbreviation for the latin phrase "quod erat demonstrandum" ("that which was to be demonstrated")
+  - a notation which is often placed at the end of a mathematical proof to indicate its completion
+
 
 ## set theory
 
