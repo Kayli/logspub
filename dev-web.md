@@ -14,23 +14,29 @@
 - express (ui, api)
 - gatsby (ui)
   - webpack + graphql + react
-  
+  - plugins: strapi, graphcms
 
 
 ## headless cms
 
-- contentful
-- wordpress
-- drupal
-- sanity
-- datocms
-- contentstack
-- strapi
-- kentico
-- netlify 
-  - hosts content in a git repository
-- agilitycms
-- flotiq
-- prismic
-- graphcms
-- buttercms
+- foss
+  - strapi (gatsby plugin)
+  - ghost
+  - cockpit
+  - apostrophe
+  - directus
+  - graphcms
+- hz
+  - contentful
+  - wordpress
+  - drupal
+  - sanity
+  - datocms
+  - contentstack
+  - kentico
+  - netlify 
+    - hosts content in a git repository
+  - agilitycms
+  - flotiq
+  - prismic
+  - buttercms
