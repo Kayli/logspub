@@ -122,6 +122,9 @@
 
 ### coq
 
+- tactics
+  - are the commands between "Proof." and "Qed."
+
 - commands
   - Theorem
     - aliases: "Lemma", "Remark", "Fact", "Corollary", "Proposition"
