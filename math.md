@@ -119,14 +119,7 @@
   - language
   - proof assistaint (debugger??)
 
-- types of provers
-  - SAT (abbr from satisfiability)
-    - solve constraints involving(written in) propositional logic
-  - SMT (satisfiability modulo theories)
-    - solve constraints involving(written in) predicate logic with quantifiers
-    - can also solve constraints involving propositional logic
-    - name is derived from the fact that these expressions are interpreted within ("modulo") 
-      a certain formal theory in first-order logic with equality
+ 
 
 - implementations
   - z3 (smt)
@@ -145,10 +138,18 @@
 
 ## terminology
 
-- qed 
-  - is an abbreviation for the latin phrase "quod erat demonstrandum" ("that which was to be demonstrated")
+- qed: quod erat demonstrandum
+  - translates from latin as "that which was to be demonstrated"
   - a notation which is often placed at the end of a mathematical proof to indicate its completion
 
+- sat: abbr from satisfiability
+  - solve constraints involving(written in) propositional logic
+
+- smt: satisfiability modulo theories
+  - solve constraints involving(written in) predicate logic with quantifiers
+  - can also solve constraints involving propositional logic
+  - name is derived from the fact that these expressions are interpreted within ("modulo") 
+    a certain formal theory in first-order logic with equality
 
 ## references
 
