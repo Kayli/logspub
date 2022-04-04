@@ -130,6 +130,10 @@
 
 - implementations
   - z3 (smt)
+    - most popular, backed by microsoft
+  - dreal (smt) [^6][^7]
+    - supports a wide range of nonlinear functions
+      - including transcendental functions and solutions of lipschitz-continuous ODEs
   - coq (interactive theorem prover, assistaint)
 
 
@@ -152,3 +156,5 @@
 [^3]: https://esolangs.org/wiki/ZFC%2B%2B
 [^4]: https://github.com/coq-contribs/zfc
 [^5]: https://en.wikipedia.org/wiki/Calculus_of_constructions
+[^6]: http://dreal.github.io
+[^7]: https://stackoverflow.com/questions/51433210/support-of-trigonometric-functions-e-g-cos-tan-in-z3
