@@ -131,6 +131,7 @@
 - implementations
   - z3 (smt)
     - most popular, backed by microsoft
+    - provides bindings to many languages, including python
   - dreal (smt) [^6][^7]
     - supports a wide range of nonlinear functions
       - including transcendental functions and solutions of lipschitz-continuous ODEs
