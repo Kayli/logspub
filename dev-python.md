@@ -114,8 +114,19 @@
 
 - pylint 
   - standard source-code quality checker
-  - usage: pylint <package folder name>
+  - usage: pylint <package-folder-path>
 - pyright https://github.com/microsoft/pyright
+
+
+## coverage tools
+
+- coverage.py 
+  - https://coverage.readthedocs.io
+  - typical usage 
+    > poetry add coverage --dev
+    > coverage run -m pytest
+    > coverage report -m
+    > coverage html
 
 
 ## yaml
