@@ -119,8 +119,6 @@
   - language
   - proof assistaint (debugger??)
 
- 
-
 - implementations
   - z3 (smt)
     - most popular, backed by microsoft
