@@ -149,6 +149,7 @@
   - name is derived from the fact that these expressions are interpreted within ("modulo") 
     a certain formal theory in first-order logic with equality
 
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Duality_(mathematics)
