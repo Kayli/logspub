@@ -257,7 +257,7 @@
   - identifies a group of people (inhabitants, residents, natives) in relation to a particular place
   - e.g. chineese, russian, american ...
 
-- hellás - "greece"
+- hellás - greece
 
 
 ## references
