@@ -123,6 +123,18 @@
   - z3 (smt)
     - most popular, backed by microsoft
     - provides bindings to many languages, including python
+    - implements algorithms [^8]
+      - dppl
+        - complete, backtracking-based search algorithm 
+        - used for deciding sat of propositional logic formulae in conjunctive normal form
+      - simplex: a popular algorithm for linear programming
+      - rewriting: methods of replacing subterms of a formula with other terms [^9]
+      - superposition: how to combine different algorithms inside one solver
+      - congruence closure
+        - operation that determines which terms are equal under substitutivity of equality and a given set of equalities
+      - grobner basis: multivariate, non-linear generalization of both 
+        - euclid's algorithm for computing polynomial greatest common divisors
+        - gaussian elimination for linear systems
   - dreal (smt) [^6][^7]
     - supports a wide range of nonlinear functions
       - including transcendental functions and solutions of lipschitz-continuous ODEs
@@ -159,3 +171,5 @@
 [^5]: https://en.wikipedia.org/wiki/Calculus_of_constructions
 [^6]: http://dreal.github.io
 [^7]: https://stackoverflow.com/questions/51433210/support-of-trigonometric-functions-e-g-cos-tan-in-z3
+[^8]: https://www.youtube.com/watch?v=unXzJEc3Pvk
+[^9]: https://en.wikipedia.org/wiki/Rewriting
