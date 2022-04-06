@@ -24,3 +24,8 @@
 - tensorflow
 - pytorch
 - onnx (pronounced like onyx)
+
+
+## books to consider
+
+- python machine learning (raschka, 2019) https://www.amazon.ca/dp/1789955750
