@@ -135,9 +135,13 @@
       - grobner basis: multivariate, non-linear generalization of both 
         - euclid's algorithm for computing polynomial greatest common divisors
         - gaussian elimination for linear systems
+      - quantifiers elimination
+      - euclidian solver: way to find the greatest common divisor of two positive integers, a and b
+
   - dreal (smt) [^6][^7]
     - supports a wide range of nonlinear functions
       - including transcendental functions and solutions of lipschitz-continuous ODEs
+
   - coq (interactive theorem prover, assistaint)
 
 
