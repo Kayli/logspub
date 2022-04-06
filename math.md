@@ -117,7 +117,7 @@
   - logic, which is a type theory, e.g. calculus of constructions [^5]
   - validity checker
   - language
-  - proof assistaint (debugger??)
+  - proof assistaint (just a debugger??)
 
 - implementations
   - z3 (smt)
