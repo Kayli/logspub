@@ -87,6 +87,13 @@
     - problems: oop paradigms are not supported and fanboys will never admit this is a problem
 
 
+## verified compilers
+
+- CompCert 
+  - C verified compiler, 
+  - provides high-assurance for almost all of the C language (ISO C 2011)
+  - generates efficient code for the PowerPC, ARM, RISC-V and x86 processors
+
 
 ## references
 

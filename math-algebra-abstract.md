@@ -9,7 +9,10 @@
   - branch of mathematics that uses tools from abstract algebra to study topological spaces 
 
 - common algebraic structures
-  - groups, rings, fields, modules, vector spaces, lattices, and algebras
+  - groups, rings, fields
+  - modules, vector spaces, lattices, and algebras
+
+- groups, rings, fields can be represented as sets
 
 
 ## groups
