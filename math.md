@@ -150,7 +150,8 @@
 
 ## tutorials
 
-- https://ncatlab.org/nlab/show/ZFC
+- zfc https://ncatlab.org/nlab/show/ZFC
+- isabelle/hol https://www.youtube.com/watch?v=1nEpUoVopT0
 
 
 ## terminology
