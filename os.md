@@ -28,6 +28,15 @@
       - so they are executed concurrently
 
 
+## provable kernels 
+
+- seL4 
+  - world's most advanced, most highly assured operating-system kernel
+  - member of the L4 family of microkernels
+  - written in asm, c, isabelle
+
+
+
 ### useful commands
 
 - copy file from remote ssh to host

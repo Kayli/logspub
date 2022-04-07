@@ -144,6 +144,9 @@
 
   - coq (interactive theorem prover, assistaint)
 
+  - isabelle (generic proof assistant) [^10]
+    - uses hol syntax (typed lambda calculus) [^11]
+
 
 ## tutorials
 
@@ -177,3 +180,5 @@
 [^7]: https://stackoverflow.com/questions/51433210/support-of-trigonometric-functions-e-g-cos-tan-in-z3
 [^8]: https://www.youtube.com/watch?v=unXzJEc3Pvk
 [^9]: https://en.wikipedia.org/wiki/Rewriting
+[^10]: https://isabelle.in.tum.de
+[^11]: https://www.cl.cam.ac.uk/research/hvg/old/HOL/documentation/hol90.7/syntax.html
