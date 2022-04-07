@@ -30,7 +30,7 @@
 
 ## provable kernels 
 
-- seL4 
+- seL4 [ess-e-ell-four]
   - world's most advanced, most highly assured operating-system kernel
   - member of the L4 family of microkernels
   - written in asm, c, isabelle
