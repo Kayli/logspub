@@ -34,6 +34,7 @@
   - world's most advanced, most highly assured operating-system kernel
   - member of the L4 family of microkernels
   - written in asm, c, isabelle
+  - comes with a formal, mathematical, machine-checked proof of implementation correctness
 
 
 
