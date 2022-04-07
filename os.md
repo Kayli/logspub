@@ -28,7 +28,7 @@
       - so they are executed concurrently
 
 
-## provable kernels 
+## provable kernels
 
 - seL4 [ess-e-ell-four]
   - world's most advanced, most highly assured operating-system kernel
