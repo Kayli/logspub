@@ -1,4 +1,4 @@
-# abstract algebra self-learning course notes
+# abstract algebra self-learning course notes [^1]
 
 - abstract (modern) algebra is a study of algebraic structures
 
@@ -64,5 +64,5 @@
 
 ## references
 
-- socratica youtube channel, playlist "abstract algebra"
+[^1]: socratica youtube channel, playlist "abstract algebra"
 
