@@ -13,6 +13,12 @@
     - operations that can be performed on a term
     - the possible values variables might be replaced with
 
+- theorem
+  - a mathematical statement that is proved using rigorous mathematical reasoning
+  - in a mathematical paper, the term theorem is often reserved for the most important results
+  - lemma — a minor result whose sole purpose is to help in proving a theorem
+  - it is a stepping stone on the path to proving a theorem
+
 
 ## set theory
 
