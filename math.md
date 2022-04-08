@@ -13,11 +13,16 @@
     - operations that can be performed on a term
     - the possible values variables might be replaced with
 
-- theorem
-  - a mathematical statement that is proved using rigorous mathematical reasoning
-  - in a mathematical paper, the term theorem is often reserved for the most important results
-  - lemma — a minor result whose sole purpose is to help in proving a theorem
-  - it is a stepping stone on the path to proving a theorem
+- key structural elements
+  - calling something a lemma, theorem, or corollary is purely a choice made for organizational purposes
+  - theorem
+    - a mathematical statement that is proved using rigorous mathematical reasoning
+    - in a mathematical paper, the term theorem is often reserved for the most important results
+  - lemma
+    - a minor result whose sole purpose is to help in proving a theorem
+    - it is a stepping stone on the path to proving a theorem
+  - corollaries
+    - something that follows trivially from any one of a theorem, lemma, or other corollary
 
 
 ## set theory
@@ -189,3 +194,4 @@
 [^9]: https://en.wikipedia.org/wiki/Rewriting
 [^10]: https://isabelle.in.tum.de
 [^11]: https://www.cl.cam.ac.uk/research/hvg/old/HOL/documentation/hol90.7/syntax.html
+[^12]: https://math.stackexchange.com/questions/463362/whats-the-difference-between-theorem-lemma-and-corollary/463365#463365
