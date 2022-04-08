@@ -48,6 +48,12 @@
     > pkill -f <process_name>
 
 - working with archives
+  - atool universal archive manager 
+    > apack <archive>   # create archive with all files in current folder?
+    > aunpack <archive> # unpack archive
+    > acat <archive>    # unpack archive to stdout
+    > als <archive>     # list files in archive
+    
   - zip file on linux with highest compression rate
     > zip -9 archive-name.zip file1 file2 file3 ...
   - zip files in a folder recursively
