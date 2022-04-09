@@ -17,7 +17,7 @@
   - calling something a lemma, theorem, or corollary is purely a choice made for organizational purposes
   - theorem
     - a mathematical statement that is proved using rigorous mathematical reasoning
-    - in a mathematical paper, the term theorem is often reserved for the most important results
+    - in a mathematical paper, this term is often reserved for the most important results
   - lemma
     - a minor result whose sole purpose is to help in proving a theorem
     - it is a stepping stone on the path to proving a theorem
@@ -130,6 +130,15 @@
   - language
   - proof assistaint (just a debugger??)
 
+- curry-howard isomorphism
+  - defines that programs, properties and proofs are formalized in the 
+    same language called calculus of inductive constructions, that is a λ-calculus
+    with a rich type system
+  - can be seen as an analogy that states that the return type of a function (i.e., the 
+    type of values returned by a function) is analogous to a logical theorem, subject to 
+    hypotheses corresponding to the types of the argument values passed to the function;
+    and that the program to compute that function is analogous to a proof of that theorem
+
 - implementations
   - z3 (smt)
     - most popular, backed by microsoft
@@ -153,10 +162,11 @@
     - supports a wide range of nonlinear functions
       - including transcendental functions and solutions of lipschitz-continuous ODEs
 
-  - coq (interactive theorem prover, assistaint)
-
+  - coq (interactive theorem prover, assistaint)  
+    
   - isabelle (generic proof assistant) [^10]
     - uses hol syntax (typed lambda calculus) [^11]
+    - written in standard ml and scala
 
 
 ## tutorials

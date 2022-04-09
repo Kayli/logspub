@@ -1,5 +1,32 @@
 # some random stuff
 
+## april 8
+
+- browsing coq-related stuff
+  - recursive function
+    - defined using 'Fixpoint' keyword
+  - proofs
+    - are written using 'tactics'
+    - you transform your goal until it can be solved using one of these tactics
+  - importent coq types:
+      - Prop
+        - is meant for propositions
+        - it is impredicative
+          - meaning that you can instantiate polymorphic functions with polymorphic types
+        - erased at run-time
+          - meaning you can't pattern match on a Prop value to build a Type value, unless 
+            there's only one possibility
+      - Set
+        - is meant for computation
+        - it's predicative
+        - remains at run-time
+      - Type 
+        - is a supertype of both Prop and Set
+        - allowing you to write code once that works with both
+  - tactics cheatsheet 
+    - https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html
+
+
 ## april 5
 
 - instrument vs security [^1]

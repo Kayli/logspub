@@ -246,8 +246,7 @@
 ## dependency injection
 
 - https://github.com/meadsteve/lagom
-  - lightweight container with simple interface
-
+  - lightweight container with simple, intuitive api
 
 
 ## command line interface (cli) [^4]
@@ -265,6 +264,13 @@
   > import jsonpickle
   > frozen = jsonpickle.encode(obj)
   > thawed = jsonpickle.decode(frozen)
+
+
+## operator overloading
+
+- to overload dot operator define dunder method in class definition
+  >>> def __getattr__(self, key):
+  >>>   return self.get(key)
 
 
 ## advanced features
@@ -296,3 +302,4 @@
 [^2]: https://stackoverflow.com/questions/141545/how-to-overload-init-method-based-on-argument-type
 [^3]: https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
 [^4]: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+[^5]: https://stackoverflow.com/questions/5517241/is-there-any-trick-to-overload-the-dot-operator
