@@ -70,9 +70,13 @@
   - in many political structures, power within the ruling class accumulates with age, making the oldest 
     the holders of the most power
 
+- weed pm justin trudeau [^4]
+  - considered one by some, as he won election because of mj legalization program support
+
 
 ## references
 
 [^1]: https://www.youtube.com/watch?v=whPnobbck9s
 [^2]: https://youtu.be/jvFgOdEVf98?t=2291
 [^3]: https://youtu.be/lGGBEG35b_M?t=1846
+[^4]: https://youtu.be/yZKDBRtpxOE?t=1664
