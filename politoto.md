@@ -21,6 +21,19 @@
     - defend this position on the basis of natural law, economics, or tradition
 
 
+## vague terms
+
+- alt-right
+  - an abbreviation of alternative right
+  - a loosely connected far-right white nationalist movement
+  - largely online phenomenon (propaganda artifact?)
+    - the alt-right originated in the United States during the early 2010s went into a decline after 2017
+    - the term is ill-defined
+      - having been used in different ways by alt-right members, media commentators, and academics
+      - usually a stub word for something bad?
+  - strong nationalism + totalitarian regime with lots of violence
+
+
 ## political language
 
 - problems [^1]
