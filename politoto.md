@@ -49,6 +49,7 @@
 ## manipulative strategies
 
 - abusing emotional, cultural, tribal cues [^2]
+  - opposed to making rational, competence-based appeal
 
 
 
