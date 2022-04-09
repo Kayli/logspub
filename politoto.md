@@ -46,4 +46,22 @@
       - have multiple often incompatible meanings
 
 
+## manipulative strategies
+
+- abusing emotional, cultural, tribal cues [^2]
+
+
+
+## interesting ideas
+
+- america as a functional gerontocracy
+  - form of oligarchical rule
+  - entity is ruled by leaders who are significantly older than most of the adult population
+  - in many political structures, power within the ruling class accumulates with age, making the oldest 
+    the holders of the most power
+
+
+## references
+
 [^1]: https://www.youtube.com/watch?v=whPnobbck9s
+[^2]: https://youtu.be/jvFgOdEVf98?t=2291
