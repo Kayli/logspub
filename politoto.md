@@ -45,15 +45,21 @@
     - democracy, socialism, freedom, patriotic, realistic, justice 
       - have multiple often incompatible meanings
 
+- euphemisms
+  - to energize people - appeal to their emotions
+
 
 ## manipulative strategies
 
 - abusing emotional, cultural, tribal cues [^2]
   - opposed to making rational, competence-based appeal
 
-- create illusion of democracy
+- create illusion of fairness (democracy)
   - capture people's attention for the sake of capturing attention (clownwork)
     - in order to divert it from problems that average joe cares about
+
+- divide and conquer
+  - prevent people from trusting each other [^3]
 
 
 ## interesting ideas
@@ -69,3 +75,4 @@
 
 [^1]: https://www.youtube.com/watch?v=whPnobbck9s
 [^2]: https://youtu.be/jvFgOdEVf98?t=2291
+[^3]: https://youtu.be/lGGBEG35b_M?t=1846
