@@ -21,7 +21,7 @@
     - defend this position on the basis of natural law, economics, or tradition
 
 
-## vague terms
+## vague terms (to clarify)
 
 - alt-right
   - an abbreviation of alternative right
