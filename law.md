@@ -100,6 +100,11 @@
   - literally means "great regulations"
 
 
+## usa case law
+
+- google scholar is able to search a database of case law
+
+
 ## references
 
 [^1]: https://www.justice.gc.ca/eng/csj-sjc/just/03.html

@@ -2,6 +2,19 @@
 
 ## april 10
 
+
+- looking at paper search engines
+  - google scholar 
+    - is able to search the database of case law
+  - interesting clean searcher of scientific papers without ads (so far)
+    - https://www.semanticscholar.org/
+    - yellow-blue color scheme attention sucker?
+      - paranoia? dark scheme is also attention sucker?
+        - no, its just easier on eyes in dark setting as it creates less contrast with environment
+      - maybe its some cluster of 'workers' into which some people may fall into
+        - one of social engineering techniques
+        - conspiracy? definitely! ))
+
 - reading about sociology stuff
   - society as objective reality
     - institutionalization implies division of labor?
