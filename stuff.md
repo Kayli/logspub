@@ -3,6 +3,28 @@
 ## april 10
 
 - reflecting on theorem provers stuff
+
+  - alternatives
+    - theorem state transformation rules and invariants can be implemented in more 
+      modern/approachable programming languages like python, javascript, java, c#, etc.
+      - consider reviewing projects
+        - https://github.com/bzhan/holpy
+        - https://github.com/stepchowfun/theorem-prover
+    - maybe we don't need to prove theorems in order to have a very reliable code
+      - may strong type system + automated testing in the same language is enough?
+      - provers don't provide strong guarantees, they just increase probability of correctness
+      - how one can practically test/quantify this?
+        - otherwise any claim about correctness is just hypothetical/political
+
+  - typical practical use
+    - take program written in language like 'c'
+      - where its easy to fuck up
+      - where most devs are too old or uneducated to write automated tests (just kidding)
+    - create ast with information that is necessary for verification
+      - usually not all code gets verified, but only its critical parts
+      - business priorities are likely driving such requirements
+    - formalize and enforce policies related to allocated memory access, shared resources, etc
+
   - exploring imposed artificial barriers on knowledge aquisition
     - bait + trap pattern detected
     - bait
@@ -33,9 +55,8 @@
         - hiring a private tutor
         - works best after professors convince victims that they are not smart/educated enough
       - keep poor away from pristine certifications while creating illusion of accessebility
-      
 
-  - proved by reflexivity. haha
+    - proved by reflexivity. haha
 
 
 ## april 9

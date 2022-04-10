@@ -120,6 +120,15 @@
     may even be radically changed as new data emerge, so development of the statement of the problem 
     and the development of the solution of the problem may proceed in parallel
 
+- 2 types of reasoning when working on proofs
+  - forward reasoning
+    - most common approach in human-generated proofs
+    - the proof begins by proving simple statements that are then combined to prove 
+      the theorem statement as the last step of the proof
+  - backward reasoning
+    - the proof begins with the theorem statement as the goal, which is then gradually 
+      transformed until every subgoal generated along the way has been proven. 
+
 
 ## theorem provers
 
