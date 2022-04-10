@@ -4,6 +4,18 @@
 
 - browsing coq-related stuff
   - https://stackoverflow.com/questions/52935508/modus-ponens-and-modus-tollens-in-coq
+  - tactics official doc https://coq.inria.fr/refman/proof-engine/tactics.html
+
+  - 2 types of reasoning when working on proofs
+    - forward reasoning
+      - most common approach in human-generated proofs
+      - the proof begins by proving simple statements that are then combined to prove 
+        the theorem statement as the last step of the proof
+    - backward reasoning
+      - the proof begins with the theorem statement as the goal, which is then gradually 
+        transformed until every subgoal generated along the way has been proven. 
+  - coq and its tactics use backward reasoning
+
 
 ## april 8
 

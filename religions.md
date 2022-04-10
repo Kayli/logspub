@@ -1,4 +1,4 @@
-# history of some religions
+# some religions and relevant info
 
 ## basics [^3]
 
@@ -9,14 +9,15 @@
     - english word itself is derived from the Proto-Germanic * ǥuđan
     - reconstructed Proto-Indo-European form * ǵhu-tó-m 
       - was likely based on the root * ǵhau(ə)-, which meant either "to call" or "to invoke"
-  - allāh (arabic: الله)
-    - arabic term with no plural used by muslims and arabic speaking christians and jews meaning "The God"
-    - ʾilāh (arabic: إِلَٰه plural `āliha آلِهَة) is the term used for a deity or a god in general
+  - allāh
+    - arabic term used by muslims and arabic speaking christians and jews meaning "the god"
+    - has no plural form
+    - ʾilāh is the term used for a deity or a god in general
   - бог
-    - общеславянское происхождение и родственно иранскому baga и санскритскому bhagas — «податель благ»
+    - общеславянское происхождение 
+    - родственно иранскому baga и санскритскому bhagas — «податель благ»
     - богатство, bogatъ, ubogъ
     - доля, делить, получать долю, наделять
-  
 
 - religious experience
   - refers to the conviction or sensation that one is connected to “the divine” 
@@ -27,7 +28,7 @@
   - islam (forms 610-670 ce)
   - buddhism (forms between 600-400 bce)
 
-- classification 
+- classification
   - animism
   - polytheism
   - monotheism
@@ -35,18 +36,20 @@
     - practices of dialectical materialism in ussr
 
 
-## christianity
+## well known
 
-- stems from judaism around 0ce
-  - judaism was formed around 500bce
-    - stems from jahwism 
-      - jahwism was formed around 1200bce, mesopotamia
-- old testament
-  - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
-  - was written around 500 bce
+### christianity 31.2%
+
+  - stems from judaism around 0ce
+    - judaism was formed around 500bce
+      - stems from jahwism 
+        - jahwism was formed around 1200bce, mesopotamia
+  - old testament
+    - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
+    - was written around 500 bce
 
 
-## islam
+### islam 24.1%
 
 - forms 610-670 ce
   - sacred cities: mecca, medina, jerusalim
@@ -71,13 +74,28 @@
       - sincretism (mixture) of islam, christianity and some other stuff
 
 
-## buddhism
+### hinduism 15.1%
+
+- tbd
+
+
+### buddhism 6.9%
 
 - forms between 600-400 bce
 - originated in ancient India as a Sramana tradition
 
 
-## daosism
+### sikhism (0.3%)
+
+- tbd
+
+
+### judaism (0.2%)
+
+- tbd
+
+
+### taosism 0.04%
 
 - keystones
   - tao te ching, a book containing teachings attributed to lao tzu (late 4th century bce)
@@ -85,7 +103,7 @@
 - interesting ideas regarding duality of inner and outter world
 
 
-## mesoamerican religions
+### mesoamerican
 
 - includes aztec and maya religions
 - nagual (pronounced [na'wal])
@@ -96,13 +114,13 @@
     - that a person upon being born acquires a close spiritual link to an animal
     - such link that lasts throughout the lives of both creatures
     - essentially animalism + totemism
-- сhichimeca (ыpanish: [tʃitʃiˈmeka]) 
+- сhichimeca (spanish: [tʃitʃiˈmeka]) 
   - name that the Nahua peoples of Mexico generically applied to nomadic and 
     semi-nomadic peoples who were established in present-day Bajio region of Mexico
   - carried the same sense as the roman term "barbarian" to describe пermanic tribes
 
 
-## charvaka (lokayata) [^1]
+### charvaka (lokayata) [^1]
 
 - forms around 600 bce
 - ancient school of indian materialism and hedonism
@@ -111,7 +129,7 @@
 - rejects ritualism and supernaturalism 
 
 
-## rastafari (rastafarianism) [^2]
+### rastafari (rastafarianism) [^2]
 
 - developed in Jamaica during the 1930s
   - haile selassie, the emperor of Ethiopia between 1930 and 1974
@@ -124,6 +142,52 @@
 - classified as
   - religious movement
   - social movement
+
+
+## social formation principles
+
+- used for ppl aggregation/segregation
+- many principles will likely mix/intersect in any particular instance
+
+- principles
+  - territorial proximity
+  - spatial position/orientation
+    - elevated hill, stage, etc
+    - lying vs standing
+    - vulnerable postures
+      - submission/trust, may personal/impersonal
+  - physical resource
+  - artifact
+  - charismatic individual
+    - scents: pheromones, fragrances, etc
+    - voice timbre
+    - atypical body postures, moves
+    - atypical mimics
+  - shared fantasy
+    - almighty/supernatural being
+
+  - divine texts
+  - education
+      - institution
+      - methodology
+
+  - sound making
+    - music styles
+    
+  - token exchange
+    - barter
+    - fiat money (does not have intrinsic value and does not have use value)
+    - crypto
+    - non-fungible tokens
+
+  - body properties
+    - skin colour, epicantus, mass, height, etc.
+  - body practices
+    - excerise
+    - decoration: piercing, tatoo
+  - ritual
+  - habit
+  
 
 
 ## references
