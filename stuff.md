@@ -2,6 +2,24 @@
 
 ## april 10
 
+- reading about sociology stuff
+  - society as objective reality
+    - institutionalization implies division of labor?
+      - yes, but the problem usually is in bullshit labor/jobs
+      - bullshit is subjective
+        - therefore problem lies
+          - in physical and cognitive traps that people fall in
+          - in individuals
+            - constructing such traps with 'malicious' intent
+            - falling into traps, not being able to predict their existence and specific manifestations
+      - but who is going to identify traps?
+        - its a joint effort of hunter/pray game players
+
+    - what is considered 'malicious' in our society?
+      - what laws forbid
+      - what ethical standards forbid
+        - such standards usually consequence of allegiance with a certain group
+
 - reflecting on theorem provers stuff
 
   - alternatives
@@ -16,14 +34,18 @@
       - how one can practically test/quantify this?
         - otherwise any claim about correctness is just hypothetical/political
 
-  - typical practical use
+  - typical practical use [^2]
     - take program written in language like 'c'
       - where its easy to fuck up
       - where most devs are too old or uneducated to write automated tests (just kidding)
     - create ast with information that is necessary for verification
       - usually not all code gets verified, but only its critical parts
       - business priorities are likely driving such requirements
-    - formalize and enforce policies related to allocated memory access, shared resources, etc
+    - formalize and enforce policies related to
+      - shared resources
+        - allocated memory access
+      - equivalence relations of binary codes, e.g. on different platform
+      
 
   - exploring imposed artificial barriers on knowledge aquisition
     - bait + trap pattern detected
@@ -117,3 +139,4 @@
 ## references
 
 [^1]: https://www.quora.com/What-is-the-difference-between-financial-instruments-financial-securities
+[^2]: http://typetheoryforall.com
