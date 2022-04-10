@@ -126,7 +126,7 @@
 - ancient school of indian materialism and hedonism
 - holds direct perception, empiricism and conditional inference as proper sources of knowledge
 - embraces philosophical skepticism
-- rejects ritualism and supernaturalism 
+- rejects ritualism and supernaturalism
 
 
 ### rastafari (rastafarianism) [^2]
@@ -163,20 +163,21 @@
     - voice timbre
     - atypical body postures, moves
     - atypical mimics
-  - shared fantasy
-    - almighty/supernatural being
 
+  - language
   - divine texts
   - education
-      - institution
-      - methodology
+    - institution
+    - methodology
+      - imposed artificial barriers on knowledge aquisition
 
   - sound making
     - music styles
     
-  - token exchange
+  - trade
     - barter
     - fiat money (does not have intrinsic value and does not have use value)
+    - securities, certificates of ownership
     - crypto
     - non-fungible tokens
 
@@ -187,7 +188,9 @@
     - decoration: piercing, tatoo
   - ritual
   - habit
-  
+
+  - shared fantasy
+    - almighty/supernatural being
 
 
 ## references

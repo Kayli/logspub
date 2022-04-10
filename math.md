@@ -164,7 +164,7 @@
 
   - coq (interactive theorem prover, assistaint)  
     
-  - isabelle (generic proof assistant) [^10]
+  - isabelle/hol (generic proof assistant) [^10]
     - uses hol syntax (typed lambda calculus) [^11]
     - written in standard ml and scala
 

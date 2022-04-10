@@ -1,5 +1,35 @@
 # some random stuff
 
+## april 10
+
+- reflecting on theorem provers stuff
+  - exploring imposed artificial barriers on knowledge aquisition
+    - bait + trap pattern detected
+    - bait
+      - nice, intuitive interface and surface-level descriptions of a tool
+      - naming may revolve around supressed sexual topics
+        - coq tactics, isabelle/hol, etc
+        - will likely create subconscious fixation/attraction
+    - trap
+      - creates an artificial barrier, after which only experts/priests can help
+      - sudden departure from intutive didactical techniques at certain point
+        - essentially a sunk cost fallacy
+        - happens when target is already invested some significant time/resources to 
+          aquire partial knowledge about the subject
+      - example
+        - coq tactics are just a bunch of methods which somehow transform proof state
+        - the way methods transform it is presented in cryptic and unapproachable fashion
+        - even simple proofs like 'A->B' implication or 'modus ponens' require very deep 
+          envolvement in fancy terminological maze
+    - likely goals
+      - subscribe lost soul to some n-year university program (indoctrination, brainwashing)
+        - for a huge fee/debt
+      - charge 'lost souls' for consulting services
+        - works best after professors convince victims that they are stupid
+
+  - proved by reflexivity. haha
+
+
 ## april 9
 
 - browsing coq-related stuff
@@ -44,7 +74,7 @@
     - https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html
 
 
-## april 5
+## april 5, 2022
 
 - instrument vs security [^1]
   - financial instrument is a broader term
