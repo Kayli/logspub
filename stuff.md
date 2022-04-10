@@ -10,6 +10,7 @@
       - naming may revolve around supressed sexual topics
         - coq tactics, isabelle/hol, etc
         - will likely create subconscious fixation/attraction
+
     - trap
       - creates an artificial barrier, after which only experts/priests can help
       - sudden departure from intutive didactical techniques at certain point
@@ -21,11 +22,18 @@
         - the way methods transform it is presented in cryptic and unapproachable fashion
         - even simple proofs like 'A->B' implication or 'modus ponens' require very deep 
           envolvement in fancy terminological maze
+    
     - likely goals
-      - subscribe lost soul to some n-year university program (indoctrination, brainwashing)
+      - rich parents are keeping their kids busy with 'right stuff'
+        - kids then are more tamed and submissive
+        - kids will join family business without rocking a boat too much
+      - subscribe 'lost soul' to some n-year university program (indoctrination, brainwashing)
         - for a huge fee/debt
       - charge 'lost souls' for consulting services
-        - works best after professors convince victims that they are stupid
+        - hiring a private tutor
+        - works best after professors convince victims that they are not smart/educated enough
+      - keep poor away from pristine certifications while creating illusion of accessebility
+      
 
   - proved by reflexivity. haha
 
