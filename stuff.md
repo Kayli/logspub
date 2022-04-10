@@ -1,5 +1,10 @@
 # some random stuff
 
+## april 9
+
+- browsing coq-related stuff
+  - https://stackoverflow.com/questions/52935508/modus-ponens-and-modus-tollens-in-coq
+
 ## april 8
 
 - browsing coq-related stuff
@@ -20,10 +25,10 @@
         - is meant for computation
         - it's predicative
         - remains at run-time
-      - Type 
+      - Type
         - is a supertype of both Prop and Set
         - allowing you to write code once that works with both
-  - tactics cheatsheet 
+  - tactics cheatsheet
     - https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html
 
 

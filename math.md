@@ -169,6 +169,16 @@
     - written in standard ml and scala
 
 
+## recursion [^13]
+
+- structural
+  - a recursive call is made on a subset of the original input data
+  - terminates
+- generative
+  - a recursive call is made on data that was constructed/calculated from the original input data
+  - no guarantee that will terminate
+
+
 ## tutorials
 
 - zfc https://ncatlab.org/nlab/show/ZFC
@@ -205,3 +215,4 @@
 [^10]: https://isabelle.in.tum.de
 [^11]: https://www.cl.cam.ac.uk/research/hvg/old/HOL/documentation/hol90.7/syntax.html
 [^12]: https://math.stackexchange.com/questions/463362/whats-the-difference-between-theorem-lemma-and-corollary/463365#463365
+[^13]: https://stackoverflow.com/questions/14268749/how-does-structural-recursion-differ-from-generative-recursion
