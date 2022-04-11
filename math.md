@@ -177,6 +177,9 @@
     - uses hol syntax (typed lambda calculus) [^11]
     - written in standard ml and scala
 
+  - lean
+  - holpy
+
 
 ## recursion [^13]
 

@@ -2,6 +2,14 @@
 
 ## april 10
 
+- links to preserve 
+  - coq logic https://www.seas.upenn.edu/~cis500/cis500-f13/sf/Logic.html
+  
+- looking at lean theorem prover tutorial https://leanprover.github.io/tutorial
+  
+- looking at https://github.com/bzhan/holpy theorem prover
+  - proofs are conducted in natural deduction style
+    - sequent and consequent
 
 - looking at paper search engines
   - google scholar 
@@ -29,7 +37,8 @@
         - its a joint effort of hunter/pray game players
 
     - what is considered 'malicious' in our society?
-      - what laws forbid
+      - what laws forbid 
+        - citizenship form of allegiance
       - what ethical standards forbid
         - such standards usually consequence of allegiance with a certain group
 
