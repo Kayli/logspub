@@ -1,5 +1,19 @@
 # some random stuff
 
+## april 11
+
+- biking around, meditating, tracking ppls intentions
+  - things observed: ppl sucking up to 
+    - 'relationship' triggers
+      - tested 2 girls, 1 boy interfaces
+    - self image insecurities
+      - 'so slow' trigger
+      - 'theyre watching me' paranoia trigger
+        - random people sitting behind
+        - guy walking on the street with cail-somthing yellow-blue trigger hat
+  
+ 
+
 ## april 10
 
 - links to preserve 

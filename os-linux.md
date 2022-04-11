@@ -265,6 +265,14 @@
       - use touch pad to actually resize a window
 
 
+## standard folders
+
+- local user folders
+  - according to xdg base directory specification [^8]
+  - $XDG_CONFIG_HOME or defaults to $HOME/.config
+  - $XDG_STATE_HOME or defaults to $HOME/.local/state
+
+
 ## embedded development
 
 - gpio drivers (recommended), sysfs interface (deprecated) [^7]
@@ -279,3 +287,4 @@
 [^5]: https://askubuntu.com/questions/448836/how-do-i-with-ufw-deny-all-outgoing-ports-excepting-the-ones-i-need
 [^6]: https://www.reddit.com/r/pop_os/comments/oin0ev/invert_workspace_touchpad_gestures/h4wjyz0/
 [^7]: https://www.youtube.com/watch?v=QIO2pJqMxjE
+[^8]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
