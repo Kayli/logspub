@@ -179,6 +179,9 @@
       - to produce/communicate hard to fake fitness signal (works of art?)
       - as a generative function in world simulation to create an illusion of infinite not-self
 
+- кентавр (др.-греч. κένταυρος, сentauros)
+  - этимология два греческих корня: κεντέω — «колоть, рубить» и ταυρος — «бык»
+  - может интерпретироваться и как «убийца быков» или «охотник на быков», и как «погонщик быков» или даже «ковбой»
 
 
 ## references
