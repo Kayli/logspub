@@ -37,6 +37,16 @@
       - that their gyms that 'help build confidence' can turn them into disabled people 
       - as well as convince to buy all sort of shit that healthy humans don't need
       - they must be lucky to have sane elders behind their backs who protect from all those traps
+      - but this doesn't matter, as they are just bioactuators of some rich and not very smart people ;)
+        - those ppl cant even make a fucking keybord work properly
+          - or its another silly sign of their nonsense-torture-game?
+          - past is who we are now, so its pretty stupid to give it up
+            - unless you're ready to be exploited left and right
+        - yeah, those centaur ppl are as fucked as we all are ... but hey have their stupid digital guns
+          - and they think about themselves as great puppeteers ... 
+            - but they are as pathetic as those kinds they fuck
+            - or they are as pathetic as me, who is writing all this nonsense
+              - because the one who is writing it is not me, its just a stupid monkey, a stupid monkey of sorts
     - healthy confindence is a symphony, not all pufffed-up nonsense they see is true confidence
  
 
