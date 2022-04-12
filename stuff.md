@@ -2,7 +2,8 @@
 
 ## april 11
 
-- biking around, meditating, tracking ppls intentions
+- ideas for scifi shorts
+  - biking around, meditating, tracking ppls intentions
   - things observed: ppl sucking up to 
     - 'relationship' triggers
       - tested 2 girls, 1 boy interfaces
@@ -11,7 +12,21 @@
       - 'theyre watching me' paranoia trigger
         - random people sitting behind
         - guy walking on the street with cail-somthing yellow-blue trigger hat
-  
+        - limbs movements
+          - not the first time it happens
+            - last time i noticed was at macdonalds several months ago
+          - 2 guys were trying to suck up to leg-rocking
+    - possible reasons
+      - social habit, like testing for vulnerabilities or something
+      - trying to take advantage of possible vulnerable psychological states
+      - trying to enforce psycho-shell formation
+        - so that signals go straight around conscious filters
+        - this may be just a genetic/socially induced behaviors that ppl express naturally
+          in attempts to communicate with each other on conscious and subconscious levels
+    - ill call it 'ubc shit meditation, session 002'
+    - i think they, like, just, kinda like, like, they, just like, o my god, like,
+      i cant make up my mind like, its like, we're talking like, like, we're so fucked up,
+      like, he is like, she is like, we are like full of shit like like ...
  
 
 ## april 10
