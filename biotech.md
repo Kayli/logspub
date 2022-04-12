@@ -175,3 +175,18 @@
   - synthetic genomics
     - main goal: artificially create cell genome
     - whole dna is synthesised
+
+
+## environment
+
+- clostridium autoethanogenum [^1]
+  - кишечная бактерия, способна преобразовывать угарный газ в этиловый спирт
+
+- ideonella sakaiensis 
+  - bacterium from the genus ideonella and family comamonadaceae capable of breaking down and consuming 
+    the plastic polyethylene terephthalate (PET) using it as both a carbon and energy source
+
+
+## references
+
+[^1]: https://korrespondent.net/tech/science/4450037-uchenye-syntezyrovaly-bakteryy-prevraschauischye-uhlekyslyi-haz-v-spyrt
