@@ -2,6 +2,12 @@
 
 ## april 11
 
+- ideas for marketa project
+  - test if state (module variables) are shared between tests in pytest
+    - so maybe i can instantiate container just once
+      - no, it doesn't make sense, as i need clean state to make sure tests are robust
+      - but anyways, i should test how pytest handles global state when running test cases
+  
 - ideas for scifi shorts
   - biking around, meditating, tracking ppls intentions
   - things observed: ppl sucking up to 
@@ -27,6 +33,11 @@
     - i think they, like, just, kinda like, like, they, just like, o my god, like,
       i cant make up my mind like, its like, we're talking like, like, we're so fucked up,
       like, he is like, she is like, we are like full of shit like like ...
+    - poor kids don't realize yet 
+      - that their gyms that 'help build confidence' can turn them into disabled people 
+      - as well as convince to buy all sort of shit that healthy humans don't need
+      - they must be lucky to have sane elders behind their backs who protect from all those traps
+    - healthy confindence is a symphony, not all pufffed-up nonsense they see is true confidence
  
 
 ## april 10
