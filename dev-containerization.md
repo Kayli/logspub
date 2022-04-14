@@ -25,11 +25,15 @@
   > docker cp <containerId>:/file/path/within/container /host/path/target
 
 - dockerfile basic commands
+  - COPY
   - RUN
     - executes commands inside of your Docker image during build time
     - get written into your Docker image as a new layer
   - CMD
     - default command to run when your container starts
+
+- optimization
+  - combine CMD commands into one using && to avoid creating extra layers [^3]
 
 
 ## kubernetes k8s
@@ -65,3 +69,4 @@
 
 [^1]: https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image
 [^2]: https://github.com/mviereck/x11docker
+[^3]: https://docs.docker.com/develop/develop-images/multistage-build/
