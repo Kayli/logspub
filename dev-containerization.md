@@ -34,7 +34,7 @@
     - default command to run when your container starts
 
 - optimization
-  - combine CMD commands into one using && to avoid creating extra layers [^3]
+  - combine RUN commands into one using && to avoid creating extra layers [^3]
 
 
 ## kubernetes k8s
