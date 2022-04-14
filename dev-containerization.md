@@ -25,7 +25,8 @@
   > docker cp <containerId>:/file/path/within/container /host/path/target
 
 - dockerfile basic commands
-  - COPY
+  - FROM <image> [as <stage>]
+  - COPY [--from=<stage>] <src> <dst>
   - RUN
     - executes commands inside of your Docker image during build time
     - get written into your Docker image as a new layer
