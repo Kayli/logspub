@@ -39,6 +39,10 @@
   - evaluate tech/architectural decisions for each specific business case
     - unless you had exactly the same combo of context + task in the past with now known solution
 
+- rudimentary observability
+  - lack of metrics, logging, tracing collection and management
+  - significantly hinders investigation of problems
+
 
 ## abstraction for cloud infrastructure
 
