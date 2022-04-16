@@ -35,6 +35,9 @@
 - using bleeding edge technological stack
   - very risky for big projects
 
+- beware of bias and heuristics
+  - evaluate tech/architectural decisions for each specific business case
+    - unless you had exactly the same combo of context + task in the past with now known solution
 
 ## abstraction for cloud infrastructure
 
