@@ -3,7 +3,7 @@
 ## basics
 
 - use docker and kubernetes to decompose and modularize applications
-- be aware of enterprise integration patterns and frameworks implementing them ;)
+- explore enterprise integration patterns and frameworks implementing them ;)
 - prefer cloud-vendor-neutral technologies
 
 
@@ -40,6 +40,7 @@
 - beware of bias and heuristics
   - evaluate tech/architectural decisions for each specific business case
     - unless you had exactly the same combo of context + task in the past with now known solution
+  - make sure to be able to unpack buzzwords in order to understand whats behind the curtain
 
 - rudimentary observability
   - lack of metrics, logging, tracing collection and management
