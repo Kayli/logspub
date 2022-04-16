@@ -39,6 +39,7 @@
   - evaluate tech/architectural decisions for each specific business case
     - unless you had exactly the same combo of context + task in the past with now known solution
 
+
 ## abstraction for cloud infrastructure
 
 - must have layer to decouple from specific vendors
