@@ -41,9 +41,13 @@
 - must have layer to decouple from specific vendors
 
 - dapr (distributed application runtime) [^1]
-  - unified wrapper for pubsub, rpc, configuration, instrumentation
-  - can use redis for pubsub
-    - can be run in 'append only file' mode with fsync at every query to provide stong guarantees
+  - unified wrapper for typical cloud services
+  - rpc, configuration, instrumentation
+  - pubsub
+    - can use redis for pubsub
+      - run in 'append only file' mode with fsync at every query to provide stong guarantees
+  - key-value store
+    - use to store shared configuration
 
 
 ## references
