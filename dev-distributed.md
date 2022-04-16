@@ -129,6 +129,11 @@
   - snyk, etc.
 
 
+## infrastructure as code
+
+- https://medium.com/style-theory-engineering/infrastructure-as-code-kubernetes-a2f050389f26
+
+
 ## some techs to uncover
 
 - security testing
