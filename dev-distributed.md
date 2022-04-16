@@ -5,6 +5,11 @@
 - use docker and kubernetes to decompose and modularize applications
 
 
+## patterns
+
+- event-carried state transfer
+  - requirement for the event to contain all necessary information to reconstruct state after change
+
 
 ## abstraction for cloud infrastructure
 
