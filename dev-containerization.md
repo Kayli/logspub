@@ -39,7 +39,11 @@
 
 ## kubernetes k8s
 
-- repository https://github.com/kubernetes/kubernetes
+- to run locally 
+  - minikube (cli only)
+  - rancher desktop (cli+gui)
+    - kim is a wrapper for docker commands
+
 - key entities
   - node
     - controller
@@ -57,6 +61,31 @@
   - stateful set
     - provides replication services for volumes
 
+- databases
+  - etcd
+    - distrubuted key-value store 
+    - uses raft consensus algorithm to elect master node for writes
+
+  - kubegres [^5]
+    - postgresql cluster operator
+    - manages fail-over 
+    - has a data backup option allowing to dump PostgreSql data regularly
+
+
+     in a given volume
+
+- patterns
+  - sidecar
+    - there are 2 containers in a single pod
+      - main app
+      - sidecar
+    - goal: augment functionality of main app in some way
+
+- dapr (distributed application runtime) [^4]
+  - unified wrapper for pubsub, rpc, configuration, instrumentation
+  - can use redis for pubsub
+    - can be run in 'append only file' mode with fsync at every query to provide stong guarantees
+
 
 ## other useful tools
 
@@ -71,3 +100,6 @@
 [^1]: https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image
 [^2]: https://github.com/mviereck/x11docker
 [^3]: https://docs.docker.com/develop/develop-images/multistage-build/
+[^5]: https://www.kubegres.io/doc/getting-started.html
+[^4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
+
