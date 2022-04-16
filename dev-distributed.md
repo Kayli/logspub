@@ -3,6 +3,8 @@
 ## basics
 
 - use docker and kubernetes to decompose and modularize applications
+- be aware of enterprise integration patterns and frameworks implementing them ;)
+- prefer cloud-vendor-neutral technologies
 
 
 ## patterns [^2]
