@@ -54,6 +54,15 @@
     - use to store shared configuration
 
 
+## tracing tools
+
+- packet sniffers
+  - wireshark: tcp/udp traffic
+- http(s)
+  - fiddler: for http traffic
+  - mitmproxy: has python api
+
+
 ## references
 
 [^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
