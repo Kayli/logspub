@@ -26,6 +26,9 @@
   - simplifies representation, increases performance
   - disadvantages: likely data duplication, eventual consistency
 
+- dumb pipes
+  - buses should be trivial to use
+
 
 ## antipatterns
 
