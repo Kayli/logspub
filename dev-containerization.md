@@ -36,7 +36,8 @@
 - optimization
   - combine RUN commands into one using && to avoid creating extra layers [^3]
 
-
+- risks of executing more than one process per container [^5]
+  - the process that forked and went background is not monitored and may stop without you knowing it
 
 
 
@@ -55,4 +56,4 @@
 [^3]: https://docs.docker.com/develop/develop-images/multistage-build/
 [^5]: https://www.kubegres.io/doc/getting-started.html
 [^4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
-
+[^5]: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container
