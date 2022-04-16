@@ -117,6 +117,24 @@
   - mitmproxy: has python api
 
 
+## performance/load testing
+
+- jmeter
+
+
+## security
+
+- static vulnerability analysis for docker images
+  - snyk, etc.
+
+
+## some techs to uncover
+
+- security testing
+  - findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
+- performance/load testing: gatling, jmeter, flood.io
+
+
 ## references
 
 [^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
