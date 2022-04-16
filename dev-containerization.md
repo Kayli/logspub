@@ -69,10 +69,7 @@
   - kubegres [^5]
     - postgresql cluster operator
     - manages fail-over 
-    - has a data backup option allowing to dump PostgreSql data regularly
-
-
-     in a given volume
+    - has a data backup option allowing to dump PostgreSql data regularly in a given volume
 
 - patterns
   - sidecar
