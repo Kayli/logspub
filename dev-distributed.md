@@ -121,7 +121,7 @@
 
 ## testing
 
-- faking service dependencies
+- faking service dependencies: hoverfly and others
 
 - performance/load testing
   - tools: jmeter, gatling, jmeter, flood.io
