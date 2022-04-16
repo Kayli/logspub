@@ -7,8 +7,14 @@
 
 ## patterns
 
+- event notification
+  - pubsub using events
+  - notify system about state change in a decoupled manner
+  - disadvantages: harder to track effects of a change
+
 - event-carried state transfer
   - requirement for the event to contain all necessary information to reconstruct state after change
+  - disadvantages: events may become heavy
 
 
 ## abstraction for cloud infrastructure
