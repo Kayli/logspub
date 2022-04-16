@@ -19,6 +19,16 @@
 - event sourcing
   - asynchrony complicates things, but it is not a reuquirement for es
 
+- cqrs
+  - commands and queries have different state representations
+  - simplifies representation, increases performance
+  - disadvantages: likely data duplication, eventual consistency
+
+
+## antipatterns
+
+- integration database
+
 
 ## abstraction for cloud infrastructure
 
