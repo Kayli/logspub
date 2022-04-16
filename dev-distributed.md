@@ -65,6 +65,7 @@
   - service
     - takes care of service discovery, allowing to expose fixed ip and dns endpoint
     - see selector and load-balancer mechanisms
+    - when a pod is run on a node, the kubelet adds a set of environment variables for each active service
   - replica set
     - defines how many pod instances we need across cluster
   - deployment
