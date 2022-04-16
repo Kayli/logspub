@@ -5,7 +5,7 @@
 - use docker and kubernetes to decompose and modularize applications
 
 
-## patterns
+## patterns [^2]
 
 - event notification
   - pubsub using events
@@ -30,3 +30,4 @@
 ## references
 
 [^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
+[^2]: https://www.youtube.com/watch?v=STKCRSUsyP0 (martin fowler goto 2017)
