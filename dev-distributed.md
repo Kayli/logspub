@@ -16,6 +16,9 @@
   - requirement for the event to contain all necessary information to reconstruct state after change
   - disadvantages: events may become heavy
 
+- event sourcing
+  - asynchrony complicates things, but it is not a reuquirement for es
+
 
 ## abstraction for cloud infrastructure
 
