@@ -119,9 +119,15 @@
   - mitmproxy: has python api
 
 
-## performance/load testing
+## testing
 
-- jmeter
+- faking service dependencies
+
+- performance/load testing
+  - tools: jmeter, gatling, jmeter, flood.io
+
+- security testing
+  - findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
 
 
 ## security
@@ -137,8 +143,7 @@
 
 ## some techs to uncover
 
-- security testing
-  - findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
+- security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
 - performance/load testing: gatling, jmeter, flood.io
 
 
