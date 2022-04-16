@@ -27,7 +27,13 @@
 
 ## antipatterns
 
+- vague/meaningless terms
+  - service-oriented architecture, event-driven architecture
+
 - integration database
+
+- using bleeding edge technological stack
+  - very risky for big projects
 
 
 ## abstraction for cloud infrastructure
