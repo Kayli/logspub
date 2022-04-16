@@ -37,51 +37,7 @@
   - combine RUN commands into one using && to avoid creating extra layers [^3]
 
 
-## kubernetes k8s
 
-- to run locally 
-  - minikube (cli only)
-  - rancher desktop (cli+gui)
-    - kim is a wrapper for docker commands
-
-- key entities
-  - node
-    - controller
-    - worker
-  - pod
-  - service
-  - replica set
-    - defines how many pod instances we need across cluster
-  - deployment
-    - yaml with desired state
-    - defines/configures pods and replica sets via deployment controller
-    - abstraction on top of pods
-  - volume
-    - local or remote storage for stateful apps
-  - stateful set
-    - provides replication services for volumes
-
-- databases
-  - etcd
-    - distrubuted key-value store 
-    - uses raft consensus algorithm to elect master node for writes
-
-  - kubegres [^5]
-    - postgresql cluster operator
-    - manages fail-over 
-    - has a data backup option allowing to dump PostgreSql data regularly in a given volume
-
-- patterns
-  - sidecar
-    - there are 2 containers in a single pod
-      - main app
-      - sidecar
-    - goal: augment functionality of main app in some way
-
-- dapr (distributed application runtime) [^4]
-  - unified wrapper for pubsub, rpc, configuration, instrumentation
-  - can use redis for pubsub
-    - can be run in 'append only file' mode with fsync at every query to provide stong guarantees
 
 
 ## other useful tools
