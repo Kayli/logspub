@@ -44,9 +44,6 @@
   - significantly hinders investigation of problems
 
 
-
-
-
 ## kubernetes k8s
 
 - to run locally 
