@@ -64,6 +64,7 @@
   - pod
   - service
     - takes care of service discovery, allowing to expose fixed ip and dns endpoint
+    - see selector and load-balancer mechanisms
   - replica set
     - defines how many pod instances we need across cluster
   - deployment
