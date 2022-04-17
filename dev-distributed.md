@@ -5,7 +5,9 @@
 - use docker and kubernetes to decompose and modularize applications
 - explore enterprise integration patterns and frameworks implementing them ;)
 - prefer cloud-vendor-neutral technologies
-
+- ensure homogenety of
+  - rpc: common language between services to establish unified contract for interaction
+  - 
 
 ## patterns [^2]
 
@@ -163,7 +165,8 @@
 ## some techs to uncover
 
 - databases: cassandra
-- security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
+- deployment: spinnaker
+- security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench, clair
 - performance/load testing: gatling, jmeter, flood.io
 
 
