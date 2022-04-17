@@ -5,9 +5,9 @@
 - use docker and kubernetes to decompose and modularize applications
 - explore enterprise integration patterns and frameworks implementing them ;)
 - prefer cloud-vendor-neutral technologies
-- ensure homogenety of
+- ensure homogenety of tools across teams
   - rpc: common language between services to establish unified contract for interaction
-  - 
+  - ci/cd
 
 ## patterns [^2]
 
