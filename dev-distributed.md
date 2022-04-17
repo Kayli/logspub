@@ -49,6 +49,12 @@
   - lack of metrics, logging, tracing collection and management
   - significantly hinders investigation of problems
 
+- politics
+  - company > team > self
+  - happen when 
+    - you put your priorities higher than team's or company's
+    - team puts its priorities higher than company's
+
 
 ## kubernetes k8s
 
