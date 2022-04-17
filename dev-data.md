@@ -7,6 +7,7 @@
   - document: mongodb, raven, couch
   - graph: neo4j
   - column: cassandra, hbase
+  - key-value: riak, redis, etcd
   - cloud native
     - amazon RDS, SimpleDB, DynamoDB
     - azure Cosmos DB, SQL Database
