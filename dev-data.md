@@ -4,10 +4,11 @@
 
 - types
   - relational: sqlite, postgresql, mysql, mssql, oracle
-  - document: mongodb, raven, couch
+  - aggregate
+    - document: mongodb, raven, couch
+    - key-value: riak, redis, etcd
   - graph: neo4j
   - column: cassandra, hbase
-  - key-value: riak, redis, etcd
   - cloud native
     - amazon RDS, SimpleDB, DynamoDB
     - azure Cosmos DB, SQL Database
