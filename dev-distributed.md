@@ -158,6 +158,7 @@
 
 ## some techs to uncover
 
+- databases: cassandra
 - security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
 - performance/load testing: gatling, jmeter, flood.io
 
