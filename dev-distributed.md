@@ -149,6 +149,13 @@
 - https://medium.com/style-theory-engineering/infrastructure-as-code-kubernetes-a2f050389f26
 
 
+## data
+
+- cassandra
+  - nosql
+  - sypports async replication of data across regions
+
+
 ## some techs to uncover
 
 - security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
