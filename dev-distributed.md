@@ -29,6 +29,10 @@
 - dumb pipes
   - buses should be trivial to use
 
+- end-to-end ownership of a service [^3]
+  - closed loop: architect -> design -> develop -> review -> test -> deploy -> run -> support -> architect ...
+  - teams are loosely coupled, each iterating their own process
+
 
 ## antipatterns
 
@@ -167,3 +171,4 @@
 
 [^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
 [^2]: https://www.youtube.com/watch?v=STKCRSUsyP0 (martin fowler goto 2017)
+[^3]: https://www.youtube.com/watch?v=57UK46qfBLY
