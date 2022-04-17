@@ -167,6 +167,12 @@
 - performance/load testing: gatling, jmeter, flood.io
 
 
+## terminology
+
+- network operations centers (NOCs)
+  - are central locations from which an organization supports its computer network and telecom infrastructure
+
+
 ## references
 
 [^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
