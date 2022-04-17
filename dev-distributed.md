@@ -167,6 +167,7 @@
 
 - databases: cassandra
 - deployment: spinnaker
+- fallback: envoy, hystrix
 - security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench, clair
 - performance/load testing: gatling, jmeter, flood.io
 
