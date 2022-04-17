@@ -171,6 +171,8 @@
 
 - network operations centers (NOCs)
   - are central locations from which an organization supports its computer network and telecom infrastructure
+- site reliability engineering (SRE)
+  - can be viewed as a specific implementation of devops
 
 
 ## references
