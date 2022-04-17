@@ -129,6 +129,8 @@
 - security testing
   - findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
 
+- reliability testing: chaos monkey approach
+
 
 ## security
 
