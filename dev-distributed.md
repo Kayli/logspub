@@ -9,6 +9,7 @@
   - rpc: common language between services to establish unified contract for interaction
   - ci/cd
 
+
 ## patterns [^2]
 
 - event notification
