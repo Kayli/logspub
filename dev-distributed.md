@@ -8,6 +8,7 @@
 - ensure homogenety of tools across teams
   - rpc: common language between services to establish unified contract for interaction
   - ci/cd
+- encourage team autonomy, freedom and responsibility
 
 
 ## patterns [^2]
