@@ -142,7 +142,11 @@
 - security testing
   - findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
 
-- destructive testing automation: chaos monkey approach
+- destructive testing automation
+  - chaos monkey approach
+  - simulate regularily
+    - instances failure
+    - whole region failures 
 
 
 ## security
