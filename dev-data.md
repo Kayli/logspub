@@ -16,17 +16,19 @@
 
 ## orms
 
-- sqlalchemy (python)
-  - allow returning data from disconnected entities (closed session)
-    - session.expire_on_commit = False
-  - sqlite+pysqlite does not support Decimal objects natively
-    - possible loss of data
-  - json types
-    - PostgreSQL, SQLite as of version 3.9
-    - supports JSON SQL operations
-    - allows nested selectors into json column [^2]
-
-
+- python
+  - sqlalchemy
+    - allow returning data from disconnected entities (closed session)
+      - session.expire_on_commit = False
+    - sqlite+pysqlite does not support Decimal objects natively
+      - possible loss of data
+    - json types
+      - PostgreSQL, SQLite as of version 3.9
+      - supports JSON SQL operations
+      - allows nested selectors into json column [^2]
+- dotnet
+  - entity framework
+  - nhibernate
 
 
 ## streamable data formats
