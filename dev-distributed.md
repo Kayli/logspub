@@ -9,6 +9,8 @@
   - rpc: common language between services to establish unified contract for interaction
   - ci/cd
 - encourage team autonomy, freedom and responsibility
+- it should be easy to rewrite microservice
+  - its normal to do that several times, always adapting to business requirements
 
 
 ## patterns [^2]
