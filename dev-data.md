@@ -1,17 +1,12 @@
 # notes about data formats, management system and related stuff
 
-## databases
+## some popular databases
 
 - types
-  - relational
-    - sqlite
-    - postgresql
-    - mssql
-    - oracle
-  - document
-    - mongodb
-  - graph
-    - neo4j
+  - relational: sqlite, postgresql, mysql, mssql, oracle
+  - document: mongodb, raven, couch
+  - graph: neo4j
+  - column: cassandra, hbase
   - cloud native
     - amazon RDS, SimpleDB, DynamoDB
     - azure Cosmos DB, SQL Database
