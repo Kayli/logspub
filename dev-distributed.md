@@ -176,11 +176,18 @@
 - nservicebus
 - microsoft [^7]
   - azure 
+    - event hub
+      - can maintain the order of the events in the same partition
+      - partitioning allows for multiple parallel logs to be used for the same event hub 
+        - therefore multiplying the available raw io throughput capacity
+    - event grid
+      - doesn’t guarantee the order of the events
+      - does not support partitions
+      - some features overlap with event hub
     - service bus
       - the messages are pulled out by the receiver & cannot be processed again
       - uses the terminology of queues and topics
-    - event hub
-    - event grid
+      - some features overlap with event hub and event grid
   - service bus for windows
   - msmq (deprecated)
 
