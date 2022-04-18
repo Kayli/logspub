@@ -174,8 +174,13 @@
 - rabbitmq
 - kafka
 - nservicebus
-- microsoft 
-  - azure service bus
+- microsoft [^7]
+  - azure 
+    - service bus
+      - the messages are pulled out by the receiver & cannot be processed again
+      - uses the terminology of queues and topics
+    - event hub
+    - event grid
   - service bus for windows
   - msmq (deprecated)
 
@@ -254,3 +259,4 @@
 [^4]: https://microservices.io/patterns/data/transactional-outbox.html
 [^5]: https://spec.graphql.org/June2018/#sec-Introspection
 [^6]: https://medium.com/swlh/scaling-microservices-with-grpc-and-envoy-proxy-part-2-148f589b2a83
+[^7]: https://stackoverflow.com/questions/57740782/message-bus-vs-service-bus-vs-event-hub-vs-event-grid
