@@ -101,6 +101,15 @@
   - machine image $0.05 gb/month (typical debian image is about 10GB)
 
 
+## aws
+
+- compute
+  - ec2: virtual machines
+  - ecs: elastic container store (docker)
+    - aws container orchestration platform
+    - operates with clusters and tasks
+  - lambda: serverless
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/OpenShift
