@@ -134,7 +134,7 @@
     - use to store shared configuration
 
 
-## ipc/rpc
+## rpc
 
 - key aspects
   - adoption
@@ -163,6 +163,13 @@
     - supports load balancing
     - enables grpc-web
     - implements retries and circuit-breaker patterns
+
+
+## pipes
+
+- rabbitmq
+- kafka
+- nservicebus
 
 
 ## tracing tools
