@@ -9,16 +9,15 @@
   - emphasizing free association, freedom of choice, individualism and voluntary association
   - share a skepticism of authority and state power
 
-- conservative-progressive spectrum
-
-- left–right spectrum
-  - system of classifying political positions
-  - emphasis placed on issues of social equality and social hierarchy
-  - left
-    - support social equality and egalitarianism, often in opposition of social hierarchy
-  - right
-    - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
-    - defend this position on the basis of natural law, economics, or tradition
+- systems of classifying political positions
+  - conservative-progressive spectrum
+  - left–right spectrum
+    - emphasis placed on issues of social equality and social hierarchy
+    - left
+      - support social equality and egalitarianism, often in opposition of social hierarchy
+    - right
+      - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
+      - defend this position on the basis of natural law, economics, or tradition
 
 
 ## vague terms (to clarify)
@@ -27,7 +26,7 @@
   - an abbreviation of alternative right
   - a loosely connected far-right white nationalist movement
   - largely online phenomenon (propaganda artifact?)
-  - originated in the United States during the early 2010s went into a decline after 2017
+  - originated in the united states during the early 2010s went into a decline after 2017
   - the term is ill-defined
     - having been used in different ways by alt-right members, media commentators, and academics
     - usually a stub word for something bad?
