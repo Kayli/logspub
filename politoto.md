@@ -75,7 +75,11 @@
 
 ## modern approaches
 
-- possibility to run simulations before introducing new laws https://youtu.be/oTeKCAhXQbo?t=2169
+- norwegian government [^5]
+  - observability for legal system when specific laws are bound to a code to some extent
+    - enables automated quantitative analysis of effectiveness
+    - detects redundancies
+  - possibility to run simulations before introducing new laws 
 
 
 ## references
@@ -84,3 +88,4 @@
 [^2]: https://youtu.be/jvFgOdEVf98?t=2291
 [^3]: https://youtu.be/lGGBEG35b_M?t=1846
 [^4]: https://youtu.be/yZKDBRtpxOE?t=1664
+[^5]: https://youtu.be/oTeKCAhXQbo?t=2169
