@@ -105,9 +105,19 @@
 - google scholar is able to search a database of case law
 
 
+## modern approaches
+
+- norwegian government [^5]
+  - observability for legal system when specific laws are bound to a code to some extent
+    - enables automated quantitative analysis of effectiveness
+    - detects redundancies
+  - possibility to run simulations before introducing new laws 
+
+
 ## references
 
 [^1]: https://www.justice.gc.ca/eng/csj-sjc/just/03.html
 [^2]: https://bccla.org/2018/09/what-is-a-street-check/#_ftn10 (refers to Grant, para. 21)
 [^3]: https://www.coursera.org/learn/intro-common-law/lecture/V60DU/key-features-of-english-law
 [^4]: https://laws-lois.justice.gc.ca/eng/Const/FullText.html
+[^5]: https://youtu.be/oTeKCAhXQbo?t=2169
