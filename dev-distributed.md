@@ -174,6 +174,10 @@
 - rabbitmq
 - kafka
 - nservicebus
+- microsoft 
+  - azure service bus
+  - service bus for windows
+  - msmq (deprecated)
 
 
 ## tracing tools
