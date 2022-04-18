@@ -12,6 +12,9 @@
 - it should be easy to rewrite microservice
   - its normal to do that several times, always adapting to business requirements
 - data duplication is okay, when necessary
+- if your microservice absolutely have to call other service
+  - limit sync call chain to 1 other ms dependency call max
+  - consider reversing dependency using events
 
 
 ## patterns [^2]
