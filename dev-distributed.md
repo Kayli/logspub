@@ -134,6 +134,33 @@
     - use to store shared configuration
 
 
+## ipc/rpc
+
+- solutions
+  - rest
+    - industry most popular choice for apis
+    - cons: lacks standardization, therefore unified observability is hindered
+
+  - graphql
+    - queryable apis
+    - reduces amount of work required on server side, when you need richer queries support
+    - provides introspection over its schema [^5]
+
+  - grpc
+    - provides unified way of communication between services
+    - simple idl
+    - many generators from idl to popular languages
+    - grpc-web extends same approach to web-apis as well
+
+  - envoy
+    - creates observable service-mesh
+    - supports load balancing
+    - enables grpc-web
+    - implements retries and circuit-breaker patterns
+
+  
+
+
 ## tracing tools
 
 - packet sniffers
@@ -179,6 +206,7 @@
   - sypports async replication of data across regions
 
 
+
 ## some techs to uncover
 
 - databases: cassandra
@@ -205,3 +233,4 @@
 [^2]: https://www.youtube.com/watch?v=STKCRSUsyP0 (martin fowler goto 2017)
 [^3]: https://www.youtube.com/watch?v=57UK46qfBLY
 [^4]: https://microservices.io/patterns/data/transactional-outbox.html
+[^5]: https://spec.graphql.org/June2018/#sec-Introspection
