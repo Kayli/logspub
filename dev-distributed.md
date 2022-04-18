@@ -136,10 +136,16 @@
 
 ## ipc/rpc
 
+- key aspects
+  - adoption
+  - introspection
+  - observability
+
 - solutions
   - rest
     - industry most popular choice for apis
-    - cons: lacks standardization, therefore unified observability is hindered
+    - cons: lacks standardization
+      - therefore unified observability and introspection is hindered across heterogeneous stack
 
   - graphql
     - queryable apis
@@ -157,8 +163,6 @@
     - supports load balancing
     - enables grpc-web
     - implements retries and circuit-breaker patterns
-
-  
 
 
 ## tracing tools
