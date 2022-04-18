@@ -9,6 +9,7 @@
   - rpc: common language between services to establish unified contract for interaction
   - ci/cd
 - encourage team autonomy, freedom and responsibility
+  - splitting the ownership of the code is an important part of ms architecture
 - it should be easy to rewrite microservice
   - its normal to do that several times, always adapting to business requirements
 - data duplication is okay, when necessary
