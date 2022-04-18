@@ -74,6 +74,11 @@
   - considered one by some, as he won election because of mj legalization program support
 
 
+## modern approaches
+
+- possibility to run simulations before introducing new laws https://youtu.be/oTeKCAhXQbo?t=2169
+
+
 ## references
 
 [^1]: https://www.youtube.com/watch?v=whPnobbck9s
