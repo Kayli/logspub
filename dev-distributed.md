@@ -11,6 +11,7 @@
 - encourage team autonomy, freedom and responsibility
 - it should be easy to rewrite microservice
   - its normal to do that several times, always adapting to business requirements
+- data duplication is okay, when necessary
 
 
 ## patterns [^2]
