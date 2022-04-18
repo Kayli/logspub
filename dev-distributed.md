@@ -176,13 +176,17 @@
 - nservicebus
 
 - amazon
-  - simple notification service (sns)
-    - supports fan out (multiple subscribers)
-    - but has no persistance for subscribers
   - simple queue service (sqs)
     - polling model for subscibers
     - persistance for messages of the subscriber
-    - single consumer per queue
+    - you need a new queue for every subscriber
+    - oldest aws messaging service
+  - simple notification service (sns)
+    - supports fan out (multiple subscribers)
+    - but has no persistance for subscribers
+  - event bridge
+    - newest aws messaging service
+    - similar to sns, but provides more service integrations out of the box
 
 - microsoft [^7]
   - azure 
