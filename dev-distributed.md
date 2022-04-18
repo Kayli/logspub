@@ -39,6 +39,10 @@
 - dumb pipes
   - buses should be trivial to use
 
+- transactional outbox [^4]
+  - safely save messages into a database before sending them asynchronously
+  - sending is usually done by some other service
+
 - end-to-end ownership of a service [^3]
   - closed loop: architect -> design -> develop -> review -> test -> deploy -> run -> support -> architect ...
   - teams are loosely coupled, each iterating their own process
@@ -199,3 +203,4 @@
 [^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
 [^2]: https://www.youtube.com/watch?v=STKCRSUsyP0 (martin fowler goto 2017)
 [^3]: https://www.youtube.com/watch?v=57UK46qfBLY
+[^4]: https://microservices.io/patterns/data/transactional-outbox.html
