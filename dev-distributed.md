@@ -174,6 +174,16 @@
 - rabbitmq
 - kafka
 - nservicebus
+
+- amazon
+  - simple notification service (sns)
+    - supports fan out (multiple subscribers)
+    - but has no persistance for subscribers
+  - simple queue service (sqs)
+    - polling model for subscibers
+    - persistance for messages of the subscriber
+    - single consumer per queue
+
 - microsoft [^7]
   - azure 
     - event hub
