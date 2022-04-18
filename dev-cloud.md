@@ -108,8 +108,12 @@
   - ecs: elastic container store (docker)
     - aws container orchestration platform
     - operates with clusters and tasks
-  - lambda: serverless
+  - lambda
     - time limit of 15 minutes per function
+    - runs on ephemeral containers behind the scenes
+  - fargate
+    - run docker containers without managing any servers for container orchestration
+    - no warmup time needed
 
 
 ## vendor neutral
