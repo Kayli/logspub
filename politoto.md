@@ -41,8 +41,8 @@
     - in an attempt to fane sophistication
   - lack of precision
     - 'fascist' often signifies 'something not desirable'
-    - democracy, socialism, freedom, patriotic, realistic, justice 
-      - have multiple often incompatible meanings
+    - words have multiple often incompatible meanings
+      - democracy, socialism, freedom, patriotic, realistic, justice 
 
 - euphemisms
   - to energize people - appeal to their emotions
