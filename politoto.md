@@ -53,9 +53,9 @@
 - abusing emotional, cultural, tribal cues [^2]
   - opposed to making rational, competence-based appeal
 
-- create illusion of fairness (democracy)
-  - capture people's attention for the sake of capturing attention (clownwork)
-    - in order to divert it from problems that average joe cares about
+- create illusion of fairness (veneer democracy)
+- capture people's attention for the sake of capturing attention (clownwork)
+  - in order to divert it from problems that average joe cares about
 
 - divide and conquer
   - prevent people from trusting each other [^3]
