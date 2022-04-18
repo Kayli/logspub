@@ -143,7 +143,7 @@
 
 - load balancing [^6]
   - client-side
-  - server-side/proxy
+  - server-side/proxy: dns, nginx, haproxy, consul, envoy
 
 - solutions
   - rest
