@@ -113,6 +113,7 @@
   - lambda
     - time limit of 15 minutes per function
     - runs on ephemeral containers behind the scenes
+    - it is possible to set concurrency limits on individual aws lambda functions
 
 
 ## vendor neutral
