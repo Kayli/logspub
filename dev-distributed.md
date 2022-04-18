@@ -141,6 +141,10 @@
   - introspection
   - observability
 
+- load balancing [^6]
+  - client-side
+  - server-side/proxy
+
 - solutions
   - rest
     - industry most popular choice for apis
@@ -245,3 +249,4 @@
 [^3]: https://www.youtube.com/watch?v=57UK46qfBLY
 [^4]: https://microservices.io/patterns/data/transactional-outbox.html
 [^5]: https://spec.graphql.org/June2018/#sec-Introspection
+[^6]: https://medium.com/swlh/scaling-microservices-with-grpc-and-envoy-proxy-part-2-148f589b2a83
