@@ -109,6 +109,14 @@
     - aws container orchestration platform
     - operates with clusters and tasks
   - lambda: serverless
+    - time limit of 15 minutes per function
+
+
+## vendor neutral
+
+- https://github.com/dapr
+- https://github.com/serverless/serverless
+
 
 ## references
 
