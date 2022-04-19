@@ -80,13 +80,22 @@
 
 ## document dbs
 
+- schema versioning pattern
+
 - referencing approaches
   - one-to-one
     - embedded
     - linked: cross-reference in both entities
   - one-to-many
+    - embedded in parent
     - array in parent
     - scalar in child
+
+- mongodb supports
+  - optional schema validation
+  - referential constraints using dbref
+    - works across documents, shards and databases within same cluster
+
 
 ## references
 
