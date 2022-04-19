@@ -26,6 +26,7 @@
 
 - progressive web apps
   - asp.net 6 blazor
+  - tbd: there are more frameworks here
 
 
 ## headless cms
