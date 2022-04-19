@@ -18,7 +18,7 @@
   - deferred static generation
   - server-side rendering
 
-- isomorphic
+- isomorphic javascript frameworks
   - meteor
   - python
     - anpylar
