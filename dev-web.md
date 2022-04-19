@@ -60,6 +60,8 @@
 - web standard to distribute/use compiled binary code in a web browser
 - wasi (web assembly system interface)
   - standard system libraries available on every platform where modern browser runs
+  - sandbox feature
+    - allows to run code in sandboxed vm on server-side (similar to app domains in dotnet framework)
 
 
 ## blazor
