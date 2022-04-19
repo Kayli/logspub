@@ -19,13 +19,14 @@
   - server-side rendering
 
 - isomorphic javascript frameworks
+  - asp.net blazor
   - meteor
   - python
     - anpylar
     - nagare
 
 - progressive web apps
-  - asp.net 6 blazor
+  - asp.net blazor
   - tbd: there are more frameworks here
 
 
