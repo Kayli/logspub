@@ -258,7 +258,6 @@
   - sypports async replication of data across regions
 
 
-
 ## some techs to uncover
 
 - databases: cassandra
