@@ -104,6 +104,17 @@
   - supports blazor components
 
 
+## ide
+
+- vscode
+  - useful extensions
+    - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
+
+- jetbrains
+  - rider: for .net developers
+  - pycharm: for python developers
+
+
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)

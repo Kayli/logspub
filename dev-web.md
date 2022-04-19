@@ -84,6 +84,16 @@
   - compiles to webassembly by default
 
 
+## atomic design [^2]
+
+- atoms: button, label, image
+- molecules: label input, form
+- organisms: 
+- templates: where molecules and organisms are coming together to form a page template
+- pages: instance of a template
+
+
 ## references
 
 [^1]: https://www.gatsbyjs.com/plugins/#cms
+[^2]: https://bradfrost.com/blog/post/atomic-web-design/
