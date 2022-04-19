@@ -55,6 +55,19 @@
   - buttercms
 
 
+## rpc/apis
+
+- rest
+  - industry most popular choice for apis
+  - cons: lacks standardization
+    - therefore unified observability and introspection is hindered across heterogeneous stack
+
+- graphql
+  - queryable apis
+  - reduces amount of work required on server side, when you need richer queries support
+  - provides introspection over its schema [^5]
+
+
 ## web assembly
 
 - web standard to distribute/use compiled binary code in a web browser

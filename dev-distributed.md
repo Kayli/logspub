@@ -134,7 +134,7 @@
     - use to store shared configuration
 
 
-## rpc
+## rpc/apis
 
 - key aspects
   - adoption
