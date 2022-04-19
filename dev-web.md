@@ -19,11 +19,13 @@
   - server-side rendering
 
 - isomorphic
-  - asp.net 6 blazor
   - meteor
   - python
     - anpylar
     - nagare
+
+- progressive web apps
+  - asp.net 6 blazor
 
 
 ## headless cms
