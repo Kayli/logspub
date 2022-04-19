@@ -25,6 +25,7 @@
     - switch to new version of application
     - remove compatability artifacts of migration left after the first step
 
+
 ## orms
 
 - python
