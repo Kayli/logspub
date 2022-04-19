@@ -78,6 +78,16 @@
         - "is intended to be read and written in streams" [^1]
 
 
+## document dbs
+
+- referencing approaches
+  - one-to-one
+    - embedded
+    - linked: cross-reference in both entities
+  - one-to-many
+    - array in parent
+    - scalar in child
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/YAML
