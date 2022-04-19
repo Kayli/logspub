@@ -14,6 +14,17 @@
     - azure Cosmos DB, SQL Database
 
 
+## migrations
+
+- relational databases [^3]
+  - with downtime
+    - run db up-migration script using automatic migrations framework
+    - down-migration scripts are not that useful in practice
+  - without downtime
+    - migrate new version of app to db schema compatible with old application
+    - switch to new version of application
+    - remove compatability artifacts of migration left after the first step
+
 ## orms
 
 - python
@@ -70,3 +81,4 @@
 
 [^1]: https://en.wikipedia.org/wiki/YAML
 [^2]: https://stackoverflow.com/questions/31197813/sqlalchemy-filtering-nested-json-data-in-postgresql-jsonb
+[^3]: https://www.youtube.com/watch?v=ka-PLyjV3AI
