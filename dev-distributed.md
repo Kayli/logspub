@@ -48,6 +48,8 @@
   - closed loop: architect -> design -> develop -> review -> test -> deploy -> run -> support -> architect ...
   - teams are loosely coupled, each iterating their own process
 
+- micro frontend [^8]
+  
 
 ## antipatterns
 
@@ -73,6 +75,11 @@
   - happen when 
     - you put your priorities higher than team's or company's
     - team puts its priorities higher than company's
+
+- micro frontend anarchy
+  - a particularly egregious form of this syndrome is using multiple frontend frameworks 
+    - for example, React.js and Angular — in the same "single-page" application. 
+  - although this might be technically possible, it is far from advisable when not part of a deliberate transition strategy
 
 
 ## kubernetes k8s
@@ -281,3 +288,4 @@
 [^5]: https://spec.graphql.org/June2018/#sec-Introspection
 [^6]: https://medium.com/swlh/scaling-microservices-with-grpc-and-envoy-proxy-part-2-148f589b2a83
 [^7]: https://stackoverflow.com/questions/57740782/message-bus-vs-service-bus-vs-event-hub-vs-event-grid
+[^8]: https://micro-frontends.org
