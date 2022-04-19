@@ -18,6 +18,7 @@
 - mermaid https://mermaid.live/
   - declarative uml diagrams, similar to websequencediagrams
   - supports: flow charts, sequence diagrams, class diagrams, erd diagrams
+  - vscode plugin 
 
 
 ## programming languages
@@ -109,6 +110,7 @@
 - vscode
   - useful extensions
     - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
+    - markdown preview mermaid support: adds mermaid diagram and flowchart support to vs code's builtin markdown preview
 
 - jetbrains
   - rider: for .net developers
