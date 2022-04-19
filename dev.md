@@ -101,6 +101,7 @@
   - dotnet multiplatform app user interface
   - cross-platform, native ui
   - platforms: windows, mac, ios, android
+  - supports blazor components
 
 
 ## references
