@@ -55,6 +55,13 @@
   - buttercms
 
 
+## web assembly
+
+- web standard to distribute/use compiled binary code in a web browser
+- wasi (web assembly system interface)
+  - standard system libraries available on every platform where modern browser runs
+
+
 ## blazor
 
 - emcc (emscripten compiler)
