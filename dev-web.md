@@ -19,7 +19,7 @@
   - server-side rendering
 
 - isomorphic
-  - aspnet core blazor
+  - asp.net 6 blazor
   - meteor
   - python
     - anpylar
@@ -49,6 +49,13 @@
   - flotiq
   - prismic
   - buttercms
+
+
+## blazor
+
+- emcc (emscripten compiler)
+  - a tool to compile c code to browser compatible format
+  - compiles to webassembly by default
 
 
 ## references
