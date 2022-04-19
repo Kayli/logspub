@@ -195,6 +195,9 @@
   - event bridge
     - newest aws messaging service
     - similar to sns, but provides more service integrations out of the box
+  - msk: managed service for kafka
+    - you need to only manage scaling manually
+  - kinesis: simpler to manage and lower costs than kafka [^9]
 
 - microsoft [^7]
   - azure 
@@ -289,3 +292,4 @@
 [^6]: https://medium.com/swlh/scaling-microservices-with-grpc-and-envoy-proxy-part-2-148f589b2a83
 [^7]: https://stackoverflow.com/questions/57740782/message-bus-vs-service-bus-vs-event-hub-vs-event-grid
 [^8]: https://micro-frontends.org
+[^9]: https://www.youtube.com/watch?v=TJS19EuzH2k
