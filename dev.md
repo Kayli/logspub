@@ -95,6 +95,14 @@
   - generates efficient code for the PowerPC, ARM, RISC-V and x86 processors
 
 
+## mobile
+
+- microsoft maui
+  - dotnet multiplatform app user interface
+  - cross-platform, native ui
+  - platforms: windows, mac, ios, android
+
+
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
