@@ -49,7 +49,8 @@
   - teams are loosely coupled, each iterating their own process
 
 - micro frontend [^8]
-  
+  - react: 'module federation plugin'
+
 
 ## antipatterns
 

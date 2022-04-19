@@ -16,14 +16,19 @@
   - webpack + graphql + react
   - integration with cms plugins like strapi, graphcms and many others [^1]
   - deferred static generation
-  - server-side rendering
+  - server-side rendering 
 
-- isomorphic javascript frameworks
-  - asp.net blazor
-  - meteor
-  - python
-    - anpylar
-    - nagare
+- isomorphic approach
+  - allows to do server-side render in order to
+    - be seo friendly
+    - load site faster very first time
+  - useful techniques: server side includes [^3]
+  - frameworks
+    - asp.net blazor
+    - meteor
+    - python
+      - anpylar
+      - nagare
 
 - progressive web apps
   - asp.net blazor
@@ -97,3 +102,4 @@
 
 [^1]: https://www.gatsbyjs.com/plugins/#cms
 [^2]: https://bradfrost.com/blog/post/atomic-web-design/
+[^3]: https://en.wikipedia.org/wiki/Server_Side_Includes
