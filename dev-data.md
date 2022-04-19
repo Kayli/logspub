@@ -16,7 +16,7 @@
 
 ## migrations
 
-- relational databases [^3]
+- relational database strategies [^3]
   - with downtime
     - run db up-migration script using automatic migrations framework
     - down-migration scripts are not that useful in practice
@@ -24,6 +24,11 @@
     - migrate new version of app to db schema compatible with old application
     - switch to new version of application
     - remove compatability artifacts of migration left after the first step
+  
+- document database strategies [^4]
+  - write an upgrade script
+  - incrementally update your documents as they are used
+    - are there generic implementations?
 
 
 ## orms
@@ -102,3 +107,4 @@
 [^1]: https://en.wikipedia.org/wiki/YAML
 [^2]: https://stackoverflow.com/questions/31197813/sqlalchemy-filtering-nested-json-data-in-postgresql-jsonb
 [^3]: https://www.youtube.com/watch?v=ka-PLyjV3AI
+[^4]: https://mongodb.github.io/mongo-csharp-driver/2.4/reference/bson/mapping/schema_changes/
