@@ -25,10 +25,11 @@
     - gives short term benefits (local extremum)
     - engineers need non-trivial extra effort to avoid it
 
-- managerial feudalism
+- managerial feudalism [^2]
   - hunt for power for its own sake
 
 
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Bullshit_Jobs
+[^2]: https://www.youtube.com/watch?v=R07TlNqz9X4
