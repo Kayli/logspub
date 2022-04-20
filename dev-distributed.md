@@ -87,7 +87,7 @@
 
 - politics
   - company > team > self
-  - happen when 
+  - happen when
     - you put your priorities higher than team's or company's
     - team puts its priorities higher than company's
 
