@@ -2,17 +2,31 @@
 
 ## basics
 
+- distributed system consists of multiple apps communicating with each other over the network
+  - nowadays such apps referred as 'microservices'
+  - most ppl start to realize problems with big chunks of tangled code
+
+
+## general design recommendations
+
 - use docker and kubernetes to decompose and modularize applications
-- explore enterprise integration patterns and frameworks implementing them ;)
+- explore enterprise integration patterns and frameworks implementing them
 - prefer cloud-vendor-neutral technologies
-- ensure homogenety of tools across teams
+
+- consider introducing homogenety of tools across teams
   - rpc: common language between services to establish unified contract for interaction
   - ci/cd
+
 - encourage team autonomy, freedom and responsibility
   - splitting the ownership of the code is an important part of ms architecture
+
+- each microservice own its logic and data under an autonomous lifecycle, with independent deployment per microservice.
+
 - it should be easy to rewrite microservice
   - its normal to do that several times, always adapting to business requirements
+
 - data duplication is okay, when necessary
+
 - if your microservice absolutely have to call other service
   - limit sync call chain to 1 other ms dependency call max
   - consider reversing dependency using events
