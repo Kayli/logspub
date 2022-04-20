@@ -1,5 +1,4 @@
-
-## problem solving techniques
+# problem solving techniques
 
 - синектика [^1]
     - key ideas
