@@ -3,7 +3,7 @@
 ## basics
 
 - non-technical software managers are evil
-- software manager should be able to help solving technical problems
+- software manager should be able to help in solving technical problems
   - otherwise its a 'box ticker' or 'taskmaster' antipattern [^1]
 
 
