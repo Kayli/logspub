@@ -25,6 +25,8 @@
     - gives short term benefits (local extremum)
     - engineers need non-trivial extra effort to avoid it
 
+- managerial feudalism
+
 
 ## references
 
