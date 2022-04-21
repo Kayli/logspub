@@ -92,7 +92,7 @@
         has pretty clear tangible implications for people: once you're able to kill animal
         who looks in certain aspects like a human, you will be more likely to be able to harm humans
       - so there are pretty clear concequences of 'memetic toxicity'
-        - especially once people are getting 'smarter' aka more imaginative
+        - especially once people are getting more imaginative
 
   - controversial
     - why not focus on humans instead of animals first?
