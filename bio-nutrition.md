@@ -82,8 +82,8 @@
       - so that they just 'fall asleep' when its time for them to go
 
 - main idea
-  - it doesn't have to be ideal right now
-    - but there should be tangible steps taken towards achieving more freedom for animals
+  - it doesn't have to be ideal right now, but there should be tangible steps taken towards achieving 
+    more freedom for animals, including people ...
 
 - faq
   - should cucumbers be liberated as well?
