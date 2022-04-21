@@ -90,7 +90,7 @@
     - no, as they are not memetically toxic (except maybe a pickle-rick)
       - if you know that billions of animals are getting killed on a regular basis, it 
         has pretty clear tangible implications for people: once you're able to kill animal
-        who looks very like a human, you will be more likely to be able to harm humans.
+        who looks in certain aspects like a human, you will be more likely to be able to harm humans
       - so there are pretty clear concequences of 'memetic toxicity'
         - especially once people are getting 'smarter' aka more imaginative
 
