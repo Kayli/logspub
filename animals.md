@@ -15,6 +15,9 @@
 - thrush (дрозд)
   - thrushes are a passerine bird family, turdidae, with a worldwide distribution
 
+- turkeys
+  - wild turkeys can fly, while domesticated turkeys can't
+
 
 ### chicken
 
