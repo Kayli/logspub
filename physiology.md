@@ -1,5 +1,12 @@
 # human physiology
 
+## basics
+
+- cranial nerves 
+  - are the nerves that emerge directly from the brain (including the brainstem), of which there 
+    are conventionally considered twelve pairs
+
+
 ## endocrine system
 
 - human body secretes and circulates some 50 different hormones
@@ -17,6 +24,13 @@
     - mineralocorticoids
       - help maintain blood volume and control renal excretion of electrolytes
   - anabolic steroids
+
+
+## parasympathetic system
+
+- vagus nerve (блуждающий нерв)
+  - also known as the tenth cranial nerve, cranial nerve X, or simply CN X, 
+  - is a cranial nerve that interfaces with the parasympathetic control of the heart, lungs, and digestive tract
 
 
 ## artificial fertilization
