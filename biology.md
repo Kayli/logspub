@@ -55,15 +55,6 @@ keywords: cell, replicator, life, evolution
     - all other arrangements
 
 
-## anatomy
-
-- anatomy vs physiology
-  - anatomy is about statics of an organism: focus on structure
-  - physiology is more about dynamics of an organism: its development, metabolism, etc
-
-- hyoid bone (подъязычная кость)
-
-
 ## microbiology  [^2]
 
 - feeding habit
@@ -128,6 +119,15 @@ keywords: cell, replicator, life, evolution
   - экзотоксины - находятся вне, выделяются микроскопическими грибами типа плесени
   - эндотоксины - находятся внутри тела гриба
     - пептиды: могут действовать как гормоны, нейроактивные в-ва и прочее
+
+
+## anatomy
+
+- anatomy vs physiology
+  - anatomy is about statics of an organism: focus on structure
+  - physiology is more about dynamics of an organism: its development, metabolism, etc
+
+- hyoid bone (подъязычная кость)
 
 
 ## references 

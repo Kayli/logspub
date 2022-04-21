@@ -3,8 +3,8 @@
 ## basics
 
 - cranial nerves
-  - are the nerves that emerge directly from the brain (including the brainstem), of which there 
-    are conventionally considered twelve pairs
+  - are the nerves that emerge directly from the brain (including the brainstem)
+  - of which there are conventionally considered twelve pairs
 
 
 ## endocrine system
