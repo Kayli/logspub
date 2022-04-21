@@ -47,7 +47,6 @@ keywords: cell, replicator, life, evolution
 - endosymbiosis
   - nutritional dependence
 
-
 - physical attachment
   - conjunctive
     - symbionts form a single body
