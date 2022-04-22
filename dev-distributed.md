@@ -8,6 +8,8 @@
 
 - conway’s law
   - application will reflect the social boundaries of the organization that produced it
+  - but you may want to build the boundaries the way you want the company to be organized
+    - because the way it is organized now may be not optimal
 
 
 ## general design recommendations
