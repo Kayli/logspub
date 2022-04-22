@@ -99,7 +99,7 @@
 ## mobile
 
 - microsoft maui
-  - dotnet multiplatform app user interface
+  - dotnet multiplatform application user interface
   - cross-platform, native ui
   - platforms: windows, mac, ios, android
   - supports blazor components
