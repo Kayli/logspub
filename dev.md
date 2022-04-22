@@ -116,6 +116,7 @@
   - rider: for .net developers
   - pycharm: for python developers
 
+
 ## csharp
 
 - new important features been introduced in recent years
@@ -155,7 +156,7 @@
     - cloning a record with mutated field
       > var order2 = order1 with { ArticleName = "something else"};
   - global usings: you now can have a file with 'global using' statements which will apply project-wide
-  
+  - reduced nesting of a namespace if its the only namespace statement
 
 
 ## references
