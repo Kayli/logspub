@@ -132,6 +132,16 @@
       - awatable methods
       - argument validation combined with throw expressions
         > _ = name ?? throw new ArgumentNullException();
+  - null conditional operator (elvis operator)
+    > if (order?.Recipient?.EmailAddress != null) ...
+  - null coalescent assignments
+    > options ??= MyOptions.Default
+  - verified reference types: reference types are implicitly non-nullable
+    - with <Nullable>enable</Nullable> <WarningsAsErrors>nullable</WarningsAsErrors> in your csproj file
+    - now you have to explicitly state that some type is nullable
+  
+    
+  
     
     
 
