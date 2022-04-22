@@ -3,8 +3,18 @@
 ## basics
 
 - non-technical software managers are evil
-- software manager should be able to help in solving technical problems
-  - otherwise its a 'box ticker' or 'taskmaster' antipattern [^1]
+  - software manager should be able to understand/help in solving technical problems
+    - otherwise its a 'box ticker' or 'taskmaster' antipattern [^1]
+    - can easily be tricked/manipulated by its fellow team members
+
+
+## communication
+
+- face-to-face conversations
+- pair programming
+- joint design sessions
+- meetings
+- information radiators
 
 
 ## disfunctions
