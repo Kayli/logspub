@@ -116,6 +116,25 @@
   - rider: for .net developers
   - pycharm: for python developers
 
+## csharp
+
+- new important features been introduced in recent years
+  - enter repl by running 'csi' tool
+  - interface default method implementations
+  - inplace out variables for out parameters
+    > int.TryParse(str, out var value)
+  - expression-bodied members
+    - getters and setters: lambda-like bodies instead of curly braces
+    - methods: short methods can have lambda-like bodies
+    - constructors: works only for ctors with 1 argument
+  - discards: underscore '_' symbol means variable that we okay to discard (pacifies compilers, linters)
+    - useful when working with 
+      - awatable methods
+      - argument validation combined with throw expressions
+        > _ = name ?? throw new ArgumentNullException();
+    
+    
+
 
 ## references
 
