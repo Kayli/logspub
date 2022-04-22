@@ -1,5 +1,13 @@
 # notes related to software development
 
+## basics
+
+- structured programming 
+  - forbids arbitrary jumps in code
+  - defines which points in code are legitimate to jump to
+    - nowadays these structures are called methods, functions, switch statements, loops, etc.
+
+
 ## source control
 
 - git
