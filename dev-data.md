@@ -26,8 +26,9 @@
     - remove compatability artifacts of migration left after the first step
   
 - document database strategies [^4]
-  - write an upgrade script
-  - incrementally update your documents as they are used
+  - with downtime: write an upgrade script
+  - without downtime
+    - incrementally update your documents as they are used
     - are there generic implementations?
 
 
