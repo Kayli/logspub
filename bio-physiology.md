@@ -40,7 +40,9 @@
       - especially after eating
       - this includes sexual arousal, salivation, lacrimation (tears), urination, digestion, and defecation
   - enteric nervous system
-    
+    - responsible for the function of the gastrointestinal tract
+    - capable of acting independently of the sympathetic and parasympathetic nervous systems
+      - although it may be influenced by them
 
 - vagus nerve (блуждающий нерв)
   - also known as the tenth cranial nerve, cranial nerve X, or simply CN X, 
