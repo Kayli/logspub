@@ -26,7 +26,18 @@
   - anabolic steroids
 
 
-## parasympathetic system
+## autonomic nervous system
+
+- responsible for regulating the body's unconscious actions
+
+- divisions
+  - sympathetic (sns)
+  - parasympathetic nervous system (psns)
+    - responsible for stimulation of "rest-and-digest" or "feed and breed" activities 
+    - activated when the body is at rest
+      - especially after eating
+      - this includes sexual arousal, salivation, lacrimation (tears), urination, digestion, and defecation
+  - enteric nervous system
 
 - vagus nerve (блуждающий нерв)
   - also known as the tenth cranial nerve, cranial nerve X, or simply CN X, 
