@@ -29,7 +29,9 @@
   - with downtime: write an upgrade script
   - without downtime
     - incrementally update your documents as they are used
-    - are there generic implementations?
+      - however: queries against a schema where half the documents are version 1 
+        and half the documents are version 2 can cause problems, therefore it may be 
+        useful to run a migration script in a background to update all documents asap
 
 
 ## orms
