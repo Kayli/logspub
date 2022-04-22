@@ -6,6 +6,9 @@
   - nowadays such apps referred as 'microservices'
   - most ppl start to realize problems with big chunks of tangled code
 
+- conway’s law
+  - application will reflect the social boundaries of the organization that produced it
+
 
 ## general design recommendations
 
@@ -68,7 +71,8 @@
 - api gateway
   - useful for data aggregation from multiple microservices that own different databases
   - should never call another api gateway
-  - alternative: cqrs
+  - alternatives: materialized view, cqrs
+
 
 ## antipatterns
 
