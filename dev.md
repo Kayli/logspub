@@ -139,11 +139,23 @@
   - verified reference types: reference types are implicitly non-nullable
     - with <Nullable>enable</Nullable> <WarningsAsErrors>nullable</WarningsAsErrors> in your csproj file
     - now you have to explicitly state that some type is nullable
+  - named tuples: useful for return types
+    - deconstruction
+      > var (isSuccess, response) = doSomething();
+  - is/as simplification
+    > if (item is string str) { /* do something with the str */ }
+    - you can also do typechecks inside case statements
+      > case ILoggable loggable when loggable.LogLevel == LogLevel.Warn: ...
+  - non-overridable equality operator
+    > if (x is null) ...
+  - synonyms for '&', '|' operators: 'and', 'or'
+  - switch expression-bodied method: simpler map-like syntax for pattern matching
+  - records: simplify declaration of immutable dtos by generating ctor, equality operator, properties
+    > public record Order (int Id, string ArticleName, decimal Total);
+    - cloning a record with mutated field
+      > var order2 = order1 with { ArticleName = "something else"};
+  - global usings: you now can have a file with 'global using' statements which will apply project-wide
   
-    
-  
-    
-    
 
 
 ## references
