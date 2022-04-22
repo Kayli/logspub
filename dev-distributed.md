@@ -65,6 +65,10 @@
 - micro frontend [^8]
   - react: 'module federation plugin'
 
+- api gateway
+  - useful for data aggregation from multiple microservices that own different databases
+  - should never call another api gateway
+  - alternative: cqrs
 
 ## antipatterns
 
