@@ -107,6 +107,7 @@
 
 ## ide
 
+- visual studio: slow and bloated
 - vscode
   - useful extensions
     - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
@@ -115,6 +116,8 @@
 - jetbrains
   - rider: for .net developers
   - pycharm: for python developers
+
+
 
 
 ## csharp
