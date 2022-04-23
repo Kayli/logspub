@@ -72,6 +72,7 @@
 
 - api gateway
   - useful for data aggregation from multiple microservices that own different databases
+  - improves security by reducing attack surface
   - should never call another api gateway
   - alternatives: materialized view, cqrs
 

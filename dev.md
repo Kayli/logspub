@@ -126,6 +126,15 @@
   - pycharm: for python developers
 
 
+## dotnet
+
+- new features
+  - async timer class: PeriodicTimer
+  - separate classes for time and date: TimeOnly, DateOnly
+  - linq
+    - split collection into chunks of size n: items.Chunk(n)
+    - MinBy and MaxBy as a shorter version of OrderBy + First
+
 
 
 ## csharp
@@ -168,6 +177,8 @@
       > var order2 = order1 with { ArticleName = "something else"};
   - global usings: you now can have a file with 'global using' statements which will apply project-wide
   - reduced nesting of a namespace if its the only namespace statement
+  - index from end operator ^
+    - var lastItem = array[^1]; 
 
 
 ## references
