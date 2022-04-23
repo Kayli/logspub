@@ -22,7 +22,15 @@
 - dealing with hard concurrency problems is the main area for which Pony has been designed
 - reference capabilities (rcaps)
 - inspired by: erlang, elixir, akka, haskell, scala, python
-- leading underscore in variable and method? names means private
+
+
+## encapsulation
+
+- leading underscore in name defines
+  - private variable
+  - private function
+    - definition of 'private' for functions corresponds to something like 'internal' in csharp,
+      meaning that they are scoped by package
 
 
 ## terms
