@@ -57,7 +57,10 @@
   - disadvantages: likely data duplication, eventual consistency
 
 - dumb pipes
-  - buses should be trivial to use
+  - buses should be trivial to use, in that sense they should be 'dumb'
+  - if some optimization is possible - thats okay, but pipes should not dictate much
+  - ideally they should adapt to demands of the applications they use
+    - they should autoconfigure based on usage pattern
 
 - transactional outbox [^4]
   - safely save messages into a database before sending them asynchronously
