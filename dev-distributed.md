@@ -121,9 +121,11 @@
     - worker
   - pod
   - service
-    - takes care of service discovery, allowing to expose fixed ip and dns endpoint
+    - takes care of service discovery, allowing to expose fixed ip 
     - see selector and load-balancer mechanisms
     - when a pod is run on a node, the kubelet adds a set of environment variables for each active service
+  - ingress controller
+    - component and api which allows you to expose your service as a dns endpoint
   - replica set
     - defines how many pod instances we need across cluster
   - deployment
