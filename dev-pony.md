@@ -22,7 +22,7 @@
 - dealing with hard concurrency problems is the main area for which Pony has been designed
 - reference capabilities (rcaps)
 - inspired by: erlang, elixir, akka, haskell, scala, python
-
+- leading underscore in variable and method? names means private
 
 
 ## terms

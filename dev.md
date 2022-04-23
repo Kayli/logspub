@@ -29,6 +29,22 @@
   - vscode plugin 
 
 
+## parser generators/combinators
+
+- grammar standards
+  - ebnf (w3c grammar notation, extended backus–naur form)
+
+- antlr
+  - industry standard tool to generate parsers
+  - antlr is its own grammar standard
+  - supports many languages for generated parsers
+
+- parsec
+  - parser combinator in python
+  - source code https://github.com/sighingnow/parsec.py/blob/master/src/parsec/__init__.py
+  - some examples https://github.com/sighingnow/parsec.py/tree/master/examples
+
+
 ## programming languages
 
 - classic functional programming [^1]
