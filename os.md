@@ -43,7 +43,11 @@
 ### useful commands
 
 - copy file from remote ssh to host
-  > scp 'ilichpost_gmail_com@35.233.131.109:/home/ilichpost_gmail_com/Downloads/*.pdf' ~/Downloads
+  > scp 'username@ipaddress:/home/username/Downloads/*.pdf' ~/Downloads
+
+- install ssh key to remote server from client (make sure password authentication is enabled)
+  > ssh-copy-id -i ~/.ssh/id_ed25519.pub username@ipaddress
+  - you can disable password authentication after installing a key
 
 
 ## references
