@@ -11,6 +11,9 @@
 - clean clipboard 
   > pbcopy < /dev/null
 
+- test remote port
+  > nc -vz <ip> <port>
+
 ## system extensions
 
 - pieces of code that can run independently of any user
