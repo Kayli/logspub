@@ -33,7 +33,9 @@
 
 - pony
   - type-safe
-    - with safety math proof, but what it practically means? 
+    - with safety math proof, but what it practically means?
+      - most likely that some math person looked at math model and approved it
+      - so, whats been approved is not even an implementation of that model
   - object-oriented
   - compiled ahead of time using LLVM
   - actor
