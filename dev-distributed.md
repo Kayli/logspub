@@ -116,16 +116,17 @@
     - kim is a wrapper for docker commands
 
 - key entities
-  - master node
+  - control plane (ex master node)
     - has 4 processes
       - api server: gateway to the cluster
-      - scheduler: decides on which worker node to host individual pods
+      - scheduler: decides on which node to host individual pods
       - controller manager: monitors/recovers cluster state
       - etcd: stores cluster state/configuration data (not application data!)
-  - worker node
+  - node
+    - is a vm or a physical computer that serves as a worker machine in a kubernetes cluster
     - has processes
-      - container runtime, e.g. docker
       - kubelet: starts the pod with a container inside
+      - container runtime, e.g. docker
       - kube proxy: intelligently manages connections between pods
     - hosts multiple pods
   - pod
