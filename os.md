@@ -45,8 +45,12 @@
 - copy file from remote ssh to host
   > scp 'username@ipaddress:/home/username/Downloads/*.pdf' ~/Downloads
 
-- install ssh key to remote server from client (make sure password authentication is enabled)
-  > ssh-copy-id -i ~/.ssh/id_ed25519.pub username@ipaddress
+- install ssh key to remote server from client
+  - make sure password authentication is enabled
+  - run the following command
+    > ssh-copy-id -i ~/.ssh/id_ed25519.pub username@ipaddress
+  - this adds your public key to authorized_keys on a server machine
+    - it means you can add key to this file on a server manually if password authentication is disabled
   - you can disable password authentication after installing a key
 
 
