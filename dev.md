@@ -12,8 +12,8 @@
 
 - git
   - foss, written in shell + c
-  - recursively git latest version
-    > git submodule update --recursive --remote
+  - recursively get latest version
+    > git pull --recurse-submodules
 
 - mercurial
   - foss, written in python
