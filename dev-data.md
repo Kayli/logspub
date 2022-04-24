@@ -102,9 +102,12 @@
     - scalar in child
 
 - mongodb supports
+  - 16mb max document size limit
   - optional schema validation
   - referential constraints using dbref
     - works across documents, shards and databases within same cluster
+  - $lookup
+    - similar to join in sql
 
 
 ## references
