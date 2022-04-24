@@ -42,3 +42,4 @@
 ## references
 
 [^1] https://www.quora.com/What-is-the-difference-between-a-monopoly-and-a-quasi-monopoly
+[^4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
