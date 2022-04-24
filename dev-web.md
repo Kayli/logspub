@@ -66,6 +66,7 @@
   - industry most popular choice for apis
   - cons: lacks standardization
     - therefore unified observability and introspection is hindered across heterogeneous stack
+    - but check https://oai.github.io/Documentation as it suggests some standard and generators
 
 - graphql
   - queryable apis
