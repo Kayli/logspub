@@ -159,6 +159,8 @@
   - англосаксы и рождение англии https://www.youtube.com/watch?v=jQtj8uANmIE
   - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
 
+- 1830 отмена рабства
+
 
 ## americas
 
