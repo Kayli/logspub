@@ -33,7 +33,6 @@
     - automatically deprioritises actors that send messages to "loaded queues"
   - has its own heap
 
-- dealing with hard concurrency problems is the main area for which Pony has been designed
   - reference capabilities (rcaps)
 
 
@@ -44,6 +43,25 @@
     model and approved it. so, whats been approved is not even an implementation of that model
   - also keep in mind that all implementations are buggy, its just a matter of probabilities
   - so, at very least, there is some mathematical rigor associated with language design i guess
+
+
+### reference capabilities (rcaps)
+
+- is a modifier which constraints usage of variables, objects and their members
+- used for dealing with hard concurrency problems, as its the main area for which pony has been designed
+- placing rcap in front of the function requres object on which this method has been called to be of that type
+- types
+  - box 
+    - default receiver reference capability if none is specified
+    - means “i need to be able to read from this, but i won’t write to it”
+    - for a class function, makes it pure? so the following won't compile:
+      > fun ref set_hunger(to: U64 = 0): U64 => _hunger_level = to
+  - ref
+    - reference type, meaning that the object is mutable
+    - for a class function, relaxes access to class members
+      > fun ref set_hunger(to: U64 = 0): U64 => _hunger_level = to
+
+
 
 ## terms
 
