@@ -22,7 +22,6 @@
 - syndrome
   - collection of signs and symptoms associated with a specific health-related cause
 
-
 - related fields of study
   - microbiology
   - virology
@@ -80,6 +79,11 @@
     - help to develop new adaptations over large timespans
       - placenta is an example of such organ that gets developed with the help of a viral protein
         - evolved in the common ancestor of placental mammals, which almost all living mammals
+
+- well known
+  - smallpox (оспа)
+  - rabies (бешенство)
+
 
 ### mixed cause
 

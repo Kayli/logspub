@@ -244,7 +244,7 @@
           justice, unity, whatever ...
 
 
-## global
+## modern global order
 
 - wallerstein's world system theory model countries classification [^4]
   - core: high profit consumption goods
