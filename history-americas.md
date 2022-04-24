@@ -35,7 +35,7 @@
   - declaration of independence july 4, 1776
 
 - civil war 1861-1865
-  - north vs south
+  - slaveholding south and a free north
 
 - independence of canada 1867
   - british north america act, july 1st
