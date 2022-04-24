@@ -10,10 +10,15 @@
 - trait system (similar to Java 8 interfaces that can have default implementations)
 - interface system (similar to Go interfaces, i.e. structurally typed)
 
-
 ## common types
 
 - Bool, U64, I64, F64, String
+
+
+## type conversions
+
+- concrete types provide methods named similarly to target type for conversion
+  - F32(1.0).f64()
 
 
 ## encapsulation
@@ -60,6 +65,12 @@
   - back pressure problem
     - automatically deprioritises actors that send messages to "loaded queues"
   - has its own heap
+
+
+## problems
+
+- minor
+  - there is no repl as of april 24, 2022
 
 
 ## terms
