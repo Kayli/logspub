@@ -246,7 +246,10 @@
 
 ## global
 
-- wallerstein's world system theory model [^4]
+- wallerstein's world system theory model [^4] countries classification
+  - core
+  - periphery
+  - semi-periphery
 
 
 
