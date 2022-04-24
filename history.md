@@ -201,6 +201,12 @@
           justice, unity, whatever ...
 
 
+## japan
+
+- 1890 compulsory education for everyone
+  - one of the major causes of fast economic growth
+
+
 ## modern global order
 
 - wallerstein's world system theory model countries classification [^4]
