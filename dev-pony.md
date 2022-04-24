@@ -4,9 +4,11 @@
 
 - type-safe
 - object-oriented
+- inspired by: erlang, elixir, akka, haskell, scala, python
 - compiled ahead of time using LLVM
 - exception safe: they are always handled
-- inspired by: erlang, elixir, akka, haskell, scala, python
+- trait system (similar to Java 8 interfaces that can have default implementations)
+- interface system (similar to Go interfaces, i.e. structurally typed)
 
 
 ## common types
@@ -33,17 +35,6 @@
     - automatically deprioritises actors that send messages to "loaded queues"
   - has its own heap
 
-  - reference capabilities (rcaps)
-
-
-## safety
-
-- comes with safety math proof
-  - but what does it practically mean? most likely that some math person looked at math
-    model and approved it. so, whats been approved is not even an implementation of that model
-  - also keep in mind that all implementations are buggy, its just a matter of probabilities
-  - so, at very least, there is some mathematical rigor associated with language design i guess
-
 
 ### reference capabilities (rcaps)
 
@@ -61,6 +52,14 @@
     - for a class function, relaxes access to class members
       > fun ref set_hunger(to: U64 = 0): U64 => _hunger_level = to
 
+
+## safety
+
+- comes with safety math proof
+  - but what does it practically mean? most likely that some math person looked at math
+    model and approved it. so, whats been approved is not even an implementation of that model
+  - also keep in mind that all implementations are buggy, its just a matter of probabilities
+  - so, at very least, there is some mathematical rigor associated with language design i guess
 
 
 ## terms
