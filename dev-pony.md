@@ -25,23 +25,14 @@
       meaning that they are scoped by package
 
 
-## concurrency
+## safety
 
-- pony is actor-based
-  - is like a class with specifics
-  - can have behaviours, which are async functions
-  - single message queue
-  - back pressure problem
-    - automatically deprioritises actors that send messages to "loaded queues"
-  - has its own heap
+- reference capabilities (rcaps)
+  - rcap is a modifier which constraints usage of variables, objects and their members
+  - used for dealing with hard concurrency problems, as its the main area for which pony has been designed
+  - placing rcap in front of the function requres object on which this method has been called to be of that type
 
-
-### reference capabilities (rcaps)
-
-- is a modifier which constraints usage of variables, objects and their members
-- used for dealing with hard concurrency problems, as its the main area for which pony has been designed
-- placing rcap in front of the function requres object on which this method has been called to be of that type
-- types
+- rcap types
   - box 
     - default receiver reference capability if none is specified
     - means “i need to be able to read from this, but i won’t write to it”
@@ -53,13 +44,22 @@
       > fun ref set_hunger(to: U64 = 0): U64 => _hunger_level = to
 
 
-## safety
-
 - comes with safety math proof
   - but what does it practically mean? most likely that some math person looked at math
     model and approved it. so, whats been approved is not even an implementation of that model
   - also keep in mind that all implementations are buggy, its just a matter of probabilities
   - so, at very least, there is some mathematical rigor associated with language design i guess
+
+
+## concurrency
+
+- pony is actor-based
+  - is like a class with specifics
+  - can have behaviours, which are async functions
+  - single message queue
+  - back pressure problem
+    - automatically deprioritises actors that send messages to "loaded queues"
+  - has its own heap
 
 
 ## terms
