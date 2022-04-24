@@ -244,6 +244,12 @@
           justice, unity, whatever ...
 
 
+## global
+
+- wallerstein's world system theory model [^4]
+
+
+
 ## useful apps
 
 - interactive world history atlas since 3000 bc http://geacron.com/ 
@@ -265,3 +271,4 @@
 [^1]: https://www.youtube.com/channel/UCGzfpg1YiBIlgcODQI4lDvQ
 [^2]: https://infogram.com/share-of-world-gdp-throughout-history-1gjk92e6yjwqm16
 [^3]: https://www.youtube.com/watch?v=HvVFxUtNEDQ&t=5188s
+[^4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
