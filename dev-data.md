@@ -91,6 +91,8 @@
 ## document dbs
 
 - schema versioning pattern
+  - you can store/retrieve documents with slightly different schemas from the same collection
+  - application is responsible for extracting correct data based on schema version field
 
 - referencing approaches
   - one-to-one
@@ -101,13 +103,19 @@
     - array in parent
     - scalar in child
 
-- mongodb supports
+- mongodb
   - 16mb max document size limit
   - optional schema validation
   - referential constraints using dbref
     - works across documents, shards and databases within same cluster
   - $lookup
     - similar to join in sql
+  - guis
+    - atlas
+      - data explorer
+      - allows automating database administration tasks such as database configuration, 
+        infrastructure provisioning, patches, scaling events, backups, etc.
+    - compass
 
 
 ## references
