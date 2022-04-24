@@ -17,6 +17,13 @@
   - same as monopsony but with a few buyers
 
 
+## global
+
+- wallerstein's world system theory model countries classification [^4]
+  - core: high profit consumption goods
+  - periphery: cheap labor and raw materials
+  - semi-periphery
+
 
 ## books to consider reading
 
