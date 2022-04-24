@@ -60,12 +60,22 @@
 
 - pony is actor-based
   - is like a class with specifics
-  - can have behaviours, which are async functions
+  - can have behaviours
+    - keyword be
+    - which are asyncronous functions
   - single message queue
   - back pressure problem
     - automatically deprioritises actors that send messages to "loaded queues"
   - has its own heap
 
+
+## debugging [^2]
+
+- uses llvm toolchain
+- lldb for debugging
+- vscode extension: codelldb
+- in order to make shit work
+  - certain modifications required to launch.json, settings.json, tasks.json
 
 ## problems
 
@@ -82,3 +92,4 @@
 ## references
 
 [^1]: https://tutorial.ponylang.io
+[^2]: https://www.ponylang.io/reference/#debugging
