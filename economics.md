@@ -7,7 +7,7 @@
 
 - monopoly, oligopoly
 
-- quasi monopoly
+- quasi monopoly [^1]
   - there are competitors but one supplier holds the majority of the marketplace
   - example: google in search engines space in america
 
@@ -32,3 +32,6 @@
   - https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man
 
 
+## references
+
+[^1] https://www.quora.com/What-is-the-difference-between-a-monopoly-and-a-quasi-monopoly
