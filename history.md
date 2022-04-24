@@ -209,6 +209,11 @@
 
 ## modern global order
 
+- 19th century: invention of nations
+  - back then it was considered a progressive idea that unifies smaller groups of people
+    - example: venice, florence, genoa (генуя) united as italy
+  - nations invent their history, reframing and often twisting past historical events
+
 - wallerstein's world system theory model countries classification [^4]
   - core: high profit consumption goods
   - periphery: cheap labor and raw materials
