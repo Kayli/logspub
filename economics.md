@@ -7,6 +7,10 @@
 
 - monopoly, oligopoly
 
+- quasi monopoly
+  - there are competitors but one supplier holds the majority of the marketplace
+  - example: google in search engines space in america
+
 - monopsony
   - situation when a single entity has a market power over all sellers as the only buyer of a good or service
 - oligopsony
