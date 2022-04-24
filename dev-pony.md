@@ -13,7 +13,7 @@
 
 ## common types
 
-- String, U64
+- Bool, U64, I64, F64, String
 
 
 ## encapsulation
