@@ -203,6 +203,7 @@
 
 ## japan
 
+- 6 streams: https://www.youtube.com/playlist?list=PLk7JM19SQtzCNIPqRInEygcvKA_CwF5ey
 - 1890 compulsory education for everyone
   - one of the major causes of fast economic growth
 
