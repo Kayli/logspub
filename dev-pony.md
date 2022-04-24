@@ -10,6 +10,7 @@
 - trait system (similar to Java 8 interfaces that can have default implementations)
 - interface system (similar to Go interfaces, i.e. structurally typed)
 
+
 ## common types
 
 - Bool, U64, I64, F64, String
@@ -61,7 +62,7 @@
 - pony is actor-based
   - is like a class with specifics
   - can have behaviours
-    - keyword be
+    - use 'be' instead of 'fun'
     - which are asyncronous functions
   - single message queue
   - back pressure problem
@@ -77,6 +78,7 @@
 - in order to make shit work
   - certain modifications required to launch.json, settings.json, tasks.json
   - see repo for more details: git@gitlab.com:illiakailli/ponyworld 
+
 
 ## problems
 
