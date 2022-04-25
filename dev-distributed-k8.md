@@ -1,4 +1,4 @@
-## kubernetes k8s
+The Operator Framework is a set of developer tools and Kubernetes components, that aid in Operator development and central management on a multi-tenant cluster.The Operator Framework is a set of developer tools and Kubernetes components, that aid in Operator development and central management on a multi-tenant cluster.## kubernetes k8s
 
 ## basics
 
@@ -151,6 +151,22 @@
 
 - charts collections
   - https://kubedex.com/top-10/
+
+
+## operators
+
+- operator 
+  - is a method of packaging, deploying and managing a kubernetes application
+  - it takes human operational knowledge and encodes it into software that is more easily packaged 
+    and shared with consumers
+  - watches over your k8 environment and uses its current state to make decisions in milliseconds
+
+- operator framework https://operatorframework.io
+  - set of developer tools and Kubernetes components, that aid in Operator development and central 
+    management on a multi-tenant cluster
+
+- capability levels https://operatorframework.io/operator-capabilities/
+- registry https://operatorhub.io
 
 
 ## tools to consider
