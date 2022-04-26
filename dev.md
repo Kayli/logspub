@@ -8,25 +8,13 @@
     - nowadays these structures are called methods, functions, switch statements, loops, etc.
 
 
-## source control
-
-- git
-  - foss, written in shell + c
-  - recursively get latest version
-    > git pull --recurse-submodules
-
-- mercurial
-  - foss, written in python
-  - repository https://www.mercurial-scm.org/repo/hg/
-
-
 ## modelling languages and tools
 
 - universal modelling language
 - mermaid https://mermaid.live/
   - declarative uml diagrams, similar to websequencediagrams
   - supports: flow charts, sequence diagrams, class diagrams, erd diagrams
-  - vscode plugin 
+  - vscode plugin
 
 
 ## parser generators/combinators

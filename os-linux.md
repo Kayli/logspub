@@ -85,22 +85,6 @@
     ​> sudo service <servicename> restart
   - creating your own service [^4]
 
-- git version control
-  - show log and commit details
-    > git log
-    > git show <hash>
-  - amend last commit
-    > git commit --amend -m'message'
-
-  - list all git lfs files 
-    > git lfs ls-files --all
-
-  - stage changed files with detecting renamed ones
-    > git -A add .
-  
-  - register nccommit alias
-    > git config --global alias.nccommit 'commit -a --allow-empty-message -m ""'
-
 - flashing images
   - list partitions for the devices matched by a pattern sdi*
     > fdisk -l /dev/sdi
@@ -112,6 +96,7 @@
     > sudo dd if=/dev/mmcblk2 of=boot-sector-manjaro-emmc.img bs=512 count=62500
   - command to restore boot sector back
     > sudo dd if=boot-sector-manjaro-emmc.img of=/dev/mmcblk2 bs=512
+  
 
 - regular expression pattern matching
   - this will search/match 'test' and 'hui' strings within a <filename> document, ignoring case

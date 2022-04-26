@@ -151,7 +151,9 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
     - add 'token' field for the user with decoded token as a value [^2]
   - etcd https://artifacthub.io/packages/helm/bitnami/etcd
 
-- registry: https://artifacthub.io/
+- registry
+  - https://artifacthub.io/
+  - https://github.com/cdwv/awesome-helm
 
 
 ## operators
