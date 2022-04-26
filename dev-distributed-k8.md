@@ -139,18 +139,19 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
     like a full web app stack with HTTP servers, databases, caches, and so on
   - runs template engine for kubernetes manifest files, which enables more flexible k8 deployments
 
-  
-- dashboard https://github.com/kubernetes/dashboard
-  - create a new user, otherwise it wont work!!
-  - to authenticate with token, decode and view it with the following command
-    > kubectl get secrets
-    > kubectl get secret <secret-name> -o jsonpath={.data.token} | base64 -d
-  - create kubeconfig file
-    > kubectl config view > kubeconfig
-  - add 'token' field for the user with decoded token as a value [^2]
 
-- charts collections
-  - https://kubedex.com/top-10/
+- popular charts
+  - dashboard https://github.com/kubernetes/dashboard
+    - create a new user, otherwise it wont work!!
+    - to authenticate with token, decode and view it with the following command
+      > kubectl get secrets
+      > kubectl get secret <secret-name> -o jsonpath={.data.token} | base64 -d
+    - create kubeconfig file
+      > kubectl config view > kubeconfig
+    - add 'token' field for the user with decoded token as a value [^2]
+  - etcd https://artifacthub.io/packages/helm/bitnami/etcd
+
+- registry: https://artifacthub.io/
 
 
 ## operators

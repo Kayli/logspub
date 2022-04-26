@@ -117,6 +117,13 @@
         infrastructure provisioning, patches, scaling events, backups, etc.
     - compass
 
+## key-value stores
+
+- etcd
+  - uses lmdb, a software library behind the scenes that provides an embedded 
+    transactional database in the form of a key-value store
+
+
 
 ## references
 

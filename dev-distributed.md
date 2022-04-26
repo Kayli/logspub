@@ -212,7 +212,8 @@
   - wireshark: tcp/udp traffic
 
 - http(s)
-  - fiddler: for http traffic
+  - fiddler
+  - postman
   - mitmproxy: has python api
 
 
