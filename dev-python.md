@@ -118,7 +118,13 @@
 - pylint 
   - standard source-code quality checker
   - usage: pylint <package-folder-path>
+
 - pyright https://github.com/microsoft/pyright
+
+- black
+  - popular code formatter
+  - vscode integration setup
+    - https://marcobelo.medium.com/setting-up-python-black-on-visual-studio-code-5318eba4cd00
 
 
 ## coverage tools
