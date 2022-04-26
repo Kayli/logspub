@@ -56,7 +56,7 @@
   - supports Python 3.6 and later
     
 
-## virtual environment libraries
+## virtual environments
 
 - venv
   - standard virtual environment creation toolchain for python 2.x and 3.x
@@ -91,6 +91,9 @@
     > poetry add --dev <dev-package-name>
   - restore dependencies
     > poetry install
+
+- visual studio code
+  - use the 'Python: Select Interpreter' command from the command palette (ctrl+shift+p)
 
 
 ## unit testing

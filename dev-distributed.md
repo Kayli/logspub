@@ -260,6 +260,21 @@
 - performance/load testing: gatling, jmeter, flood.io
 
 
+## cluster synchronozation protocols
+
+- paxos
+  - family of protocols for solving consensus in a network of unreliable or fallible processors
+
+- raft
+  - consensus algorithm that is designed to be easy to understand
+  - it's equivalent to paxos in fault-tolerance and performance
+  - difference is that it's decomposed into relatively independent subproblems, 
+    and it cleanly addresses all major pieces needed for practical systems
+
+- zab
+  - crash-recovery atomic broadcast algorithm for the zookeeper coordination service
+
+
 ## terminology
 
 - network operations centers (NOCs)
@@ -282,3 +297,4 @@
 [^7]: https://stackoverflow.com/questions/57740782/message-bus-vs-service-bus-vs-event-hub-vs-event-grid
 [^8]: https://micro-frontends.org
 [^9]: https://www.youtube.com/watch?v=TJS19EuzH2k
+[^10]: https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3?p2df
