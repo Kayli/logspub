@@ -25,6 +25,9 @@
   - register nccommit alias
     > git config --global alias.nccommit 'commit -a --allow-empty-message -m ""'
 
+  - hard reset to previous commit
+    > git log
+    > git reset --hard <commit>
 
 
 ## mercurial

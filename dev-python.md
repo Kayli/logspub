@@ -126,6 +126,12 @@
   - vscode integration setup
     - https://marcobelo.medium.com/setting-up-python-black-on-visual-studio-code-5318eba4cd00
 
+- mypy
+  - static type checker
+  - caveats
+    - won't complain if you try to use (dot into) undeclared field
+      > self.hui.test() # this passes static check unfortunately
+
 
 ## coverage tools
 
