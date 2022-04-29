@@ -31,6 +31,7 @@
     - the single observation of a black swan is sufficient to falsify it
       - its like unit-tests trying to falsify your written program to find 
         - inconsistency between actual and expected behaviors of the system (a bug)
+    
 
 - kuhn's rationality of theory choice 
   - book "the structure of scientific revolutions"
@@ -64,7 +65,7 @@
     - yields knowledge
     - verification procedure is significantly modified
       - in comparison to one standardised by modern scientific community
-      - no clear validation procedure exists against reality
+      - no clear validation procedure against reality exists 
         - as even if there is a connection to reality, perception of it is highly subjective
         - meanings are too fluid and crafted to induce multiple equally valid interpretations
       - "prestiege" and "novelty" games are much more important than "verification" game   
