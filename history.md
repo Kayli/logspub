@@ -203,6 +203,7 @@
 - modern
   - mao era 1949–1976
     - chinese economic reform
+      - займы у ссср под 10%: завозятся технологии, строятся заводы
 
 
 ## japan
