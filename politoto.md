@@ -91,6 +91,18 @@
 - weed pm justin trudeau [^4]
   - considered one by some, as he won election because of mj legalization program support
 
+- ernest becker, the birth and death of meaning
+  - p177: they [will] need others less for support, and so do not automatically see gray temples as fatherly 
+    wisdom and are not likely to be taken in my the magical power of a deep and rumbling voice. instead, they
+    they would tend to judge the leader on his acts and his judgment.
+    the self-reliant person would be suspicious of easy promises and wild expectations because he has himself 
+    learned that reality is not generous but has to be approached correctly and patiently; and so he would also 
+    mistrust those who scorn reality by trying to push it, force it into fantasy or who fear it and try to over-control it.
+    a citizenry composed of large number of such people would be something to reckon with, because they would 
+    respect reality, bend to it, work it and survive with it. best of all ... they would place most of those who 
+    hold prominent political office today back in real-estate offices, restauraunts, cigar and clothing stores 
+    which they never would have left, where it for the fantasies of the masses
+
 
 ## references
 
