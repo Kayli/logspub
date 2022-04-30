@@ -171,7 +171,7 @@
   - huang (皇 huáng "august (ruler)")
   - confucius (/kənˈfjuːʃəs/ kən-FEW-shəs; Chinese: 孔夫子; pinyin: Kǒng Fūzǐ, "Master Kǒng"
 
-- early dynastic period
+- early dynastic period (ancient)
   - xia 2070 – 1600 bc
     - chinese: 夏朝; pinyin: xiàcháo, (шиачао)
       - хуася выращивали просо и порося )
@@ -199,6 +199,10 @@
       - 100 millions of rebels
         - fighting to restore 'taiping heavenly kingdom' some mythological state of bliss, 
           justice, unity, whatever ...
+
+- modern
+  - mao era 1949–1976
+    - chinese economic reform
 
 
 ## japan
