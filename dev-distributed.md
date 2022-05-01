@@ -206,15 +206,18 @@
   - msmq (deprecated)
 
 
-## tracing tools
+## tracing/monitoring
 
-- packet sniffers
-  - wireshark: tcp/udp traffic
+- if you ever need to ssh into a machine with a service, it likely means that monitoring failed you
 
-- http(s)
-  - fiddler
-  - postman
-  - mitmproxy: has python api
+- tools
+  - packet sniffers
+    - wireshark: tcp/udp traffic
+
+  - http(s)
+    - fiddler
+    - postman
+    - mitmproxy: has python api
 
 
 ## testing
