@@ -111,6 +111,12 @@
   - although this might be technically possible, it is far from advisable when not part of a deliberate transition strategy
 
 
+## splitting a monolith
+
+- be clear and precise about why you want to rearchitect a project
+  - better be supported with metrics when possible, and not just fashion or intuition
+
+
 ## kubernetes k8s
 
 - container orchestrator framework
