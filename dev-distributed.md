@@ -121,6 +121,11 @@
   - monolithic release is to slow, too complicated [^11]
   - reducing risks of evolving/rewriting application when its time
 
+- residual monolith
+  - you can leave old app in place for infinitely long
+  - contains functionality with lowest business value
+  - most stable and least changing
+
 
 ## kubernetes k8s
 
