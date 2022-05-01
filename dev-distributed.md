@@ -116,6 +116,9 @@
 - be clear and precise about why you want to rearchitect a project
   - better be supported with metrics when possible, and not just fashion or intuition
 
+- make sure functionality that you want to split out is covered with functional tests
+  - this will allow to verify that extracted service works the same way 
+
 - typical reasons 
   - parts of the system need to be deployed independently of others [^11]
   - monolithic release is to slow, too complicated [^11]
