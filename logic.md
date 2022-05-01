@@ -28,3 +28,12 @@
   - slaps you twice
   - when chance of seeing such price is above random threshold 
     - it is indicative of dishonest/unethical market pricing strategies that company engaged in
+
+- begging the question [^1]
+  - occurs when an argument's premises assume the truth of the conclusion, instead of supporting it
+  - example: happiness is the highest good for a human being, since all other values are inferior to it
+
+
+## references
+
+[^1]: https://www.txstate.edu/philosophy/resources/fallacy-definitions/Begging-the-Question.html
