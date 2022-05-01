@@ -116,6 +116,11 @@
 - be clear and precise about why you want to rearchitect a project
   - better be supported with metrics when possible, and not just fashion or intuition
 
+- typical reasons 
+  - parts of the system need to be deployed independently of others [^11]
+  - monolithic release is to slow, too complicated [^11]
+  - reducing risks of evolving/rewriting application when its time
+
 
 ## kubernetes k8s
 
@@ -308,3 +313,4 @@
 [^8]: https://micro-frontends.org
 [^9]: https://www.youtube.com/watch?v=TJS19EuzH2k
 [^10]: https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3?p2df
+[^11]: https://www.youtube.com/watch?v=9vS7TbgirgY
