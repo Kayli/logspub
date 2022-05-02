@@ -31,6 +31,10 @@
     > nvram boot-args="amfi_get_out_of_my_way=0x1"
 
 
+# screen sharing
+
+- sidecar: sharing screen on macos with ipad
+
 
 ## useful libraries
 
