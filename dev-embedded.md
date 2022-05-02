@@ -41,7 +41,7 @@
 
   - usb (universal serial bus)
 
- - shift register: fundamental method of conversion between serial and parallel forms
+- shift register: fundamental method of conversion between serial and parallel forms
 
 
 ## linux kernel embedded drivers [^1]
