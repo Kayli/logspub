@@ -12,18 +12,20 @@
 
 - serial bus interfaces
   - i2c (eye-squared-c)
-    - 2+1 wire
+    - 2+1 wires: data, clock, ground
     - has a 7-bit address space (with a rarely used 10-bit extension)
+    - multi-master
     - speeds from arbitrary low to up to 5 Mbit/s in ultra-fast mode
     - max length: about 2 meters max
 
   - uart (universal async reciever transmitter)
-    - 1+1 wire
+    - 1+1 wires: data, ground
   
   - rs232
 
   - can (controller area network bus)
     - max length 40 meters at 1 mbit/sec speed
+    - multi-master
 
 
 ## linux kernel embedded drivers [^1]
