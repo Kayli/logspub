@@ -2,12 +2,23 @@
 
 ## basics
 
+- bit vs baud
+  - bit means logical level
+  - baud means symbol on a physical level
+    - e.g, physical signals that is transferred over the physical medium to convey the data bits
+    - symbol can be one of several: voltage, frequency, or phase changes
+    - symbol is decided by the physical nature of the medium
+    - often used to quantify transmission speed, e.g 9600 bauds per second
+
 - bus interfaces
   - i2c (eye-squared-c)
     - simple two-wire serial bus
     - has a 7-bit address space (with a rarely used 10-bit extension)
     - speeds from arbitrary low to up to 5 Mbit/s in ultra-fast mode
     - max length: about 2 meters max
+
+  - uart (universal async reciever transmitter)
+    - 2 wires, receiver and transmitter have to have same settings
 
   - can (controller area network bus)
     - max length 40 meters at 1 mbit/sec speed
