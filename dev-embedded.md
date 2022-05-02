@@ -10,22 +10,38 @@
     - symbol is decided by the physical nature of the medium
     - often used to quantify transmission speed, e.g 9600 bauds per second
 
+- communication types
+  - simplex: sends information in one direction only
+  - half duplex: sends information in both directions but not simultaneously
+  - full duplex: both devices can send and receive at the same time
+
 - serial bus interfaces
+  - uart (universal async reciever transmitter)
+    - 2+1 wires: rx, tx, ground
+    - one-to-one communication only
+
+  - rs232
+  - rs485
+
   - i2c (eye-squared-c)
     - 2+1 wires: data, clock, ground
     - has a 7-bit address space (with a rarely used 10-bit extension)
     - multi-master
     - speeds from arbitrary low to up to 5 Mbit/s in ultra-fast mode
     - max length: about 2 meters max
-
-  - uart (universal async reciever transmitter)
-    - 1+1 wires: data, ground
   
-  - rs232
+  - spi (serial peripheral interface)
+    - 4+1 wires: clock, mosi (tx), miso (rx), cs/ss (chip select)
+    - full duplex
 
   - can (controller area network bus)
+    - widely used in vehicles
     - max length 40 meters at 1 mbit/sec speed
     - multi-master
+
+  - usb (universal serial bus)
+
+ - shift register: fundamental method of conversion between serial and parallel forms
 
 
 ## linux kernel embedded drivers [^1]
