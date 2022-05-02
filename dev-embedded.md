@@ -2,7 +2,7 @@
 
 ## basics
 
-- bit vs baud
+- bit vs baud [^2]
   - bit means logical level
   - baud means symbol on a physical level
     - e.g, physical signals that is transferred over the physical medium to convey the data bits
@@ -10,15 +10,17 @@
     - symbol is decided by the physical nature of the medium
     - often used to quantify transmission speed, e.g 9600 bauds per second
 
-- bus interfaces
+- serial bus interfaces
   - i2c (eye-squared-c)
-    - simple two-wire serial bus
+    - 2+1 wire
     - has a 7-bit address space (with a rarely used 10-bit extension)
     - speeds from arbitrary low to up to 5 Mbit/s in ultra-fast mode
     - max length: about 2 meters max
 
   - uart (universal async reciever transmitter)
-    - 2 wires, receiver and transmitter have to have same settings
+    - 1+1 wire
+  
+  - rs232
 
   - can (controller area network bus)
     - max length 40 meters at 1 mbit/sec speed
@@ -47,3 +49,4 @@
 ## references
 
 [^1]: https://www.youtube.com/watch?v=QIO2pJqMxjE
+[^2]: https://stackoverflow.com/questions/20534417/what-is-the-difference-between-baud-rate-and-bit-rate
