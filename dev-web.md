@@ -99,6 +99,13 @@
 - pages: instance of a template
 
 
+## streaming
+
+- websocket frameworks
+  - socket.io (crossplatform)
+  - signalr (microsoft)
+
+
 ## references
 
 [^1]: https://www.gatsbyjs.com/plugins/#cms
