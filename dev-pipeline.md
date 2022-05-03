@@ -26,6 +26,7 @@
   - k8 provisioning using terraform
     - supports eks (elastic k8 service) or gke (google k8 engine)
   - container vulnerability scanning
+  - good consistent documentation
 
 - disadvantages
   - no ecosystem of plugins, so integrations are hardcoded
@@ -38,8 +39,10 @@
 - cons
   - plugins are not always up to date or well supported
   - a bit archaic and glitchy interface (as of 2019)
+  - lack of analytics for overall tracking of pipelines [^2]
 
 
 ## reference
 
 [^1]: https://docs.gitlab.com/ee/operations/feature_flags.html#choose-a-client-library
+[^2]: https://www.lambdatest.com/blog/jenkins-vs-gitlab-ci-battle-of-ci-cd-tools/
