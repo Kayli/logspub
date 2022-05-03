@@ -27,18 +27,19 @@
 
 ## market [^4]
 
-- major players
-  - intel (220.21B)
-  - amd (133.12B)
-  - samsung
-  - TSMC
-  - SK Hynix
-  - Micron
-  - Qualcomm
-  - Broadcom
-  - Nvidia
-  - Texas Instruments
-  - Infineon
+- major players as of 2022
+  -	NVIDIA $485.94B USA
+  -	TSMC $483.78B	Taiwan
+  -	Samsung $363.47B	S. Korea
+  -	Broadcom $237.63B	USA
+  -	ASML $234.22B	Netherlands
+  -	Intel $183.30B USA
+  -	QUALCOMM $161.50B USA
+  -	Texas Instruments $160.30B USA
+  -	AMD $147.35B USA
+  - Applied Materials $100.16B
+
+- photolithography
   - ASML (advanced semiconductor materials litography)
     - is a Dutch multinational company specializing in development and manufacturing of photolithography systems
     - the largest supplier of photolithography systems primarily for the semiconductor industry
