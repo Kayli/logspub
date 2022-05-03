@@ -121,6 +121,16 @@
     - MinBy and MaxBy as a shorter version of OrderBy + First
 
 
+## software testing
+
+- automation frameworks
+  - functional
+    - selenium
+  - load/performance
+    - jmeter
+    - k6.io
+
+
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
