@@ -25,9 +25,9 @@
   - "to SPICE a circuit" remains synonymous with circuit simulation
 
 
-## market [^4]
+## market 
 
-- major players as of 2022
+- major players as of 2022 [^5]
   -	NVIDIA $485.94B USA
   -	TSMC $483.78B	Taiwan
   -	Samsung $363.47B	S. Korea
@@ -81,3 +81,4 @@
 [^2]: https://anysilicon.com/semiconductor-supply-chain-overview/
 [^3]: https://www.sciencedirect.com/topics/materials-science/silicon-wafer
 [^4]: https://en.wikipedia.org/wiki/Semiconductor_industry
+[^5]: https://companiesmarketcap.com/semiconductors/largest-semiconductor-companies-by-market-cap/
