@@ -65,6 +65,15 @@ important features been introduced in recent years
   - var lastItem = array[^1]; 
 
 
+## new framework features
+
+  - async timer class: PeriodicTimer
+  - separate classes for time and date: TimeOnly, DateOnly
+  - linq
+    - split collection into chunks of size n: items.Chunk(n)
+    - MinBy and MaxBy as a shorter version of OrderBy + First
+
+
 ## references
 
 [^1]: https://www.youtube.com/c/Elfocrash

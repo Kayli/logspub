@@ -111,16 +111,6 @@
   - pycharm: for python developers
 
 
-## dotnet
-
-- new features
-  - async timer class: PeriodicTimer
-  - separate classes for time and date: TimeOnly, DateOnly
-  - linq
-    - split collection into chunks of size n: items.Chunk(n)
-    - MinBy and MaxBy as a shorter version of OrderBy + First
-
-
 ## software testing
 
 - automation frameworks
