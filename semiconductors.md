@@ -25,33 +25,35 @@
   - "to SPICE a circuit" remains synonymous with circuit simulation
 
 
-## printable
+## market [^4]
 
-- https://en.wikipedia.org/wiki/Organic_field-effect_transistor
-- https://en.wikipedia.org/wiki/Organic_solar_cell
+- major players
+  - intel (220.21B)
+  - amd (133.12B)
+  - samsung
+  - TSMC
+  - SK Hynix
+  - Micron
+  - Qualcomm
+  - Broadcom
+  - Nvidia
+  - Texas Instruments
+  - Infineon
+  - ASML (advanced semiconductor materials litography)
+    - is a Dutch multinational company specializing in development and manufacturing of photolithography systems
+    - the largest supplier of photolithography systems primarily for the semiconductor industry
+    - the company manufactures machines for the production of integrated circuits
+    - owners
+      - Capital Group Companies(15.28%) USA
+      - Blackrock (7.69%) USA
+      - Baillie Gifford (4.29%) UK
 
+- semiconductors export as of 2016 [^4]
+  - china 25%, malaysia 10%, taiwan 9%, japan 9%, singapore 6%, usa 5%, germany 5%,
+    south korea 5%, phillipines 3%, tailand 2%, vietnam 1%, mexico 1%, netherlands 1%
 
-# major players
-
-- intel (220.21B)
-- samsung
-- TSMC
-- SK Hynix
-- Micron
-- Qualcomm
-- Broadcom
-- Nvidia
-- Texas Instruments
-- Infineon
-- ASML (advanced semiconductor materials litography)
-  - is a Dutch multinational company specializing in development and manufacturing of photolithography systems
-  - the largest supplier of photolithography systems primarily for the semiconductor industry
-  - the company manufactures machines for the production of integrated circuits
-  - owners
-    - Capital Group Companies(15.28%) USA
-    - Blackrock (7.69%) USA
-    - Baillie Gifford (4.29%) UK
-- amd (133.12B)
+- integrated circuits export as of 2016 [^4]
+  - taiwan 23%, south korea 11%, singapore 11%, china 10%, malasiya 9%, japan 5%, usa 5%
 
 
 ## some stuff not sure i'll ever need
@@ -67,8 +69,14 @@
 - DEF - design exchange format
 
 
+## printable
+
+- https://en.wikipedia.org/wiki/Organic_field-effect_transistor
+- https://en.wikipedia.org/wiki/Organic_solar_cell
+
+
 ## references
 
-- wikipedia
 [^2]: https://anysilicon.com/semiconductor-supply-chain-overview/
 [^3]: https://www.sciencedirect.com/topics/materials-science/silicon-wafer
+[^4]: https://en.wikipedia.org/wiki/Semiconductor_industry
