@@ -158,7 +158,7 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
 
 ## operators
 
-- operator 
+- operator
   - is a method of packaging, deploying and managing a kubernetes application
   - it takes human operational knowledge and encodes it into software that is more easily packaged 
     and shared with consumers
@@ -182,6 +182,9 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
   - chaosmonkey implementation
 - envoy https://github.com/slamdev/helm-charts/tree/master/charts/envoy
   - service mesh implementation using sidecar pattern for tracebility and a bunch of other features
+- tilt https://tilt.dev
+  - gives you smart rebuilds and live updates without having to go through ci/cd pipeline
+  - used to speedup coding with dev clusters
   
 
 ## references
