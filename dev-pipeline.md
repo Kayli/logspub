@@ -27,14 +27,17 @@
     - supports eks (elastic k8 service) or gke (google k8 engine)
   - container vulnerability scanning
 
-- missing
-  - plugins
+- disadvantages
+  - no ecosystem of plugins, so integrations are hardcoded
 
 
 ## jenkins
 
 - industry standard tool for ci/cd
 - rich ecosystem of plugins
+- cons
+  - plugins are not always up to date or well supported
+  - a bit archaic and glitchy interface (as of 2019)
 
 
 ## reference
