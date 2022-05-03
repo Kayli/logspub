@@ -94,7 +94,7 @@
 
 - atoms: button, label, image
 - molecules: label input, form
-- organisms: 
+- organisms
 - templates: where molecules and organisms are coming together to form a page template
 - pages: instance of a template
 
