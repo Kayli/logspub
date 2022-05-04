@@ -98,7 +98,7 @@
       - stores the binary data in a separate table in a special format
       - refers to that table by storing a value of type oid in your table
 
-- mysql
+- mysql/mariadb
   - binary data types
     - BLOB ≈ 64KB, MEDIUMBLOB ≈ 16MB and LONGBLOB ≈ 4GB
 
