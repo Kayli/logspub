@@ -78,7 +78,7 @@
     - questions
       - purity and halting problem: are they even connected?
         - look up termination analysis articles
-    - problems: oop paradigms are not supported and fanboys will never admit this is a problem
+    - problems: oop paradigms are not supported and fanboys will never admit this is an issue
 
 
 ## verified compilers
