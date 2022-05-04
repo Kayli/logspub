@@ -1,6 +1,6 @@
 # macos related useful information
 
-## terminal commands
+## useful terminal commands
 
 - list block devices (like lsblk on linux)
   > diskutil list
@@ -13,6 +13,9 @@
 
 - test remote port
   > nc -vz <ip> <port>
+
+- view shell commands full history
+  > less ~/.zsh_history
 
 
 ## system extensions
