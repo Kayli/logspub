@@ -88,6 +88,21 @@
         - "is intended to be read and written in streams" [^1]
 
 
+## relational
+
+- postgresql
+  - binary data storage types
+    - bytea data type
+      - up to 1 GB of binary data
+    - large object
+      - stores the binary data in a separate table in a special format
+      - refers to that table by storing a value of type oid in your table
+
+- mysql
+  - binary data types
+    - BLOB ≈ 64KB, MEDIUMBLOB ≈ 16MB and LONGBLOB ≈ 4GB
+
+
 ## document dbs
 
 - schema versioning pattern
