@@ -133,6 +133,7 @@
     - compass
   - gridfs
     - is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB
+    - supports sharding
 
 
 ## key-value stores
