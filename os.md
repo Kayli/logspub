@@ -39,19 +39,24 @@
   - comes with a formal, mathematical, machine-checked proof of implementation correctness
 
 
+## ssh
 
-### useful commands
+- user configuration folder is ~/.ssh
+- known_hosts file lets the client authenticate the server, to check that it isn't connecting to an impersonator
+  - user: ~/.ssh/known_hosts
+  - system-wide: /etc/ssh/known_hosts
+- ~/.ssh/authorized_keys file lets the server authenticate the user
 
-- copy file from remote ssh to host
-  > scp 'username@ipaddress:/home/username/Downloads/*.pdf' ~/Downloads
+- scp tool allows to copy files using ssh
+  - copy file from remote ssh to host
+    > scp 'username@ipaddress:/home/username/Downloads/*.pdf' ~/Downloads
 
-- install ssh key to remote server from client
-  - make sure password authentication is enabled
-  - run the following command
+- install ssh key to remote server
+  - you need to already have ssh connection to the target machine
+    - most likely scenario is that you're admin who already has ssh access to machine B
+    - and you want to allow access from machine A to machine B
+  - run the following command, to add your public key to authorized_keys on a server machine
     > ssh-copy-id -i ~/.ssh/id_ed25519.pub username@ipaddress
-  - this adds your public key to authorized_keys on a server machine
-    - it means you can add key to this file on a server manually if password authentication is disabled
-  - you can disable password authentication after installing a key
 
 
 ## references
