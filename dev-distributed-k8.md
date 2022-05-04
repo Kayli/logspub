@@ -23,7 +23,7 @@
     - controller manager: monitors/recovers cluster state
     - etcd: stores cluster state/configuration data (not application data!)
 
-- node
+- node (ex worker node)
   - is a vm or a physical computer that serves as a worker machine in a kubernetes cluster
   - has processes
     - kubelet: starts the pod with a container inside
