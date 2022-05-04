@@ -10,8 +10,8 @@
   - graph: neo4j
   - column: cassandra, hbase
   - cloud native
-    - amazon RDS, SimpleDB, DynamoDB
-    - azure Cosmos DB, SQL Database
+    - amazon rds, simpledb, dynamodb
+    - azure cosmos db, sql database
 
 
 ## migrations
