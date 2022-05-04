@@ -31,7 +31,7 @@
 ## provable kernels
 
 - seL4 [ess-e-ell-four]
-  - world's most advanced, most highly assured operating-system kernel
+  - world's most advanced, most highly assured operating-system kernel (marketing blurb?)
   - it is also a hypervisor
     - supports virtual machines that can run a fully fledged guest os such as linux
   - member of the L4 family of microkernels
