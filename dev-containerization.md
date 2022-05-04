@@ -40,6 +40,18 @@
   - the process that forked and went background is not monitored and may stop without you knowing it
 
 
+## docker compose
+
+- defines docker-compose.yml file with configuration
+- helps with 
+  - running multiple containers together
+  - storing configuration settings 
+    - such as volume mounts for the container
+    - port mappings
+    - environment variables
+- to start containers
+  > docker-compose up
+  
 
 ## other useful tools
 

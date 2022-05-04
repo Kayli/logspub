@@ -185,7 +185,12 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
 - tilt https://tilt.dev
   - gives you smart rebuilds and live updates without having to go through ci/cd pipeline
   - used to speedup coding with dev clusters
-  
+
+
+## tutorials
+
+- aws eks with terraform https://www.youtube.com/watch?v=Qy2A_yJH5-o
+
 
 ## references
 
