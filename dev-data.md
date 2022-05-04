@@ -116,6 +116,9 @@
       - allows automating database administration tasks such as database configuration, 
         infrastructure provisioning, patches, scaling events, backups, etc.
     - compass
+  - gridfs
+    - is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB
+
 
 ## key-value stores
 
