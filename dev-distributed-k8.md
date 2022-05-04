@@ -1,4 +1,4 @@
-The Operator Framework is a set of developer tools and Kubernetes components, that aid in Operator development and central management on a multi-tenant cluster.The Operator Framework is a set of developer tools and Kubernetes components, that aid in Operator development and central management on a multi-tenant cluster.## kubernetes k8s
+## kubernetes k8s
 
 ## basics
 
@@ -139,6 +139,8 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
     like a full web app stack with HTTP servers, databases, caches, and so on
   - runs template engine for kubernetes manifest files, which enables more flexible k8 deployments
 
+- values file
+  - is used to parametrize generic chart with specifics that we need in each particular case
 
 - popular charts
   - dashboard https://github.com/kubernetes/dashboard
@@ -190,6 +192,7 @@ The Operator Framework is a set of developer tools and Kubernetes components, th
 ## tutorials
 
 - aws eks with terraform https://www.youtube.com/watch?v=Qy2A_yJH5-o
+- introduction to helm https://www.youtube.com/watch?v=5_J7RWLLVeQ
 
 
 ## references
