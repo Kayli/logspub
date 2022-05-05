@@ -194,7 +194,7 @@
 - aws eks with terraform https://www.youtube.com/watch?v=Qy2A_yJH5-o
 - introduction to helm https://www.youtube.com/watch?v=5_J7RWLLVeQ
 - gitlab, k8, helm integration example https://www.youtube.com/watch?v=8Ao5WcMJJ2c
-
+- gitlab: automating k8 deployments https://www.youtube.com/watch?v=wEDRfAz6_Uw
 
 ## references
 
