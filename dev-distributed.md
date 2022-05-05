@@ -185,6 +185,24 @@
     - implements retries and circuit-breaker patterns
 
 
+## service mesh
+
+- definition
+  - dedicated infrastructure layer for facilitating service-to-service communications between services 
+    or microservices, using a proxy
+
+- typical features
+  - proxying and monitoring traffic among service nodes
+    - deriving a real-time preformance profile of a system
+  - augmenting service behaviors
+    - traffic rerouting and splitting
+    - simulating failures
+    - auto-retries
+    - circuit-breaker
+
+- popular products: istio, envoy
+
+
 ## pipes
 
 - rabbitmq
@@ -237,6 +255,9 @@
     - fiddler
     - postman
     - mitmproxy: has python api
+  
+  - service meshes: istio, envoy
+
 
 
 ## testing
