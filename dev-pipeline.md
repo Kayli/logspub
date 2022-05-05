@@ -27,6 +27,7 @@
     - supports eks (elastic k8 service) or gke (google k8 engine)
   - container vulnerability scanning
   - good consistent documentation
+  - integration with prometheus monitoring
 
 - disadvantages
   - no ecosystem of plugins, so integrations are hardcoded
