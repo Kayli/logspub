@@ -13,8 +13,15 @@
 
 - monopsony
   - situation when a single entity has a market power over all sellers as the only buyer of a good or service
+
 - oligopsony
   - same as monopsony but with a few buyers
+
+- swing producer
+  - is a supplier or a close oligopolistic group of suppliers of any commodity, controlling 
+    its global deposits and possessing large spare production capacity
+  - able to increase or decrease commodity supply at minimal additional internal cost
+    - able to influence prices and balance the markets, providing downside protection in the short to middle term
 
 
 ## global
