@@ -5,6 +5,9 @@
 - syntax: examines sentence structures, principles, and relationships
 - semantics: studies aspects of meaning
 - pragmatics: study of how context contributes to meaning
+- auto-antonym or contronym
+  - word with multiple meanings (senses) of which one is the reverse of another
+  - combination of homonym (words with similar spelling or pronunciation) and antonym
 
 
 ## proto-languages  [^1] 
