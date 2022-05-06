@@ -1,7 +1,13 @@
-## lecture notes on linguistics from [^1] and other sources
+## notes on linguistics and related topics
+
+## basics
+
+- syntax: examines sentence structures, principles, and relationships
+- semantics: studies aspects of meaning
+- pragmatics: study of how context contributes to meaning
 
 
-## proto-languages
+## proto-languages  [^1] 
 
 - proto-language
   - uses tree-structure model to represent evolution of languages
