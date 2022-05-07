@@ -71,6 +71,10 @@
       - time series
       - graph vertices and edges
 
+- processing in streaming vs messaging systems [^5]
+  - stream: message batches are units of work, so you have to buffer/accumulate them first
+  - messaging: individual messages are units of work
+
 - chunk types
   - network packet
     - formatted unit of data carried by a packet-switched network
@@ -155,3 +159,4 @@
 [^2]: https://stackoverflow.com/questions/31197813/sqlalchemy-filtering-nested-json-data-in-postgresql-jsonb
 [^3]: https://www.youtube.com/watch?v=ka-PLyjV3AI
 [^4]: https://mongodb.github.io/mongo-csharp-driver/2.4/reference/bson/mapping/schema_changes/
+[^5]: https://youtu.be/QhfuzEkN3Ck?t=935
