@@ -33,7 +33,8 @@
     - publish-subscribe channel (topic): broadcasting an event to all interested receivers
     - dead letter queue and poison pill/message
   
-  - channel adapter: connect message channel and application without modifying its code
+  - endpoints
+    - channel adapter: connect message channel and application without modifying its code
     - message endpoint: connect message channel and application by modifying its code
     - message receiver
       - polling consumer
@@ -45,16 +46,25 @@
       - durable subscriber: ensures messages not lost while endpoint is disconnected
       - idempotent receiver: correctly handles duplicate messages
   
+  - request-reply: useful when wrapping async system into a sync interface
+
   - canonical data model: unified contract for messages
+  - message bus: canonical data model + messaging infrastructure
+  
   - message translator: mapper
 
-  - request-reply: useful when wrapping async system into a sync interface
   - message store
-  - ordering
-    - message group [^2]
-      - local message order: order is preserved within a group of messages
-      - global message order: order is preserved for all messages in a channel
-    - resequencer: sorts out of order messages 
+
+  - routing
+    - splitter
+    - aggregator
+    - message filter
+    - ordering
+      - message group [^2]
+        - local message order: order is preserved within a group of messages
+        - global message order: order is preserved for all messages in a channel
+      - resequencer: sorts out of order messages 
+
 
 ## references
 
