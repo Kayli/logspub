@@ -1,5 +1,10 @@
 # notes about data formats, management system and related stuff
 
+## basics
+
+- database is a stateful application
+
+
 ## some popular databases
 
 - types
