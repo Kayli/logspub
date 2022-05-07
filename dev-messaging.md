@@ -24,6 +24,8 @@
 - other useful patterns
   - message channel: often called a queue
     - datatype channel: carries message only of a specific type
+    - point-to-point channel: exactly one receiver will receive a message
+    - publish-subscribe channel: broadcasting an event to all interested receivers
   - channel adapter: connect message channel and application without modifying its code
     - message endpoint: connect message channel and application by modifying its code
     - message receiver
