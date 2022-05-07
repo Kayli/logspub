@@ -29,3 +29,8 @@
   - works at the highest level of the OSI model
   - bases its routing decisions on various characteristics of the HTTP/HTTPS header, the 
     content of the message, the URL type, and information in cookies
+
+
+## references
+
+[^1]: https://avinetworks.com/glossary/l4-l7-network-services/
