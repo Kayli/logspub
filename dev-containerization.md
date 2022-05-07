@@ -7,6 +7,9 @@
   - containers are isolated from one another and bundle their own software, libraries and configuration files
     - they can communicate with each other through well-defined channels
 
+- state is not preserved after restarting container by default
+  - unless you're using a docker volume
+
 - installation
   - on arch, run following commands from terminal
 	  > pamac install docker

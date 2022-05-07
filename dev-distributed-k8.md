@@ -2,7 +2,6 @@
 
 ## basics
 
-
 - kubectl is cli for k8s
 - minikube provides simple local k8 cluster
 - helm is a k8 package manager
@@ -69,10 +68,12 @@
       - if you redeploy your group of 3 database hosts you want the same individual (by DNS name and IP address) 
         to get the same persistent volume so the master is still the master and still has the same data
 
-- volume
+- persistent volume
   - local or remote storage for stateful apps
+- persistent volume claim
+  - generalized request for some part of a storage
 
-- cloud cluster: what you run in productkubectl config view > kubeconfigion, consists of min 2 master and 3 worker nodes 
+- cloud cluster: what you run in production, consists of min 2 master and 3 worker nodes
 
 
 ## databases
