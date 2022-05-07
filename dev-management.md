@@ -19,7 +19,7 @@
 
 ## disfunctions
 
-- job security, leading to pathological tendencies in the long run
+- job security, leading to pathological tendencies in a long run
   - "professional IT engineers" ending up doing same things over and over again thousand times
 
 - many current engineering approaches not optimized for culture of hedonism but 
