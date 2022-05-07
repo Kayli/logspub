@@ -4,4 +4,5 @@
 
 - failure scenarios
   - more than half of the cluster nodes lose connection with the cluster, resulting in quorum loss
-    - cluster recovery process may be involved, so it better be automated and tested
+    - cluster recovery process may be involved
+    - it better be automated and tested beforehand
