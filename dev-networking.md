@@ -16,9 +16,16 @@
     - nearest to the end user, user and application are directly interacting
     - example protocols: HTTP/SIP
 
+
 ## load balancing
 
 - L4 load balancing 
-  - offers traffic management of transactions at the network protocol layer (TCP/UDP). L4 load balancing delivers traffic with limited network information with a load balancing algorithm (i.e. round-robin) and by calculating the best server based on fewest connections and fastest server response times.
+  - offers traffic management of transactions at the network protocol layer (TCP/UDP)
+  - delivers traffic with limited network information with a load balancing algorithm 
+    (i.e. round-robin) and by calculating the best server based on fewest connections 
+    and fastest server response times
 
-L7 load balancing works at the highest level of the OSI model. L7 bases its routing decisions on various characteristics of the HTTP/HTTPS header, the content of the message, the URL type, and information in cookies.
+- L7 load balancing 
+  - works at the highest level of the OSI model
+  - bases its routing decisions on various characteristics of the HTTP/HTTPS header, the 
+    content of the message, the URL type, and information in cookies
