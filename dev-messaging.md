@@ -26,6 +26,8 @@
     - datatype channel: carries message only of a specific type
     - point-to-point channel (queue): exactly one receiver will receive a message
     - publish-subscribe channel (topic): broadcasting an event to all interested receivers
+    - dead letter queue and poison pill/message
+
   - channel adapter: connect message channel and application without modifying its code
     - message endpoint: connect message channel and application by modifying its code
     - message receiver
