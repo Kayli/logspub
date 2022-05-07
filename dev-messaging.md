@@ -46,7 +46,9 @@
       - durable subscriber: ensures messages not lost while endpoint is disconnected
       - idempotent receiver: correctly handles duplicate messages
   
-  - request-reply: useful when wrapping async system into a sync interface
+  - conversation
+    - request-reply: useful when wrapping async system into a sync interface
+    - scatter-gather
 
   - canonical data model: unified contract for messages
   - message bus: canonical data model + messaging infrastructure
