@@ -39,6 +39,7 @@
       - selective consumer
       - durable subscriber: ensures messages not lost while endpoint is disconnected
       - idempotent receiver: correctly handles duplicate messages
+  
   - canonical data model: unified contract for messages
   - message translator: mapper
   - command message: ask receiver to perform some operation
@@ -47,8 +48,13 @@
   - message endpoint
   - request-reply: useful when wrapping async system into a sync interface
   - message store
-
+  - ordering
+    - message group [^2]
+      - local message order: order is preserved within a group of messages
+      - global message order: order is preserved for all messages in a channel
+    - resequencer: sorts out of order messages 
 
 ## references
 
 [^1]: https://www.enterpriseintegrationpatterns.com
+[^2]: https://youtu.be/QhfuzEkN3Ck?t=1806
