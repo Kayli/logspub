@@ -2,7 +2,7 @@
 
 ## basics
 
-- pods that are running inside k8 are running on a private, isolated network
+
 - kubectl is cli for k8s
 - minikube provides simple local k8 cluster
 - helm is a k8 package manager
@@ -36,6 +36,8 @@
   - can have one or more containers inside
   - provides a context with shared storage and network resources
   - has specification for how to run the containers
+  - pods are running on a private, isolated network inside k8 cluster
+  - don't have a stable ip/dns name, as it is randomized after recreation
 
 - service
   - takes care of service discovery, allowing to expose fixed ip 
