@@ -5,6 +5,7 @@
 - kubectl is cli for k8s
 - minikube provides simple local k8 cluster
 - helm is a k8 package manager
+- object definitions define desired state, while controllers watch object definitions to achieve that state
 
 
 ## key entities
@@ -70,6 +71,7 @@
 
 - persistent volume
   - local or remote storage for stateful apps
+  - is not bound to any namespace
 - persistent volume claim
   - generalized request for some part of a storage
 
