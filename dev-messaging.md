@@ -22,12 +22,17 @@
   - messaging: applications communicate by sending messages via message channels
 
 - other useful patterns
+  - message
+    - command message: ask receiver to perform some operation
+    - event message: notifies receivers about some change in a system
+    - document message: passes data from sender to receiver(s)
+  
   - message channel: often called a queue
     - datatype channel: carries message only of a specific type
     - point-to-point channel (queue): exactly one receiver will receive a message
     - publish-subscribe channel (topic): broadcasting an event to all interested receivers
     - dead letter queue and poison pill/message
-
+  
   - channel adapter: connect message channel and application without modifying its code
     - message endpoint: connect message channel and application by modifying its code
     - message receiver
@@ -42,10 +47,7 @@
   
   - canonical data model: unified contract for messages
   - message translator: mapper
-  - command message: ask receiver to perform some operation
-  - event message: notifies receivers about some change in a system
-  - document message: passes data from sender to receiver(s)
-  - message endpoint
+
   - request-reply: useful when wrapping async system into a sync interface
   - message store
   - ordering
