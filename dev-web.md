@@ -1,5 +1,13 @@
 # notes about web development ha
 
+## basics
+
+- simple 3-tier application
+  - browser (stateful)
+  - webserver (stateless)
+  - database (stateful)
+
+
 ## popular frameworks
 
 - react (ui)
