@@ -1,5 +1,12 @@
 # notes about containerization and related topics
 
+## basics
+
+- open container initiative (oci)
+  - standards around container technology
+  - compliant: docker, containerd, cri-o
+
+
 ## docker
 
 - definition

@@ -215,6 +215,8 @@
 - portainer [^5]
   - allows to monitor changes to manifest files stored in git and automatically apply them
 
+- argo
+
 
 ## tools to consider
 
