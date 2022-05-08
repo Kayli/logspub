@@ -296,6 +296,7 @@
 - zab
   - crash-recovery atomic broadcast algorithm for the zookeeper coordination service
 
+
 ## some techs to uncover
 
 - databases: cassandra
@@ -303,9 +304,6 @@
 - fallback: envoy, hystrix
 - security testing: findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench, clair
 - performance/load testing: gatling, jmeter, flood.io
-
-
-
 
 
 ## terminology
