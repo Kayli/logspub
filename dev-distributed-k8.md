@@ -209,7 +209,7 @@
     - you need to manually unseal every node in a cluster
 
 
-## gitops or infrastructure as a code
+## gitops or infrastructure as code (iac)
 
 - gitlab via
   - gitops workflow [^6]
