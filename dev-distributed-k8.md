@@ -40,7 +40,7 @@
   - don't have a stable ip/dns name, as it is randomized after recreation
 
 - service
-  - takes care of service discovery, allowing to expose 
+  - takes care of service discovery, allowing to expose
     - fixed ip
     - dns, in case if addon installed
       - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a 
