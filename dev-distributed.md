@@ -282,19 +282,24 @@
   - snyk, etc.
 
 
-## cluster synchronozation protocols
+## high availability
 
-- paxos
-  - family of protocols for solving consensus in a network of unreliable or fallible processors
+- 3 and 5 node clusters make most practical sense [^12]
+  - they shouldn't be 
+    - too far away from each other: cluster performance may degrade
+    - too close to each other: so that disaster is likely to influence only one
 
-- raft
-  - consensus algorithm that is designed to be easy to understand
-  - it's equivalent to paxos in fault-tolerance and performance
-  - difference is that it's decomposed into relatively independent subproblems, 
-    and it cleanly addresses all major pieces needed for practical systems
 
-- zab
-  - crash-recovery atomic broadcast algorithm for the zookeeper coordination service
+- cluster synchronozation protocols
+  - paxos
+    - family of protocols for solving consensus in a network of unreliable or fallible processors
+  - raft
+    - consensus algorithm that is designed to be easy to understand
+    - it's equivalent to paxos in fault-tolerance and performance
+    - difference is that it's decomposed into relatively independent subproblems, 
+      and it cleanly addresses all major pieces needed for practical systems
+  - zab
+    - crash-recovery atomic broadcast algorithm for the zookeeper coordination service
 
 
 ## some techs to uncover
@@ -330,3 +335,4 @@
 [^9]: https://www.youtube.com/watch?v=TJS19EuzH2k
 [^10]: https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3?p2df
 [^11]: https://www.youtube.com/watch?v=9vS7TbgirgY
+[^12]: https://www.youtube.com/watch?v=PRsB6HzQ_ss
