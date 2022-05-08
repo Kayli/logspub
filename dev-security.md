@@ -1,14 +1,33 @@
 # notes about software systems security and related stuff
 
-- basics
-  - legal side of things is important, so learn more about that
-
-
 ## penetration testing
 
-- scanning: nmap, nexpose 
-- metasploit framework
-  - https://docs.rapid7.com/metasploit/
-  - projects with vulnerabilities
-    - vulnerable linux vm built with vagrant https://github.com/rapid7/metasploitable3
+- basics
+  - legal side of things is important, so learn more about that
+    - rules of engagement (RoE) document defines what is allowed during testing
 
+- levels of engagement with pentest team
+  - white
+  - gray
+  - black: high risks of resources waste
+
+- tools
+  - scanning: nmap, nexpose 
+  - jtripper
+  - zenmap
+  - searchsploit
+  - wireshark
+  - metasploit framework
+    - https://docs.rapid7.com/metasploit/
+    - projects with vulnerabilities
+      - vulnerable linux vm built with vagrant https://github.com/rapid7/metasploitable3
+
+
+## abbreviations
+
+- waf: web application firewall
+
+
+## references
+
+[^1]: https://hub.packtpub.com/penetration-testing-rules-of-engagement/
