@@ -259,7 +259,6 @@
   - service meshes: istio, envoy
 
 
-
 ## testing
 
 - faking service dependencies: hoverfly and others
@@ -281,9 +280,6 @@
 
 - static vulnerability analysis for docker images
   - snyk, etc.
-
-
-
 
 
 ## cluster synchronozation protocols
