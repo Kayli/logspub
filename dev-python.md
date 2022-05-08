@@ -129,6 +129,7 @@
 - mypy
   - static type checker
   - caveats
+    - won't complain if you inherit from ABC or Protocol and dont implement some abstract memeber
     - won't complain if you try to use (dot into) undeclared field
       > self.hui.test() # this passes static check unfortunately
 
@@ -303,6 +304,12 @@
   - type factories, used to control creation process of other types
   - defined by inheriting from 'type' class
   - rarely used
+
+
+## vscode extensions
+
+- mypy https://github.com/matangover/mypy-vscode
+- trunk https://trunk.io/products/check
 
 
 ## misc
