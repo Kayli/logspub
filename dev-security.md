@@ -1,17 +1,21 @@
 # notes about software systems security and related stuff
 
-## penetration testing
+## penetration testing [^2]
 
 - basics
   - legal side of things is important, so learn more about that 
     - rules of engagement (RoE) document defines what is allowed during testing [^1]
+
+  - typical stages
+    - planning, discovery, attack, reporting
+    - incident response: containment, eradication & recovery
 
 - levels of engagement with pentest team
   - white
   - gray
   - black: high risks of resources waste
 
-- tools [^2]
+- tools
   - scanning: nmap, nexpose 
   - jtripper
   - zenmap
