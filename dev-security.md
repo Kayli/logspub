@@ -52,7 +52,6 @@
   - social engineering
     - phishing, whale-phishing
   
-
 - levels of engagement with pentest team
   - white
   - gray
