@@ -7,6 +7,10 @@
     - otherwise its a 'box ticker' or 'taskmaster' antipattern [^1]
     - can easily be tricked/manipulated by its fellow team members
 
+- bus factor
+  - minimum number of team members that have to suddenly disappear from a project before 
+    the project stalls due to lack of knowledgeable or competent personnel
+
 
 ## communication
 
