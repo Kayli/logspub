@@ -207,8 +207,9 @@
 - gitlab has terraform integration
   - so that manifest files can be written as a terraform script and applied automatically
 
-- portainer 
+- portainer [^5]
   - allows to monitor changes to manifest files stored in git and automatically apply them
+  
 
 
 ## tools to consider
@@ -233,9 +234,11 @@
 - gitlab, k8, helm integration example https://www.youtube.com/watch?v=8Ao5WcMJJ2c
 - gitlab: automating k8 deployments https://www.youtube.com/watch?v=wEDRfAz6_Uw
 
+
 ## references
 
 [^1]: https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
 [^2]: https://stackoverflow.com/questions/70287656/kubernetes-dashboard-internal-error-500-not-enough-data-to-create-auth-info
 [^3]: https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-volumes
 [^4]: https://kubernetes.io/docs/concepts/services-networking/service/#dns
+[^5]: https://youtu.be/FC8pABzxZVU?t=1660
