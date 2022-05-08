@@ -10,6 +10,29 @@
     - planning, discovery, attack, reporting
     - incident response: containment, eradication & recovery
 
+- attack methods [^3]
+  
+  - malware: malicious software has to be installed on a target device?
+  - ransomware: victim’s system is held hostage until they agree to pay a ransom to the attacker
+  - web attacks
+    - dos and ddos
+    - man-in-the-middle
+    - sql injection
+    - xss
+    - password
+    - url interpretation
+    - dns spoofing
+    - session hijacking
+  - brute force
+  - insider threats
+  - trojan horses: malicious program that is hidden inside a seemingly legitimate one
+  - birthday: exploiting hash
+  - cryptojacking
+  - zero-day exploit
+  - social engineering
+    - phishing, whale-phishing
+  
+
 - levels of engagement with pentest team
   - white
   - gray
@@ -36,3 +59,4 @@
 
 [^1]: https://hub.packtpub.com/penetration-testing-rules-of-engagement/
 [^2]: https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics
+[^3]: https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
