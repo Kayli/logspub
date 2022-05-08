@@ -8,7 +8,8 @@
 - useful commands
   - recursively get latest version
     > git pull --recurse-submodules     # may not update submodules to latest branch commit4
-    > git submodule update --recursive  
+    > git submodule foreach git pull
+    > git submodule update --recursive  # ???
 
   
   - show log and commit details
