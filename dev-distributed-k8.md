@@ -86,6 +86,9 @@
 
 - cloud cluster: what you run in production, consists of min 2 master and 3 worker nodes
 
+- config map: used to store non-confidential data in key-value pairs
+- secret: object that contains a small amount of sensitive data such as a password, a token, or a key
+
 
 ## databases
 
