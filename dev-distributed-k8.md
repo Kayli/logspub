@@ -204,8 +204,13 @@
 
 ## gitops or infrastructure as a code
 
-- gitlab has terraform integration
-  - so that manifest files can be written as a terraform script and applied automatically
+- gitlab via
+  - gitops workflow [^6]
+    - uses gitlab agent installed on k8 cluster, automatic polling approach
+  - ci/cd workflow [^6]
+    - uses k8 api to manage cluster, proactive push approach
+  - terraform integration
+    - so that manifest files can be written as a terraform script and applied automatically
 
 - portainer [^5]
   - allows to monitor changes to manifest files stored in git and automatically apply them
@@ -241,3 +246,4 @@
 [^3]: https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-volumes
 [^4]: https://kubernetes.io/docs/concepts/services-networking/service/#dns
 [^5]: https://youtu.be/FC8pABzxZVU?t=1660
+[^6]: https://docs.gitlab.com/ee/user/clusters/agent/
