@@ -9,6 +9,18 @@
     deprive users access to information or which unknowingly interferes with the user's computer 
     security and privacy
 
+- worm
+  - is a stand-alone malware
+  - actively transmits itself over a network to infect other computers and can copy itself 
+  - does not infect/damage files directly
+  - almost always cause at least some harm to the network, even if only by consuming bandwidth
+  - potentially marks attack surface of a target, likely a network
+
+- virus
+  - software usually hidden within another seemingly innocuous program 
+  - can produce copies of itself and insert them into other programs or files
+  - usually performs a harmful action
+
 
 ## penetration testing [^2]
 
