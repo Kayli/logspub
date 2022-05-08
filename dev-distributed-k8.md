@@ -47,6 +47,10 @@
     set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should
     automatically be able to resolve services by their DNS name [^4]
 
+- ingress
+  - set of rules to pass to a controller that is listening for them. 
+  - you can deploy a bunch of ingress rules, but nothing will happen unless you have a controller that can process them
+
 - ingress controller
   - a pod that is configured to interpret ingress rules
     - one of the most popular ingress controllers supported by kubernetes is nginx
