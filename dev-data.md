@@ -157,6 +157,12 @@
     transactional database in the form of a key-value store
 
 
+## column stores
+
+- cassandra
+  - nosql
+  - sypports async replication of data across regions
+
 
 ## references
 
