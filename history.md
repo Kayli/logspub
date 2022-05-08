@@ -24,27 +24,37 @@
 - is a system of chronological dating that classifies geological strata (stratigraphy) in time
   - eons divided into eras, then divided into periods, then epochs and ages
 - eons
-  - hadean 4.6-4 gya
+  - hadean 4.6-4 ga
     - earth formed
     - big splash hypothesis: moon formed after earth collision with theia
     - earliest water
-  - archean 4-2.5 gya
+  - archean 4-2.5 ga
     - earliest life
     - first oxygen
     - photosynthesis
     - pongola glaciation
-  - proterozoic 2.5 gya - 541 mya
+  - proterozoic 2.5 ga - 541 ma
     - atmospheric oxygen
     - huronian glaciation
     - sexual reproduction
     - eukaryotes
-    - multicellular life
+    - multicellular life 1.5 ga
     - fungi
     - earliest plants
-    - earliest animals
-  - phanerozoic 541 mya - present
+    - earliest animals 650 ma
+  - phanerozoic 541 ma - present
     - cambrian explosion
+    - first vertebrate land animals 380 ma
+    - non-avian dinosaurs 230-66 ma
+    - first hominins 2 ma
     - everything else
+
+
+## great apes 
+
+- hominid is a member of the family hominidae, the great apes: orangutans, gorillas, chimpanzees and humans. 
+- hominine is a member of the subfamily homininae: gorillas, chimpanzees, and humans
+- hominin is a member of the tribe hominini: chimpanzees and humans
 
 
 ## historic periods
@@ -196,6 +206,12 @@
   - e.g. chineese, russian, american ...
 
 - hellás - greece
+
+
+## abbreviations
+
+- ga: billion years ago
+- ma: million years ago
 
 
 ## references
