@@ -193,6 +193,24 @@
 - registry https://operatorhub.io
 
 
+## secrets
+
+- helm secrets
+  - enable safe storage of encrypted secrets in git
+    - private key used to decrypt secrets is stored only on a cluster
+  - supports aws kms
+  - but strongly coupled to Helm
+
+
+## gitops
+
+- gitlab has terraform integration 
+  - so that changes to yaml manifest files can be propagated to cluster automatically
+
+- portainer 
+  - allows to monitor changes to manifest files stored in git an automatically apply them
+
+
 ## tools to consider
 
 - rancher desktop (cli+gui)
