@@ -40,12 +40,14 @@
   - don't have a stable ip/dns name, as it is randomized after recreation
 
 - service
-  - takes care of service discovery, allowing to expose fixed ip 
-  - see selector and load-balancer mechanisms
+  - takes care of service discovery, allowing to expose 
+    - fixed ip
+    - dns, in case if addon installed
+      - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a 
+        set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should
+        automatically be able to resolve services by their DNS name [^4]
+  - pods can have labels and service can load-balance between pods using selector mechanism
   - when a pod is run on a node, the kubelet adds a set of environment variables for each active service
-  - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a 
-    set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should
-    automatically be able to resolve services by their DNS name [^4]
 
 - ingress
   - set of rules to pass to a controller that is listening for them. 
