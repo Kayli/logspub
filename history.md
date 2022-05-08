@@ -179,6 +179,7 @@
   - one of the major causes of fast economic growth
 
 
+
 ## modern global order
 
 - 19th century: invention of nations
@@ -196,6 +197,7 @@
 
 - interactive world history atlas since 3000 bc http://geacron.com/ 
 - share of world gdp through history interactive chart [^2]
+
 
 
 ## terminology

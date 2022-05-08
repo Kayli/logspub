@@ -41,3 +41,15 @@
   - british north america act, july 1st
   - four separate colonies of upper canada, lower canada, nova scotia, and new brunswick 
     were united into a single dominion within the british empire called canada
+
+
+## paleocanada
+
+- burgess shale fossils [^1]
+  - mountains of yoho and kootenay national park
+  - the oldest evidence of complex life on earth
+
+
+## references
+
+[^1]: https://www.pc.gc.ca/en/pn-np/bc/yoho/activ/burgess
