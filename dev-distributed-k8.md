@@ -224,6 +224,9 @@
 
 - argo
 
+- some additional info
+  - https://medium.com/style-theory-engineering/infrastructure-as-code-kubernetes-a2f050389f26
+
 
 ## tools to consider
 
