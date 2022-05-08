@@ -43,9 +43,14 @@
   - takes care of service discovery, allowing to expose fixed ip 
   - see selector and load-balancer mechanisms
   - when a pod is run on a node, the kubelet adds a set of environment variables for each active service
+  - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a 
+    set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should
+    automatically be able to resolve services by their DNS name [^4]
 
 - ingress controller
-  - component and api which allows you to expose your service as a dns endpoint
+  - a pod that is configured to interpret ingress rules
+    - one of the most popular ingress controllers supported by kubernetes is nginx
+  - in terms of amazon, alb can be used as an ingress controller
 
 - deployment
   - defines/configures pods and replica sets via deployment controller
@@ -206,3 +211,4 @@
 [^1]: https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
 [^2]: https://stackoverflow.com/questions/70287656/kubernetes-dashboard-internal-error-500-not-enough-data-to-create-auth-info
 [^3]: https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-volumes
+[^4]: https://kubernetes.io/docs/concepts/services-networking/service/#dns
