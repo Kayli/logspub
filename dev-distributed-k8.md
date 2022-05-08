@@ -206,6 +206,7 @@
   - uses shamir's secret sharing algorithm
     - you need to distribute several (5) keys among team members, so each team member has one key
     - min 3 keys are required to unseal the vault
+    - you need to manually unseal every node in a cluster
 
 
 ## gitops or infrastructure as a code
