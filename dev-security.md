@@ -4,7 +4,11 @@
   - legal side of things is important, so learn more about that
 
 
-
 ## penetration testing
 
-- https://github.com/rapid7/metasploitable3
+- scanning: nmap, nexpose 
+- metasploit framework
+  - https://docs.rapid7.com/metasploit/
+  - projects with vulnerabilities
+    - vulnerable linux vm built with vagrant https://github.com/rapid7/metasploitable3
+
