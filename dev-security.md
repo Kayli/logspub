@@ -1,5 +1,15 @@
 # notes about software systems security and related stuff
 
+## basics
+
+- malware
+  - is any software intentionally designed to cause disruption to a target
+  - typical targets: computer, server, client, computer network
+  - typical goals: leak private information, gain unauthorized access to information or systems, 
+    deprive users access to information or which unknowingly interferes with the user's computer 
+    security and privacy
+
+
 ## penetration testing [^2]
 
 - basics
@@ -11,8 +21,6 @@
     - incident response: containment, eradication & recovery
 
 - attack methods [^3]
-  
-  - malware: malicious software has to be installed on a target device?
   - ransomware: victim’s system is held hostage until they agree to pay a ransom to the attacker
   - web attacks
     - dos and ddos
