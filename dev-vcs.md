@@ -7,7 +7,7 @@
 
 - useful commands
   - recursively get latest version
-    > git pull --recurse-submodules     # may not update submodules to latest branch commit
+    > git pull --recurse-submodules     # may not update submodules to latest branch commit2
     > git submodule update --recursive  
 
   
