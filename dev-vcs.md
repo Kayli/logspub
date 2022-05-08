@@ -6,11 +6,11 @@
 - text ui: tig, lazygit
 
 - useful commands
-  - recursively get latest version
-    > git pull --recurse-submodules     # may not update submodules to latest branch commit4
-    > git submodule foreach git pull
-    > git submodule update --recursive  # ???
-
+  - recursively update to latest version
+    - will use submodule's parent repository to determine specific commit in a child
+      > git pull --recurse-submodules
+    - will use submodule's latest commit of default branch
+      > git submodule foreach --recursive git pull  
   
   - show log and commit details
     > git log
