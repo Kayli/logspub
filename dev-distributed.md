@@ -13,7 +13,19 @@
 
 - container orchestrator
   - definition: automated configuration, coordination, and management of containers and supporting infrastructure
-  
+  - typical tasks
+    - container scheduling/placement
+    - failover (containers, nodes, management)
+    - load balancing
+    - service discovery
+    - overlay networks
+    - storage (distributed, persistent)
+    - secret management
+    - scaling, autoscaling
+    - cli and rest api
+    - deployment configuration as code
+    - role-based access control (rbac)
+      - a policy-neutral access-control mechanism defined around roles and privileges
 
 
 ## general design recommendations
