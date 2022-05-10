@@ -11,6 +11,10 @@
   - but you may want to build the boundaries the way you want the company to be organized
     - because the way it is organized now may be not optimal
 
+- container orchestrator
+  - definition: automated configuration, coordination, and management of containers and supporting infrastructure
+  
+
 
 ## general design recommendations
 
