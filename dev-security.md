@@ -21,6 +21,10 @@
   - can produce copies of itself and insert them into other programs or files
   - usually performs a harmful action
 
+- shift left security practices
+  - can significantly reduce the risk of releasing software with security vulnerabilities into production. 
+  - helps to optimize the continuous delivery chain by making security part and parcel of the development process
+
 
 ## penetration testing [^2]
 
