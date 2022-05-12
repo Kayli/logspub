@@ -230,9 +230,10 @@
 
 ## tools to consider
 
-- k3s
-  - a simplified k8 orchestrator
+- k3s [^7]
+  - a lightweight k8 orchestrator
   - 40mb ram footprint, can run on raspberry pi
+  - simple to setup
 
 - rancher desktop (cli+gui)
   - kim is a wrapper for docker commands
@@ -263,3 +264,4 @@
 [^4]: https://kubernetes.io/docs/concepts/services-networking/service/#dns
 [^5]: https://youtu.be/FC8pABzxZVU?t=1660
 [^6]: https://docs.gitlab.com/ee/user/clusters/agent/
+[^7]: https://youtu.be/ePyFJ7Hd57Q?t=967
