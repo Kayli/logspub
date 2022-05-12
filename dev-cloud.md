@@ -5,7 +5,7 @@
 
 - infrastructure as a service (iaas)
   - virtualization and management of servers, operating systems, networks, and storage
-  
+
 - platform as a service (paas)
   - ci/cd, dbms, bi services on top of iaas
 
