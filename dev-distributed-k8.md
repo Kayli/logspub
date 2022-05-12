@@ -234,6 +234,8 @@
   - a lightweight k8 orchestrator
   - 40mb ram footprint, can run on raspberry pi
   - simple to setup
+  - lacks: high availability, zero downtime cluster upgrades
+  - not free, trial period (30 days)
 
 - rancher desktop (cli+gui)
   - kim is a wrapper for docker commands
