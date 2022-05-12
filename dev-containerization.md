@@ -61,7 +61,7 @@
     - environment variables
 - to start containers
   > docker-compose up
-  
+
 
 ## other useful tools
 

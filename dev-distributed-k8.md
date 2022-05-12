@@ -230,6 +230,10 @@
 
 ## tools to consider
 
+- k3s
+  - a simplified k8 orchestrator
+  - 40mb ram footprint, can run on raspberry pi
+
 - rancher desktop (cli+gui)
   - kim is a wrapper for docker commands
 - velero https://github.com/vmware-tanzu/velero
