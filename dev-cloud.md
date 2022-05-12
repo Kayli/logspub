@@ -10,7 +10,12 @@
   - ci/cd, dbms, bi services on top of iaas
 
 - software as a service (saas)
-  - cloud-first apps built on top of iaas and paas  
+  - cloud-first apps built on top of iaas and paas
+
+- service-level agreement (sla)
+  - commitment between a service provider and a client
+  - particular aspects of the service – quality, availability, responsibilities – are agreed
+    between the service provider and the service user
 
 
 ## closed-source cloud solutions
