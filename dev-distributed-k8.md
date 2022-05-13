@@ -201,6 +201,8 @@
   - supports aws kms
   - but strongly coupled to Helm
 
+- bitnami sealed secrets project
+
 - hashicorp vault
   - sealed by default
   - uses shamir's secret sharing algorithm
@@ -235,7 +237,9 @@
   - 40mb ram footprint, can run on raspberry pi
   - simple to setup
   - lacks: high availability, zero downtime cluster upgrades
-  - not free, trial period (30 days)
+
+- k9s
+  - ncurses simple status monitoring tool for k8
 
 - rancher desktop (cli+gui)
   - kim is a wrapper for docker commands
