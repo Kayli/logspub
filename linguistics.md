@@ -165,6 +165,20 @@
     depending on how it is used in a word
 
 
+## doublespeak
+
+- euphemism
+  - definition
+    - inoffensive or positive word or phrase used to avoid a harsh, unpleasant, or distasteful reality
+  - examples
+    - revenue enhancement - new taxes
+    - non-goal oriented members of society - bums
+    - fiscal underachievers - poor
+    - service the target - kill enemy
+    - radiation enhancement device - neutron bomb
+    - 
+
+
 ## other interesting stuff
 
 - политото [^2]
@@ -197,3 +211,4 @@
 
 [^1]: tgc "myths, lies and half-truths about language use"
 [^2]: interviews with katya shulman
+[^3]: https://www.amazon.ca/Doublespeak-William-Lutz/dp/1632460173
