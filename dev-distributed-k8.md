@@ -3,8 +3,8 @@
 ## basics
 
 - kubectl is cli for k8s
-- minikube provides simple local k8 cluster
-- helm is a k8 package manager
+- minikube provides simple local k8s cluster
+- helm is a k8s package manager
 - object definitions define desired state, while controllers watch object definitions to achieve that state
 
 
@@ -12,7 +12,7 @@
 
 - specification
   - yaml or json file of the predefined format
-  - defines configuration for k8 entities
+  - defines configuration for k8s entities
   - can be executed by
     > kubectl apply -f <myspec.yaml>
 
@@ -32,7 +32,7 @@
   - hosts multiple pods
   
 - pod
-  - smallest deployable units of computing that you can create and manage in k8
+  - smallest deployable units of computing that you can create and manage in k8s
   - can have one or more containers inside
   - provides a context with shared storage and network resources
   - has specification for how to run the containers
@@ -239,7 +239,7 @@
   - lacks: high availability, zero downtime cluster upgrades
 
 - k9s
-  - ncurses simple status monitoring tool for k8
+  - k8s simple terminal-based status monitoring tool
 
 - rancher desktop (cli+gui)
   - kim is a wrapper for docker commands
@@ -258,8 +258,8 @@
 
 - aws eks with terraform https://www.youtube.com/watch?v=Qy2A_yJH5-o
 - introduction to helm https://www.youtube.com/watch?v=5_J7RWLLVeQ
-- gitlab, k8, helm integration example https://www.youtube.com/watch?v=8Ao5WcMJJ2c
-- gitlab: automating k8 deployments https://www.youtube.com/watch?v=wEDRfAz6_Uw
+- gitlab, k8s, helm integration example https://www.youtube.com/watch?v=8Ao5WcMJJ2c
+- gitlab: automating k8s deployments https://www.youtube.com/watch?v=wEDRfAz6_Uw
 
 
 ## references
