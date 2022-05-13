@@ -148,6 +148,9 @@
     as the element p in “tap,” which separates that word from “tab,” “tag,” and “tan”
   
 - allophone
+  - literally means “other sound" (/ˈæləfoʊn/; from the Greek ἄλλος, állos, "other" and φωνή, phōnē, "voice, sound"
+  - is used to describe when a phoneme (the smallest unit of sound in speech) sounds slightly different 
+    depending on how it is used in a word
   - one of a set of multiple possible spoken sounds, or phones, or signs used to pronounce 
     a single phoneme in a particular language
   - for example, in English, top - stop
@@ -157,12 +160,7 @@
 ## funny languages
 
 - eblaite /ˈɛblə.aɪt/ (also known as eblan ISO 639-3), or Palaeo-Syrian
-  - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria
-
-- allophone
-  - literally means “other sound" (/ˈæləfoʊn/; from the Greek ἄλλος, állos, "other" and φωνή, phōnē, "voice, sound"
-  - is used to describe when a phoneme (the smallest unit of sound in speech) sounds slightly different 
-    depending on how it is used in a word
+  - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria 
 
 
 ## doublespeak
