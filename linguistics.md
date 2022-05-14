@@ -171,13 +171,6 @@
     - definition
       - inoffensive or positive word or phrase used to avoid a harsh, unpleasant, or distasteful reality
       - when it used to deceive to mislead it becomes a doublespeak
-    - examples
-      - revenue enhancement - new taxes
-      - non-goal oriented members of society - bums
-      - fiscal underachievers - poor
-      - service the target - kill enemy
-      - radiation enhancement device - neutron bomb
-      - incontinent ordinance - bombs or missiles that inadvertently strike friendly forces or sites
 
   - jargon
     - specialized language of trade, profession or similar group
@@ -196,6 +189,19 @@
   - inflated language
     - makes everyday things seem impressive
     - gives air of importance to people, situations, or things that would not normally be considered important
+  
+  - examples
+    - revenue enhancement - new taxes
+    - non-goal oriented members of society - bums
+    - fiscal underachievers - poor
+    - service the target - kill enemy
+    - radiation enhancement device - neutron bomb
+    - incontinent ordinance - bombs or missiles that inadvertently strike friendly forces or sites
+    - acid rain
+      - atmospheric deposition of anthropogenetically-derived acidic substances
+      - poorly buffered precipitation
+    - bullet hole
+      - ballistically induced aperture in the subcutaneous environment
 
 - entendre
   - a phrase or figure of speech that could have two meanings or that could 
