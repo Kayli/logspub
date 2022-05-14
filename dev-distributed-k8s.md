@@ -197,7 +197,7 @@
 ## operators
 
 - operator
-  - is a method of packaging, deploying and managing a kubernetes application
+  - custom form of controllers
   - it takes human operational knowledge and encodes it into software that is more easily packaged 
     and shared with consumers
   - watches over your k8 environment and uses its current state to make decisions in milliseconds
