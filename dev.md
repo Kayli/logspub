@@ -121,6 +121,12 @@
     - k6.io
 
 
+## patterns
+
+- forbidden dependency test
+  - enforces constraints on project structure
+
+
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
