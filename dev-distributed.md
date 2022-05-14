@@ -273,6 +273,8 @@
     - mitmproxy: has python api
   
   - service meshes: istio, envoy
+  
+  - infrastructure monitoring: zabbix
 
 
 ## testing

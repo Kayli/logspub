@@ -254,10 +254,7 @@
   - 40mb ram footprint, can run on raspberry pi
   - simple to setup
   - lacks: high availability, zero downtime cluster upgrades
-
-- k9s
-  - k8s simple terminal-based status monitoring tool
-
+- k9s: simple terminal-based status monitoring tool
 - rancher desktop (cli+gui)
   - kim is a wrapper for docker commands
 - velero https://github.com/vmware-tanzu/velero
@@ -269,6 +266,7 @@
 - tilt https://tilt.dev
   - gives you smart rebuilds and live updates without having to go through ci/cd pipeline
   - used to speedup coding with dev clusters
+- zabbix monitoring https://github.com/zabbix
 
 
 ## tutorials
