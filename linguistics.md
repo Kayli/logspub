@@ -163,11 +163,31 @@
   - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria 
 
 
-## doublespeak
+## quantum linguistics, nlp
+
+- entendre
+  - a phrase or figure of speech that could have two meanings or that could 
+    be understood in two different ways: innocent or innocuous
+
+- double-entendre
+  - a phrase, saying or sentence that can be interpreted in two different ways, one of which is usually dirty
+
+- doublespeak
+  - way of speaking used to deceive to mislead
+
+- double listening
+  - when you listen to a person, or group, and hear a double meaning in their speech, yet it seems to defy clear definition
+
+- triplespeak
+  - if the person speaking knows they are causing double listening appearance of double meaning, they are triple speaking
+
+- show speak
+  - when those who speak don't realize they are revealing something about themselves
 
 - euphemism
   - definition
     - inoffensive or positive word or phrase used to avoid a harsh, unpleasant, or distasteful reality
+    - when it used to deceive to mislead it becomes a doublespeak
   - examples
     - revenue enhancement - new taxes
     - non-goal oriented members of society - bums
