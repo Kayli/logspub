@@ -196,12 +196,14 @@
     - fiscal underachievers - poor
     - service the target - kill enemy
     - radiation enhancement device - neutron bomb
+    - air support - bombing
     - incontinent ordinance - bombs or missiles that inadvertently strike friendly forces or sites
     - acid rain
       - atmospheric deposition of anthropogenetically-derived acidic substances
       - poorly buffered precipitation
     - bullet hole
       - ballistically induced aperture in the subcutaneous environment
+
 
 - entendre
   - a phrase or figure of speech that could have two meanings or that could 
