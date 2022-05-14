@@ -123,11 +123,13 @@
 
 ## patterns
 
-- forbidden dependency test
+- forbidden dependency test [^3]
   - enforces constraints on project structure
+  - implementations: dependency-cruiser (nodejs)
 
 
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
 [^2]: https://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences
+[^3]: https://www.youtube.com/watch?v=TqfbAXCCVwE
