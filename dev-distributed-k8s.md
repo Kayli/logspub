@@ -161,8 +161,22 @@
     like a full web app stack with HTTP servers, databases, caches, and so on
   - runs template engine for kubernetes manifest files, which enables more flexible k8 deployments
 
-- values file
+- mustache syntax
+  - enables more flexible (but less readable) templates
+  - in a spirit of xslt
+
+- values files
   - is used to parametrize generic chart with specifics that we need in each particular case
+  - multiple values files for different environments: values-dev.yaml, values-qa.yaml
+
+- tpl files
+  - allows to put reusable pieces of transformation logic, 
+
+- advantages
+  - easily prototype an application installation
+  - non-final values are separated from actual objects (parametrization)
+  - many applications can be deployed through a single chart instance
+  - in a template you can check nested values at every level (conditionals)
 
 - popular charts
   - dashboard https://github.com/kubernetes/dashboard
@@ -189,7 +203,7 @@
   - watches over your k8 environment and uses its current state to make decisions in milliseconds
 
 - operator framework https://operatorframework.io
-  - set of developer tools and Kubernetes components, that aid in Operator development and central 
+  - set of developer tools and k8s components, that aid in operator development and central 
     management on a multi-tenant cluster
 
 - capability levels https://operatorframework.io/operator-capabilities/
