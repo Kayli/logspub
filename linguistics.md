@@ -201,8 +201,10 @@
     - acid rain
       - atmospheric deposition of anthropogenetically-derived acidic substances
       - poorly buffered precipitation
-    - bullet hole
-      - ballistically induced aperture in the subcutaneous environment
+    - bullet hole - ballistically induced aperture in the subcutaneous environment
+    - stock market eased, retreated, made a technical adjustment, technical correction, prices lost ground,
+      fourth quarter equity retreat, negative economic growth
+    - collateral damage - civilians killed in any war
 
 
 - entendre
