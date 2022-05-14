@@ -194,7 +194,7 @@
     - fiscal underachievers - poor
     - service the target - kill enemy
     - radiation enhancement device - neutron bomb
-    - 
+    - incontinent ordinance - bombs or missiles that inadvertently strike friendly forces or sites
 
 
 ## other interesting stuff
