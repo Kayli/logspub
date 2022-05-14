@@ -231,8 +231,11 @@
 	- ложные сущности
 
 - semantic cancer
-  - unnecessary production of redundant concepts unconciously, without ill intent
-    - unnecessary assumes a goal/value system?
+  - unnecessary production of redundant concepts unconsciously
+  - possible causes
+    - mindless mimicry
+    - overinflated ego sickness of sorts
+    - unskillfull attempts to implement social engineering practices
 
 - semantic maze
   - production of concepts and wiring them up in a semantic trap network
