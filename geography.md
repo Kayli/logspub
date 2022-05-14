@@ -1,35 +1,46 @@
 # notes related to geographical areas of different kind
 
-## nitherlands, holland,  [^2]
 
-- capital: amsterdam
-- languages: dutch (нидерла́ндский или голландский язык)
-- country located in Western Europe with overseas territories in the caribbean
+## europe
+
+- nitherlands, holland,  [^2]
+  - capital: amsterdam
+  - languages: dutch (нидерла́ндский или голландский язык)
+  - country located in Western Europe with overseas territories in the caribbean
+
+- denmark, дания
+  - capital: copenhagen
+  - language: danish (датский язык)
+
+- lithuania
+  - capital: vilnus
+  - language: lithuanian
+    - baltic language belonging to the balto-slavic branch of the indo-european language family
+
+- latvia
+  - capital: riga
+  - language: latvian (lettish)
+    - balto-slavic branch of the indo-european language family
 
 
-## denmark, дания
+## asia
 
-- capital: copenhagen
-- language: danish (датский язык)
-
-
-## киргизия [^1]
-
-- государство в средней азии, расположенное в западной и центральной части горной системы тянь-шань и на памиро-алае
-- на граничит с казахстаном, узбекистаном, таджикистаном, китаем
-- население
-  - наиболее крупными этническими меньшинствами являются узбеки и русские
-- города
-  - бишкек
-    - столица
-    - самый населённый город республики
-    - население 1 053 900 человек (2020г)
-  - ош
-    - второй город по населению
-- рельеф
-  - более трёх четвертей территории киргизии занимают горы
-  - пик победы высота 7439м
-  - пик ленина высота 7134м
+- киргизия [^1]
+  - государство в средней азии, расположенное в западной и центральной части горной системы тянь-шань и на памиро-алае
+  - на граничит с казахстаном, узбекистаном, таджикистаном, китаем
+  - население
+    - наиболее крупными этническими меньшинствами являются узбеки и русские
+  - города
+    - бишкек
+      - столица
+      - самый населённый город республики
+      - население 1 053 900 человек (2020г)
+    - ош
+      - второй город по населению
+  - рельеф
+    - более трёх четвертей территории киргизии занимают горы
+    - пик победы высота 7439м
+    - пик ленина высота 7134м
 
 
 ## references 
