@@ -163,7 +163,7 @@
   - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria 
 
 
-## quantum linguistics, nlp
+## quantum linguistics, nlp, doublespeak [^3]
 
 - entendre
   - a phrase or figure of speech that could have two meanings or that could 
@@ -195,6 +195,14 @@
     - service the target - kill enemy
     - radiation enhancement device - neutron bomb
     - incontinent ordinance - bombs or missiles that inadvertently strike friendly forces or sites
+
+- jargon
+  - specialized language of trade, profession or similar group
+  - such as that used by doctors, lawyers, engineers, educators
+  - as a doublespeak
+    - pretentious, obscure, and esoteric terminology used to give an air of profundity,
+      authority, and prestige to speakers and their subject matter. 
+    - makes simple appear complex, the ordinary - profound, the obvious - insightful
 
 
 ## other interesting stuff
