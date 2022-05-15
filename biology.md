@@ -127,6 +127,8 @@ keywords: cell, replicator, life, evolution
   - physiology is more about dynamics of an organism: its development, metabolism, etc
 
 - hyoid bone (подъязычная кость)
+- radius and ulna: bones of the forearm
+- fibula and tibia: bones of the lower leg
 
 
 ## references 
