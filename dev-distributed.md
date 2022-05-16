@@ -57,6 +57,7 @@
 
 - event notification
   - pubsub using events
+  - events contain some information about state
   - notify system about state change in a decoupled manner
   - disadvantages: harder to track effects of a change
 
@@ -65,7 +66,10 @@
   - disadvantages: events may become heavy
 
 - event sourcing
-  - asynchrony complicates things, but it is not a reuquirement for es
+  - all events are persisted in event store
+  - application state can be fully reconstructed from the sequence of events
+  - possible disadvantages
+    - storing events can consume 2-3 orders of magnitude more storage than storing state
 
 - cqrs
   - commands and queries have different state representations
