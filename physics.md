@@ -263,6 +263,16 @@
   - describes state evolution
 
 
+## nuclear
+
+- fusion
+  - is where two light atomic nuclei combine and release energy
+
+- fission
+  - process of splitting two heavy, unstable atomic nuclei into two lighter nuclei, also releasing energy
+  - mnemonic rule: phonetically similar to 'division'
+
+
 ## math
 
 - homogeneous
@@ -281,12 +291,10 @@
       - can be used to spot errors in formula or calculations
 
 
-
-
 ## references
 
-- brief overview of oscillator models and applications https://www.youtube.com/watch?v=QPAxzr6ihu8
-- speed of light from maxwell equations https://www.wikihow.com/Derive-the-Speed-of-Light-from-Maxwell%27s-Equations
+[^1]: brief overview of oscillator models and applications https://www.youtube.com/watch?v=QPAxzr6ihu8
+[^2]: speed of light from maxwell equations https://www.wikihow.com/Derive-the-Speed-of-Light-from-Maxwell%27s-Equations
 [^3]: https://www.youtube.com/watch?v=YRgBLVI3suM
 [^4]: https://www.youtube.com/watch?v=MXs_vkc8hpY
 [^5]: https://www.youtube.com/watch?v=4b80sR-joNY
