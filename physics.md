@@ -254,7 +254,6 @@
     - energy
 
 
-
 ## quantum mechanics
 
 - wave function
