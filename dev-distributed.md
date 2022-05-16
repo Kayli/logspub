@@ -75,7 +75,7 @@
 - dumb pipes
   - buses should be trivial to use, in that sense they should be 'dumb'
   - if some optimization is possible - thats okay, but pipes should not dictate much
-  - ideally they should adapt to demands of the applications they use
+  - ideally they should adapt to demands of the applications
     - they should autoconfigure based on usage pattern
 
 - transactional outbox [^4]
