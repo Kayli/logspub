@@ -1,6 +1,12 @@
 # notes on biology and related topics
 
-keywords: cell, replicator, life, evolution
+
+## basics
+
+- cytology: a study of living cells and their structure, behaviour and function
+
+- histology (microscopic anatomy or microanatomy)
+  - a branch of biology which studies the microscopic anatomy of biological tissues
 
 
 ## cells  [^2] 
@@ -147,6 +153,11 @@ keywords: cell, replicator, life, evolution
     - discrete (macromutations)
       - genome is discrete by itself, so not a big surpise here
       - also can be consequence of a quick/sharp resonanse (chemical?)
+
+
+## keywords
+
+cell, replicator, life, evolution
 
 
 ## references 
