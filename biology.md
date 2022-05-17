@@ -60,52 +60,7 @@
   - 6(CO2) + 6(H2O) + light = C6H12O6[sugar] + 6(O2)
 
 
-## tissues
 
-- definition
-  - an ensemble of similar cells and their extracellular matrix from the same origin 
-    that together carry out a specific function
-
-- main groups
-  - epithelial
-    - formed by cells that cover the organ surfaces
-    - types
-      - simple (однослойный)
-      - stratified (многослойный)
-        - the most exterior of cells are dead and lose their nucleus and cytoplasm
-        - contain a tough, resistant protein called keratin
-    - examples: surface of skin, airways, surfaces of soft organs, the reproductive tract, 
-      inner lining of the digestive tract
-  - connective
-    - found in between other tissues everywhere in the body
-    - components
-      - fibers (elastic and collagen fibers) 
-      - ground substance (межклеточное вещество)
-      - cells
-    - main types
-      - liquid connective tissues (blood and lymph)
-      - fascia
-      - cartilage (хрящи), tendons (сухожилия) and ligaments (связки)
-      - bone
-        - composition
-          - collagen (structural protein), 1/3 of mass
-          - phasphates and hydrophasphates of Ca (кальций) and Mg (магний), 2/3 of mass
-        - cells: osteocytes
-      - fat
-        - white
-        - brown 
-  - muscle
-    - skeletal
-    - smooth
-    - cardiac
-  - nervous
-    - neurons
-    - glial
-
-
-## organs
-
-- organ is a collection of tissues joined in a structural unit to serve a common function
 
 
 ## organisms
