@@ -65,7 +65,14 @@
     - locomotion control
 
 
-## tbd: glial cells
+## glial cells
+
+- astrocytes
+  - functions: structural, also provides nutrients to neurons
+
+- microglial
+  - protect from infection, function similar to leukocytes
+
 
 ## neuromodulators
 
