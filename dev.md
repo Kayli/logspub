@@ -135,4 +135,3 @@
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
 [^2]: https://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences
 [^3]: https://www.youtube.com/watch?v=TqfbAXCCVwE
-[^4]: https://youtu.be/szHV6RdQdg8?t=1088
