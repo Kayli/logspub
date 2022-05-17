@@ -213,6 +213,10 @@
 
 - hydrocarbons (углеводороды)
   - composed by: carbon and hydrogen
+  - simplest case is alkanes: non cyclic compounds with single bonds between CHx molecules
+    - gases: methane, ethane, propane, butane
+    - liquids: pentane (C5H12), hexane (C6H14), heptane ... till hexadecane (C16H34)
+    - waxy solids: heptadecane (C17H36) ... till heptacontane	(C70H142)
   - examples
     - methane
       - the carbon and the four hydrogen atoms form the vertices of a three-dimensional shape known as a tetrahedron
