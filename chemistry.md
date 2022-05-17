@@ -152,6 +152,7 @@
     and they impart some very special properties to the substance we call water.
 - can self-ionize
   - when one water molecule tears off hydrogen atom from another one
+
 - ph factor
   - there is some number of free hydrogen and hydronium cations (H+ and H3O+) in a solution
   - there is some number of hydroxide anions (OH-) in a solution
@@ -159,6 +160,9 @@
     - ph=7 means 
       - there is an equal amount of each
       - there is one cation for 10^6 water molecules in a solution
+  - universal indicator
+    - is a pH indicator made of a solution of several compounds that exhibits several smooth colour 
+      changes over a wide range pH values to indicate the acidity or alkalinity of solutions
 
 
 
