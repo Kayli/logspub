@@ -181,7 +181,7 @@
     - быстрое действие, покакзание после инсульта, травмы
 
 
-## glial cells
+## glial cells [^1]
 
 - astrocytes
   - provide supportive structure
@@ -191,7 +191,7 @@
   - protect from infection, function similar to leukocytes
 
 - shwann cells
-  - insulation
+  - insulation using myelination along axon (they wrap around it)
   - conduction of nervous impulses along axons
 
 
