@@ -68,10 +68,15 @@
 ## glial cells
 
 - astrocytes
-  - functions: structural, also provides nutrients to neurons
+  - provide supportive structure
+  - give nutrients to neurons, as they're also directly attached to blood vessels
 
 - microglial
   - protect from infection, function similar to leukocytes
+
+- shwann cells
+  - insulation
+  - conduction of nervous impulses along axons
 
 
 ## neuromodulators
