@@ -27,6 +27,24 @@
   - export import hello.format;
 
 
+## build/package managers
+
+- cmake
+  - foss cross-platform family of tools designed to build, test and package software
+  - considered to be a most popular one
+
+- bazel
+  - foss build and test tool that scalably supports multi-language and multi-platform projects
+  - 18k stars
+
+- conan
+  - decentralized, foss (mit) C/C++ package manager
+  - 6k stars
+
+- build2 toolchain https://build2.org
+  - 404 stars
+
+
 ## reference
 
 [^1]: https://youtu.be/szHV6RdQdg8?t=1088
