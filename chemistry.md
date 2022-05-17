@@ -213,10 +213,15 @@
 
 - hydrocarbons (углеводороды)
   - composed by: carbon and hydrogen
-  - simplest case is alkanes: non cyclic compounds with single bonds between CHx molecules
-    - gases: methane, ethane, propane, butane
-    - liquids: pentane (C5H12), hexane (C6H14), heptane ... till hexadecane (C16H34)
-    - waxy solids: heptadecane (C17H36) ... till heptacontane	(C70H142)
+  - types
+    - alkanes (paraffins): non cyclic compounds with single bonds between CHx molecules
+      - gases: methane, ethane, propane, butane
+      - liquids: pentane (C5H12), hexane (C6H14), heptane ... till hexadecane (C16H34)
+      - waxy solids: heptadecane (C17H36) ... till heptacontane	(C70H142)
+    - alkenes (olefins)
+    - alkyne (acetylenes)
+    - arenes (aromatic compounds)
+
   - examples
     - methane
       - the carbon and the four hydrogen atoms form the vertices of a three-dimensional shape known as a tetrahedron
@@ -244,6 +249,12 @@
   - they sound similar but are two very different types of compounds
   - hydrocarbons c, while carbohydrates also contain oxygen
   - living organisms metabolize carbohydrates for energy, whereas hydrocarbons are used as fuels and in industrial applications
+
+- alcohols
+  - type of organic compound that carries at least one hydroxyl functional group (−OH) bound to a saturated carbon atom
+
+- aldehydes and ketones: carbon and oxygene with double bond (C=O)
+- organic acids: contain carboxyl group (-COOH)
 
 - glucose visually looks related to ethanol (alcohol) and water molecules
     - at least i can see similarity by just looking at space-filling models of them
