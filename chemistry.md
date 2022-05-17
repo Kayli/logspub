@@ -150,6 +150,16 @@
     with tiny force of attraction. 
   - its only a small fraction of the strength of a covalent bond, but, there are a lot of such bonds
     and they impart some very special properties to the substance we call water.
+- can self-ionize
+  - when one water molecule tears off hydrogen atom from another one
+- ph factor
+  - there is some number of free hydrogen and hydronium cations (H+ and H3O+) in a solution
+  - there is some number of hydroxide anions (OH-) in a solution
+  - ph defines how many hydrogen and hydronium cations (H+ and H3O+) in a solution comparing to hydroxide anions (OH-)
+    - ph=7 means 
+      - there is an equal amount of each
+      - there is one cation for 10^6 water molecules in a solution
+
 
 
 ## radioactive
