@@ -91,6 +91,9 @@
         - white
         - brown 
   - muscle
+    - skeletal
+    - smooth
+    - cardiac
   - nervous
 
 
