@@ -95,6 +95,8 @@
     - smooth
     - cardiac
   - nervous
+    - neurons
+    - glial
 
 
 ## organisms
