@@ -105,4 +105,4 @@
 
 ## references
 
-[^1]: https://www.youtube.com/playlist?list=PLZVQqcKxEn_4vjM5OgDpRSLlsoIVu7s6n
+[^1]: https://www.youtube.com/playlist?list=PLcsjsqLLSfNDHFikQVZd2XOqF5FK56L3D
