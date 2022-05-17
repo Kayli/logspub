@@ -26,6 +26,34 @@
     - these speeds are about a million times slower than action potential propagation (neuron firing)
 
 
+## brain structure
+
+- neocortex
+  - represents that cluster of brain structures involved in advanced cognition
+     - this includes planning, modeling and simulation
+
+- limbic complex 
+  - structures associated with social and nurturing behaviors
+    - includes mutual reciprocity, and other behaviors and affects that arose during the age of the mammals
+  - septum, amygdalae, hypothalamus, hippocampal complex, and cingulate cortex
+
+- reptilian complex
+  - structures related to territoriality, ritual behavior and other "reptile" behaviors
+  - basal ganglia
+    - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
+    - main functions
+      - control of voluntary motor movements
+      - procedural learning
+      - habit learning
+      - conditional learning
+      - eye movements
+      - cognition
+      - emotion
+  - stem
+  - cerebellum
+    - preserves automated motor patterns
+
+
 ## neurons
 
 <tbd: neurons basic facts and structure>
@@ -63,20 +91,6 @@
   - examples of functions
     - attention
     - locomotion control
-
-
-## glial cells
-
-- astrocytes
-  - provide supportive structure
-  - give nutrients to neurons, as they're also directly attached to blood vessels
-
-- microglial
-  - protect from infection, function similar to leukocytes
-
-- shwann cells
-  - insulation
-  - conduction of nervous impulses along axons
 
 
 ## neuromodulators
@@ -165,32 +179,18 @@
     - быстрое действие, покакзание после инсульта, травмы
 
 
-## brain structure
+## glial cells
 
-- neocortex
-  - represents that cluster of brain structures involved in advanced cognition
-     - this includes planning, modeling and simulation
+- astrocytes
+  - provide supportive structure
+  - give nutrients to neurons, as they're also directly attached to blood vessels
 
-- limbic complex 
-  - structures associated with social and nurturing behaviors
-    - includes mutual reciprocity, and other behaviors and affects that arose during the age of the mammals
-  - septum, amygdalae, hypothalamus, hippocampal complex, and cingulate cortex
-  
+- microglial
+  - protect from infection, function similar to leukocytes
 
-- reptilian complex
-  - structures related to territoriality, ritual behavior and other "reptile" behaviors
-  - basal ganglia
-    - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
-    - main functions
-      - control of voluntary motor movements
-      - procedural learning
-      - habit learning
-      - conditional learning
-      - eye movements
-      - cognition
-      - emotion
-  - stem
-  - cerebellum
+- shwann cells
+  - insulation
+  - conduction of nervous impulses along axons
 
 
 ## terms and abbreviations 
