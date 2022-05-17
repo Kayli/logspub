@@ -159,7 +159,7 @@
   - ph defines how many hydrogen and hydronium cations (H+ and H3O+) in a solution comparing to hydroxide anions (OH-)
     - ph=7 means 
       - there is an equal amount of each
-      - there is one cation for 10^6 water molecules in a solution
+      - there is one cation for 10^7 water molecules in a solution
   - universal indicator
     - is a pH indicator made of a solution of several compounds that exhibits several smooth colour 
       changes over a wide range pH values to indicate the acidity or alkalinity of solutions
