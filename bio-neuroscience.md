@@ -56,7 +56,12 @@
 
 ## neurons
 
-<tbd: neurons basic facts and structure>
+- main components
+  - cell body with nucleus
+  - dendrites
+  - axons
+  - synaptic terminals
+
 - critical component of the action potential is the rise in intracellular calcium that activates both 
   small conductance potassium channels essential during membrane repolarization, and triggers transmitter 
   release from the cell
