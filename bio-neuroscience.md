@@ -192,7 +192,7 @@
 
 - shwann cells
   - insulation using myelination along axon (they wrap around it)
-  - conduction of nervous impulses along axons
+  - conduction of nervous impulses along axons, speed them up
 
 
 ## terms and abbreviations 
