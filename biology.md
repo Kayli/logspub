@@ -151,7 +151,7 @@
       - head
         - skull
         - ossicles (inner ear)
-        - hyoid bone
+        - hyoid bone (подъязычная кость)
       - trunk
         - vertebral column
         - rib cage
@@ -170,10 +170,6 @@
         - upper: femur
         - lower: tibia (thickest) and fibula (side one)
       - foot
-  
-  - bones
-    - hyoid bone (подъязычная кость)
-
 
 
 ## symbiotic relationships
