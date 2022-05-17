@@ -80,6 +80,13 @@
         - look up termination analysis articles
     - problems: oop paradigms are not supported and fanboys will never admit this is an issue
 
+- c++
+  - version 20 introduced modules
+    - so now you should write your code in .mpp file
+      - all of it?
+    - during compilation main.mpp translates to main.bmi, which gets reused
+      - bmi - binary module interface
+
 
 ## verified compilers
 

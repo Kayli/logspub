@@ -87,8 +87,10 @@
       - fascia
       - cartilage (хрящи), tendons (сухожилия) and ligaments (связки)
       - bone
-        - collagen (structural protein), 1/3 of mass
-        - phasphates and hydrophasphates of Ca (кальций) and Mg (магний), 2/3 of mass
+        - composition
+          - collagen (structural protein), 1/3 of mass
+          - phasphates and hydrophasphates of Ca (кальций) and Mg (магний), 2/3 of mass
+        - cells: osteocytes
       - fat
         - white
         - brown 
@@ -141,10 +143,14 @@
 
 - human skeleton
   - there are 205-208 bones in adult, 270 in a newborn, cause some bones merge as development progresses
+    - stop growing at age 25 for males, 20 for females
+  - red bone marrow (красный костный мозг)
+  - marrow adipose tissue (fatty/yellow fraction, желтый костный мозг)
   - bones
-    - hyoid bone (подъязычная кость)
     - radius and ulna: bones of the forearm
     - fibula and tibia: bones of the lower leg
+    - hyoid bone (подъязычная кость)
+
 
 
 ## symbiotic relationships
