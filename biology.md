@@ -147,8 +147,31 @@
   - red bone marrow (красный костный мозг)
   - marrow adipose tissue (fatty/yellow fraction, желтый костный мозг)
   - bones
-    - radius and ulna: bones of the forearm
-    - fibula and tibia: bones of the lower leg
+    - axial skeleton: bones of the head and trunk
+      - head
+        - skull
+        - ossicles (inner ear)
+        - hyoid bone
+      - trunk
+        - vertebral column
+        - rib cage
+    - appendicular skeleton: bones that support the appendages
+      - shoulder girdle (плечевой пояс)
+      - arm
+        - upper arm (brachium, плечо)
+          - humerus (плечевая кость)
+            - long bone in the arm that runs from the shoulder to the elbow 
+        - forearm (предплечье)
+          - radius (лучевая)
+          - ulna (локтевая)
+      - hand
+      - pelvic girdle
+      - leg
+        - upper: femur
+        - lower: tibia (thickest) and fibula (side one)
+      - foot
+  
+  - bones
     - hyoid bone (подъязычная кость)
 
 
@@ -206,7 +229,7 @@
 
 ## keywords
 
-cell, replicator, life, evolution
+- cell, replicator, life, evolution
 
 
 ## references 
