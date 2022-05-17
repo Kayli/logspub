@@ -3,7 +3,6 @@
 keywords: cell, replicator, life, evolution
 
 
-
 ## cells  [^2] 
 
 - cell: basic structural and functional unit of life form
