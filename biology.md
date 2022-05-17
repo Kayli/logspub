@@ -87,6 +87,8 @@
       - fascia
       - cartilage (хрящи), tendons (сухожилия) and ligaments (связки)
       - bone
+        - collagen (structural protein), 1/3 of mass
+        - phasphates and hydrophasphates of Ca (кальций) and Mg (магний), 2/3 of mass
       - fat
         - white
         - brown 
@@ -130,9 +132,19 @@
   - anatomy is about statics of an organism: focus on structure
   - physiology is more about dynamics of an organism: its development, metabolism, etc
 
-- hyoid bone (подъязычная кость)
-- radius and ulna: bones of the forearm
-- fibula and tibia: bones of the lower leg
+- skeleton
+  - structural frame that supports animal body
+  - types
+    - exoskeleton: stable outer shell of an organism
+    - endoskeleton: forms the support structure inside the body
+    - hydroskeleton: flexible skeleton supported by fluid pressure
+
+- human skeleton
+  - there are 205-208 bones in adult, 270 in a newborn, cause some bones merge as development progresses
+  - bones
+    - hyoid bone (подъязычная кость)
+    - radius and ulna: bones of the forearm
+    - fibula and tibia: bones of the lower leg
 
 
 ## symbiotic relationships
