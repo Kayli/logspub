@@ -66,9 +66,30 @@
   - an ensemble of similar cells and their extracellular matrix from the same origin 
     that together carry out a specific function
 
-- main tissue groups
-  - connective
+- main groups
   - epithelial
+    - formed by cells that cover the organ surfaces
+    - types
+      - simple (однослойный)
+      - stratified (многослойный)
+        - the most exterior of cells are dead and lose their nucleus and cytoplasm
+        - contain a tough, resistant protein called keratin
+    - examples: surface of skin, airways, surfaces of soft organs, the reproductive tract, 
+      inner lining of the digestive tract
+  - connective
+    - found in between other tissues everywhere in the body
+    - components
+      - fibers (elastic and collagen fibers) 
+      - ground substance (межклеточное вещество)
+      - cells
+    - main types
+      - liquid connective tissues (blood and lymph)
+      - fascia
+      - cartilage (хрящи), tendons (сухожилия) and ligaments (связки)
+      - bone
+      - fat
+        - white
+        - brown 
   - muscle
   - nervous
 
