@@ -57,7 +57,9 @@
 ## neurons
 
 <tbd: neurons basic facts and structure>
-- critical component of the action potential is the rise in intracellular calcium that activates both small conductance potassium channels essential during membrane repolarization, and triggers transmitter release from the cell.
+- critical component of the action potential is the rise in intracellular calcium that activates both 
+  small conductance potassium channels essential during membrane repolarization, and triggers transmitter 
+  release from the cell
 
 
 ## neurotransmitters
@@ -198,3 +200,8 @@
 - gaba
   - gamma-aminobutyric acid
   - гаммааминомасляная кислота
+
+
+## references
+
+[^1]: https://youtu.be/2jA-es793qo?t=2563
