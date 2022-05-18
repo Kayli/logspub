@@ -89,6 +89,11 @@ important features been introduced in recent years
     > dotnet publish -r win-x64 -p:PublishTrimmed=true
 
 
+## useful tools
+
+- dotnet fiddle online compiler with .net 6 support: https://dotnetfiddle.net
+
+
 ## references
 
 [^1]: https://www.youtube.com/c/Elfocrash
