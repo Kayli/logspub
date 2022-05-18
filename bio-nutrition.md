@@ -45,8 +45,7 @@
   - milligrams of daily consumption
     
 - 21 amino acids are common to all life forms
-- 9 essential amino acids humans cannot synthesize 
-  - phenylalanine
+- 8 essential amino acids humans cannot synthesize 
   - valine
   - threonine
   - tryptophan
@@ -67,7 +66,7 @@
         - very stupid
         - delusional
         - uneducated
-        - disconnected from reality (billioners?)
+        - disconnected from reality or live in a different reality (billioners?)
         - or all of the above
 
 
