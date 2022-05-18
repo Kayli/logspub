@@ -107,12 +107,16 @@
 ## circulatory system
 
 - pulmonary (легочный, малый круг кровообращения)
-- systemic (большой круг кровообращения)
+  - контурная петля от правого желудочка, по которой кровь поступает в легкие, где она насыщается
+    кислородом и возвращается в левый желудочек
+- systemic (системный, большой круг кровообращения)
+  - доставляет насыщенную кислородом кровь от левого желудочка к остальной части тела и возвращает 
+    кровь обратно в правый желудочек через крупные вены, известные как полые вены
 
-- veins: carry blood into the heart
+- veins: carry blood towards the heart
 - arteias: carry blood away from heart
 
-- blood vessels
+- blood vessels [^2]
   - oxygenated
   - deoxyginated
 
@@ -120,3 +124,4 @@
 ## references
 
 [^1]: https://www.youtube.com/playlist?list=PLcsjsqLLSfNDHFikQVZd2XOqF5FK56L3D
+[^2]: https://upload.wikimedia.org/wikipedia/commons/f/f2/2101_Blood_Flow_Through_the_Heart.jpg
