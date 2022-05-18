@@ -43,6 +43,17 @@
   - hunt for power for its own sake
 
 
+## law
+
+- in canada there are statutory termination requirements when terminating someone without cause, 
+  but there are also Common Law rights to “Due Notice”: time to find another job without loss of income.
+  Just meeting the statutory requirements can result in a Wrongful Dismissal lawsuit, so it is best to 
+  put together a package that you think the person will find acceptable from the outset rather than have 
+  them running to a lawyer [^3]
+
+- statutory vs. common law termination notice [^4]
+
+
 ## look up topics
 
 - договариваться даже со сложными собеседниками
@@ -56,3 +67,5 @@
 
 [^1]: https://en.wikipedia.org/wiki/Bullshit_Jobs
 [^2]: https://www.youtube.com/watch?v=R07TlNqz9X4
+[^3]: https://www.infoq.com/articles/development-manager-role/
+[^4]: https://www.aflawyers.ca/termination-notice/
