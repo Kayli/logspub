@@ -59,6 +59,11 @@
   - histidine
 - 2 fatty acids
 - 13 vitamins
+  - fat soluble: retinol (A), calciferol group (D), tokoferol (E), filohinon (K)
+    - can accumulate in liver
+  - water soluble
+    - tiamin (B1), riboflavin (B2), nicotine acid (B3) ...  
+
 - 15 minerals
 
 - warning: data above looks sketchy (taken from wikipedia on May 17, 2021)
