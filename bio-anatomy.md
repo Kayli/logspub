@@ -121,7 +121,26 @@
   - deoxyginated (течет венозная кровь)
 
 
-## body filters
+## breathing
+
+- larynx (voice box, гортань)
+
+- trachea (windpipe)
+  - is a cartilaginous tube that connects the larynx to the bronchi of the lungs
+  - allows the passage of air
+
+- lungs
+  - bronchi
+    - bronchus is a passage or airway in the lower respiratory tract that conducts air into the lungs
+    - split many times ending with pulmonary alveoli
+
+  - pulmonary alveoli
+    - contain blood and lymph vessels
+    - typical pair of human lungs contain about 300 million alveoli, providing a total surface area 
+      for gas exchange of between 70 and 80 square metres
+
+
+## blood filters
 
 - liver: coarse filtration of blood
 - kidneys
