@@ -1,5 +1,9 @@
 # lecture notes about nutrition and related topics
 
+## basics
+
+- 21 amino acids are common to all life forms
+
 
 ## food energy
 
@@ -44,7 +48,6 @@
 - micronutrients
   - milligrams of daily consumption
     
-- 21 amino acids are common to all life forms
 - 8 essential amino acids humans cannot synthesize 
   - valine
   - threonine
