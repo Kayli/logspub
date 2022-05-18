@@ -168,7 +168,11 @@
     - ileum (подвздошная кишка)
 
 - large intestine (толстая кишка)
-  - length: 1.5 metres
+  - length: 1.5-2 metres
+  - sections
+    - слепая кишка и аппендикс
+    - ободочная кишка
+    - прямая кишка
 
 - kidneys
   - performs fine filtration of blood
