@@ -74,14 +74,22 @@ important features been introduced in recent years
 
 ## new framework features
 
-  - async timer class: PeriodicTimer
-  - separate classes for time and date: TimeOnly, DateOnly
-  - linq
-    - split collection into chunks of size n: items.Chunk(n)
-    - MinBy and MaxBy as a shorter version of OrderBy + First
+- async timer class: PeriodicTimer
+- separate classes for time and date: TimeOnly, DateOnly
+- linq
+  - split collection into chunks of size n: items.Chunk(n)
+  - MinBy and MaxBy as a shorter version of OrderBy + First
+
+- trimmed self-contained applications
+  - the output publishing folder contains all components of the app, including the .NET libraries 
+    and target runtime. The app is isolated from other .NET apps and doesn't use a locally installed 
+    shared runtime. The user of your app isn't required to download and install .NET
+  - example
+    > dotnet publish -r win-x64 -p:PublishTrimmed=true
 
 
 ## references
 
 [^1]: https://www.youtube.com/c/Elfocrash
 [^2]: https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10
+[^3]: https://docs.microsoft.com/en-us/dotnet/core/deploying/trimming/trim-self-contained
