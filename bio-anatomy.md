@@ -143,9 +143,12 @@
 ## digestion
 
 - stomach
+  - сфинктеры
+    - кардиальный на входе
+    - пиларический на выходе
 
 - pancreas (поджелудочная железа)
-  - regulate blood sugar levels, secreting the hormones insulin, glucagon, somatostatin, and pancreatic polypeptide. 
+  - regulate blood sugar levels, secreting the hormones insulin, glucagon, somatostatin, and pancreatic polypeptide
   - secreting pancreatic juice into the duodenum through the pancreatic duct
     - juice contains bicarbonate, which neutralizes acid entering the duodenum from the stomach 
       and digestive enzymes, which break down carbohydrates, proteins, and fats in food
