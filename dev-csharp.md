@@ -75,6 +75,8 @@ important features been introduced in recent years
 - init-only setters: optional parameters that can be set via initializer during object construction
   > var note = new Note(required1, required2) { Optional1 = 5, Optional2 = "s" }
 
+- local (nested) functions: you can declare one function inside another one
+
 
 ## new framework features
 
