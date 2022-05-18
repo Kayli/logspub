@@ -143,16 +143,32 @@
 ## digestion
 
 - stomach
+
 - pancreas (поджелудочная железа)
   - regulate blood sugar levels, secreting the hormones insulin, glucagon, somatostatin, and pancreatic polypeptide. 
   - secreting pancreatic juice into the duodenum through the pancreatic duct
     - juice contains bicarbonate, which neutralizes acid entering the duodenum from the stomach 
       and digestive enzymes, which break down carbohydrates, proteins, and fats in food
-- gallbladder (желчный пузырь)
-- small intestine
-- large intestine
 
-- liver: coarse filtration of blood
+- liver
+  - performs coarse filtration of blood
+  - produces bile, an alkaline fluid containing cholesterol and bile acids, which helps the breakdown of fat
+
+- gallbladder (желчный пузырь)
+  - receives and stores bile, produced by the liver, via the common hepatic duct
+  - releases bile via the common bile duct into the duodenum, where the bile helps in the digestion of fats
+
+- small intestine (тонкая кишка)
+  - length: 6.5 meters
+  - sections
+    - duodenum (двенадцатиперстная кишка)
+      - principal site for iron absorption
+      - length: 25–38 cm
+    - jejunum (тощая кишка)
+    - ileum (подвздошная кишка)
+
+- large intestine (толстая кишка)
+  - length: 1.5 metres
 
 - kidneys
   - fine filtration of blood
