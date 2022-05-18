@@ -45,6 +45,7 @@
 
 ## planning
 
+- agile
 - evidence-based scheduling by Joel Spolsky [^5]
 
 
