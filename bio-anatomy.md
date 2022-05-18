@@ -117,8 +117,16 @@
 - arteias: carry blood away from heart
 
 - blood vessels [^2]
-  - oxygenated
-  - deoxyginated
+  - oxygenated (течет артериальная кровь)
+  - deoxyginated (течет венозная кровь)
+
+
+## body filters
+
+- liver: coarse filtration of blood
+- kidneys
+  - fine filtration of blood
+  - also synthesise hormons and vitamins from precursors
 
 
 ## references
