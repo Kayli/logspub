@@ -25,6 +25,7 @@
     - neutrinos 10%, photons 15%, atoms 12%, dark matter 63%
   - dark energy has been present for at least 9 billion years and during the period preceding cosmic acceleration
   - started accelerated expansion only about 6 bill years ago
+  - 98% of all atoms in the universe are hydrogen and helium [^7]
 
 - size
   - most likely infinite
@@ -350,3 +351,4 @@
 [^4]: https://en.wikipedia.org/wiki/Lagrange_point
 [^5]: https://www.youtube.com/watch?v=bGcYp_npJb8
 [^6]: https://science.sciencemag.org/content/346/6205/61
+[^7]: https://youtu.be/SqX70ypN7bA?t=784
