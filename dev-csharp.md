@@ -72,6 +72,9 @@ important features been introduced in recent years
 - index from end operator ^
   - var lastItem = array[^1]; 
 
+- init-only setters: optional parameters that can be set via initializer during object construction
+  > var note = new Note(required1, required2) { Optional1 = 5, Optional2 = "s" }
+
 
 ## new framework features
 
