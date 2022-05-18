@@ -46,7 +46,15 @@
 ## planning
 
 - evidence-based scheduling by Joel Spolsky [^5]
-  
+
+
+## risks management
+
+- sales or non-technical managers can make your life miserable by
+  - making promises to customers without checking with you
+  - pestering you to deliver on unrealistic time lines etc
+  - posting bug reports that are unnecessary 
+
 
 ## law
 
