@@ -228,6 +228,21 @@
     - you need to manually unseal every node in a cluster
 
 
+## security, shift-left
+
+- datree
+  - statically checks resource definition yamls for schema compliance and good-practice policies
+  - cli tool with some web ui for managing policies
+
+- rbac mechanism implement access control rules 
+  - its based on defining crud rules for a user about whats allowed and not
+
+- gatekeeper open policy agent (opa)
+  - allows to define rules for allowed node types to be provisioned, resource limits, etc.
+  - validation happens at 'run-time', so resources may end up being partially provisioned
+  - uses 'rego' dsl to define logic for policies
+
+
 ## gitops or infrastructure as code (iac)
 
 - gitlab via
@@ -267,6 +282,10 @@
   - gives you smart rebuilds and live updates without having to go through ci/cd pipeline
   - used to speedup coding with dev clusters
 - zabbix monitoring https://github.com/zabbix
+- shift-left, policy management
+  - datree: cli tool to validate yaml for schema compliance and good-practice policies
+  - gatekeeper open policy agent (opa)
+  - kyverno
 
 
 ## tutorials

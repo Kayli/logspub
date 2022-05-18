@@ -140,12 +140,22 @@
       for gas exchange of between 70 and 80 square metres
 
 
-## blood filters
+## digestion
 
 - liver: coarse filtration of blood
+
 - kidneys
   - fine filtration of blood
   - also synthesise hormons and vitamins from precursors
+
+- spleen (селезенка)
+  - digestive functions
+    - removes old red blood cells and holds a reserve of blood
+      - which can be valuable in case of hemorrhagic shock
+    - recycles iron
+  - immune system functions
+    - houses antibody-producing lymphocytes
+    - analogous to a large lymph node
 
 
 ## interop
