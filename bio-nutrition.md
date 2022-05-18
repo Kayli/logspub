@@ -24,10 +24,25 @@
 
 ## essential nutrients
 
-- essential nutrient 
+- definition 
   - a nutrient required for normal physiological function 
   - that cannot be synthesized in the body either at all or in sufficient quantities
     - and thus must be obtained from a dietary source
+
+- macronutrients
+  - from several grams to hundreds grams of daily consumption
+  - non-organic 
+    - water, Na+, Cl-, Mg2+, K2+, Ca, H2PO4- (остаток фосфорной кислоты)
+  - organic
+    - carbohydrates
+      - monosacharides (glucose)
+      - polysacharides (starch)
+    - lipids
+      - omega-3, omega-6
+      - foods: plant-based oils, fish
+
+- micronutrients
+  - milligrams of daily consumption
     
 - 21 amino acids are common to all life forms
 - 9 essential amino acids humans cannot synthesize 
