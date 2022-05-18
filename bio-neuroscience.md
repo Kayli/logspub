@@ -39,6 +39,7 @@
 
 - reptilian complex
   - structures related to territoriality, ritual behavior and other "reptile" behaviors
+  
   - basal ganglia
     - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
     - main functions
@@ -49,9 +50,18 @@
       - eye movements
       - cognition
       - emotion
-  - stem
+
+  - stem (мозговой ствол)
+    - midbrain (средний мозг)
+      - vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation
+    - pons varolii (bridge of varolius, варолиев мост)
+      - relay signals from the forebrain to the cerebellum
+      - sleep, respiration, swallowing, bladder control, hearing, equilibrium, taste, eye movement, 
+        facial expressions, facial sensation, and posture
+    - medulla (продолговатый мозг)
+
   - cerebellum
-    - preserves automated motor patterns
+    - preserves and reactivates automated motor patterns
 
 
 ## neurons
