@@ -43,6 +43,11 @@
   - hunt for power for its own sake
 
 
+## planning
+
+- evidence-based scheduling by Joel Spolsky [^5]
+  
+
 ## law
 
 - in canada there are statutory termination requirements when terminating someone without cause, 
@@ -69,3 +74,4 @@
 [^2]: https://www.youtube.com/watch?v=R07TlNqz9X4
 [^3]: https://www.infoq.com/articles/development-manager-role/
 [^4]: https://www.aflawyers.ca/termination-notice/
+[^5]: https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
