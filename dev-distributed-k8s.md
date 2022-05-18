@@ -2,7 +2,7 @@
 
 ## basics
 
-- kubectl is cli for k8s
+- kubectl (cube cuddle) is cli for k8s
 - minikube provides simple local k8s cluster
 - helm is a k8s package manager
 - object definitions
