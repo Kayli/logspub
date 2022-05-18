@@ -82,7 +82,7 @@
 
 ## ethics
 
-- 'memetic toxicity' may be a new dimension allowing to define ethical aspects of food production
+- 'memetic toxicity' may be a new dimension allowing to define ethical aspects of food production/consumption
 - verification of incoming information will be a key to get compliance
   - how do you know that certification companies are doing their job well?
     - it shouldn't be just a blind trust, that shit doesn't work
