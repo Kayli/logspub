@@ -59,6 +59,8 @@
       - sleep, respiration, swallowing, bladder control, hearing, equilibrium, taste, eye movement, 
         facial expressions, facial sensation, and posture
     - medulla (продолговатый мозг)
+      - cardiac, respiratory, vomiting and vasomotor centers
+      - autonomic functions of breathing, heart rate and blood pressure as well as the sleep wake cycle
 
   - cerebellum
     - preserves and reactivates automated motor patterns

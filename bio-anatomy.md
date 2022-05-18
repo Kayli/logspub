@@ -38,6 +38,7 @@
     - trunk
       - vertebral column
       - rib cage
+  
   - appendicular skeleton: bones that support the appendages
     - shoulder girdle (плечевой пояс)
     - arm
@@ -101,6 +102,19 @@
 ## organs
 
 - organ is a collection of tissues joined in a structural unit to serve a common function
+
+
+## circulatory system
+
+- pulmonary (легочный, малый круг кровообращения)
+- systemic (большой круг кровообращения)
+
+- veins: carry blood into the heart
+- arteias: carry blood away from heart
+
+- blood vessels
+  - oxygenated
+  - deoxyginated
 
 
 ## references
