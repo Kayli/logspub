@@ -142,6 +142,7 @@
 
 ## digestion
 
+- stomach
 - liver: coarse filtration of blood
 
 - kidneys
@@ -158,13 +159,7 @@
     - analogous to a large lymph node
 
 
-## interop
 
-- with python
-  - pythonnet https://github.com/pythonnet/pythonnet
-    - supports using .net assemblies from python and python modules from dotnet
-    - you can use pandas and all sorts of other cool libraries
-  - ironpython: microsoft abandoned it (and its sister project IronRuby) in late 2010
 
 
 ## references

@@ -92,6 +92,15 @@ important features been introduced in recent years
     > dotnet publish -r win-x64 -p:PublishTrimmed=true
 
 
+## interop
+
+- with python
+  - pythonnet https://github.com/pythonnet/pythonnet
+    - supports import of .net assemblies from python and python modules from dotnet
+    - you can use pandas and all sorts of other cool libraries
+  - ironpython: microsoft abandoned it (and its sister project IronRuby) in late 2010
+
+
 ## useful tools
 
 - dotnet fiddle online compiler with .net 6 support: https://dotnetfiddle.net
