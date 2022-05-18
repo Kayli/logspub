@@ -151,8 +151,8 @@
       and digestive enzymes, which break down carbohydrates, proteins, and fats in food
 
 - liver
-  - performs coarse filtration of blood
   - produces bile, an alkaline fluid containing cholesterol and bile acids, which helps the breakdown of fat
+  - performs coarse filtration of blood
 
 - gallbladder (желчный пузырь)
   - receives and stores bile, produced by the liver, via the common hepatic duct
@@ -171,7 +171,7 @@
   - length: 1.5 metres
 
 - kidneys
-  - fine filtration of blood
+  - performs fine filtration of blood
   - also synthesise hormons and vitamins from precursors
 
 - spleen (селезенка)
