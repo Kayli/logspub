@@ -5,6 +5,7 @@
 - as of may 17, 2022
   - c# latest version is 10 
   - dotnet latest version is 6.0 (recommended), 7.0 (in preview)
+  - ide latest version: visual studio 2022
 
 
 ## new language features [^1][^2]
