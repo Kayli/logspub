@@ -148,6 +148,15 @@
   - also synthesise hormons and vitamins from precursors
 
 
+## interop
+
+- with python
+  - pythonnet https://github.com/pythonnet/pythonnet
+    - supports using .net assemblies from python and python modules from dotnet
+    - you can use pandas and all sorts of other cool libraries
+  - ironpython: microsoft abandoned it (and its sister project IronRuby) in late 2010
+
+
 ## references
 
 [^1]: https://www.youtube.com/playlist?list=PLcsjsqLLSfNDHFikQVZd2XOqF5FK56L3D
