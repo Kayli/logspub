@@ -169,6 +169,8 @@
 
 - large intestine (толстая кишка)
   - length: 1.5-2 metres
+  - hosts microflora
+  - sythesises vitamins K and B 
   - sections
     - слепая кишка и аппендикс
     - ободочная кишка
