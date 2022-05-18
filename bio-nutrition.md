@@ -76,7 +76,7 @@
 - presence of cancerous cells are norm in human body
   - its about their concentrations, aggregations and ability of an organism to neutralize them in a timeley manner
   - healthy immune system is a key here
-- 95% energy cancerous cells are getting through glicolysis
+- 95% energy of cancerous cells are getting through glicolysis
   - only 2 ATP molectules are produced as a result of reaction (glucose -> NAD + 2 ATP)
 
 
