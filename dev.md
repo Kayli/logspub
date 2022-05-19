@@ -130,8 +130,14 @@
   - implementations: dependency-cruiser (nodejs)
 
 
+## recursion
+
+- mutual recursion: when more than one function call one another recursively [^4]
+
+
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
 [^2]: https://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences
 [^3]: https://www.youtube.com/watch?v=TqfbAXCCVwE
+[^4]: https://youtu.be/LYIn_Ewpq-E?t=2205
