@@ -35,6 +35,8 @@
 
 ## political language
 
+- is a language of non-accountability [^6]
+
 - problems [^1]
   - circus of unnecessarily complex words 
     - which are completely devoid of imagery 
@@ -111,3 +113,4 @@
 [^3]: https://youtu.be/lGGBEG35b_M?t=1846
 [^4]: https://youtu.be/yZKDBRtpxOE?t=1664
 [^5]: https://youtu.be/X3dLkGclWbg?t=138
+[^6]: https://youtu.be/FL1reDn9pJU?t=2580
