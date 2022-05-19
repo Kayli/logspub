@@ -64,12 +64,19 @@
   - describes how consonants change as proto-germanic languages evolve
     - while mixing and simplifying with phoenician languages
 
-- english language
+- history
   - inherits traits from
     - proto-germanic
       - and most similar to frisian specifically
   - gets grammatically simpler than its ancestors
       - but gets rejuvenated vocabulary-wise
+
+- parts of speech
+  - determiners: limit or determine a noun
+    - a/an: reduced form of 'one'
+    - the: reduced form of 'that'
+    - two, some, many ...
+  
 
 
 ## jewish culture languages
@@ -94,7 +101,7 @@
   - используется во всём мире в качестве официальной латинской транскрипции имён и названий из КНР
 
 - сlassical сhinese, literary chinese (вэнья́нь)
-  - кит. 文言, пиньинь wényán, палл. вэньянь, буквально: «литературный язык» 
+  - кит. 文言, wényán, палл. вэньянь, буквально: «литературный язык» 
   - классический письменный язык, использовавшийся в Китае в основном до начала XX века 
     в литературных произведениях, научных публикациях, официальных документах и для деловой переписки
 
