@@ -1,4 +1,4 @@
-# course notes on 'Philosophy: from Decartes to Derrida' TGC series
+# course notes on 'Philosophy: from Decartes to Derrida' TGC series [^1]
 
 ## Lecture 1 - Philosophy and the Modern Age
 
@@ -580,3 +580,6 @@
   - museums, theatres, movies 
 
 
+## references
+
+[^1]: https://www.thegreatcourses.com/courses/modern-intellectual-tradition-from-descartes-to-derrida
