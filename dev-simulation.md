@@ -46,6 +46,27 @@
   - has backends for cuda/opencl/cpu
 
 
+## collision detection
+
+- types
+  - static
+    - faster
+    - velocities are not taken into account, risk of tunneling
+  - dynamic
+    - slower
+    - report exact time of collision and point of contact
+
+- swept volume
+  - the volume covered by an object in continuous motion over a specified time interval
+  - if swept volumes of two objects dont intersect, there is no collision
+  - speedbox - simplified approximation of swept volume, but doesn't have to be literally a box
+
+- spatial partitioning
+  - bounding volume hierarchies
+  - bounding volumes
+  - surface geometry
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Voxel
