@@ -29,3 +29,14 @@
 ## books to consider
 
 - python machine learning (raschka, 2019) https://www.amazon.ca/dp/1789955750
+
+
+## reinforcement learning
+
+- reading reinforcement learning textbook from RL online course 
+  - pdf link https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/supplement/07PG7/reinforcement-learning-textbook
+
+
+- reading materials for the coursera "fundamentals of reinforcement learning" [course](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
+  - main challenges: exploration vs exploitation tradeoff
+  
