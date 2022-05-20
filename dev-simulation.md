@@ -26,6 +26,11 @@
     - pan: 					shift + middle mouse
 
 
+## unity3d
+
+- simulating ant colony using shaders 
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Voxel
