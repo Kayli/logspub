@@ -32,6 +32,16 @@
 - simulating ant colony using compute shaders https://www.youtube.com/watch?v=X-iSQQgOd1A
 
 
+## generic compute
+
+- computesharp https://github.com/Sergio0694/ComputeSharp
+  - only works on windows 10
+  - has the benefit of not needing any other dependencies (no need to install CUDA or OpenCL to get GPU support)
+
+- ilgpu https://github.com/m4rs-mt/ILGPU/
+  - has backends for cuda/opencl/cpu
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Voxel
