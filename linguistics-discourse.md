@@ -1,4 +1,4 @@
-# notes about topics related to discourse analyiss
+# notes about topics related to discourse analyis
 
 ## definition [^2]
 
