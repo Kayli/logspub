@@ -32,11 +32,15 @@
 - simulating ant colony using compute shaders https://www.youtube.com/watch?v=X-iSQQgOd1A
 
 
-## generic compute
+## generic compute [^2]
 
 - computesharp https://github.com/Sergio0694/ComputeSharp
   - only works on windows 10
   - has the benefit of not needing any other dependencies (no need to install CUDA or OpenCL to get GPU support)
+  - there is a Roslyn source generator that rewrites the shaders at build time from C# to HLSL (mapping types, 
+    methods, intrinsics, etc.), then shaders are compiled and cached at runtime (this gives the library some 
+    additional flexibility, like being able to have shader metaprogramming too, ie. capturing delegates in a 
+    shader to compose them dynamically) and then dispatched on the GPU
 
 - ilgpu https://github.com/m4rs-mt/ILGPU/
   - has backends for cuda/opencl/cpu
@@ -45,3 +49,4 @@
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Voxel
+[^2]: https://news.ycombinator.com/item?id=26237968
