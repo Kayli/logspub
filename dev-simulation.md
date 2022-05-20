@@ -28,7 +28,8 @@
 
 ## unity3d
 
-- simulating ant colony using shaders https://www.youtube.com/watch?v=X-iSQQgOd1A
+- simple compute shader in unity https://www.youtube.com/watch?v=BrZ4pWwkpto
+- simulating ant colony using compute shaders https://www.youtube.com/watch?v=X-iSQQgOd1A
 
 
 ## references
