@@ -181,6 +181,15 @@
   - holpy
 
 
+## computer algebra systems
+
+- sympy https://github.com/sympy/sympy
+  - symbolic and numberic solver, differentiation, integration
+  - simplifies statistics calculations introducing 'random variable' type 
+  - export to latex
+  - supports matplotlib backend
+
+
 ## recursion [^13]
 
 - structural
@@ -211,6 +220,8 @@
   - can also solve constraints involving propositional logic
   - name is derived from the fact that these expressions are interpreted within ("modulo") 
     a certain formal theory in first-order logic with equality
+
+- cas: computer algebra system
 
 
 ## references

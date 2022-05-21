@@ -388,6 +388,11 @@
   - has the highest melting point of all the elements discovered 3,422 °C (3,695 K)
 
 
+## automation
+
+- python library https://github.com/bjodah/chempy
+
+
 ## references
 
 [tgc chemistry course](https://www.thegreatcoursesplus.com/chemistry-2nd-edition)
