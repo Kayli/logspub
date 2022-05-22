@@ -43,6 +43,11 @@
   - hunt for power for its own sake
 
 
+## microagressions
+
+- todo: lookup videos on microagressions, passive agressive behaviors
+
+
 ## planning
 
 - agile
@@ -68,7 +73,7 @@
 - statutory vs. common law termination notice [^4]
 
 
-## common reasons for leaving
+## common reasons for leaving [^6]
 
 - people report being constantly stressed out
   - too many hats to wear
@@ -95,3 +100,4 @@
 [^3]: https://www.infoq.com/articles/development-manager-role/
 [^4]: https://www.aflawyers.ca/termination-notice/
 [^5]: https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
+[^6]: https://youtu.be/Q_bJVokYLRI
