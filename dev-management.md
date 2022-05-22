@@ -68,6 +68,17 @@
 - statutory vs. common law termination notice [^4]
 
 
+## common reasons for leaving
+
+- people report being constantly stressed out
+  - too many hats to wear
+  - too many responsibilities and they cant be the best in any one of them
+- primary reason why people leave companies
+  - 12% because of their manager 
+  - 28% because of leadership
+  - 52% development opportunities
+
+
 ## look up topics
 
 - договариваться даже со сложными собеседниками
