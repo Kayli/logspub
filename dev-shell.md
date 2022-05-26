@@ -15,9 +15,16 @@
   > set -e
 
 
+## bash
+
+- bash is a default shell on many nix systems
+- default shebang #!/bin/bash
+
+
 ## zsh
 
 - zshell is a default shell on macos since macOS Catalina (2019)
+- default shebang #!/bin/zsh
 
 - get folder in which current script is running
   > mydir=${0:a:h}
