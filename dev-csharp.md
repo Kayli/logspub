@@ -8,6 +8,13 @@
   - ide latest version: visual studio 2022
 
 
+## installation on debian
+
+- add the following lines to your .profile file
+  > export PATH=$PATH:/home/illiak/.dotnet 
+  > export DOTNET_ROOT=/home/illiak/.dotnet 
+
+
 ## new language features [^1][^2]
 
 important features been introduced in recent years
@@ -92,6 +99,14 @@ important features been introduced in recent years
     shared runtime. The user of your app isn't required to download and install .NET
   - example
     > dotnet publish -r win-x64 -p:PublishTrimmed=true
+
+
+## dotnet cli
+
+- create new solution
+  > dotnet new sln
+- create new project
+  > dotnet new <template_name> -o <folder_name>
 
 
 ## interop
