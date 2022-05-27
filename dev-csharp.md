@@ -11,8 +11,8 @@
 ## installation on debian
 
 - add the following lines to your .profile file
-  > export PATH=$PATH:/home/illiak/.dotnet 
-  > export DOTNET_ROOT=/home/illiak/.dotnet 
+  > export PATH=$PATH:/home/illiak/.dotnet
+  > export DOTNET_ROOT=/home/illiak/.dotnet
 
 
 ## new language features [^1][^2]
