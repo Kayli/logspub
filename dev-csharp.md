@@ -115,6 +115,9 @@ important features been introduced in recent years
 - pass arguments to an application
   > dotnet run -- <arg1> ... <argN>
 
+- watch project for changes and re-run
+  > dotnet watch [--project <my_project.csproj>] run
+
 
 ## interop
 
