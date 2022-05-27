@@ -105,8 +105,15 @@ important features been introduced in recent years
 
 - create new solution
   > dotnet new sln
+
 - create new project
   > dotnet new <template_name> -o <folder_name>
+
+- add project to solution
+  > dotnet sln add <project_name>
+
+- pass arguments to an application
+  > dotnet run -- <arg1> ... <argN>
 
 
 ## interop
