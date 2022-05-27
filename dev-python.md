@@ -3,6 +3,8 @@
 
 ## basic stuff
 
+- 2.7.18 was the last release of python 2 in april 20, 2020
+
 - python does not support function overloading
   - same for constructor overloading
     - does not work out of the box
@@ -37,10 +39,10 @@
   - verifiable with mypy
 
 
-## package managers
+## package/environment managers
 
 - pip
-  - general Python package installer
+  - general python package installer
   - can be used to install libraries or cli applications with entrypoints
 - pipx
   - pip substitute for installing cli tools 
@@ -55,9 +57,6 @@
   - enables clean upgrades and uninstalls
   - supports Python 3.6 and later
     
-
-## virtual environments
-
 - venv
   - standard virtual environment creation toolchain for python 2.x and 3.x
 
