@@ -118,7 +118,7 @@ important features been introduced in recent years
 - watch project for changes and re-run
   > dotnet watch [--project <my_project.csproj>] run
 
-- list project templates
+- list local project templates
   > dotnet new --list
 
 
