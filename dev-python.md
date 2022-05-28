@@ -312,6 +312,14 @@
     >>> task = asyncio.create_task(some_async_func())
     >>> await task
 
+- global interpreter lock (gil) [^6]
+  - lock is enabled by default and that it is periodically released
+    - as opposed to the paradigm often seen in many multi-threaded programs where locks are generally 
+      not held except when specifically required in so-called "critical sections"
+  - python releases gil when doing io
+    - this means that print() function also releases gil and can lead to race conditions and inconsistent 
+      output when called from multiple threads 
+
 
 ## vscode extensions
 
@@ -332,3 +340,4 @@
 [^3]: https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
 [^4]: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
 [^5]: https://stackoverflow.com/questions/5517241/is-there-any-trick-to-overload-the-dot-operator
+[^6]: https://thomasnyberg.com/releasing_the_gil.html
