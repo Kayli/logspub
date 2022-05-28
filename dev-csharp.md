@@ -84,6 +84,8 @@ important features been introduced in recent years
 
 - local (nested) functions: you can declare one function inside another one
 
+- switch/case statements can do type matching
+
 
 ## new framework features
 
@@ -129,6 +131,12 @@ important features been introduced in recent years
     - supports import of .net assemblies from python and python modules from dotnet
     - you can use pandas and all sorts of other cool libraries
   - ironpython: microsoft abandoned it (and its sister project IronRuby) in late 2010
+
+
+## asp.net
+
+- for asp.net applications the default stack size is only 256k, comparing to 1mb for desktop app
+  - can be changed in the PE header
 
 
 ## useful tools
