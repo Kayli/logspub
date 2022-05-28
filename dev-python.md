@@ -304,6 +304,14 @@
   - defined by inheriting from 'type' class
   - rarely used
 
+- coroutines
+  - coroutine function is an async def function
+  - a coroutine object is an object returned by calling a coroutine function
+  - when a coroutine is wrapped into a Task with functions like asyncio.create_task() 
+    the coroutine is automatically scheduled to run soon
+    >>> task = asyncio.create_task(some_async_func())
+    >>> await task
+
 
 ## vscode extensions
 
