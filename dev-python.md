@@ -319,6 +319,8 @@
   - python releases gil when doing io
     - this means that print() function also releases gil and can lead to race conditions and inconsistent 
       output when called from multiple threads 
+  - you can release gil inside your custom-written c extension using macroses:
+    Py_BEGIN_ALLOW_THREADS, Py_END_ALLOW_THREADS
 
 
 ## vscode extensions
