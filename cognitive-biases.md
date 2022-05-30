@@ -39,9 +39,11 @@
   - for example, an individual may be more likely to purchase a car if it is placed alongside 
     a more expensive model (anchor)
 
-- 
+- bless yourself with holy water, have masses said, and so on; by simple and natural process this will make you believe
+  - this will dull you, quiet your critical intellect [^2]
 
 
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+[^2]: https://www.youtube.com/watch?v=fZpJ7yUPwdU
