@@ -42,6 +42,9 @@
 - managerial feudalism [^2]
   - hunt for power for its own sake
 
+- putting employees through a sweeze [^7]
+- wearing a badge of exhaution, burnout and tiredness almost as if it shows our strong work ethic and moral fiber [^7]
+
 
 ## microagressions
 
@@ -101,3 +104,4 @@
 [^4]: https://www.aflawyers.ca/termination-notice/
 [^5]: https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
 [^6]: https://youtu.be/Q_bJVokYLRI
+[^7]: https://www.youtube.com/watch?v=LY-ZyodLTGA
