@@ -7,6 +7,8 @@
   - defines which points in code are legitimate to jump to
     - nowadays these structures are called methods, functions, switch statements, loops, etc.
 
+- ast: abstract syntax tree
+
 
 ## modelling languages and tools
 
@@ -17,20 +19,24 @@
   - vscode plugin
 
 
-## parser generators/combinators
+## parsers
 
 - grammar standards
-  - ebnf (w3c grammar notation, extended backus–naur form)
+    - ebnf (w3c grammar notation, extended backus–naur form)
 
-- antlr
-  - industry standard tool to generate parsers
-  - antlr is its own grammar standard
-  - supports many languages for generated parsers
+- components
+  - lexer: bundles sequence of characters into sequence of lexical tokens
+  - parser: converts lexical tokens into ast
 
-- parsec
-  - parser combinator in python
-  - source code https://github.com/sighingnow/parsec.py/blob/master/src/parsec/__init__.py
-  - some examples https://github.com/sighingnow/parsec.py/tree/master/examples
+- parser generators/combinators
+  - antlr
+    - industry standard tool to generate parsers
+    - antlr is its own grammar standard
+    - supports many languages for generated parsers
+  - parsec
+    - parser combinator in python
+    - source code https://github.com/sighingnow/parsec.py/blob/master/src/parsec/__init__.py
+    - some examples https://github.com/sighingnow/parsec.py/tree/master/examples
 
 
 ## programming languages
