@@ -11,19 +11,7 @@
     - in python 3.something need to inherit from MultipleMeta class [^2]
 
 - collections
-  - list: stack/queue semantics for working with elements
-    - list comperhensions provide syntax sugar for map+iterator+filter pattern
-    - example
-      > mylist = [1,2,3,4,5]
-  - set: used to store unordered unique elements, supports intersection operators and alike
-    > myset = {1,2,3,4,5}
-  - tuple: immutable container
-    > mytup = (1,2,3,4,5)
-  - dict: key/value pairs
-    - defaultdict wont raise keyvalueerror when accessing non-existing key
-    - ChainMap creates a signle view of multiple dictionaries
-    - example
-      > mydic = {'key1': 5, 'key2', 'something'}
+
   
 - mixins
   - work out of the box [^3]
@@ -52,6 +40,32 @@
 - protocols (from typing import Protocol)
   - are similar to interfaces in c#, so you need to subclass Protocol type
   - verifiable with mypy
+
+
+## collections
+
+- list: stack/queue semantics for working with elements
+  - internally, a list is represented as an array
+    - the largest costs come from growing beyond the current allocation size (because everything must move), 
+      or from inserting or deleting somewhere near the beginning (because everything after that must move)
+    - if you need to add/remove at both ends, consider using a collections.deque instead
+  - list comperhensions provide syntax sugar for map+iterator+filter pattern
+  - example
+    > mylist = [1,2,3,4,5]
+
+- set: used to store unordered unique elements, supports intersection operators and alike
+  > myset = {1,2,3,4,5}
+
+- tuple: immutable container
+  > mytup = (1,2,3,4,5)
+
+- dict: key/value pairs
+  - defaultdict wont raise keyvalueerror when accessing non-existing key
+    - but you will need to specify the type upon instantiation
+  - ChainMap creates a signle view of multiple dictionaries
+  - OrderedDict remembers order in which values were added
+  - example
+    > mydic = {'key1': 5, 'key2', 'something'}
 
 
 ## package/environment managers
