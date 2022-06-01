@@ -17,6 +17,7 @@
 - nonsense ideas
     - people have a duty to not procreate
     - life has pain therefore its not worth living
+    - guillotining procreators
 
 - interesting ideas
     - when quality of life is unacceptable (by that individual personal standards) and individual 
