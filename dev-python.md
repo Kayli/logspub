@@ -10,6 +10,18 @@
     - does not work out of the box
     - in python 3.something need to inherit from MultipleMeta class [^2]
 
+- collections
+  - list: stack/queue semantics for working with elements
+    > mylist = [1,2,3,4,5]
+  - list comperhensions provide syntax sugar for map+iterator+filter pattern
+  - set: used to store unique elements, supports intersection operators and alike
+    > myset = {1,2,3,4,5}
+  - tuple
+    > mytup = (1,2,3,4,5)
+  - dict: key/value pairs
+    > mydic = {'key1': 5, 'key2', 'something'}
+  - defaultdict wont raise keyvalueerror when accessing non-existing key
+
 - mixins
   - work out of the box [^3]
   - just specify multiple 'base classes' on class declaration
@@ -38,11 +50,8 @@
   - are similar to interfaces in c#, so you need to subclass Protocol type
   - verifiable with mypy
 
-- collections
-  - list: stack/queue semantics for working with elements
-    - list comperhensions provide syntax sugar for map+iterator+filter pattern
-  - set: used to store unique elements, supports intersection operators and alike
-  - dict: key/value pairs
+
+  
 
 
 ## package/environment managers
