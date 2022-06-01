@@ -68,6 +68,10 @@
   - example
     > mydic = {'key1': 5, 'key2', 'something'}
 
+- linq-like extensions can be enabled by following libraries
+  - https://pypi.org/project/py-linq/
+  - https://pypi.org/project/Linq/
+
 
 ## package/environment managers
 
