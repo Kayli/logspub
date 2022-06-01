@@ -2,6 +2,18 @@
 
 ## basics
 
+- data breaches
+  - unfortunate reality is that data breaches are a cost of doing business in the modern world 
+    and will continue to be a concern to both companies and users
+
+- zero-day
+  - computer-software vulnerability previously unknown to those who should be interested in its mitigation
+  - until the vulnerability is mitigated, hackers can exploit it to adversely affect programs, data, 
+    additional computers or a network
+    
+- zero-day exploit 
+  - an exploit directed at a zero-day is called a zero-day exploit, or zero-day attack
+
 - malware
   - is any software intentionally designed to cause disruption to a target
   - typical targets: computer, server, client, computer network
