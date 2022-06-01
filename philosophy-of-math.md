@@ -17,6 +17,7 @@
     - are 9 axioms for the natural numbers presented by the 19th century Italian mathematician Giuseppe Peano
     - formulated in a languages of set theory and second-order logic 
     - helped answering questions of whether number theory is consistent and complete
+  - peano numbers are well illustrated and implemented in tsoding streams [^4]
 
 - foundational philosophy of intuitionism or constructivism
   - requires proofs to be "constructive" in nature
@@ -32,3 +33,4 @@
 [^1]: https://en.wikipedia.org/wiki/Foundations_of_mathematics
 [^2]: Hilbert 1927 The Foundations of Mathematics in van Heijenoort 1967:475
 [^3]: https://www.amazon.ca/Proof-Pudding-Changing-Nature-Mathematical/dp/0387489088
+[^4]: https://www.youtube.com/watch?v=Ma4hPxc107s
