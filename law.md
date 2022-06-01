@@ -32,6 +32,11 @@
 - сonstitution 
   - set of laws containing the basic rules about how our country operates
 
+- injunctive relief
+  - injunctive relief is a legal term that describes a court-issued order requiring a defendant to take some 
+    sort of action or to cease doing something to avoid further harm to the plaintiff in a lawsuit
+  - these types of remedies are also called injunctions
+
 
 ## bc police encounters
 
