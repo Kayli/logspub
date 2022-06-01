@@ -6,3 +6,18 @@
 - axiology: is the philosophical study of value
 - axiological point or judgement: value judgement
 
+
+## antinatalism
+
+- shopenhauer
+- benatar
+
+
+## quotes
+
+- "consciousness is always present for itself" thomas w. clark 
+
+
+## references
+
+[^1]: https://www.youtube.com/watch?v=EEVFrdVnhfI
