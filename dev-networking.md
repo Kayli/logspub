@@ -31,6 +31,14 @@
     content of the message, the URL type, and information in cookies
 
 
+## ssh
+
+- tunneling
+  - by default, anyone (even on different machines) can connect to the specified port on the SSH client machine
+    but this can be restricted to programs on the same host by supplying a bind address:
+    > ssh -L 127.0.0.1:80:client.example.com:80 remote.example.com
+
+
 ## references
 
 [^1]: https://avinetworks.com/glossary/l4-l7-network-services/
