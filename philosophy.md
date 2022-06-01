@@ -9,9 +9,18 @@
 
 ## antinatalism
 
-- shopenhauer
-- benatar
-- théophile de giraud
+- notable ppl
+    - shopenhauer
+    - benatar
+    - théophile de giraud
+
+- nonsense ideas
+    - people have a duty to not procreate
+    - life has pain therefore its not worth living
+
+- interesting ideas
+    - when quality of life is unacceptable (by that individual personal standards) and individual 
+      is trapped in that state, it may be a life not worth living
 
 
 ## quotes
