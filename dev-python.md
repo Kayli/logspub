@@ -9,9 +9,6 @@
   - same for constructor overloading
     - does not work out of the box
     - in python 3.something need to inherit from MultipleMeta class [^2]
-
-- collections
-
   
 - mixins
   - work out of the box [^3]
