@@ -54,9 +54,6 @@
   - verifiable with mypy
 
 
-  
-
-
 ## package/environment managers
 
 - pip
