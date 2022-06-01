@@ -11,6 +11,7 @@
 
 - shopenhauer
 - benatar
+- théophile de giraud
 
 
 ## quotes
