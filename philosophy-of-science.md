@@ -57,8 +57,6 @@
   - social coherence usually valued higher than progress
 
 
-
-  
 - what is scientific?
   - for example, why "literary theory" is not scientific?
     - valuable and important kind of inquiry
