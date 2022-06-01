@@ -12,11 +12,12 @@
 
 - collections
   - list: stack/queue semantics for working with elements
-    > mylist = [1,2,3,4,5]
-  - list comperhensions provide syntax sugar for map+iterator+filter pattern
-  - set: used to store unique elements, supports intersection operators and alike
+    - list comperhensions provide syntax sugar for map+iterator+filter pattern
+    - example
+      > mylist = [1,2,3,4,5]
+  - set: used to store unordered unique elements, supports intersection operators and alike
     > myset = {1,2,3,4,5}
-  - tuple
+  - tuple: immutable container
     > mytup = (1,2,3,4,5)
   - dict: key/value pairs
     > mydic = {'key1': 5, 'key2', 'something'}
