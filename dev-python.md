@@ -20,9 +20,11 @@
   - tuple: immutable container
     > mytup = (1,2,3,4,5)
   - dict: key/value pairs
-    > mydic = {'key1': 5, 'key2', 'something'}
-  - defaultdict wont raise keyvalueerror when accessing non-existing key
-
+    - defaultdict wont raise keyvalueerror when accessing non-existing key
+    - ChainMap creates a signle view of multiple dictionaries
+    - example
+      > mydic = {'key1': 5, 'key2', 'something'}
+  
 - mixins
   - work out of the box [^3]
   - just specify multiple 'base classes' on class declaration
