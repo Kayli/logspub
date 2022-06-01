@@ -38,6 +38,12 @@
   - are similar to interfaces in c#, so you need to subclass Protocol type
   - verifiable with mypy
 
+- collections
+  - list: stack/queue semantics for working with elements
+    - list comperhensions provide syntax sugar for map+iterator+filter pattern
+  - set: used to store unique elements, supports intersection operators and alike
+  - dict: key/value pairs
+
 
 ## package/environment managers
 
