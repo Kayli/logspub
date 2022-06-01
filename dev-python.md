@@ -50,6 +50,9 @@
   - example
     > mylist = [1,2,3,4,5]
 
+- collections.deque
+  - deque (double-ended queue) is represented internally as a doubly linked list
+
 - set: used to store unordered unique elements, supports intersection operators and alike
   > myset = {1,2,3,4,5}
 
@@ -57,6 +60,7 @@
   > mytup = (1,2,3,4,5)
 
 - dict: key/value pairs
+  - aka hashmap in java, locates elements by a hash function, needs to be rehashed as it grows
   - defaultdict wont raise keyvalueerror when accessing non-existing key
     - but you will need to specify the type upon instantiation
   - ChainMap creates a signle view of multiple dictionaries
