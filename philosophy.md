@@ -16,8 +16,10 @@
 ## quotes
 
 - "consciousness is always present for itself" thomas w. clark 
+- reincarnation is just a poetic expression of what collective memory is [^2]
 
 
 ## references
 
 [^1]: https://www.youtube.com/watch?v=EEVFrdVnhfI
+[^2]: https://youtu.be/Wztf9aM0c5g?t=1410
