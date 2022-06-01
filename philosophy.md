@@ -9,7 +9,7 @@
 
 ## antinatalism
 
-- notable ppl
+- notable people
     - shopenhauer
     - benatar
     - théophile de giraud
