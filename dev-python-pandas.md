@@ -2,7 +2,7 @@
 
 ## general information
 
-- data analysis and manipulation tool for python
+- pandas is a data analysis and manipulation tool for python
 - foss friendly
 - built on top of scipy
 - columns can be sometimes referred as 'variables'
