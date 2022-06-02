@@ -72,6 +72,12 @@
     - but fakers are so easy to debunk and real deal is real ...
 
 
+## models of consciousness
+
+- dehaene changeux model
+- multiple drafts model (daniel danett)
+- eight-circuit model (timoty leary)
+
 
 ## referernces
 
