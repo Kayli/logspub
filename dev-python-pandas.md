@@ -57,6 +57,7 @@
 
 
 ### finance specific
+
 - having dataframe
   >>> df = pd.DataFrame({'price':  random.randint(100, 200)})
 - percentage change of a price: df.pct_change()
