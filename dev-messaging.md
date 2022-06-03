@@ -72,8 +72,9 @@
 
 - typical components
   - broker, producer, consumer
-- kafka 'server', 'broker' and 'node' all refer to the same concept and are synonyms
-
+- kafka 'server', 'broker','node', 'storage node' all refer to the same concept and are synonyms
+- preserves immutable log of events
+  - retention time can be configured based on number, size or ttl of objects
 - kafka connect
   - provides ecosystem of pluggable connectors
   - kafka connectors: 
@@ -85,12 +86,12 @@
     - smt - single message transformer
   - you can have a cluster of connect workers moving data around
 
-  - kafka streams
-    - is a complete stream-processing system
-    - define processor topology dag
-      - source processor
-      - stream processors
-      - sink processor
+- kafka streams
+  - is a complete stream-processing system
+  - define processor topology dag
+    - source processor
+    - stream processors
+    - sink processor
     
 
 ## terminology
