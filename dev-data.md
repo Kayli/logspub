@@ -179,13 +179,13 @@
     transactional database in the form of a key-value store
 
 
-<<<<<<< HEAD
 ## column stores
 
 - cassandra
   - nosql
   - sypports async replication of data across regions
-=======
+
+
 ## streamable data formats
 
 - motivation
@@ -219,7 +219,6 @@
   - human readable
     - yaml
         - "is intended to be read and written in streams" [^1]
->>>>>>> 9163971 ()
 
 
 ## references
