@@ -71,10 +71,15 @@
 ## kafka
 
 - typical components
-  - broker, producer, consumer
-- kafka 'server', 'broker','node', 'storage node' all refer to the same concept and are synonyms
+  - broker
+    - expose producer and consumer apis
+    - kafka 'broker', 'server', 'node', 'storage node' all refer to the same concept and are synonyms
+  - producer
+  - consumer
+
 - preserves immutable log of events
   - retention time can be configured based on number, size or ttl of objects
+
 - kafka connect
   - provides ecosystem of pluggable connectors
   - kafka connectors: 
