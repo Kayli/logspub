@@ -18,6 +18,7 @@
 ## new language features [^1][^2]
 
 - csharp 11
+  - static abstract interface members
   - INumber<T> can be used as generic constraint to enable arithmetic on T
 
 - csharp 10 and earlier
