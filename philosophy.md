@@ -5,6 +5,11 @@
 - epistemology: theory of knowledge, the branch of philosophy concerned with knowledge
 - axiology: is the philosophical study of value
 - axiological point or judgement: value judgement
+- teleology, finality
+  - explanation for something which serves as a function of its end, its purpose, or its goal
+  - intrinsic: something which serves as a function of its cause (like acorn turns into an oak tree)
+  - extrinsic: purpose that is imposed by a human use
+
 - eschatology: part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
 
 
