@@ -66,6 +66,7 @@
 ## podman
 
 - runs docker containers in userspace
+- does not support compose files out of the box, but podman-compose project addresses that
 - supports k8s specification yaml files
   > podman play kube myspec.yml
 
