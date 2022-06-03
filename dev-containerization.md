@@ -63,6 +63,13 @@
   > docker-compose up
 
 
+## podman
+
+- runs docker containers in userspace
+- supports k8s specification yaml files
+  > podman play kube myspec.yml
+
+
 ## other useful tools
 
 - portainer
