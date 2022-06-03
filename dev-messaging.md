@@ -88,7 +88,7 @@
     - declarative approach, no need to write boilerplate code
     - allows to transfer data from source connector to sink
     - runs in client process, is not a part of a broker
-    - smt - single message transformer
+    - allows to define smts - single message transformers
   - you can have a cluster of connect workers moving data around
 
 - kafka streams
