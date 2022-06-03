@@ -97,6 +97,7 @@
     - source processor
     - stream processors
     - sink processor
+  - Serdes (сёрдей) is an object encapsulating serializer/deserializer logic
   - KStream is a stream in which every element represents a separate event
   - KTable
     - is an update stream in which elements can represent a new event or an update to the existing one
@@ -104,6 +105,7 @@
   - GlobalKTable
     - similar to KTable
     - has a full copy of all data on each instance
+
     
 
 ## terminology
