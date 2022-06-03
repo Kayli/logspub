@@ -17,74 +17,77 @@
 
 ## new language features [^1][^2]
 
-important features been introduced in recent years
+- csharp 11
+  - INumber<T> can be used as generic constraint to enable arithmetic on T
 
-- top level statements
-  - only one file in your application may use top-level statements
+- csharp 10 and earlier
 
-- enter repl by running 'csi' tool
+  - top level statements
+    - only one file in your application may use top-level statements
 
-- interface default method implementations
-  - so now csharp interfaces are whats called 'traits' in other languages
+  - enter repl by running 'csi' tool
 
-- inplace out variables for out parameters
-  > int.TryParse(str, out var value)
+  - interface default method implementations
+    - so now csharp interfaces are whats called 'traits' in other languages
 
-- expression-bodied members
-  - getters and setters: lambda-like bodies instead of curly braces
-  - methods: short methods can have lambda-like bodies
-  - constructors: works only for ctors with 1 argument
+  - inplace out variables for out parameters
+    > int.TryParse(str, out var value)
 
-- discards: underscore '_' symbol means variable that we okay to discard (pacifies compilers, linters)
-  - useful when working with 
-    - awatable methods
-    - argument validation combined with throw expressions
-      > _ = name ?? throw new ArgumentNullException();
+  - expression-bodied members
+    - getters and setters: lambda-like bodies instead of curly braces
+    - methods: short methods can have lambda-like bodies
+    - constructors: works only for ctors with 1 argument
 
-- null conditional operator (elvis operator)
-  > if (order?.Recipient?.EmailAddress != null) ...
+  - discards: underscore '_' symbol means variable that we okay to discard (pacifies compilers, linters)
+    - useful when working with 
+      - awatable methods
+      - argument validation combined with throw expressions
+        > _ = name ?? throw new ArgumentNullException();
 
-- null coalescent assignments
-  > options ??= MyOptions.Default
+  - null conditional operator (elvis operator)
+    > if (order?.Recipient?.EmailAddress != null) ...
 
-- verified reference types: reference types are implicitly non-nullable
-  - with <Nullable>enable</Nullable> <WarningsAsErrors>nullable</WarningsAsErrors> in your csproj file
-  - now you have to explicitly state that some type is nullable
+  - null coalescent assignments
+    > options ??= MyOptions.Default
 
-- named tuples: useful for return types
-  - deconstruction
-    > var (isSuccess, response) = doSomething();
+  - verified reference types: reference types are implicitly non-nullable
+    - with <Nullable>enable</Nullable> <WarningsAsErrors>nullable</WarningsAsErrors> in your csproj file
+    - now you have to explicitly state that some type is nullable
 
-- is/as simplification
-  > if (item is string str) { /* do something with the str */ }
-  - you can also do typechecks inside case statements
-    > case ILoggable loggable when loggable.LogLevel == LogLevel.Warn: ...
+  - named tuples: useful for return types
+    - deconstruction
+      > var (isSuccess, response) = doSomething();
 
-- non-overridable equality operator
-  > if (x is null) ...
+  - is/as simplification
+    > if (item is string str) { /* do something with the str */ }
+    - you can also do typechecks inside case statements
+      > case ILoggable loggable when loggable.LogLevel == LogLevel.Warn: ...
 
-- synonyms for '&', '|' operators: 'and', 'or'
+  - non-overridable equality operator
+    > if (x is null) ...
 
-- switch expression-bodied method: simpler map-like syntax for pattern matching
+  - synonyms for '&', '|' operators: 'and', 'or'
 
-- records: simplify declaration of immutable dtos by generating ctor, equality operator, properties
-  > public record Order (int Id, string ArticleName, decimal Total);
-  - cloning a record with mutated field
-    > var order2 = order1 with { ArticleName = "something else"};
+  - switch expression-bodied method: simpler map-like syntax for pattern matching
 
-- global usings: you now can have a file with 'global using' statements which will apply project-wide
+  - records: simplify declaration of immutable dtos by generating ctor, equality operator, properties
+    > public record Order (int Id, string ArticleName, decimal Total);
+    - cloning a record with mutated field
+      > var order2 = order1 with { ArticleName = "something else"};
 
-- reduced nesting of a namespace if its the only namespace statement
+  - global usings: you now can have a file with 'global using' statements which will apply project-wide
 
-- index from end operator ^
-  - var lastItem = array[^1]; 
+  - reduced nesting of a namespace if its the only namespace statement
 
-- init-only setters: optional parameters that can be set via initializer during object construction
-  > var note = new Note(required1, required2) { Optional1 = 5, Optional2 = "s" }
+  - index from end operator ^
+    - var lastItem = array[^1]; 
 
-- local (nested) functions: you can declare one function inside another one
+  - init-only setters: optional parameters that can be set via initializer during object construction
+    > var note = new Note(required1, required2) { Optional1 = 5, Optional2 = "s" }
 
-- switch/case statements can do type matching
+  - local (nested) functions: you can declare one function inside another one
+
+  - switch/case statements can do type matching
 
 
 ## new framework features
