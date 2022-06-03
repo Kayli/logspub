@@ -5,6 +5,7 @@
 - epistemology: theory of knowledge, the branch of philosophy concerned with knowledge
 - axiology: is the philosophical study of value
 - axiological point or judgement: value judgement
+- eschatology: part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
 
 
 ## antinatalism
