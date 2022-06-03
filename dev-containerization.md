@@ -55,7 +55,7 @@
 - defines docker-compose.yml file with configuration
 - helps with 
   - running multiple containers together
-  - storing configuration settings 
+  - storing configuration settings
     - such as volume mounts for the container
     - port mappings
     - environment variables
