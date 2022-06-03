@@ -74,8 +74,8 @@
   - broker
     - expose producer and consumer apis
     - kafka 'broker', 'server', 'node', 'storage node' all refer to the same concept and are synonyms
-  - producer
-  - consumer
+  - producer: publishes events
+  - consumer: subscribes and consumes events
 
 - preserves immutable log of events
   - retention time can be configured based on number, size or ttl of objects
