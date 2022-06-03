@@ -20,6 +20,7 @@
 - csharp 11
   - static abstract interface members
   - INumber<T> can be used as generic constraint to enable arithmetic on T
+  - 'required' keyword for properties
 
 - csharp 10 and earlier
 
