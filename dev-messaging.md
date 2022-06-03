@@ -85,6 +85,18 @@
     - smt - single message transformer
   - you can have a cluster of connect workers moving data around
 
+  - kafka streams
+    - is a complete stream-processing system
+    - define processor topology dag
+      - source processor
+      - stream processors
+      - sink processor
+    
+
+## terminology
+
+- dag: directed acyclic graph
+
 
 ## references
 
