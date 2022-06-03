@@ -3,6 +3,12 @@
 ## basics
 
 - database is a stateful application
+- schema standards
+  - json schema (.schema.json)
+  - xml schema (.xsd)
+  - protobuf (.proto)
+  - apache thrift (.thrift)
+  - apache avro (.avro)
 
 
 ## some popular databases
