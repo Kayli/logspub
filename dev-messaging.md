@@ -68,6 +68,24 @@
       - resequencer: sorts out of order messages 
 
 
+## kafka
+
+- typical components
+  - broker, producer, consumer
+- kafka 'server', 'broker' and 'node' all refer to the same concept and are synonyms
+
+- kafka connect
+  - provides ecosystem of pluggable connectors
+  - kafka connectors: 
+    - source connector acts as a producer
+    - sink connector acts as a consumer
+    - declarative approach, no need to write boilerplate code
+    - allows to transfer data from source connector to sink
+    - runs in client process, is not a part of a broker
+    - smt - single message transformer
+  - you can have a cluster of connect workers moving data around
+
+
 ## references
 
 [^1]: https://www.enterpriseintegrationpatterns.com
