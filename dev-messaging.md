@@ -98,7 +98,12 @@
     - stream processors
     - sink processor
   - KStream is a stream in which every element represents a separate event
-  - KTable is an update stream in which elements can represent a new event or an update to the existing one
+  - KTable
+    - is an update stream in which elements can represent a new event or an update to the existing one
+    - shardes the data between all running Kafka Streams instances
+  - GlobalKTable
+    - similar to KTable
+    - has a full copy of all data on each instance
     
 
 ## terminology
