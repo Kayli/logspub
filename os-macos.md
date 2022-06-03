@@ -1,5 +1,12 @@
 # macos related useful information
 
+## startup configuration
+
+- commands from following files are executed on every shell start
+  - ~/.zprofile 
+  - ~/.zshrc
+
+
 ## useful terminal commands
 
 - list block devices (like lsblk on linux)

@@ -33,6 +33,14 @@
   - homebrew
 
 
+## startup
+
+- userspace startup configuration files
+  - .profile is executed for login shells, supports only sh commands 
+  - .bash_profile is executed for login shells, supports bash commands
+  - .bashrc is executed for shells created for already logged in users
+
+
 ## frequently encountered terms
 
 - loop device, vnd (vnode disk), or lofi (loop file interface)
