@@ -9,6 +9,8 @@
   - protobuf (.proto)
   - apache thrift (.thrift)
   - apache avro (.avro)
+  - parquet
+  - orc (optimized row columnar)
 
 
 ## some popular databases
