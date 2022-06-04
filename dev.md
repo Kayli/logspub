@@ -141,6 +141,13 @@
 - mutual recursion: when more than one function call one another recursively [^4]
 
 
+## misc
+
+- stable vs unstable sorting algorithms
+  - unstable may change order of values with same keys, where stable guarantees initial order
+  - starts to matter when you sorting objects
+
+
 ## references
 
 [^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
