@@ -107,6 +107,7 @@
   - GlobalKTable
     - similar to KTable
     - has a full copy of all data on each instance
+  - support for joins, time windows, stream time (opposed to wall-clock time), unit testing
 
     
 
