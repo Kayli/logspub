@@ -108,8 +108,12 @@
   - producer: publishes events
   - consumer: subscribes and consumes events
 
-- preserves immutable log of events
+- can preserve immutable log of events
   - retention time can be configured based on number, size or ttl of objects
+
+- partitioning
+  - messages without a key will be distributed to nodes in a round-robin manner
+  - asigning a key makes messages with the same key to end up on same cluster node
 
 - kafka connect
   - provides ecosystem of pluggable connectors
