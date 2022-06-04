@@ -63,12 +63,20 @@
   > docker-compose up
 
 
-## podman
+## alternatives
 
-- runs docker containers in userspace, rootless installation
-- does not support compose files out of the box, but podman-compose project addresses that
-- supports k8s specification yaml files
-  > podman play kube myspec.yml
+- podman
+  - runs docker containers in userspace, rootless installation
+  - does not support compose files out of the box, but podman-compose project addresses that
+  - supports k8s specification yaml files
+    > podman play kube myspec.yml
+  - doesn't work on my macos
+
+- colima
+  - allows running docker containers in userspace, enables rootless docker
+  - to get started, run
+    > brew install colima
+    > colima start
 
 
 ## other useful tools
