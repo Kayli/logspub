@@ -16,8 +16,16 @@
 ## schema
 
 - defines constraints on the structure and content of data structures
-- may be a backward-compatible
-  - enables smoother evolution of application that uses such data
+- compatibility types
+  - backward-compatible
+    - consumers using new schema version are able to read previous version schema messages
+  - forward compatible
+    - consumers using previous schema version are able to read next version schema messages
+  - full compatibility (backward + forward)
+  - transitive
+    - means that the new schema is checked against all previous schema versions
+    - non-transitive means that the new schema is checked against the last schema version only
+
 - schema registry
   - component that helps with schema verification before publishing message to a pipe
   - implementations
