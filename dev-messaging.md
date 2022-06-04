@@ -18,6 +18,13 @@
 - defines constraints on the structure and content of data structures
 - may be a backward-compatible
   - enables smoother evolution of application that uses such data
+- schema registry
+  - component that helps with schema verification before publishing message to a pipe
+  - implementations
+    - confluence schema registry
+    - hive metastore
+    - karapace from aiven
+    - apicurio from ibm
   
 - standards
   - json schema (.schema.json)
