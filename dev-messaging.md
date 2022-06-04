@@ -13,6 +13,22 @@
   - thread management: consumers often assigned dedicated threads
 
 
+## schema
+
+- defines constraints on the structure and content of documents
+- may be a backward-compatible
+  - enables smoother evolution of application that uses such data
+  
+- standards
+  - json schema (.schema.json)
+  - xml schema (.xsd)
+  - protobuf (.proto)
+  - apache thrift (.thrift)
+  - apache avro (.avro)
+  - parquet
+  - orc (optimized row columnar)
+
+
 ## enterprise integration patterns
 
 - core patterns
