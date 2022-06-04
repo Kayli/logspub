@@ -115,6 +115,8 @@
   - messages without a key will be distributed to nodes in a round-robin manner
   - asigning a key makes messages with the same key to end up on same cluster node
 
+- topic: named container for similar events
+
 - kafka connect
   - provides ecosystem of pluggable connectors
   - kafka connectors: 

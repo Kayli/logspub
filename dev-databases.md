@@ -5,7 +5,6 @@
 - database is a stateful application
 
 
-
 ## some popular databases
 
 - types
@@ -13,11 +12,15 @@
   - aggregate
     - document: mongodb, raven, couch
     - key-value: riak, redis, etcd
-  - graph: neo4j
+  - graph: neo4j, dgraph
   - column: cassandra, hbase
+  - full-text search engines
+    - apache lucene based: solr and elastic search
+    - algolia, meilisearch
   - cloud native
     - amazon rds, simpledb, dynamodb
     - azure cosmos db, sql database
+  - multimodel: faunadb
 
 
 ## migrations
