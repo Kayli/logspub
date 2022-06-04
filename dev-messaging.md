@@ -15,7 +15,7 @@
 
 ## schema
 
-- defines constraints on the structure and content of documents
+- defines constraints on the structure and content of data structures
 - may be a backward-compatible
   - enables smoother evolution of application that uses such data
   
@@ -24,7 +24,7 @@
   - xml schema (.xsd)
   - protobuf (.proto)
   - apache thrift (.thrift)
-  - apache avro (.avro)
+  - apache avro (.avsc)
   - parquet
   - orc (optimized row columnar)
 
