@@ -21,6 +21,7 @@
     - amazon rds, simpledb, dynamodb
     - azure cosmos db, sql database
   - multimodel: faunadb
+  - timeseries: influxdb, 
 
 
 ## migrations
