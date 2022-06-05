@@ -27,6 +27,9 @@
     - role-based access control (rbac)
       - a policy-neutral access-control mechanism defined around roles and privileges
 
+- rolling restart
+  - the standard procedure for deploying software changes while maintaining availability throughout
+
 
 ## general design recommendations
 
