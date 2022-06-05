@@ -19,18 +19,11 @@
 
 - csharp 11
   - static abstract interface members
+    - allow each implementing member of an interface to implement their version of a static member
   - INumber<T> can be used as generic constraint to enable arithmetic on T
   - 'required' keyword for properties
 
 - csharp 10 and earlier
-
-  - top level statements
-    - only one file in your application may use top-level statements
-
-  - enter repl by running 'csi' tool
-
-  - interface default method implementations
-    - so now csharp interfaces are whats called 'traits' in other languages
 
   - inplace out variables for out parameters
     > int.TryParse(str, out var value)
@@ -90,6 +83,14 @@
   - local (nested) functions: you can declare one function inside another one
 
   - switch/case statements can do type matching
+
+- csharp 9
+  - top level statements: only one file in your application may use top-level statements
+
+- csharp 8
+  - interface default method implementations
+    - so now csharp interfaces are whats called 'traits' in other languages
+  - interface static constructors and members
 
 
 ## new framework features
