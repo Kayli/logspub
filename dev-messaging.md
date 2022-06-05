@@ -146,6 +146,11 @@
     - has a full copy of all data on each instance
   - support for joins, time windows, stream time (opposed to wall-clock time), unit testing
 
+- fault tolerant cluster
+  - powered by apache zookeeper
+  - in newer versions zookeeper will be swapped by quorum controller
+    - this allows cluster to be composed only of kafka nodes
+
 
 ## terminology
 
