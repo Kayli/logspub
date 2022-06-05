@@ -271,6 +271,14 @@
 - gpio drivers (recommended), sysfs interface (deprecated) [^7]
 
 
+## file managers
+
+- midnight commander https://github.com/MidnightCommander/mc
+- nerdtree https://github.com/preservim/nerdtree
+- ranger https://github.com/ranger/ranger
+
+
+
 ## references
 
 [^1]: https://superuser.com/questions/118642/recursive-filesystem-notifications-inotify-for-ubuntu-karmic-koala
