@@ -14,10 +14,10 @@
 - disjunction: logical 'or' notated as 'v' 
   - mnemonic 'versus'
 
-- antecedent (protasis)
+- hypothesis (antecedent, protasis)
   - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
 
-- consequent
+- conclusion (consequent)
   - second half of a hypothetical proposition
 
 - contraposition
