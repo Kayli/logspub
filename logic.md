@@ -1,5 +1,15 @@
 # topics related to logic
 
+## basics
+
+- modus ponens
+    - P implies Q. P is true. Therefore Q must also be true
+    - also known as
+      - modus ponendo ponens (Latin for "method of putting by placing")
+      - implication elimination or affirming the antecedent
+    - is a deductive argument form and rule of inference
+
+
 ## logical fallacies
 
 - false dilemma
