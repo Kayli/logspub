@@ -1,12 +1,12 @@
 # logical fallacies and related info
 
-- false dilemma
-  - also referred to as false dichotomy
-  - is an informal fallacy based on a premise that erroneously limits what options are available
+- sunk cost
 
 - strawman argument
 
-- sunk cost
+- false dilemma
+  - also referred to as false dichotomy
+  - is an informal fallacy based on a premise that erroneously limits what options are available
 
 - perception of truth
   - happens by means of
