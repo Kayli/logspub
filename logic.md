@@ -20,6 +20,12 @@
 
 - conversion: Q → P is conversion of P → Q
 
+- logical biconditional P <-> Q
+  - means that P implies Q and Q implies P
+  - alternative notations: iff, <=>, =, an equivalence sign (≡), EQV
+  - sometimes known as the material biconditional, is the logical connective used to conjoin two 
+    statements P and Q to form the statement "P if and only if Q"
+
 
 ## logical fallacies
 
