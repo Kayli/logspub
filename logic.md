@@ -2,6 +2,11 @@
 
 ## basics [^1]
 
+- conjunction: logical 'and' notated as '∧' 
+  - mnemonic: 'cap', same number of letters as word 'and'
+- disjunction: logical 'or' notated as 'v' 
+  - mnemonic 'versus'
+
 - modus ponens
     - P implies Q. P is true. Therefore Q must also be true
     - also known as
@@ -25,7 +30,6 @@
   - alternative notations: iff, <=>, =, an equivalence sign (≡), EQV
   - sometimes known as the material biconditional, is the logical connective used to conjoin two 
     statements P and Q to form the statement "P if and only if Q"
-
 
 
 ## references
