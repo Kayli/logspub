@@ -67,10 +67,7 @@
 - definition
   - gives the meaning of a word or a phrase in terms of known concepts
 
-- typical process
-  - formulate definitions and axioms
-  - give precise formulation of statements?
-  - prove statements
+- typical process: definitions -> axioms -> proofs
 
 
 ## references
