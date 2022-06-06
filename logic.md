@@ -9,10 +9,12 @@
 
 - inferences: are steps in reasoning, moving from premises to logical consequences
 
-- conjunction: logical 'and' notated as '∧' 
-  - mnemonic: 'cap', same number of letters as word 'and'
-- disjunction: logical 'or' notated as 'v' 
-  - mnemonic 'versus'
+- and (conjunction) 
+  - notated as '∧', mnemonic: 'cap', same number of letters as word 'and'
+- or (disjunction)
+  - notated as 'v', mnemonic 'versus'
+- exclusive or (xor, intensional disjunction) 
+  - notated as '⊕', mnemonic 'cross' like x in 'exclusive'
 
 - hypothesis (antecedent, protasis)
   - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
