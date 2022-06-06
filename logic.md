@@ -9,6 +9,17 @@
       - implication elimination or affirming the antecedent
     - is a deductive argument form and rule of inference
 
+- inferences: are steps in reasoning, moving from premises to logical consequences
+
+- antecedent (protasis)
+  - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
+
+- contraposition
+  - inference of going from a conditional statement into its logically equivalent contrapositive
+  - contrapositive of P → Q is ¬Q → ¬P
+
+- conversion: Q → P is conversion of P → Q
+
 
 ## logical fallacies
 
