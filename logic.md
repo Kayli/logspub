@@ -9,13 +9,13 @@
 
 - inferences: are steps in reasoning, moving from premises to logical consequences
 
-- and (conjunction) 
+- and (conjunction)
   - notated as '∧', mnemonic: 'cap', same number of letters as word 'and'
 - or (disjunction)
   - notated as 'v', mnemonic 'versus'
-- exclusive or (xor, intensional disjunction) 
+- exclusive or (xor, intensional disjunction)
   - notated as '⊕', mnemonic 'cross' like x in 'exclusive'
-  - P ⊕ Q ≡ (P ∨ Q) ∧ (∼(P ∧ Q)) 
+  - P ⊕ Q ≡ (P ∨ Q) ∧ (∼(P ∧ Q))
 
 - hypothesis (antecedent, protasis)
   - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
@@ -32,7 +32,7 @@
 - logical biconditional P <-> Q
   - means that P implies Q and Q implies P
   - alternative notations: iff, <=>, =, an equivalence sign (≡), EQV
-  - sometimes known as the material biconditional, is the logical connective used to conjoin two 
+  - sometimes known as the material biconditional, is the logical connective used to conjoin two
     statements P and Q to form the statement "P if and only if Q"
 
 - iff vs equivalence [^3]
