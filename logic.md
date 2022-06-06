@@ -17,11 +17,13 @@
   - notated as '⊕', mnemonic 'cross' like x in 'exclusive'
   - P ⊕ Q ≡ (P ∨ Q) ∧ (∼(P ∧ Q))
 
-- hypothesis (antecedent, protasis)
-  - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
-
-- conclusion (consequent)
-  - second half of a hypothetical proposition
+- conditional (implication, if)
+  - notated as '->', '=>'
+  - consists of 
+    - hypothesis (antecedent, protasis)
+      - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
+    - conclusion (consequent)
+      - second half of a hypothetical proposition
 
 - contraposition
   - inference of going from a conditional statement into its logically equivalent contrapositive
@@ -29,9 +31,9 @@
 
 - conversion: Q → P is conversion of P → Q
 
-- logical biconditional P <-> Q
+- biconditional (iff)
   - means that P implies Q and Q implies P
-  - alternative notations: iff, <=>, =, an equivalence sign (≡), EQV
+  - alternative notations: iff, <->, <=>, =, an equivalence sign (≡), EQV
   - sometimes known as the material biconditional, is the logical connective used to conjoin two
     statements P and Q to form the statement "P if and only if Q"
 
