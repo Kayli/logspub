@@ -37,6 +37,9 @@
     - parser combinator in python
     - source code https://github.com/sighingnow/parsec.py/blob/master/src/parsec/__init__.py
     - some examples https://github.com/sighingnow/parsec.py/tree/master/examples
+  - treesitter 
+    - source code https://github.com/tree-sitter/tree-sitter
+    - python bindings https://github.com/tree-sitter/py-tree-sitter
 
 
 ## programming languages
