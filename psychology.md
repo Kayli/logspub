@@ -44,6 +44,10 @@
   - заключается в том, что люди испытывают больше неудовольствия от потери, чем удовольствия 
     от получения эквивалентной прибыли
 
+- feelcrime [^12]
+  - the crime of feeling an emotion that displeases the dictator
+  - or not feeling an emotion that pleases the dictator
+
 
 ## terms
 
@@ -199,3 +203,4 @@
 [^9]: Светлана Бурлак «Происхождение языка», 2011
 [^10]: https://www.youtube.com/watch?v=kI2hhk77OwA&list=PLf8iQozIdvKjrN720elAZrWya4GCVzjpB&index=3
 [^11]: https://youtu.be/Vx--JL4InJ4?t=687
+[^12]: https://youtu.be/u91ctugBCsg?t=18
