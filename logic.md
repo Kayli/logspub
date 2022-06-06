@@ -35,6 +35,9 @@
   - sometimes known as the material biconditional, is the logical connective used to conjoin two 
     statements P and Q to form the statement "P if and only if Q"
 
+- iff vs equivalence [^3]
+  - P ↔ Q is statement that could be either true or false, but P ≡ Q means that P ↔ Q is always a true biconditional
+
 
 ## rules of inference
 
@@ -77,3 +80,4 @@
 
 [^1]: wikipedia
 [^2]: https://math.stackexchange.com/questions/1201492/is-the-modus-ponens-is-an-axiom-in-formal-logic
+[^3]: https://math.stackexchange.com/questions/2432462/whats-the-difference-between-biconditional-iff-and-logical-equivalence/
