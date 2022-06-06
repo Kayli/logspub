@@ -77,6 +77,9 @@
     - the: reduced form of 'that'
     - two, some, many ...
   
+- grammatics
+  - declension: склонение
+  - conjugation: спряжение
 
 
 ## jewish culture languages
