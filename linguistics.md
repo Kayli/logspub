@@ -8,6 +8,7 @@
 - auto-antonym or contronym
   - word with multiple meanings (senses) of which one is the reverse of another
   - combination of homonym (words with similar spelling or pronunciation) and antonym
+- morphology: study of words, how they are formed, and their relationship to other words in the same language
 
 
 ## proto-languages  [^1] 
