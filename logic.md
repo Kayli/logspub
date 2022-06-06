@@ -15,6 +15,7 @@
   - notated as 'v', mnemonic 'versus'
 - exclusive or (xor, intensional disjunction) 
   - notated as '⊕', mnemonic 'cross' like x in 'exclusive'
+  - P ⊕ Q ≡ (P ∨ Q) ∧ (∼(P ∧ Q)) 
 
 - hypothesis (antecedent, protasis)
   - first half of a hypothetical proposition, whenever the if-clause precedes the then-clause
