@@ -7,6 +7,8 @@
   - webserver (stateless)
   - database (stateful)
 
+- check domain public informtaion https://who.is/
+
 
 ## popular frameworks
 
