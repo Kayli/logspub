@@ -39,7 +39,7 @@
           - df.reset_index reverses set_index operation: index 'column' becomes an ordinary column
         - index will likely have a type Index with dtype='object' in this case
       - it’s possible to use multiple columns as an index
-      
+
 
 ## common operations [^2]
 
