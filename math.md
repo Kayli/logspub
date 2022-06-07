@@ -148,6 +148,13 @@
     hypotheses corresponding to the types of the argument values passed to the function;
     and that the program to compute that function is analogous to a proof of that theorem
 
+- dependent type theory
+  - is used to provide formal definition for types like fixed size arrays
+  - applicable to realtime deterministic memory management systems
+  - allows to formally reason about
+    - memory guarantees
+    - program termination guarantees
+
 - implementations
   - z3 (smt)
     - most popular, backed by microsoft
@@ -179,6 +186,7 @@
 
   - lean
   - holpy
+
   - dependent type theory-based
     - agda
     - epigram
