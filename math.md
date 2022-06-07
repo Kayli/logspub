@@ -179,6 +179,11 @@
 
   - lean
   - holpy
+  - dependent type theory-based
+    - agda
+    - epigram
+    - matita
+    - nuprl
 
 
 ## computer algebra systems
