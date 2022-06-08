@@ -592,6 +592,28 @@
   - you will do what i've said because i have money
   - honest, brutal, direct exploitation without any pretence of moral superiority
 
+- communism: emphasises centralization of power, this is the main reason why it fails
+
+
+## lecture 14: kierkegard's critique of reason
+
+- soren kierkegard 1813-1855
+- examines question: what does it mean to be a christian?
+- wrote almost all of his books using pseudonyms
+- stands against hegelian unification
+  - by saying that some forms of spirit can't be reconciled
+  - individulas have to choose
+- 3 modes of behavior: social, esthetic, religious
+- forgiveness is unethical
+  - as ethics presupposes obeying rules of justice
+  - forgiveness undermines such rules
+- faith is commitment to irrational
+  - tries to explain abraham's readiness to submit to god's command and kill his son isaac
+  - abraham should believe 2 contradicting things at the same time
+    - that he will kill isaac 
+    - and that he will somehow preserve/save him
+  - faith cannot be communicated, as its deeply personal and irrational
+
 
 ## lecture 22: dewey's american naturalism
 
