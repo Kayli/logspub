@@ -574,6 +574,14 @@
   - physic of mechanics can't explain biological behavior of living things
 
 
+## lecture 13: the economic revolution and its critic - marx
+
+- karl marx 1818-83 reuses hegelian dialectics in material economic pholosphy context
+  - scientific socialism
+- alienation: selling worker's human essence to a factory owner
+
+
+
 ## lecture 22: dewey's american naturalism
 
 - esthetics extracted from worker's experience and locked up in a separate places dedicated to art
