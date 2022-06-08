@@ -576,10 +576,21 @@
 
 ## lecture 13: the economic revolution and its critic - marx
 
-- karl marx 1818-83 reuses hegelian dialectics in material economic pholosphy context
-  - scientific socialism
-- alienation: selling worker's human essence to a factory owner
+- karl marx 1818-83 
+  - reuses hegelian dialectics in material economic pholosphy context: scientific socialism
 
+- critics of capitalism
+  - irrational
+    - use value vs exchange value: markets overblow prices exploiting mob psychology
+  - wasteful
+    - sets workers to compete against each other
+    - frames lots of individuals as 'losers' system wastes precious resources
+  - alienating
+    - selling worker's human essence to a factory owner, which turns this essense against workers themselves
+
+- wage slaves idea
+  - you will do what i've said because i have money
+  - honest, brutal, direct exploitation without any pretence of moral superiority
 
 
 ## lecture 22: dewey's american naturalism
