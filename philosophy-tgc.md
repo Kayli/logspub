@@ -612,6 +612,7 @@
   - abraham should believe 2 contradicting things at the same time
     - that he will kill isaac 
     - and that he will somehow preserve/save him
+  - teleological suspension of the ethical
   - faith cannot be communicated, as its deeply personal and irrational
 
 
