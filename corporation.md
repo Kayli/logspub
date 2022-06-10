@@ -24,7 +24,7 @@
   - is a tax deduction for corporation 
 
 - dividends
-
+  
 
 ## maintanance [^1]
 
@@ -33,7 +33,13 @@
   incorporation, amalgamation or continuation into the province.
 
 
-## tax deductions
+## taxes
+
+- corporate income that is eligible for the small business rate (generally for income under $500,000) 
+  is taxable at between 9% and 14% [^3]
+
+- combined corporate and personal tax payable on a dividend is similar to the personal tax payable on salary [^3]
+  - you may benefit from tax-deferred growth if you invest your corporate money
 
 - you can deduct expenses for the business use of a workspace in your home if this 
   is your principal place of business [^2]
@@ -50,3 +56,5 @@
 [^1]: https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/business-management/permits-licences-and-registration/registries-guides/info_36_com_-_maintaining_your_bc_company.pdf
 
 [^2]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/completing-form-t2125/business-use-home-expenses.html
+
+[^3]: https://www.moneysense.ca/columns/ask-a-planner/incorporated-business-owners-should-you-pay-yourself-a-salary/
