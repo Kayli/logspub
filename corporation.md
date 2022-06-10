@@ -18,6 +18,12 @@
 
 ## paying yourself
 
+- salary
+  - personal income that you can show to get a loan
+  - enabled rrsp contributions
+  - is a tax deduction for corporation 
+
+- dividends
 
 
 ## maintanance [^1]
@@ -31,6 +37,8 @@
 
 - you can deduct expenses for the business use of a workspace in your home if this 
   is your principal place of business [^2]
+
+- it makes sense to leave as much money as possible in the corporation to benefit from tax-deferred growth
 
 
 ## references
