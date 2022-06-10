@@ -58,6 +58,11 @@
   leave the rest in the corporation
 
 
+## terminology
+
+- CCPC: canadian-controlled private corporation
+
+
 ## references
 
 [^1]: https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/business-management/permits-licences-and-registration/registries-guides/info_36_com_-_maintaining_your_bc_company.pdf
