@@ -6,11 +6,18 @@
   - provincial registration does not require federal
   - federal requires at least one provincial registration
 
+- as a shareholder of your corporation, you have limited liability. This means that 
+  you and the other shareholders are not responsible for the corporation's debts
+
 
 ## online services
 
 - federal corporations canada https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home
 - bc corporations https://www.corporateonline.gov.bc.ca/
+
+
+## paying yourself
+
 
 
 ## maintanance [^1]
@@ -20,6 +27,14 @@
   incorporation, amalgamation or continuation into the province.
 
 
+## tax deductions
+
+- you can deduct expenses for the business use of a workspace in your home if this 
+  is your principal place of business [^2]
+
+
 ## references
 
 [^1]: https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/business-management/permits-licences-and-registration/registries-guides/info_36_com_-_maintaining_your_bc_company.pdf
+
+[^2]: https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/report-business-income-expenses/completing-form-t2125/business-use-home-expenses.html
