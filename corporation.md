@@ -7,6 +7,12 @@
   - federal requires at least one provincial registration
 
 
+## online services
+
+- federal corporations canada https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home
+- bc corporations https://www.corporateonline.gov.bc.ca/
+
+
 ## maintanance [^1]
 
 - a company must file an annual report each year within two months after each anniversary 
