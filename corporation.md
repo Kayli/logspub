@@ -57,6 +57,8 @@
   whichever is higher, and perhaps extra to maximize your TFSA, RESP and possibly RRSPs. But then 
   leave the rest in the corporation
 
+- business records and supporting documents needed to determine your tax obligations must be kept for a period of six years
+
 
 ## terminology
 
