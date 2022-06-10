@@ -22,9 +22,15 @@
   - personal income that you can show to get a loan
   - enabled rrsp contributions
   - is a tax deduction for corporation 
+  - allow a business owner to deduct some child care expenses
+  - potential problems
+    - you will have to set up a payroll account with the Canada Revenue Agency and prepare 
+      and file all of the related paperwork. its easy to get fined for late monthly payments
 
 - dividends
-  
+  - write a cheque to yourself whenever you need to
+  - declare dividends in your annual report
+
 
 ## maintanance [^1]
 
