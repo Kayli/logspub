@@ -40,6 +40,10 @@
 
 - it makes sense to leave as much money as possible in the corporation to benefit from tax-deferred growth
 
+- draw sufficient compensation to use the lower tax brackets or what is needed for living expenses, 
+  whichever is higher, and perhaps extra to maximize your TFSA, RESP and possibly RRSPs. But then 
+  leave the rest in the corporation
+
 
 ## references
 
