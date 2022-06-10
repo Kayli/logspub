@@ -30,6 +30,7 @@
 - dividends
   - write a cheque to yourself whenever you need to
   - declare dividends in your annual report
+    - update your corporation's minute book and prepare a director's resolution for the dividends paid
 
 
 ## maintanance [^1]
