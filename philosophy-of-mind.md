@@ -25,9 +25,7 @@
 ## thinking
 
 - высшая ступень психического отражения действительности
-- марксизм (хаха)
-  - познавательная деятельность человека
-  - является опосредованным и обобщённым способом отражения действительности с точки зрения марксизма
+- является опосредованным и обобщённым способом отражения действительности с точки зрения марксизма
 - основано на операциях обобщения и абстрагирования поступающей информации
 - приводит к образованию понятий, суждений, умозаключений
 - отыскание и открытие существенно нового
@@ -89,10 +87,6 @@
       - is it a form of dissociation? inverse dissociation?
   - in schizophrenics
     - fragmentation of consciousness with dictatorship dynamics around one of the fragments
-  - in simulation architect
-    - haha, if universe is infinite it already happened infinite number of times
-      - try to prove that ;) suck my dick, prove that you're real
-    - but fakers are so easy to debunk and real deal is real ...
 
 
 ## referernces
