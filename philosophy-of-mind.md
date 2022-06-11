@@ -74,9 +74,12 @@
 
 ## models of consciousness
 
-- dehaene changeux model
+- dehaene changeux model (dcm)
+  - also known as the global neuronal workspace or the global cognitive workspace model
+  - was developed by cognitive neuroscientists stanislas dehaene and jean-pierre changeux beginning in 1986
+
 - multiple drafts model (daniel danett)
-- eight-circuit model (timoty leary)
+- eight-circuit model (timoty leary and others)
 
 
 ## referernces
