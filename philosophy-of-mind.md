@@ -1,27 +1,50 @@
 # notes related to philosophy of mind and similar topics
 
-- мышление
-  - высшая ступень психического отражения действительности
-  - марксизм (хаха)
-    - познавательная деятельность человека
-    - является опосредованным и обобщённым способом отражения действительности с точки зрения марксизма
-  - основано на операциях обобщения и абстрагирования поступающей информации
-  - приводит к образованию понятий, суждений, умозаключений
-  - отыскание и открытие существенно нового
-  - решение новых задач в ситуациях, для выхода из которых у субъекта нет готового рецепта (инсайт)
-  - появилось в результате эволюции элементарного мышления животных (мышьление? ;)
+## basics
 
-  - формы 
-    - понятия
-    - умозаключения
-    - суждения
-  - способы
-    - индукция
-    - дедукция
-  - виды
-    - наглядно действенное
-    - образное
-    - отвлеченно-вербально-логическое-абстрактно-понятийное ))
+- cognitive science
+  - discipline studying thinking processes of animals, humans and beyond
+
+
+## models of consciousness
+
+- dehaene-changeux model (dcm)
+  - also known as the global neuronal workspace or the global cognitive workspace model
+  - was developed by cognitive neuroscientists stanislas dehaene and jean-pierre changeux beginning in 1986
+  - demonstrates that consciousness is not an illusion and has adaptive utility in darwinian context
+  - functions
+    - resolution of perceptial ambiguities
+    - creation of working memory
+    - running of algorithms (e.g. making calculations in your mind)
+    - possibility of language
+
+- multiple drafts model (daniel danett)
+- eight-circuit model (timoty leary and others)
+
+
+## thinking
+
+- высшая ступень психического отражения действительности
+- марксизм (хаха)
+  - познавательная деятельность человека
+  - является опосредованным и обобщённым способом отражения действительности с точки зрения марксизма
+- основано на операциях обобщения и абстрагирования поступающей информации
+- приводит к образованию понятий, суждений, умозаключений
+- отыскание и открытие существенно нового
+- решение новых задач в ситуациях, для выхода из которых у субъекта нет готового рецепта (инсайт)
+- появилось в результате эволюции элементарного мышления животных (мышьление? ;)
+
+- формы 
+  - понятия
+  - умозаключения
+  - суждения
+- способы
+  - индукция
+  - дедукция
+- виды
+  - наглядно действенное
+  - образное
+  - отвлеченно-вербально-логическое-абстрактно-понятийное ))
 
 - сложность и целесообразность поведения не обязательно являются результатом актов мышления
 - поведение включает
@@ -54,8 +77,8 @@
   - продемонстрировано на попугае жако, исследовательницей pepperberg в 1978
   - see book "the alex studies"  
 
-- cognitive science
-  - discipline studying thinking processes of animals, humans and beyond
+
+## fringe
 
 - solipsism
   - in infants
@@ -70,16 +93,6 @@
     - haha, if universe is infinite it already happened infinite number of times
       - try to prove that ;) suck my dick, prove that you're real
     - but fakers are so easy to debunk and real deal is real ...
-
-
-## models of consciousness
-
-- dehaene changeux model (dcm)
-  - also known as the global neuronal workspace or the global cognitive workspace model
-  - was developed by cognitive neuroscientists stanislas dehaene and jean-pierre changeux beginning in 1986
-
-- multiple drafts model (daniel danett)
-- eight-circuit model (timoty leary and others)
 
 
 ## referernces
