@@ -6,9 +6,9 @@
   - discipline studying thinking processes of animals, humans and beyond
 
 
-## models of consciousness
+## models of consciousness 
 
-- dehaene-changeux model (dcm)
+- dehaene-changeux model (dcm) [^3]
   - also known as the global neuronal workspace or the global cognitive workspace model
   - was developed by cognitive neuroscientists stanislas dehaene and jean-pierre changeux beginning in 1986
   - demonstrates that consciousness is not an illusion and has adaptive utility in darwinian context
@@ -99,3 +99,4 @@
 
 [^1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
 [^2]: https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
+[^3]: https://www.youtube.com/watch?v=IvqJpeXw2ww&list=PL2VCCjshTuUNjwf2NR52z3wgtMisDnOcJ&index=2
