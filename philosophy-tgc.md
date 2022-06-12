@@ -4,8 +4,8 @@
 
 - jaques derrida
   - extends structuralist's notion of signs
-    - synchronic relational dimension
-    - historical dimension (derrida's addition)
+    - synchronic (relational) structural dimension
+    - diachronic (historical) dimension - derrida's addition
 
 
 ## lecture 22: dewey's american naturalism
