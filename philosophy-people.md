@@ -1,27 +1,29 @@
-# course notes on 'Philosophy: from Decartes to Derrida' TGC series [^1]
+# notes about philosophers [^1]
 
-## lecture 30: derrida's deconstruction of philosophy
+## jaques derrida 1930-2004
 
-- jaques derrida
-  - extends structuralist's notion of signs
-    - synchronic (relational) structural dimension
-    - diachronic (historical) dimension - derrida's addition
-  - meaning is generative 
-    - we can always find new ways of describing sign through other signs
-    - sometimes referred as generative polysemy
-  - when we communicate, we must suppress unwanted meanings
-  - phonocentrism: privilege of speech over writing
-  - logocentrism
-    - when signs presuppose direct or immediate relationship to an object or a content (transcendental signified)
-    - western philosophy tries to control meanings of words
-  - deconstruction is derrida's attempt to show inconsistencies in philosophical writings by exposing
-    inherent ambiguities of sign interpretations
+- extends structuralist's notion of signs
+  - synchronic (relational) structural dimension
+  - diachronic (historical) dimension - derrida's addition
+- meaning is generative 
+  - we can always find new ways of describing sign through other signs
+  - sometimes referred as generative polysemy
+- when we communicate, we must suppress unwanted meanings
+- phonocentrism: privilege of speech over writing
+- logocentrism
+  - when signs presuppose direct or immediate relationship to an object or a content (transcendental signified)
+  - western philosophy tries to control meanings of words
+- deconstruction is derrida's attempt to show inconsistencies in philosophical writings by exposing
+  inherent ambiguities of sign interpretations
 
 
 ## lecture 22: dewey's american naturalism
+## john dewey 1859-1952
 
-- esthetics extracted from worker's experience and locked up in a separate places dedicated to art
-  - museums, theatres, movies 
+- dewey
+  - americal naturalism
+  - esthetics extracted from worker's experience and locked up in a separate places dedicated to art
+    - museums, theatres, movies 
 
 
 ## lecture 19: rise of 20th century philosophy - phenomenology
