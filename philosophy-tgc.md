@@ -1,5 +1,13 @@
 # course notes on 'Philosophy: from Decartes to Derrida' TGC series [^1]
 
+## lecture 30: derrida's deconstruction of philosophy
+
+- jaques derrida
+  - extends structuralist's notion of signs
+    - synchronic relational dimension
+    - historical dimension (derrida's addition)
+
+
 ## lecture 22: dewey's american naturalism
 
 - esthetics extracted from worker's experience and locked up in a separate places dedicated to art
