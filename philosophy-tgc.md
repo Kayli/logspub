@@ -6,8 +6,9 @@
   - extends structuralist's notion of signs
     - synchronic (relational) structural dimension
     - diachronic (historical) dimension - derrida's addition
-  - meaning is generative
+  - meaning is generative 
     - we can always find new ways of describing sign through other signs
+    - sometimes referred as generative polysemy
   - when we communicate, we must suppress unwanted meanings
 
 
