@@ -13,6 +13,12 @@
 - eschatology: part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
 
 
+## representationalism
+
+- philosophical theory of knowledge based on the assertion that the mind perceives only 
+  mental images (representations) of material objects outside the mind, not the objects themselves
+  
+
 ## antinatalism
 
 - notable people
