@@ -47,9 +47,9 @@
 - starts talking about alienation later in his career
 
 
-## lecture 14: kierkegard's critique of reason
 
-- soren kierkegard 1813-1855
+## soren kierkegard 1813-55
+
 - examines question: what does it mean to be a christian?
 - wrote almost all of his books using pseudonyms
 - stands against hegelian unification
@@ -59,7 +59,7 @@
 - forgiveness is unethical
   - as ethics presupposes obeying rules of justice
   - forgiveness undermines such rules
-- faith is commitment to irrational
+- faith is commitment to irrational (his critique of reason)
   - tries to explain abraham's readiness to submit to god's command and kill his son isaac
   - abraham should believe 2 contradicting things at the same time
     - that he will kill isaac 
@@ -68,10 +68,9 @@
   - faith cannot be communicated, as its deeply personal and irrational
 
 
-## lecture 13: the economic revolution and its critic - marx
+## karl marx 1818-83 
 
-- karl marx 1818-83 
-  - reuses hegelian dialectics in material economic pholosphy context: scientific socialism
+- reuses hegelian dialectics in material economic pholosphy context: scientific socialism
 
 - critics of capitalism
   - irrational
