@@ -21,6 +21,7 @@
       - literate programming
       - self-documenting code
       - smart contracts
+      - digital rhetoric
 
 
 ## digital literacy
