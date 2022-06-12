@@ -11,7 +11,8 @@
     - sometimes referred as generative polysemy
   - when we communicate, we must suppress unwanted meanings
   - phonocentrism: privilege of speech over writing
-  - logocentrism: when signs presuppose direct or immediate relationship to an object or a content
+  - logocentrism
+    - when signs presuppose direct or immediate relationship to an object or a content (transcendental signified)
     - western philosophy tries to control meanings of words
   
 
