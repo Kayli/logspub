@@ -10,10 +10,11 @@
 
 - edmund husserl 1859-1938
   - german philosopher and mathematician who established the school of phenomenology
-- husserl creates phenomenology 
-  - science of ideal definitions of objects, pure field of evidence, ideal analysis of experience
-  - in order to justify objective reality, as reaction against representationalism
-  - ideal objects/perceptions are part of a transcendental ego which determines our experience
+  - husserl creates phenomenology 
+    - science of ideal definitions of objects, pure field of evidence, ideal analysis of experience
+    - in order to justify objective reality, as reaction against representationalism
+    - ideal objects/perceptions are part of a transcendental ego which determines our experience
+  - starts talking about alienation later in his career
 
 
 ## lecture 14: kierkegard's critique of reason
