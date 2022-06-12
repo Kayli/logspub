@@ -1,5 +1,18 @@
 # notes about philosophers [^1]
 
+## emmanuel levinas 1906-1995
+
+- french philosopher of lithuanian jewish ancestry who is known for his work within 
+  jewish philosophy, existentialism, and phenomenology, focusing on the relationship 
+  of ethics to metaphysics and ontology [^2]
+
+
+## edith stein 1891–1942
+
+- known philosophically primarily for her phenomenological work on empathy and affectivity, 
+  her contributions as research assistant to husserl, and her philosophical anthropology [^2]
+
+
 ## jaques derrida 1930-2004
 
 - extends structuralist's notion of signs
@@ -17,24 +30,21 @@
   inherent ambiguities of sign interpretations
 
 
-## lecture 22: dewey's american naturalism
 ## john dewey 1859-1952
 
-- dewey
-  - americal naturalism
-  - esthetics extracted from worker's experience and locked up in a separate places dedicated to art
-    - museums, theatres, movies 
+- americal naturalism
+- esthetics extracted from worker's experience and locked up in a separate places dedicated to art
+  - museums, theatres, movies 
 
 
-## lecture 19: rise of 20th century philosophy - phenomenology
+## edmund husserl 1859-1938
 
-- edmund husserl 1859-1938
-  - german philosopher and mathematician who established the school of phenomenology
-  - husserl creates phenomenology 
-    - science of ideal definitions of objects, pure field of evidence, ideal analysis of experience
-    - in order to justify objective reality, as reaction against representationalism
-    - ideal objects/perceptions are part of a transcendental ego which determines our experience
-  - starts talking about alienation later in his career
+- german philosopher and mathematician 
+- established the school of phenomenology
+  - science of ideal definitions of objects, pure field of evidence, ideal analysis of experience
+  - in order to justify objective reality, as reaction against representationalism
+  - ideal objects/perceptions are part of a transcendental ego which determines our experience
+- starts talking about alienation later in his career
 
 
 ## lecture 14: kierkegard's critique of reason
@@ -656,3 +666,4 @@
 ## references
 
 [^1]: https://www.thegreatcourses.com/courses/modern-intellectual-tradition-from-descartes-to-derrida
+[^2]: https://plato.stanford.edu/
