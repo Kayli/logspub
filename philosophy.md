@@ -12,6 +12,10 @@
 
 - eschatology: part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
 
+- continental philosophy
+  - philosophy of continental europe which is not analytic philosophy
+  - used as a pejorative by analytic philosophers
+
 
 ## representationalism
 
