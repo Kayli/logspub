@@ -6,6 +6,8 @@
   - extends structuralist's notion of signs
     - synchronic (relational) structural dimension
     - diachronic (historical) dimension - derrida's addition
+  - meaning is generative
+    - we can always find new ways of describing sign through other signs
 
 
 ## lecture 22: dewey's american naturalism
