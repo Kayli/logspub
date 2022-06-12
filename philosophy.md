@@ -33,7 +33,7 @@
 
 - interesting ideas
     - when quality of life is unacceptable (by that individual personal standards) and individual 
-      is trapped in that state, it may be a life not worth living
+      is trapped in that state - it may be a life not worth living
 
 
 ## quotes
