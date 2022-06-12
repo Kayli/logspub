@@ -13,6 +13,7 @@
 - husserl creates phenomenology 
   - science of ideal definitions of objects, pure field of evidence, ideal analysis of experience
   - in order to justify objective reality, as reaction against representationalism
+  - ideal objects/perceptions are part of a transcendental ego which determines our experience
 
 
 ## lecture 14: kierkegard's critique of reason
