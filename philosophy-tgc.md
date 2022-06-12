@@ -8,6 +8,7 @@
     - diachronic (historical) dimension - derrida's addition
   - meaning is generative
     - we can always find new ways of describing sign through other signs
+  - when we communicate, we must suppress unwanted meanings
 
 
 ## lecture 22: dewey's american naturalism
