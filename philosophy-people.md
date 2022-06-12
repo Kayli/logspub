@@ -47,7 +47,6 @@
 - starts talking about alienation later in his career
 
 
-
 ## soren kierkegard 1813-55
 
 - examines question: what does it mean to be a christian?
@@ -88,14 +87,15 @@
 - communism: emphasises centralization of power, this is the main reason why it fails
 
 
-## Lecture 12 - Hegel and the English Century
+## friedrich hegel 1770-1831
 
-- Hegel created metaphysical theory of everything which includes history as an important part
+- created metaphysical theory of everything which includes history as an important part
 - history is progressive
   - not a decline from some Golden Age
   - not cyclic
   - not random
 - ideal and concrete are connected
+
 - Auguste Comte (1798-1857)
   - formulated positivism
   - 3 stages of history
@@ -146,7 +146,7 @@
   - physic of mechanics can't explain biological behavior of living things
 
 
-## Lecture 11 - Hegel: The Last Great System
+## Hegel: The Last Great System
 
 - Georg Wilhelm Friedrich Hegel (1770–1831)
   - wanted to justify western philosophy of freedom with classical christian values
