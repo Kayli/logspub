@@ -14,7 +14,8 @@
   - logocentrism
     - when signs presuppose direct or immediate relationship to an object or a content (transcendental signified)
     - western philosophy tries to control meanings of words
-  
+  - deconstruction is derrida's attempt to show inconsistencies in philosophical writings by exposing
+    inherent ambiguities of sign interpretations
 
 
 ## lecture 22: dewey's american naturalism
