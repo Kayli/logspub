@@ -3,6 +3,7 @@
 ## bach
 
 - partita bwv 1004 in d-minor IV giga [^1]
+  - вступительная часть обыгрывается в тибибо дркина
 
 
 ## references
