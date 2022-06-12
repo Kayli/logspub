@@ -16,6 +16,11 @@
     - nearest to the end user, user and application are directly interacting
     - example protocols: HTTP/SIP
 
+- bridge network
+  - bridge connects two separate networks as if they were a single network
+  - is a link layer (level 2) device which forwards traffic between network segments
+  - can be a hardware device or a software device running within a host machine’s kernel
+
 
 ## load balancing
 

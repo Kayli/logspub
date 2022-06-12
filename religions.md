@@ -38,15 +38,27 @@
 
 ## well known
 
+
+### paganism
+
+- used in the fourth century by early christians for people in the roman empire 
+  who practiced polytheism or ethnic religions other than judaism
+
+- saturnalia
+  - celebration in honour of the god Saturn
+  - held on 17 December of the Julian calendar and later expanded with festivities through to 23 December
+  - was overriden later by christmas, which is celebrated at about the same time now
+
+
 ### christianity 31.2%
 
-  - stems from judaism around 0ce
-    - judaism was formed around 500bce
-      - stems from jahwism 
-        - jahwism was formed around 1200bce, mesopotamia
-  - old testament
-    - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
-    - was written around 500 bce
+- stems from judaism around 0ce
+  - judaism was formed around 500bce
+    - stems from jahwism 
+      - jahwism was formed around 1200bce, mesopotamia
+- old testament
+  - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
+  - was written around 500 bce
 
 
 ### islam 24.1%
