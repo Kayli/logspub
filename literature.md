@@ -23,6 +23,12 @@
       - smart contracts
 
 
+## digital literacy
+
+- students are often taught literacy skills such as how to verify credible sources online, 
+  cite websites, and prevent plagiarism
+
+
 ## references
 
 [^1]: wikipedia + improvisation
