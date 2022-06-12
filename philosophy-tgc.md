@@ -10,6 +10,10 @@
     - we can always find new ways of describing sign through other signs
     - sometimes referred as generative polysemy
   - when we communicate, we must suppress unwanted meanings
+  - phonocentrism: privilege of speech over writing
+  - logocentrism: when signs presuppose direct or immediate relationship to an object or a content
+    - western philosophy tries to control meanings of words
+  
 
 
 ## lecture 22: dewey's american naturalism
