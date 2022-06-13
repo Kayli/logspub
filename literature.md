@@ -30,6 +30,12 @@
   cite websites, and prevent plagiarism
 
 
+## illiad
+
+- story covers only a few weeks in the final year of the trojan war
+- touches themes of rage
+
+
 ## references
 
 [^1]: wikipedia + improvisation
