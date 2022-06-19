@@ -3,7 +3,7 @@
 ## basics
 
 - kubectl (cube cuddle) is cli for k8s
-- minikube provides simple local k8s cluster
+- minikube and kind tools provide simple local k8s cluster
 - helm is a k8s package manager
 - object definitions
   - define desired state
@@ -94,6 +94,14 @@
 - config map: used to store non-confidential data in key-value pairs
 - secret: object that contains a small amount of sensitive data such as a password, a token, or a key
 
+- namespace: provides a mechanism for isolating groups of resources within a single cluster
+- context
+  - allows easily switching between groups of access parameters (e.g. namespace)
+  - only applies in the kubernetes client-side, i.e. the place where you run the kubectl command
+  - you can use multiple contexts to target multiple different k8s clusters
+  - get current context
+    > kubectl config current-context
+
 
 ## databases
 
@@ -127,7 +135,7 @@
   - alternatively, run tunnel to expose cluster services to host machine via external ips
     > minikube tunnel
   - alternatively, map port from pod to host machine
-    > kubectl -n default port-forward $POD_NAME 8443:8443
+    > kubectl -n default port-forward <pod_name> 8443:8443
     
 - deploy application from container image, exposing port 80 on a pod
   > kubectl create deployment hellonginx --image=nginxdemos/hello --port=80

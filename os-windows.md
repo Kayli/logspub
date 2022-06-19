@@ -16,5 +16,8 @@
   - app updates and systems updates are two different things
     - while updates are happenning in a background, your app process may just be killed without your permission
   - hyper-v virtual machine has a way to select from preconfigured linux ubuntu distributives, but
-    - interface is lagging
-    - was hanging with black screen several times during installation
+    - ubuntu interface is lagging
+    - was hanging with black screen several times during installation, so had to hard reset vm
+  - system tray was renamed to "taskbar corner" which is weird
+    - it also no longer support option for always showing all tray icons, you need to enable each icon manually
+  

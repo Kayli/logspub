@@ -39,6 +39,13 @@
   - verifiable with mypy
 
 
+## installation
+
+> sudo apt install python3 
+> sudo apt install python3-pip
+> sudo apt install python-is-python3
+
+
 ## collections
 
 - list: stack/queue semantics for working with elements
