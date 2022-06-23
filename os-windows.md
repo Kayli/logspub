@@ -1,4 +1,4 @@
-# notes related to windows os
+# notes related to windows os, likely windows 11 and above
 
 
 ## windows 11
@@ -20,4 +20,13 @@
     - was hanging with black screen several times during installation, so had to hard reset vm
   - system tray was renamed to "taskbar corner" which is weird
     - it also no longer support option for always showing all tray icons, you need to enable each icon manually
-  
+
+
+## useful folders
+
+- startup C:\Users\<username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+
+## useful apps
+
+- AutoHotkey https://www.autohotkey.com/ (source code https://github.com/Lexikos/AutoHotkey_L)

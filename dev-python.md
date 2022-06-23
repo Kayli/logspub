@@ -41,9 +41,8 @@
 
 ## installation
 
-> sudo apt install python3 
-> sudo apt install python3-pip
-> sudo apt install python-is-python3
+- pip is not installed by default on wsl and python is not mapped to python3
+  > sudo apt install python3 python3-pip python-is-python3
 
 
 ## collections
@@ -333,6 +332,12 @@
   >>>   return self.get(key)
 
 
+## messaging
+
+- kafka client [^7]
+  - kafka-python https://kafka-python.readthedocs.io/en/master/index.html
+
+
 ## advanced features
 
 - slotted class
@@ -388,3 +393,4 @@
 [^4]: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
 [^5]: https://stackoverflow.com/questions/5517241/is-there-any-trick-to-overload-the-dot-operator
 [^6]: https://thomasnyberg.com/releasing_the_gil.html
+[^7]: https://stackoverflow.com/questions/26021541/how-to-programmatically-create-a-topic-in-apache-kafka-using-python
