@@ -7,6 +7,12 @@
   of ethics to metaphysics and ontology [^2]
 
 
+## theodor adorno 1903-1969
+
+- german philosopher, sociologist, psychologist, musicologist, and composer 
+- known for his critical theory of society, capitalism, enlightenment, progress
+
+
 ## edith stein 1891–1942
 
 - known philosophically primarily for her phenomenological work on empathy and affectivity, 
