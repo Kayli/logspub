@@ -44,8 +44,18 @@
     - such values influenced the rise of capitalism and helped create the modern world order
 
 
+## suicide
+
+- durkheim observed that suicide rates jump 5-6 times when countries become industrialized [^4]
+  - indicated 5 main reasons:
+    - individualism: more personal responsibilities for a failure
+    - excessive hope
+    - too much freedom: 'whatever works for you'
+    - atheism
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Milgram_experiment
 [^2]: https://en.wikipedia.org/wiki/Stanford_prison_experiment
 [^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
+[^4]: https://youtu.be/z9W0GQvONKc?t=82
