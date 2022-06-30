@@ -70,6 +70,13 @@
     > ssh -L 127.0.0.1:80:client.example.com:80 remote.example.com
 
 
+## todo
+
+- subnetting
+- gateways
+- dhcp/nat
+
+
 ## references
 
 [^1]: https://avinetworks.com/glossary/l4-l7-network-services/
