@@ -248,6 +248,8 @@
   - install touche from popshop to invert touchpad 4-finger gestures [^6]
   - disable trackpoint at startup
     > xinput set-prop "PS/2 Generic Mouse" "Device Enabled" 0
+  - run shell as root
+    > sudo su -
   
 
 - xfce specific
