@@ -272,6 +272,13 @@
   - mnemonic rule: phonetically similar to 'division'
 
 
+## optics
+
+- coloration
+  - pigment: specific molecule is responsible for color
+  - structural: microstructure of material is responsible for color
+
+
 ## math
 
 - homogeneous

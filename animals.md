@@ -9,6 +9,9 @@
 
 ## birds
 
+- all birds have extra cones in their eyes that allowed them to see ultraviolet light
+  - that along with specific pigments on their feather, that we humans can't see, may allow them to identify each other and their gender
+
 - passerine (воробъиные)
   - chickadee (синица)
 
@@ -29,6 +32,11 @@
   - was native to india and southeast asia
   - 71–79% of red junglefowl DNA is shared with the domestic chicken
 
+- jays (сойки)
+  - lifespan 7-15 years
+  - blue jay
+  - steller jay
+    - can mimick sounds of other birds
 
 
 ## insects
