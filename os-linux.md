@@ -142,6 +142,8 @@
       > rsync -a <src> <dst>
     - to restore
       > rsync -aruv <src> <dst>
+    - show overall progress
+      > rsync -a --info=progress2 <src> <dst>
 
   - on-demand snapshot using timeshift
     > sudo timeshift --create --comments "before omf install"
