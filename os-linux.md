@@ -47,6 +47,18 @@
   - pseudo-device that makes a file accessible as a block device
 
 
+## terminal multiplexer (tmux)
+
+- ctrl + b        initiation sequence (ctrlb)
+- ctrlb + %       split pane vertically
+- ctrlb + "       split pane horizontally
+- ctrlb + arrows  switch to pane within a window
+- ctrlb + x       kill pane
+- ctrlb + c       new window (create)
+- ctrlb + n/p     next/previous window
+- ctrlb + ?       show key mappings
+
+
 ## useful commands
 
 - managing processes
@@ -188,7 +200,6 @@
   - merge two files
     > diff --unchanged-group-format="" src1 src2 > dst
 
-- containers
   - copy file from inside of the running docker container
     > docker ps -alq # get last container id
     > docker cp <containerId>:/file/path/within/container /host/path/target
