@@ -210,6 +210,10 @@
   - dissociative identity disorder
     - multiple personality disorder
 
+- chemical imbalance theory
+  - used to be very common way to explain depressive states
+  - been disevowed recently by medical community [^5]
+
 
 ## psychonorm
 
@@ -228,3 +232,4 @@
 [^2]: https://www.nature.com/articles/nature08837
 [^3]: https://en.wikipedia.org/wiki/Bipolar_disorder
 [^4]: https://youtu.be/FFxFjSCoD1Y
+[^5]: https://youtu.be/-Nd40Uy6tbQ?t=5578
