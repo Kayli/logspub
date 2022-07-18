@@ -9,7 +9,9 @@
   - same for constructor overloading
     - does not work out of the box
     - in python 3.something need to inherit from MultipleMeta class [^2]
-  
+
+- python3.x naturally supports big numbers with int type (which was called 'long' in 2.x)
+
 - mixins
   - work out of the box [^3]
   - just specify multiple 'base classes' on class declaration
@@ -41,8 +43,23 @@
 
 ## installation
 
-- pip is not installed by default on wsl and python is not mapped to python3
+- windows wsl: pip is not installed by default and python is not mapped to python3
   > sudo apt install python3 python3-pip python-is-python3
+
+
+## string operations
+
+- one can't simply insert string into a string in python, so in order to do that, you need to 
+  >>> a = list('mystring')                      # convert string to a list of characters
+  >>> any(a.insert(0, x) for x in list('666 ')) # insert elements one-by-one at desired position using any and generator
+  >>> result = ''.join(a)                       # put transformed list of characters back into a string
+
+- formatting with leading zeros for integers in f-string
+  >>> f' {0 : 0 > 3}' 
+          │   │ │ └─ width of 3
+          │   │ └─ align right
+          │   └─ fill with '0'
+          └─ value 
 
 
 ## collections
@@ -52,9 +69,14 @@
     - the largest costs come from growing beyond the current allocation size (because everything must move), 
       or from inserting or deleting somewhere near the beginning (because everything after that must move)
     - if you need to add/remove at both ends, consider using a collections.deque instead
-  - list comperhensions provide syntax sugar for map+iterator+filter pattern
   - example
-    > mylist = [1,2,3,4,5]
+    >>> mylist = [1,2,3,4,5]
+  - initialize array of integers of size 5 initialized with 0
+    >>> mylist = [0] * 5
+  - list comperhensions provide syntax sugar for map+iterator+filter pattern
+    >>>  [x for x in fruits if "a" in x]
+  - sort in reverse order 
+    >>> arr.sort(reverse=True)
 
 - collections.deque
   - deque (double-ended queue) is represented internally as a doubly linked list
@@ -77,6 +99,8 @@
   - OrderedDict remembers order in which values were added
   - example
     > mydic = {'key1': 5, 'key2', 'something'}
+  - iterate key/values
+    >>> for key, value in a_dict.items(): print(key, '->', value)
 
 - linq-like extensions can be enabled by following libraries
   - https://pypi.org/project/py-linq/
@@ -315,6 +339,9 @@
 
 - python-fire: cli arugments automapper to functions, tuples, classes etc. 
   - https://github.com/google/python-fire
+
+- parse input string
+  >>> arr = list(map(int, input().rstrip().split()))
 
 
 ## serialization

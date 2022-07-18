@@ -187,8 +187,18 @@
 ## column stores
 
 - cassandra
-  - nosql
-  - sypports async replication of data across regions
+  - flexible schemas
+  - async replication only
+    - eventually consistent
+    - it takes some (small) time for writes to propagate across cluster nodes
+    - so there is a chance of reading stale data
+  - enables fast data aggregations, as its column-based
+  - multi-master system by default
+    - high availability
+    - horizontal scaling
+    - high concurrency
+  - supports async replication of data across regions
+  - cassandra query language (cql)
 
 
 ## streamable data formats

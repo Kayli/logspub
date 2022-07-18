@@ -20,6 +20,13 @@
     - was hanging with black screen several times during installation, so had to hard reset vm
   - system tray was renamed to "taskbar corner" which is weird
     - it also no longer support option for always showing all tray icons, you need to enable each icon manually
+  - connects to my bose bluetooth headphones only the first time, but can't reconnect after
+  - synaptics trackpoint started moving mouse cursor on its own
+    - wanted to turn it off, but trackpoint settings were unavailable/greyed-out
+    - in device manager there was no option to disable this specific device
+    - initiated system update, after which trackpoint stopped working
+    - but touchpad buttons stopped working as well! (or they're part of trackpoint??)
+    - trackpoint settings are still greyed-out, which doesn't make much sense
 
 
 ## useful folders

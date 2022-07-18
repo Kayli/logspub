@@ -17,6 +17,10 @@
   - particular aspects of the service – quality, availability, responsibilities – are agreed
     between the service provider and the service user
 
+- virtual private cloud (vpc) 
+  - on-demand configurable pool of shared resources allocated within a public cloud environment, 
+    providing a certain level of isolation between the different organizations using the resources
+
 
 ## closed-source cloud solutions
 
@@ -66,8 +70,10 @@
   - cosmos db (many different apis to access same data)
   - hdinsight (kafka, hbase, hadoop mapreduce)
   - databricks
-  - azure data factory - etl, transforming and moving data around
-  - azure ml - machine learning training and stuff
+  - data factory - etl, transforming and moving data around
+  - ml - machine learning training and stuff
+  - container registry - container publishing and lifetime management
+  - artifacts - nuget, npm, maven, python, universal packages
 
 
 ## google cloud platform

@@ -22,6 +22,12 @@
   - can be a hardware device or a software device running within a host machine’s kernel
 
 
+## check for open ports
+
+- netstat -an | grep :8080
+- telnet localhost 8080
+
+
 ## load balancing
 
 - L4 load balancing 

@@ -49,6 +49,10 @@
 
 ## useful commands
 
+- get distributive version 
+  > cat /etc/issue
+  > cat /etc/os-release
+
 - managing processes
   - display all running processes
     > ps -aux

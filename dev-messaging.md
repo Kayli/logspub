@@ -111,15 +111,19 @@
 - can preserve immutable log of events
   - retention time can be configured based on number, size or ttl of objects
 
+- topic: named container for similar events
+
 - partitioning
   - messages without a key will be distributed to nodes in a round-robin manner
-  - asigning a key makes messages with the same key to end up on same cluster node
-
-- topic: named container for similar events
+  - asigning a key makes messages with the same key to end up on same partition
+  - whenever a topic is created, the partitions are divided among the cluster nodes
+    - each partition has a leader node and replica nodes (see replication factor)
+    - producers write to the leader node and kafka internally replicates the data on the replica nodes
+    - consumers consume data of a partition from its leader node
 
 - kafka connect
   - provides ecosystem of pluggable connectors
-  - kafka connectors: 
+  - kafka connectors
     - source connector acts as a producer
     - sink connector acts as a consumer
     - declarative approach, no need to write boilerplate code
@@ -151,6 +155,11 @@
   - in newer versions zookeeper will be swapped by quorum controller
     - this allows cluster to be composed only of kafka nodes
 
+- exactly once delivery semantics [^3] [^4]
+  - the producer send operation is now idempotent (set “enable.idempotence=true”)
+  - atomic writes across multiple partitions through the new transactions api
+    - this helps when publishing a message into multiple topic which are hosted on different cluster nodes
+
 
 ## terminology
 
@@ -161,3 +170,5 @@
 
 [^1]: https://www.enterpriseintegrationpatterns.com
 [^2]: https://youtu.be/QhfuzEkN3Ck?t=1806
+[^3]: https://kafka.apache.org/documentation/#semantics
+[^4]: https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/
