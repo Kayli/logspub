@@ -3,12 +3,13 @@
 ## basics
 
 - kubectl (cube cuddle) is cli for k8s
-- minikube and kind tools provide simple local k8s cluster
+- 'minikube' and 'kind' tools provide simple local k8s cluster
 - helm is a k8s package manager
 - object definitions
   - define desired state
     - controllers watch object definitions to achieve that state
   - often defined in yaml file format, but there are json and cli alternatives
+- configuration file: ~/.kube/config
 
 
 ## key entities

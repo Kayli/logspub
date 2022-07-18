@@ -38,6 +38,13 @@
 
 ## well known
 
+### ancient mesopotamian region
+
+- tiamat: goddess of the sea
+  - two aspects
+    - she is a creator goddess, peacefully creating the cosmos through successive generations
+    - monstrous embodiment of primordial chaos
+
 
 ### paganism
 

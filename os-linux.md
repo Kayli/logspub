@@ -47,6 +47,18 @@
   - pseudo-device that makes a file accessible as a block device
 
 
+## terminal multiplexer (tmux)
+
+- ctrl + b        initiation sequence (ctrlb)
+- ctrlb + %       split pane vertically
+- ctrlb + "       split pane horizontally
+- ctrlb + arrows  switch to pane within a window
+- ctrlb + x       kill pane
+- ctrlb + c       new window (create)
+- ctrlb + n/p     next/previous window
+- ctrlb + ?       show key mappings
+
+
 ## useful commands
 
 - get distributive version 
@@ -146,6 +158,8 @@
       > rsync -a <src> <dst>
     - to restore
       > rsync -aruv <src> <dst>
+    - show overall progress
+      > rsync -a --info=progress2 <src> <dst>
 
   - on-demand snapshot using timeshift
     > sudo timeshift --create --comments "before omf install"
@@ -190,7 +204,6 @@
   - merge two files
     > diff --unchanged-group-format="" src1 src2 > dst
 
-- containers
   - copy file from inside of the running docker container
     > docker ps -alq # get last container id
     > docker cp <containerId>:/file/path/within/container /host/path/target
@@ -250,6 +263,10 @@
 
 - popos specific
   - install touche from popshop to invert touchpad 4-finger gestures [^6]
+  - disable trackpoint at startup
+    > xinput set-prop "PS/2 Generic Mouse" "Device Enabled" 0
+  - run shell as root
+    > sudo su -
   
 
 - xfce specific

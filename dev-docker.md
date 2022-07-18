@@ -25,6 +25,9 @@
   > sudo usermod -aG docker $USER
   > docker run hello-world					# run test container to make sure everything works
 
+- fish completions (official)
+  > wget https://raw.githubusercontent.com/docker/cli/master/contrib/completion/fish/docker.fish -O ~/.config/fish/completions/docker.fish
+
 
 ## running container from image
 
@@ -56,6 +59,9 @@
   > docker volume create <volume_name> 
   > docker run -v <volume_name>:/etc/<volume_name> <image>
 
+- view mounts
+  > docker inspect -f '{{ .Mounts }}' <container_id>
+
 
 ## build an image
 
@@ -78,6 +84,12 @@
 
 - check with snyk for vulnerabilities
   > docker scan <image> 
+
+
+## useful commands
+
+- run bash process inside already running container 
+  > docker exec -it <container> bash
 
 
 ## docker compose

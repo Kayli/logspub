@@ -3,7 +3,7 @@
 - sign
   - is anything that communicates a meaning that is not the sign itself to the interpreter of the sign
   - can be framed as alienated fragment of reality
-    - certain fragments of reality "cool down" or "crystallize" (analogies) to a degree when they 
+    - certain fragments of reality "cool down"? or "crystallize"? (analogies) to a degree when they 
       are functionally different from the signified
   - categories
     - icon

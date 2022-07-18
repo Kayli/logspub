@@ -37,3 +37,10 @@
 
 - foss, written in python
 - repository https://www.mercurial-scm.org/repo/hg/
+
+
+## servers
+
+- gitlab (foss)
+- gitea (foss)
+- bitbucket server
