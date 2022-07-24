@@ -37,3 +37,9 @@
 ## useful apps
 
 - AutoHotkey https://www.autohotkey.com/ (source code https://github.com/Lexikos/AutoHotkey_L)
+
+
+## useful commands
+
+- echo path in powershell
+  > $env:path.split(";")

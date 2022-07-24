@@ -131,24 +131,28 @@
   - install helm
     > sudo snap install helm --classic
   - run proxy to be able to access deployed pods and services using ugly request string
-    > kubectl proxy
+    > k proxy
     > curl -I http://127.0.0.1:8001/api/v1/namespaces/default/services/SERVICE-NAME:PORT/proxy/
   - alternatively, run tunnel to expose cluster services to host machine via external ips
     > minikube tunnel
   - alternatively, map port from pod to host machine
-    > kubectl -n default port-forward <pod_name> 8443:8443
+    > k -n default port-forward <pod_name> 8443:8443
     
 - deploy application from container image, exposing port 80 on a pod
-  > kubectl create deployment hellonginx --image=nginxdemos/hello --port=80
+  > k create deployment hellonginx --image=nginxdemos/hello --port=80
 
 - expose deployment with its pod as a service
-  > kubectl expose deployment hellonginx --type=LoadBalancer --name=hellonginx-service
+  > k expose deployment hellonginx --type=LoadBalancer --name=hellonginx-service
   
 - get information
-  > kubectl get deployments
-  > kubectl get pods
-  > kubectl describe pods
-  > kubectl get services
+  > k get deployments
+  > k get pods
+  > k describe pods
+  > k get services
+  > k get namespaces
+  - list containers in a pod
+    > kubectl get pods <pod> -n <namespace> -o jsonpath='{.spec.containers[*].name}*'
+  > kubectl logs <pod> <container>
 
 - scale deployment
   > kubectl scale deployment hellonginx --replicas=3

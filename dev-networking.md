@@ -21,6 +21,12 @@
   - is a link layer (level 2) device which forwards traffic between network segments
   - can be a hardware device or a software device running within a host machine’s kernel
 
+- address 0.0.0.0 
+  - is a non-routable meta-address used to designate an invalid, unknown or non-applicable target
+  - in the context of servers, 0.0.0.0 means all IPv4 addresses on the local machine. 
+    - if a host has two IP addresses, 192.168.1.1 and 10.1.2.1, and a server running on the host 
+      listens on 0.0.0.0, it will be reachable at both of those IPs
+
 
 ## check for open ports
 
@@ -59,3 +65,4 @@
 ## references
 
 [^1]: https://avinetworks.com/glossary/l4-l7-network-services/
+[^2]: https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/

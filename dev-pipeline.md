@@ -31,6 +31,14 @@
 
 - disadvantages
   - no ecosystem of plugins, so integrations are hardcoded
+  - yaml is inferior to groovy
+    - so you might end up doing some yaml-programming
+    - yaml may quickly become hard to understand
+  - you can't declare multiple pipeline-templates within one repository
+    - there is an ugly way with setting a variable triggering set of jobs
+  - a bit confusing terminology (not a big deal)
+    - pipeline instance is called 'pipeline' and pipeline is called 'pipeline template'
+  - does not support prepopulation of values for parametrized pipelines (but jenkins does if i remember correctly)
 
 
 ## jenkins
