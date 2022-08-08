@@ -31,8 +31,12 @@
 
 ## running container from image
 
-- simplest use
+- simplest use, just run container from an image in a background
   > docker run <image>
+
+- run a process within a container from specified image, make sure its interactive and attach current terminal to it
+  > docker run --interactive --tty <image> <process>
+  > docker run -it <image> <process>                  # shorter version of the command above
 
 - assign name and start tty
   > docker run -it --name <name> <image>
@@ -40,8 +44,11 @@
 - run ubuntu with bash
   > docker run -it ubuntu bash
 
-- running container overriding default CMD [^1]
+- running container overriding default CMD [^1] entrypoint
   > docker run -it --entrypoint=/bin/bash <image>
+
+- run container from image, removing all existing containers created from that image
+  > docker run --rm -it <image> <process>
 
 - running x-server application within a container using x11docker [^2]
 

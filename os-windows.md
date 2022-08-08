@@ -27,6 +27,9 @@
     - initiated system update, after which trackpoint stopped working
     - but touchpad buttons stopped working as well! (or they're part of trackpoint??)
     - trackpoint settings are still greyed-out, which doesn't make much sense
+  - notepad does not repaint contents of it screen sometimes, when window is inactive
+    - so visually it looks like there is an empty notepad window in the background, until you click on it
+    - only after activating this window its contents get repainted
 
 
 ## useful folders

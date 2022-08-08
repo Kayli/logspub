@@ -19,6 +19,21 @@
 
 - bash is a default shell on many nix systems
 - default shebang #!/bin/bash
+- generate random number
+  > echo $RANDOM
+- generate hash
+  > cat file | md5sum
+- get first n characters from a stream
+  > cat file | head -c <n>
+- inplace substitution in a file by string match
+  > sed -i "s|old string|new string,|" <filename>
+- create file from a script with specified content
+  ```bash
+    cat << EoF > ./my-document.txt
+    Hello world
+    Have a nice day
+    EoF
+  ```
 
 
 ## zsh

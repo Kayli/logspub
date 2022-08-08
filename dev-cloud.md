@@ -59,7 +59,7 @@
   - cloudkeeper https://github.com/someengineering/cloudkeeper
 
 
-## azure services
+## azure cloud platform
 
 - azure data services 
   - sql database/sql managed instance
@@ -74,6 +74,12 @@
   - ml - machine learning training and stuff
   - container registry - container publishing and lifetime management
   - artifacts - nuget, npm, maven, python, universal packages
+
+- request unit 
+  - performance currency abstracting the system resources such as CPU, IOPS, and memory that are 
+    required to perform the database operations supported by Azure Cosmos DB
+  - the cost to do a point read (fetching a single item by its ID and partition key value) 
+    for a 1-KB item is 1 Request Unit (or 1 RU)
 
 
 ## google cloud platform
