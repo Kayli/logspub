@@ -110,6 +110,7 @@
   - distrubuted key-value store 
   - uses raft consensus algorithm to elect master node for writes
   - can i use it for my apps somehow as well? should i deploy another etcd cluster?
+    - should likely go with zookeeper, like kafka did
 
 - kubegres
   - postgresql cluster operator
@@ -223,6 +224,24 @@
 - registry https://operatorhub.io
 
 
+## scaling
+
+- application pods scaling
+  - vertical
+    - implemented using vertical pod autoscaler (vpa)
+    - you specify upper bound for mem and cpu as well as expected load
+  - horizontal
+    - manual
+      > kubectl scale deployment hellonginx --replicas=3
+      > kubectl get pods -o wide
+    - automatic
+      - implemented via horizontal pod autoscaler (hpa)
+      - can be based on cpu and memory (default)
+      - can be based on metrics collected by prometheus
+    - other approaches: knative, azure container apps, aws lambda
+      - 
+
+
 ## secrets
 
 - helm secrets
@@ -269,7 +288,7 @@
 - portainer [^5]
   - allows to monitor changes to manifest files stored in git and automatically apply them
 
-- argo
+- argo, flux
 
 - some additional info
   - https://medium.com/style-theory-engineering/infrastructure-as-code-kubernetes-a2f050389f26

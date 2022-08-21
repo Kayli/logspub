@@ -14,9 +14,10 @@
 
 - passerine (воробъиные)
   - chickadee (синица)
+  - starling (шпак)
 
-- thrush (дрозд)
-  - thrushes are a passerine bird family, turdidae, with a worldwide distribution
+  - thrush (дрозд)
+    - thrushes are a passerine bird family, turdidae, with a worldwide distribution
 
 - turkeys
   - wild turkeys can fly, while domesticated turkeys can't
@@ -44,6 +45,11 @@
 - chilopoda
   - a class of myriapod arthropods which comprises the centipedes
 
+
+
+## other
+
+- funny bird game from cornell lab https://academy.allaboutbirds.org/features/flaptothefuture
 
 
 ## references

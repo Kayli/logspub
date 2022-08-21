@@ -129,10 +129,13 @@
 
 - social markers in language and speech are cues conveyed through verbal and nonverbal means that serve to 
   identify individuals to the groups to which they belong
+
+- shift probabilities associated with multiple possible interpretations of whats been said and meant
+
 - types 
   - linguistic: language choice, language style, accent, dialect, code-switching, multilingualism
   - paralinguistic: vocal cues such as pitch and tone
-  - extralinguistic: skin color (shifts probabilities)
+  - extralinguistic: skin color
 - types by intention
   - intentional and purposive (e.g., language selection or dialect accentuation)
   - to unintentional and uncontrollable (e.g., vocal features that mark age or sex)

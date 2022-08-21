@@ -150,6 +150,12 @@
     - saudi arabia, united arab emirates, oman, yemen, quatar, bahrain, 
       kuwait, iraq, syria, jordan, israel, lebanon
 
+- egypt
+  - climate changes around 8000 BCE began to desiccate the pastoral lands of Egypt, forming the Sahara
+  - early tribal peoples migrated to the Nile River where they developed agricultural economy and more centralised society
+  - unified kingdom was founded c. 3150 BCE by King Menes
+  - barter was an official currency: grain, beer and oil
+
 
 ## europe
 
@@ -208,6 +214,10 @@
   - e.g. chineese, russian, american ...
 
 - hellás - greece
+
+- кентавр (др.-греч. κένταυρος, сentauros)
+  - этимология два греческих корня: κεντέω — «колоть, рубить» и ταυρος — «бык»
+  - может интерпретироваться и как «убийца быков» или «охотник на быков», и как «погонщик быков» или даже «ковбой»
 
 
 ## abbreviations

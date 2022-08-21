@@ -67,6 +67,11 @@
   - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
   - was written around 500 bce
 
+- bible
+  - from greek word biblion, which originally referred to papyrus or scroll books
+  - greek word came from a semitic place name, Byblos, or Gebal, a very ancient port in Lebanon, 
+    once famous for production of papyrus books
+
 
 ### islam 24.1%
 

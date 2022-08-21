@@ -24,6 +24,16 @@
 - SPICE circuit simulator
   - "to SPICE a circuit" remains synonymous with circuit simulation
 
+- extreme ultraviolet lithography (EUV or EUVL) 
+  - is an optical lithography technology used in steppers, machines that make integrated 
+    circuits (ICs) for computers and other electronic devices
+
+- stepper
+  - is a device used in the manufacture of integrated circuits (ICs) that is similar in operation 
+    to a slide projector or a photographic enlarger
+  - is short for step-and-repeat camera
+  - today, step-and-scan systems are so widespread that they are often simply referred to as steppers
+
 
 ## market 
 
@@ -48,6 +58,9 @@
       - Capital Group Companies(15.28%) USA
       - Blackrock (7.69%) USA
       - Baillie Gifford (4.29%) UK
+    - as of 2022, is the only company who produces and sells EUV systems for chip production
+  - Microfab Technologies
+  
 
 - semiconductors export as of 2016 [^4]
   - china 25%, malaysia 10%, taiwan 9%, japan 9%, singapore 6%, usa 5%, germany 5%,
@@ -55,6 +68,12 @@
 
 - integrated circuits export as of 2016 [^4]
   - taiwan 23%, south korea 11%, singapore 11%, china 10%, malasiya 9%, japan 5%, usa 5%
+
+
+## processor architectures
+
+- RISC: ARM (доминирующая), MIPS, POWER, SPARC, PA-RISC и Alpha
+- CISC: x86 (доминирующая), VAX, MC680x0, z/Architecture
 
 
 ## some stuff not sure i'll ever need
