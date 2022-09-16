@@ -31,7 +31,17 @@
 ## modern times
 
 - colonization
-  - first permanent english colony: jamestown, virginia in 1607
+  - central and south
+    - 1580th spanish colonies
+    - portugeese came about 100 years later?
+  - north
+    - 16th century pirates feast on spanish cargo ships
+    - 17th century france, holland 
+    - first permanent english colony
+      - jamestown, virginia in 1607
+      - puritans: english Protestants in the 16th and 17th centuries
+    - enslavement of black people was justified by christians as they've treated blacks as descendants of hamits
+      - the term was originally borrowed from the book of genesis, where it is used for the descendants of ham, son of noah
   - declaration of independence july 4, 1776
 
 - civil war 1861-1865

@@ -1,6 +1,40 @@
 # notes about philosophers [^1]
 
-## jaques derrida 1930-2004
+## donald david hoffman 1955
+
+- multimodal user interface (MUI) theory
+  - he was running computer simulations of artificial worlds with agents
+  - there were artificial 'reality' and artificial 'agents' adapting to it
+
+  - models of reality that agents built in order to adapt were different from reality itself
+    - proves that there are no evolutionary reasons for a map to become identical to a territory
+  
+  - interesting aspect is that he once again brings attention to the fact that physics is
+    just our model of reality which we use to adapt and it is different from reality itself
+
+- another idea that is worth noting is that map creates reality of its own
+  - connects multiple modalities into a coherent stream of consciousness
+    - like picture on a wall triggers stream of associations in our experience, so it is no longer
+      just a picture as a physical object
+
+- 2 mixed colors vs music interval example https://youtu.be/RZdfE_7cde0?t=186
+
+
+## daniel dannett 1942
+
+- defender of the idea of free will
+- against qualia as a concept
+  - quote: 'concept of qualia is so confused that it cannot be put to any use or understood in any non-contradictory way'
+
+
+## sandra harding
+## susan bordo
+
+- claim that modern epistemology (since 17th century) has expressed gendered (characteristically male) conception of knowledge
+- reason itself is a male construction based on a political need to maintain power in male hands
+
+
+## jaques derrida 1930-2004 [^3]
 
 - extends structuralist's notion of signs
   - synchronic (relational) structural dimension
@@ -17,17 +51,92 @@
   inherent ambiguities of sign interpretations
 
 
-## emmanuel levinas 1906-1995
+## lyotard, jean-françois 1924–1998
+
+- distinctive sciences are incommensurable (like physics and psychology)
+  - their modes of knowledge can't be integrated and we should not try
+  - postmodern practice of science will not try to unify and even won't tolerate unification, integration of different views of science
+- fragmentation is good and unification means suppression of individual differences
+- fragmentation of language games is what makes freedom possible
+- ruling class constructs a separate class of people onto which all ills are getting projected
+
+
+## emmanuel levinas 1906-1995 [^3]
 
 - french philosopher of lithuanian jewish ancestry who is known for his work within 
   jewish philosophy, existentialism, and phenomenology, focusing on the relationship 
   of ethics to metaphysics and ontology [^2]
 
 
-## theodor adorno 1903-1969
+## theodor adorno 1903-1969 [^3]
 
 - german philosopher, sociologist, psychologist, musicologist, and composer 
 - known for his critical theory of society, capitalism, enlightenment, progress
+
+
+## heidegger martin 1889-1976 [^1]
+
+- phenomenologist, atheist
+- ejects transcendental ego concept introduced by husserl
+- most influential book: being in time
+
+- created his own terminology which complicates things quite a bit
+  - sein: mode of being of entities
+  - dasein: being, or there-being
+  - in-der-welt sein: being-in-the-world
+    - being with ability to experience
+    - is inherent feature of humans
+  - lichtung: clearing in the woods, consciousness
+  - dasman: they-self
+  - guilt: not being something, so humans are collection of nots
+
+- question he focuses on: what is the meaning of dasein?
+
+- tripartite structure of dasein related to time: past, present, future
+  - dasein understands things, their possibilities of use in the future
+  - facticity: state of mind or mood
+  - dasman: public opinion
+
+- stressed finitude (without god), death, resolute action in his lectures
+  - what is it like to be a human being, a finite creature, thrown into and vulnerable to the world, fundamentally anxious in the face of its inevitable guilt and death
+
+- inspired 20th century existentialists
+
+
+## john dewey 1859-1952 [^1]
+
+- process philosopher
+- american naturalism
+
+- aesthetics
+  - esthetics extracted from worker's experience and locked up in a separate places dedicated to art
+    - museums, theatres, movies
+  - glorifying art and setting it on a pedestal separates it from community life
+
+- value of action
+  - ancients valued contemplation so highly and devalued action because their society was driven by slave labour
+  - intellectual problems arise in action when rubber hits the road
+    - habit/rules of behavior faces obstacles, which may lead to philosophical inquiry
+
+- social communication is the source of mind
+  - mind is a process
+  - private thinking is a communication between internalized adopted perspectives
+
+- biggest problem of social and political intitutions
+  - we failed to apply modern scientific method to social and political problems
+
+
+## whitehead alfred north 1861–1947 [^1]
+
+- process philosopher
+- tried to create metaphysical system that was consistent with physics and explained the place of mind, 
+  values, and god in such a universe based on findings of contemporary science
+- created most famous process philosophy
+  - took relativity and the quantum into account
+  - made the ultimate realities “actual occasions,” events that undergo an internal process of development 
+  that integrates a multiplicity into a unity (reminds me of event sourcing)
+- god is an integrative force
+  - it also changes over time
 
 
 ## edith stein 1891–1942
@@ -36,18 +145,27 @@
   her contributions as research assistant to husserl, and her philosophical anthropology [^2]
 
 
-## john dewey 1859-1952
+## henri bergson 1859-1941
 
-- americal naturalism
-- esthetics extracted from worker's experience and locked up in a separate places dedicated to art
-  - museums, theatres, movies 
+- process philosopher
+- emergence theory
+  - some higher-level properties of a complex system are irreduceble to the lower properties alone
+- argued that mathematical analysis of time in physics was mistaken
+- we can't have infinitely small moments of time
+- physics of mechanics can't explain biological behavior of living things
+  - which was mostly refuted later by scientists?
 
 
 ## edmund husserl 1859-1938
 
-- german philosopher and mathematician 
+- german philosopher and mathematician
+- wanted establish an objective science(inquiry) of mental act and objects
+  - his first book is 'philosophy of arithmetic'
+- reactionary against representationalism in epistemology
 - established the school of phenomenology
-  - science of ideal definitions of objects, pure field of evidence, ideal analysis of experience
+  - definition: study of the structures of experience and consciousness
+  - wanted to create a science of ideal definitions of objects
+    - opposed to empiricism, where objects just reflections of percieved things in the world
   - in order to justify objective reality, as reaction against representationalism
   - ideal objects/perceptions are part of a transcendental ego which determines our experience
 - starts talking about alienation later in his career
@@ -149,15 +267,7 @@
 - one species evolved from another species
 - discovered one important mechanism of evolution: natural selection
 - humans are not result of divine creation and evolved over time as all other beings
-- philosophers was concerned that evolution happens mechanically and there is no purpose in it
-
-
-## henri bergson 1859-1941
-
-- emergence theory
-- argued that mathematical analysis of time in physics was mistaken
-- we can't have infinitely small moments of time
-- physics of mechanics can't explain biological behavior of living things
+- philosophers was concerned that evolution happens mechanically and there is no purpose in it 
 
 
 ## arthur schopenhauer 1788-1860
@@ -618,3 +728,4 @@
 
 [^1]: https://www.thegreatcourses.com/courses/modern-intellectual-tradition-from-descartes-to-derrida
 [^2]: https://plato.stanford.edu/
+[^3]: https://www.overthinkpodcast.com

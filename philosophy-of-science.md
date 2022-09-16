@@ -19,6 +19,16 @@
     - draw inductive inferences about the way the world is
       - such inferences are fallible but nonetheless rational 
   - scientific method is an inductive method 
+  - new organon 1620
+    - francis bacon creates a new system of logic he believes to be superior to the old ways of syllogism
+      - this is now known as the baconian method
+  - principia mathematica 1687
+    - isaac newton defines laws of motion
+
+  - calvinism
+  - deism
+    - god created earth but after that no longer had influence on life and not watching it
+    - secularism
 
 - falsifiability
   - karl popper
@@ -31,7 +41,6 @@
     - the single observation of a black swan is sufficient to falsify it
       - its like unit-tests trying to falsify your written program to find 
         - inconsistency between actual and expected behaviors of the system (a bug)
-    
 
 - kuhn's rationality of theory choice 
   - book "the structure of scientific revolutions"
@@ -56,7 +65,6 @@
     - as such preference is highly subjective
   - social coherence usually valued higher than progress
 
-
 - what is scientific?
   - for example, why "literary theory" is not scientific?
     - valuable and important kind of inquiry
@@ -67,6 +75,17 @@
         - as even if there is a connection to reality, perception of it is highly subjective
         - meanings are too fluid and crafted to induce multiple equally valid interpretations
       - "prestiege" and "novelty" games are much more important than "verification" game   
+
+- reduction
+  - ontological: complex system is nothing but an aggregation of its simpler components
+  - explanatory: complex system can be explained by the theory governing its components alone
+
+- logical empiricism, or positivism
+  - which argues that science mathematically coordinates and predicts sense data, rather than seeking underlying metaphysical realities
+
+- process philosopy, ontology of becoming, or processism
+  - is an approach to philosophy that identifies processes, changes, or shifting relationships as the only true elements of the ordinary, everyday real world. It treats other real elements (examples: enduring physical objects, thoughts) as abstractions from, or ontological dependents on, processes
+  - has some parallels with 'event sourcing' approach in software design
 
 
 ## references 

@@ -113,7 +113,7 @@
 ## british columbia aboriginal languages
 
 - athabascan language group
-  - tsilhqot'in
+  - tsilhqot'in (chilcotin)
   - dakelh
 
 - gitsenimx
@@ -177,101 +177,7 @@
   - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria 
 
 
-## quantum linguistics, nlp 
-
-- doublespeak [^3]
-  - way of speaking used to deceive to mislead
-  - euphemism
-    - definition
-      - inoffensive or positive word or phrase used to avoid a harsh, unpleasant, or distasteful reality
-      - when it used to deceive to mislead it becomes a doublespeak
-
-  - jargon
-    - specialized language of trade, profession or similar group
-    - such as that used by doctors, lawyers, engineers, educators
-    - as a doublespeak
-      - pretentious, obscure, and esoteric terminology used to give an air of profundity,
-        authority, and prestige to speakers and their subject matter. 
-      - makes simple appear complex, the ordinary - profound, the obvious - insightful
-      - when a member of a specialized group uses its jargon to communicate with person 
-        outside the group and uses it knowing that the nonmember does not understand such language
-  
-  - gobbledygook or bureaucratese
-    - piling on words with the intent to overwhelm the audience with words
-    - the bigger the words, the longer the sentences - the better
-
-  - inflated language
-    - makes everyday things seem impressive
-    - gives air of importance to people, situations, or things that would not normally be considered important
-  
-  - examples
-    - revenue enhancement - new taxes
-    - non-goal oriented members of society - bums
-    - fiscal underachievers - poor
-    - service the target - kill enemy
-    - radiation enhancement device - neutron bomb
-    - air support - bombing
-    - incontinent ordinance - bombs or missiles that inadvertently strike friendly forces or sites
-    - acid rain
-      - atmospheric deposition of anthropogenetically-derived acidic substances
-      - poorly buffered precipitation
-    - bullet hole - ballistically induced aperture in the subcutaneous environment
-    - stock market eased, retreated, made a technical adjustment, technical correction, prices lost ground,
-      fourth quarter equity retreat, negative economic growth
-    - collateral damage - civilians killed in any war
-
-
-- entendre
-  - a phrase or figure of speech that could have two meanings or that could 
-    be understood in two different ways: innocent or innocuous
-
-- double-entendre
-  - a phrase, saying or sentence that can be interpreted in two different ways, one of which is usually dirty
-
-- double listening
-  - when you listen to a person, or group, and hear a double meaning in their speech, yet it seems to defy clear definition
-
-- triplespeak [^4]
-  - if the person speaking knows they are causing double listening appearance of double meaning, they are triple speaking
-
-- show speak
-  - when those who speak don't realize they are revealing something about themselves
-
-
-## other interesting stuff
-
-- политото [^2]
-  - силовой язык: смесь канцелярита и уголовного арго
-  - бюрократический язык 
-	- наматывание бессмысленных конструкций
-	- нарочито бессодержательный, ускользающий
-	- смысл речи - занять пространство не сказав ничего
-	- ложные сущности
-
-- semantic cancer
-  - unnecessary production of redundant concepts unconsciously
-  - possible causes
-    - mindless mimicry
-    - overinflated ego sickness of sorts
-    - unskillfull attempts to implement social engineering practices
-
-- semantic maze
-  - production of concepts and wiring them up in a semantic trap network
-    - possible goals
-      - to excercise control over a victim
-      - to game a system (распилить грант)
-      - to produce/communicate hard to fake fitness signal (works of art?)
-      - as a generative function in world simulation to create an illusion of infinite not-self
-
-- кентавр (др.-греч. κένταυρος, сentauros)
-  - этимология два греческих корня: κεντέω — «колоть, рубить» и ταυρος — «бык»
-  - может интерпретироваться и как «убийца быков» или «охотник на быков», и как «погонщик быков» или даже «ковбой»
-
-- pangram is a string that contains every letter of the alphabet
-
 ## references
 
 [^1]: tgc "myths, lies and half-truths about language use"
-[^2]: interviews with katya shulman
-[^3]: https://www.amazon.ca/Doublespeak-William-Lutz/dp/1632460173
-[^4]: https://www.urbandictionary.com/define.php
+

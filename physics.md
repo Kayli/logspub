@@ -37,6 +37,8 @@
   - strong (subatomic)
   - weak (subatomic)
 
+- hadron: composite subatomic particle made of two or more quarks held together by the strong interaction
+
 - atoms composed of
   - nucleons (form a nucleus)
     - proton

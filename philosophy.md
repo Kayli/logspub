@@ -6,12 +6,25 @@
   - literally: love of wisdom
   - the most generic type of inquiry
 
-- epistemology: theory of knowledge, the branch of philosophy concerned with knowledge
-- metaphysics - theory of reality
+- objective (of a person or their judgment)
+  - not influenced by personal feelings or opinions in considering and representing facts
+  - so its about one person vs group judgment, where group is likely some scientific community
 
-- axiology: is the philosophical study of value
-- axiological point or judgement: value judgement
-- teleology, finality
+- epistemology (greek 'episteme' meaning knowledge)
+  - theory of knowledge, the branch of philosophy concerned with knowledge
+
+- metaphysics - theory of reality
+  - ontology
+    - branch of philosophy that studies concepts such as existence, being, becoming, and reality
+    - includes the questions of
+      - how entities are grouped into basic categories
+      - which of these entities exist on the most fundamental level
+
+- axiology (greek 'axios' meaning worthy, worth, of like value)
+  - is the philosophical study of value
+  - axiological point or judgement: value judgement
+
+- teleology, finality (greek 'teleos' meaning entire, perfect, complete)
   - explanation for something which serves as a function of its end, its purpose, or its goal
   - intrinsic: something which serves as a function of its cause (like acorn turns into an oak tree)
   - extrinsic: purpose that is imposed by a human use
@@ -26,6 +39,13 @@
   - systematic inquiry into the conditions and consequences of a concept, a theory, a discipline
   - approach and/or attempt to understand the limitations and validity of that
 
+- representationalism
+  - philosophical theory of knowledge based on the assertion that the mind perceives only 
+    mental images (representations) of material objects outside the mind, not the objects themselves
+
+- phenomenology
+  - study of the structures of experience and consciousness
+
 
 ## enlightment
 
@@ -34,11 +54,19 @@
 - ideas of freedom, progress and knowledge go together
 
 
-## representationalism
+## postmodernism
 
-- philosophical theory of knowledge based on the assertion that the mind perceives only 
-  mental images (representations) of material objects outside the mind, not the objects themselves
-  
+- postulates that humans have no direct access to reality, but through signs
+
+- deconstructs fundamental units of reality
+  - substance, self, god, knowledge, reality vs appearence
+  - these terms are attempts to mask differences, pluralistic and playful complexity of the world
+
+- society functions without high-level coordination of vitgensteinian language games
+  - we have no unity and we don't need it
+
+- not acknowledging differences between people is a sin against reality of difference
+
 
 ## antinatalism
 

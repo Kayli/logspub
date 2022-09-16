@@ -107,7 +107,7 @@
 - china
 - norte chico (mexico)
 - olmec (mexico)
-- indus valley (pakistan)
+- indus valley (harappan culture, modern pakistan)
 
 
 ## common geopolitical terms (toponyms)
@@ -155,6 +155,8 @@
   - early tribal peoples migrated to the Nile River where they developed agricultural economy and more centralised society
   - unified kingdom was founded c. 3150 BCE by King Menes
   - barter was an official currency: grain, beer and oil
+  - рамзес второй - самый влиятельный/известный фараон
+    - проиграл битву при кадеше, но смог представить как самую великую победу
 
 
 ## europe
@@ -166,6 +168,8 @@
   - survived the fragmentation and fall of the Western Roman Empire in the 5th century AD and continued to exist 
     for an additional thousand years until the fall of Constantinople to the Ottoman Empire in 1453
 
+- dutch (nederlanders) are a germanic ethnic group and nation native to the netherlands
+
 
 ### england
 
@@ -176,6 +180,19 @@
   - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
 
 - 1830 отмена рабства
+
+
+## india
+
+- harappan culture (хараппская цивилизация)
+  - 3300-1300 bce
+  - mohenjo-daro
+    - built around 2500 bce
+    - it was one of the largest settlements of the ancient indus civilisation
+    - already used standardized bricks, street grids, and covered sewerage systems
+      - отдельно канализация биоотходов и отдельно сточных вод!!
+- aryan migration 1750 bce
+  - synthesis of arian with harappan cultures evolved into a vedic culture
 
 
 ## japan
@@ -203,7 +220,6 @@
 
 - interactive world history atlas since 3000 bc http://geacron.com/ 
 - share of world gdp through history interactive chart [^2]
-
 
 
 ## terminology
