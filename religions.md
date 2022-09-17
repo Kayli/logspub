@@ -71,6 +71,14 @@
   - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
   - was written around 500 bce
 
+- bible
+  - from greek word biblion, which originally referred to papyrus or scroll books
+  - greek word came from a semitic place name, Byblos, or Gebal, a very ancient port in Lebanon, 
+    once famous for production of papyrus books
+
+- deism
+  - god created earth but after that no longer had influence on life
+
 
 ### islam 24.1%
 
@@ -98,6 +106,20 @@
 
 
 ### hinduism 15.1%
+
+- brahman
+  - connotes the highest universal principle, the ultimate reality in the universe
+  - мир как он есть, до конца непознаваемый
+
+- dharma
+  - законы/правила как должно быть 
+  - behaviours, the order that makes life and universe possible
+  - includes duties, rights, laws, conduct, virtues and "right way of living"
+
+- purusha
+  - abstract essence of the self, spirit and the universal principle that is eternal, indestructible, 
+    without form and is all pervasive
+  - similar to soul?
 
 - tbd
 

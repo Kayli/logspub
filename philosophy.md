@@ -2,10 +2,29 @@
 
 ## basics
 
-- epistemology: theory of knowledge, the branch of philosophy concerned with knowledge
-- axiology: is the philosophical study of value
-- axiological point or judgement: value judgement
-- teleology, finality
+- definition
+  - literally: love of wisdom
+  - the most generic type of inquiry
+
+- objective (of a person or their judgment)
+  - not influenced by personal feelings or opinions in considering and representing facts
+  - so its about one person vs group judgment, where group is likely some scientific community
+
+- epistemology (greek 'episteme' meaning knowledge)
+  - theory of knowledge, the branch of philosophy concerned with knowledge
+
+- metaphysics - theory of reality
+  - ontology
+    - branch of philosophy that studies concepts such as existence, being, becoming, and reality
+    - includes the questions of
+      - how entities are grouped into basic categories
+      - which of these entities exist on the most fundamental level
+
+- axiology (greek 'axios' meaning worthy, worth, of like value)
+  - is the philosophical study of value
+  - axiological point or judgement: value judgement
+
+- teleology, finality (greek 'teleos' meaning entire, perfect, complete)
   - explanation for something which serves as a function of its end, its purpose, or its goal
   - intrinsic: something which serves as a function of its cause (like acorn turns into an oak tree)
   - extrinsic: purpose that is imposed by a human use
@@ -16,21 +35,45 @@
   - philosophy of continental europe which is not analytic philosophy
   - used as a pejorative by analytic philosophers
 
+- critique
+  - systematic inquiry into the conditions and consequences of a concept, a theory, a discipline
+  - approach and/or attempt to understand the limitations and validity of that
+
+- representationalism
+  - philosophical theory of knowledge based on the assertion that the mind perceives only 
+    mental images (representations) of material objects outside the mind, not the objects themselves
+
+- phenomenology
+  - study of the structures of experience and consciousness
 
 
+## enlightment
 
-## representationalism
+- 18th century
+- invented idea of progress: future will be better than past
+- ideas of freedom, progress and knowledge go together
 
-- philosophical theory of knowledge based on the assertion that the mind perceives only 
-  mental images (representations) of material objects outside the mind, not the objects themselves
-  
+
+## postmodernism
+
+- postulates that humans have no direct access to reality, but through signs
+
+- deconstructs fundamental units of reality
+  - substance, self, god, knowledge, reality vs appearence
+  - these terms are attempts to mask differences, pluralistic and playful complexity of the world
+
+- society functions without high-level coordination of vitgensteinian language games
+  - we have no unity and we don't need it
+
+- not acknowledging differences between people is a sin against reality of difference
+
 
 ## antinatalism
 
 - notable people
-    - shopenhauer
-    - benatar
-    - théophile de giraud
+  - shopenhauer
+  - benatar
+  - théophile de giraud
 
 - nonsense ideas
   - people have a duty to not procreate
@@ -62,6 +105,100 @@
 - "consciousness is always present for itself" thomas w. clark 
 - reincarnation is just a poetic expression of what collective memory is [^2]
 - embracing anxiety as a natural emotion that animates body [^3]
+
+
+## unsorted
+
+- main philosophical positions
+  - epistemic realism
+  - antirealism (relativism)
+  - scepticism
+
+- related theories
+  - logic
+  - philosophy of language
+  - science
+  - social philosophy
+  - political philosophy
+
+- medieval pheriod (middle ages) 5-14 century
+  - all sciences are part of philosophy
+  - made by priests
+  - europe is a collection of states ruled by aristocrates
+  - philosophy is done by priests (the only literate members of society)
+  - lots of peasants
+  
+- scolasticism 11-17th century
+  - major school of though
+  - meaning: philosophy of the schools
+  - based on aristotel's logic and metaphysics
+  - scholasticism is essentially aristotel + christianity
+  - integrated by saint Thomas Aquinas (1200-1300)
+  - the Earth is at the center of the universe but it's the lowest place (sin, etc)
+  - end of scholasticism
+    - the discovery of the New World in 1492
+    - Protestant reformation in 1516
+    - the decline of the aristocracy and rise of the royal power
+    - Scientific revolution of Copernicus, Bacon, Kepler, Galileo, Bruno, Newton
+      - Copernicus - heliocentric system
+      - Giordano Bruno - space is infinite
+      - Galileo - uniform motion without the final cause
+      - Newton - same laws for lunar and sublunar
+    - platonic science replaces Aristotilean
+
+- scientific revolution 17th century
+  - driven by
+    - Galileo, Boyal, Newton
+    - Locke, Spinosa, Hub, Mercene, DeCarte
+  - trying to understand new physics and how to relate it to new human and religion concerns
+  - modern republicanism
+
+- modern pheriod
+  - made by non clerical writers, often rom arestocracy
+  - Enlightenment
+    - starts in 18th century
+    - driven by
+      - Voltair, Adam Smith, Jean Jack Russou
+      - 2 great republican revolutions in France and US
+    - philosophers are more considered with limits of human knowledge
+    - more sceptical
+  - split in sciences
+    - natural sciences spilt off in 18th century
+    - social sciences split off in the 19th-20th centuries
+  - German idealism
+    - starts at the end of the 18th century
+    - driven by
+      - Kant
+      - Fichte, Shelling
+      - Hegel
+        - 19th century
+  - English philosophy and science
+    - John Stewart Mill
+    - Charles Darwin
+  - Revolt agains Hegelian influence
+    - happens in the end of 19th centry
+    - Søren Kierkegaard
+    - Friedrich Nietzsche
+  - new big split in early 20th
+    - analytic philosophy
+      - started by
+        - Gottlob Frege - invented a new logic since Aristotel
+        - Moore, Russel
+      - Logical Positivism
+        - Karnapp, Neurath
+        - young Ludwig Wittgenstein
+      - Structuralists
+    - continental european philosophy
+      - started by Husserel
+      - Wittgenstein
+      - advanced by Heidegger
+      - Richard Rorty, Jacques Derrida
+    - american pragmatism
+      - Purse, William James, Dewye
+  - scientific revolutions
+    - special relativity in 1905
+    - general theory of relativity in 1915
+    - quantum mechanics in late 1920s
 
 
 ## references

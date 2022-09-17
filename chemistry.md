@@ -393,6 +393,12 @@
 - python library https://github.com/bjodah/chempy
 
 
+## diy kits
+
+- for kids
+  - https://melscience.com
+
+
 ## references
 
 [tgc chemistry course](https://www.thegreatcoursesplus.com/chemistry-2nd-edition)

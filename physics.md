@@ -37,6 +37,8 @@
   - strong (subatomic)
   - weak (subatomic)
 
+- hadron: composite subatomic particle made of two or more quarks held together by the strong interaction
+
 - atoms composed of
   - nucleons (form a nucleus)
     - proton
@@ -214,8 +216,7 @@
 - charged molecules
 
 - maxwell equations
-  - set of coupled partial differential equations that, together with the Lorentz force law, form the foundation of 
-    classical electromagnetism, classical optics, and electric circuits
+  - set of coupled partial differential equations that, together with the Lorentz force law, form the foundation of classical electromagnetism, classical optics, and electric circuits
   - for a region with no charges (ρ = 0) and no currents (J = 0), such as in a vacuum
     - standard wave equations form can be used https://en.wikipedia.org/wiki/Wave_equation
     - speed of light derived as c=sqrt( 1 / (μ0 * ϵ0) )  where 
