@@ -51,6 +51,19 @@
 
 - cat: computer aided translation
 
+- stemming: transforming word to its stem (корень)
+
+
+## preprocessing
+
+- eliminate handles and urls
+- tokenize the string into words
+- remove stop words like "and, is, a, on, etc."
+- stemming: convert every word to its stem. 
+  - like dancer, dancing, danced, becomes 'danc'
+  - you can use porter stemmer to take care of this
+- convert all your words to lower case
+
 
 ## software projects
 
