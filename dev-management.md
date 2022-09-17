@@ -2,14 +2,34 @@
 
 ## basics
 
-- non-technical software managers are evil
+- application lifecycle management (alm)
+  - is a product lifecycle management (governance, development, and maintenance) of computer programs
+  - encompasses
+    - requirements management
+    - software architecture
+    - computer programming
+    - software testing
+    - software maintenance
+    - change management
+    - continuous integration
+    - project management
+    - release management
+
+- having only non-technical software managers on a team is risky
   - software manager should be able to understand/help in solving technical problems
     - otherwise its a 'box ticker' or 'taskmaster' antipattern [^1]
-    - can easily be tricked/manipulated by its fellow team members
+    - may be fine if intention is to give a person prestigious job and to support them financially
+  - problem becomes more severe when non-technical manager has an arrogant/assertive tendencies
+    - but having such people of any tech level on a team is a problem
+  - can easily be tricked/manipulated by its fellow team members
+  - can easily be replaced by properly aligned tools and processes
+    - so it is risky for the managers themselves
+    - may be one of the main drivers of assertive/arrogant behavior in order to hide their lack of technical knowledge
 
 - bus factor
   - minimum number of team members that have to suddenly disappear from a project before 
     the project stalls due to lack of knowledgeable or competent personnel
+
 
 
 ## communication

@@ -35,6 +35,10 @@
   - atheistic
     - practices of dialectical materialism in ussr
 
+- religion as an ecology of psychotechnologies [^4]
+  - god is a one of the artifacts of such psychotechnologies
+  - squeaking rats outside of my apartment are another one ;)
+
 
 ## well known
 
@@ -112,6 +116,7 @@
 ### judaism (0.2%)
 
 - tbd
+- зион - священная гора в израиле
 
 
 ### taosism 0.04%
@@ -217,3 +222,4 @@
 [^1]: https://en.wikipedia.org/wiki/Charvaka
 [^2]: https://en.wikipedia.org/wiki/Rastafari
 [^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
+[^4]: https://youtu.be/yImlXr5Tr8g?t=5435

@@ -160,6 +160,10 @@
   - atomic writes across multiple partitions through the new transactions api
     - this helps when publishing a message into multiple topic which are hosted on different cluster nodes
 
+- consumer lag
+  - is an indicator of how much lag there is between kafka producers and consumers
+  - indicates how far behind is your consumer compared to the latest produced message in the topic the consumer is reading from
+
 
 ## terminology
 

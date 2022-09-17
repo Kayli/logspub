@@ -1,8 +1,11 @@
 # logical fallacies and related info
 
 - sunk cost
+  - escalation of commitment, irrational escalation, or sunk cost fallacy, where people justify increased investment 
+    in a decision, based on the cumulative prior investment, despite new evidence suggesting that the decision was probably wrong
 
 - strawman argument
+  - misrepresenting an opponent's argument by broadening or narrowing the scope of a premise and/or refuting a weaker version of their argument
 
 - false dilemma
   - also referred to as false dichotomy
@@ -30,6 +33,17 @@
 - begging the question [^1]
   - occurs when an argument's premises assume the truth of the conclusion, instead of supporting it
   - example: happiness is the highest good for a human being, since all other values are inferior to it
+
+- false attribution fallacy
+  - appealing to an irrelevant, unqualified, unidentified, biased or fabricated source in support of an argument
+
+
+## interesting resources online
+
+- https://en.wikipedia.org/wiki/List_of_fallacies
+- https://en.wikipedia.org/wiki/List_of_cognitive_biases
+- https://thethinkingshop.org/
+- master list of fallacies from owen williamson https://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm
 
 
 ## references

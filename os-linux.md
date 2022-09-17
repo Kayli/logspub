@@ -207,6 +207,12 @@
   - copy file from inside of the running docker container
     > docker ps -alq # get last container id
     > docker cp <containerId>:/file/path/within/container /host/path/target
+  
+  - use tee
+    - to dump stdout of a process to a file transparently in a unix pipeline
+      > process1 | tee log.txt | process2
+    - dump stdout to a file an watch it at the same time
+      > process1 | tee log.txt
 
 - audio
   - alsa

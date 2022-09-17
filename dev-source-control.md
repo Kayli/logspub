@@ -6,8 +6,12 @@
 - text ui: tig, lazygit
 
 - useful commands
-  - switch to another existing branch
+  - checkout remote feature branch
+    > git checkout --track origin/feature/<name>
+  - switch to another existing local branch
     > git checkout <name>
+  - git checkout local branch
+    > git checkout --track origin/feat/ryan-devcontainer
   - create new branch
     > git checkout -b <name>
   - merge changes from upstream origin/main branch
@@ -41,9 +45,13 @@
   - register nccommit alias
     > git config --global alias.nccommit 'commit -a --allow-empty-message -m ""'
 
-  - hard reset to previous commit
-    > git log
-    > git reset --hard <commit>
+  - hard reset 
+    - to previous commit
+      > git log
+      > git reset --hard <commit>
+    - to remote origin
+      > git fetch origin
+      > git reset --hard origin/<branch>
 
 
 ## mercurial

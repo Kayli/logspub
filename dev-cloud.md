@@ -75,11 +75,26 @@
   - container registry - container publishing and lifetime management
   - artifacts - nuget, npm, maven, python, universal packages
 
-- request unit 
+- request unit (RU)
   - performance currency abstracting the system resources such as CPU, IOPS, and memory that are 
     required to perform the database operations supported by Azure Cosmos DB
   - the cost to do a point read (fetching a single item by its ID and partition key value) 
-    for a 1-KB item is 1 Request Unit (or 1 RU)
+    for a 1-KB item is 1 RU
+
+- source control services
+  - team foundation version control (TFVC)
+  - azure repos git
+  - github
+
+- ci/cd services
+
+  - azure devops (azdo)
+    - hosted git
+    - pipelines
+    - agile board
+  - github
+    - hosted git
+    - actions (pipelines)
 
 
 ## google cloud platform

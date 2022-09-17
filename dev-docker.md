@@ -44,7 +44,7 @@
 - run ubuntu with bash
   > docker run -it ubuntu bash
 
-- running container overriding default CMD [^1] entrypoint
+- running container overriding default [^1] entrypoint 
   > docker run -it --entrypoint=/bin/bash <image>
 
 - run container from image, removing all existing containers created from that image
@@ -91,6 +91,9 @@
 
 - check with snyk for vulnerabilities
   > docker scan <image> 
+
+- 'entrypoint' and 'cmd'
+  - used to specify a default command on container start
 
 
 ## useful commands

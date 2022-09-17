@@ -109,6 +109,9 @@
 
 ## package/environment managers
 
+- pyenv (pyenv-win)
+  - lets you easily switch between multiple versions of python
+
 - pip
   - general python package installer
   - can be used to install libraries or cli applications with entrypoints
@@ -163,21 +166,38 @@
   - use the 'Python: Select Interpreter' command from the command palette (ctrl+shift+p)
 
 
+## debugging
+
+- debug adapter protocol (dap) https://microsoft.github.io/debug-adapter-protocol/
+- python implementation of dap https://github.com/microsoft/debugpy
+  - run script with debugging server listening on specified port
+    > python -m debugpy --listen localhost:5678 myfile.py
+  - set breakpoint programmatically, will stop only when debugger is attached
+    >>> debugpy.breakpoint()
+
+
 ## unit testing
 
 - pytest 
   - it is working okay with vscode so far, so its a pretty safe bet to start with it
+
   - don't forget to adjust settings.json to enable it with following code
     "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [ "tests" ],
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": true,
+
   - if you're using vscode testing extensions other than what standard "python" extension from ms offers
     - shit may stop working
       - tests may not be discovered
       - relative imports may start to break
+
   - insights into how manually run only a specific set of tests
     https://stackoverflow.com/questions/36456920/is-there-a-way-to-specify-which-pytest-tests-to-run-from-a-file
+
+  - fail fast
+    > pytest -x           # stop after first failure
+    > pytest --maxfail=2  # stop after two failures
 
 
 ## linters
@@ -365,6 +385,24 @@
   - kafka-python https://kafka-python.readthedocs.io/en/master/index.html
 
 
+## package distribution [^8]
+
+- package distribution types 
+  - source distribution, or sdist
+    - contains source code that includes not only Python code but also the source code of any
+      extension modules (usually in C or C++) bundled with the package
+    - contains a bundle of metadata sitting in a directory called <package-name>.egg-info
+    - created with the following command
+      > python setup.py sdist
+  - wheel distribution
+    - prebuilt, therefore a faster one to install using pip
+    - created with the following command
+      >  python setup.py bdist_wheel
+    - wheel types
+      - pure-python wheel
+      - platform wheel
+
+
 ## advanced features
 
 - slotted class
@@ -399,6 +437,9 @@
   - you can release gil inside your custom-written c extension using macroses:
     Py_BEGIN_ALLOW_THREADS, Py_END_ALLOW_THREADS
 
+- re-raising exception using exception chaining syntax
+  >>> raise RuntimeError from exc
+
 
 ## vscode extensions
 
@@ -421,3 +462,4 @@
 [^5]: https://stackoverflow.com/questions/5517241/is-there-any-trick-to-overload-the-dot-operator
 [^6]: https://thomasnyberg.com/releasing_the_gil.html
 [^7]: https://stackoverflow.com/questions/26021541/how-to-programmatically-create-a-topic-in-apache-kafka-using-python
+[^8]: https://realpython.com/python-wheels/
