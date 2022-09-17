@@ -6,6 +6,9 @@
 - text ui: tig, lazygit
 
 - useful commands
+  - list branches
+    > git branch
+    > git branch -r  # list remote branches
   - switch to another existing branch
     > git checkout <name>
   - create new branch
