@@ -9,6 +9,10 @@
   - checkout remote feature branch
     > git checkout --track origin/feature/<name>
   - switch to another existing local branch
+  - list branches
+    > git branch
+    > git branch -r  # list remote branches
+  - switch to another existing branch
     > git checkout <name>
   - git checkout local branch
     > git checkout --track origin/feat/ryan-devcontainer
