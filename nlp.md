@@ -58,6 +58,16 @@
   - https://github.com/loomchild/maligna
 
 
+## educational resources
+
+- online
+  - coursera nlp specialization
+    - is designed and taught by two experts in NLP, machine learning, and deep learning. 
+    - Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization
+    - Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
+  - classification and vector spaces in nlp https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Parallel_text
