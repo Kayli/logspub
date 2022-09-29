@@ -1,12 +1,25 @@
 # notes related to neuroscience
 
-## basics
+## basics [^3]
+
+- study of the mind as an empirical epistemology
+  - helps to understand the origins and limitations of human knowledge
 
 - gyrification
   - is the process of forming the characteristic folds of the cerebral cortex
   - happens due to impossibility of rapid changes in brain tissue architecture
   - does not increase total brain volume contrary to some myths or sloppy formulations
-    - but only volume of cortical tissues
+    - but only an volume of cortical tissues
+
+- organization of the brain reveals architecture of the mind
+  - fundamental pieces of the brain tell us about fundamental parts of the mind
+
+- some parts of the brain do extremely specific things e.g:
+  - face recognition (back end of the bottom right hemisphere)
+  - numbers and counting
+
+- limitations
+  - there is no neuron-wiring-level diagram that explains any high-level mental function (as of 2021)
 
 
 ## brain facts
@@ -26,34 +39,30 @@
     - these speeds are about a million times slower than action potential propagation (neuron firing)
 
 
-## brain structure
+## brain structure [^2]
 
-- neocortex
-  - represents that cluster of brain structures involved in advanced cognition
-     - this includes planning, modeling and simulation
+- forebrain (передний мозг)
+  - cerebrum (конечный мозг)
 
-- limbic complex 
-  - structures associated with social and nurturing behaviors
-    - includes mutual reciprocity, and other behaviors and affects that arose during the age of the mammals
-  - septum, amygdalae, hypothalamus, hippocampal complex, and cingulate cortex
+- midbrain (средний мозг)
+  - vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation
 
-- reptilian complex
-  - structures related to territoriality, ritual behavior and other "reptile" behaviors
-  
-  - basal ganglia
-    - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
-    - main functions
-      - control of voluntary motor movements
-      - procedural learning
-      - habit learning
-      - conditional learning
-      - eye movements
-      - cognition
-      - emotion
-
-  - stem (мозговой ствол)
-    - midbrain (средний мозг)
-      - vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation
+- hindbrain
+  - cerebellum (мозжечок, дословно «малый мозг»)
+    - functions
+      - preserves and reactivates automated motor patterns
+      - координация движений, регуляция равновесия и мышечного тонуса
+  - brain stem (мозговой ствол)
+    - basal ganglia
+      - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
+      - main functions
+        - control of voluntary motor movements
+        - procedural learning
+        - habit learning
+        - conditional learning
+        - eye movements
+        - cognition
+        - emotion
     - pons varolii (bridge of varolius, варолиев мост)
       - relay signals from the forebrain to the cerebellum
       - sleep, respiration, swallowing, bladder control, hearing, equilibrium, taste, eye movement, 
@@ -62,8 +71,10 @@
       - cardiac, respiratory, vomiting and vasomotor centers
       - autonomic functions of breathing, heart rate and blood pressure as well as the sleep wake cycle
 
-  - cerebellum
-    - preserves and reactivates automated motor patterns
+
+## mental functions
+
+tbd
 
 
 ## neurons
@@ -212,6 +223,29 @@
   - conduction of nervous impulses along axons, speed them up
 
 
+## artificial intelligence
+
+- important paper: imagenet classification with deep convolutional neural networks (krizhevsky et all)
+
+
+## brain structure - triune model (obsolete)
+
+- triune brain model
+  - introduced by Paul D. MacLean in the 1960
+
+- neocortex (neomammalian complex)
+  - represents that cluster of brain structures involved in advanced cognition
+     - this includes planning, modeling and simulation
+
+- limbic system (paleomammalian complex) 
+  - structures associated with social and nurturing behaviors
+    - includes mutual reciprocity and other behaviors and affects that arose during the age of the mammals
+  - septum, amygdalae, hypothalamus, hippocampal complex, and cingulate cortex
+
+- reptilian complex
+  - structures related to territoriality, ritual behavior and other "reptile" behaviors
+
+
 ## terms and abbreviations 
 
 - gaba
@@ -222,3 +256,5 @@
 ## references
 
 [^1]: https://youtu.be/2jA-es793qo?t=2563
+[^2]: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
+[^3]: https://www.youtube.com/watch?v=ba-HMvDn_vU
