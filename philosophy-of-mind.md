@@ -6,7 +6,14 @@
   - discipline studying thinking processes of animals, humans and beyond
 
 
-## models of consciousness
+## theories of consciousness 
+
+- global workspace theory [^4]
+  - theatre metaphor
+    - consciousness: bright spot of light that reveals the contents 
+    - unconscious 
+      - audience, not lit up, in the dark 
+      - watching the play
 
 - dehaene-changeux model (dcm) [^3]
   - also known as the global neuronal workspace or the global cognitive workspace model
@@ -17,6 +24,8 @@
     - creation of working memory
     - running of algorithms (e.g. making calculations in your mind)
     - possibility of language
+
+- integrated information theory
 
 - multiple drafts model (daniel danett)
 - eight-circuit model (timoty leary and others)
@@ -106,4 +115,8 @@
 [^1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
 [^2]: https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
 [^3]: https://www.youtube.com/watch?v=IvqJpeXw2ww&list=PL2VCCjshTuUNjwf2NR52z3wgtMisDnOcJ&index=2
+<<<<<<< HEAD
 [^4]: overthink podcasrt 61 self-knowledge
+=======
+[^4]: john vervaeke ep10 awakening from the meaning crisis 9:13
+>>>>>>> fb06df4 ()
