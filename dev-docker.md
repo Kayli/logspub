@@ -59,6 +59,14 @@
 - risks of executing more than one process per container [^5]
   - the process that forked and went background is not monitored and may stop without you knowing it
  
+ - start container in a detached mode saving its id
+  > CID=$(docker run -d <image> <process>)
+
+
+## run process in already running container
+
+- docker exec [OPTIONS] <container> [command] [arg...]
+
 
 ## persistence
 
@@ -94,6 +102,21 @@
 
 - 'entrypoint' and 'cmd'
   - used to specify a default command on container start
+
+- docker build
+  > docker build .                          # builds image from Dockerfile in a current folder
+  > docker build --file <dockerfile>        # builds image from dockerfile
+  > docker build --rm --file <dockerfile>   # removes intermediate containers after successful build
+  > docker build --progress=plain .         # builds and displays all output, while default behavior is to show build messages only briefly
+
+- custom build arguments
+  - allows you to parametrize your dockerfile
+  - declare args
+    - FROM alpine:latest
+    - ARG EXAMPLE_VAR
+    - ARG DEMO_VAR='some default val'
+  - pass args
+    > docker build -t example-image:latest --build-arg EXAMPLE_VAR=value1 --build-arg DEMO_VAR=value2 .
 
 
 ## useful commands

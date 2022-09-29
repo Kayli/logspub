@@ -6,7 +6,7 @@
   - discipline studying thinking processes of animals, humans and beyond
 
 
-## models of consciousness 
+## models of consciousness
 
 - dehaene-changeux model (dcm) [^3]
   - also known as the global neuronal workspace or the global cognitive workspace model
@@ -22,7 +22,19 @@
 - eight-circuit model (timoty leary and others)
 
 
-## thinking
+## self image
+
+- 'theory of mind' term is used in psychology when referring to model of psyche of others
+  - however, likely similar mechanisms are used to build a model of self
+
+- sciousness by william james [^4]
+  - 'con' means 'with', 'consciousness' literally means 'knowing with'
+  - takes a form of a process
+    - its what now means 'stream of consciousness', but william james just calls it sciousness
+    - to get rid of the idea that its internally dual
+
+
+## thinking [^1]
 
 - высшая ступень психического отражения действительности
 - является опосредованным и обобщённым способом отражения действительности с точки зрения марксизма
@@ -94,3 +106,4 @@
 [^1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
 [^2]: https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
 [^3]: https://www.youtube.com/watch?v=IvqJpeXw2ww&list=PL2VCCjshTuUNjwf2NR52z3wgtMisDnOcJ&index=2
+[^4]: overthink podcasrt 61 self-knowledge

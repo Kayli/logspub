@@ -96,6 +96,7 @@
     - this is happens when you set dependsOn attribute in 'stage', so that it depends on some other stage
     - it just skips stage runs for dependencies and likely will fail
   - jobs within same stage can be executed in-parallel but there is no graph visualization for them
+  - live logs screen sometimes missing messages, unless you reload a page
 
 
 ### azure artifacts

@@ -154,6 +154,15 @@
 - https://github.com/serverless/serverless
 
 
+## how they make extra money
+
+- azdo feeds are preserved for extra 30 days without ability to reclaim space for this period
+  - when trying to delete feed, the following message gets displayed:
+    "Once deleted, the feed will enter a disabled state for 30 days, after which it will be permanently deleted. In this state, packages cannot be installed, published, or manipulated and storage will not be reclaimed. You may restore the feed to its original state, or permanently delete it in the feed settings to clean up storage. This feed name may not be reused until permanently deleted."
+
+- azdo pipelines may not stop jobs right away when parent stage gets cancelled, but it will wait until job finishes or errors out
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/OpenShift

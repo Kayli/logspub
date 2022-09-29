@@ -5,10 +5,7 @@
 
 - 2.7.18 was the last release of python 2 in april 20, 2020
 
-- python does not support function overloading
-  - same for constructor overloading
-    - does not work out of the box
-    - in python 3.something need to inherit from MultipleMeta class [^2]
+- python does not support function overloading and therefore constructor overloading
 
 - python3.x naturally supports big numbers with int type (which was called 'long' in 2.x)
 
@@ -103,8 +100,22 @@
     >>> for key, value in a_dict.items(): print(key, '->', value)
 
 - linq-like extensions can be enabled by following libraries
-  - https://pypi.org/project/py-linq/
+  - py-linq https://pypi.org/project/py-linq/
+    - pythonic naming conventions
+    - some basic support for type hints (py_linq.py_linq.Enumerable class)
+      - however, enumerable class can't be parametrized, so Enumerable[str] will not work
   - https://pypi.org/project/Linq/
+    - c# naming convention, which is strange
+    - no support for type hints
+
+
+## file system
+
+- working with file paths using pathlib
+  >>> from pathlib import Path
+  >>> p = Path('/etc')
+  >>> p / Path('something/else')    # slash operator is overloaded to support paths concatenation
+  PosixPath('/etc/something/else')
 
 
 ## package/environment managers
@@ -115,6 +126,14 @@
 - pip
   - general python package installer
   - can be used to install libraries or cli applications with entrypoints
+  - examples
+    - simple use
+      > pip install numpy
+      > pip install numpy==1.23.1
+      > pip install -r requirements.txt
+    - download sources tarball
+      > pip download numpy --no-binary :all:
+
 - pipx
   - pip substitute for installing cli tools 
   - uses pypi as a package repository
@@ -176,10 +195,14 @@
     >>> debugpy.breakpoint()
 
 
-## unit testing
+## automated testing
+
+- unittest: legacy native testing framework for python
 
 - pytest 
-  - it is working okay with vscode so far, so its a pretty safe bet to start with it
+  - current defacto standard test framework for python
+  - runner supports tests written in unittest framework natively
+  - works okay with vscode, but plugins are not yet fully supported
 
   - don't forget to adjust settings.json to enable it with following code
     "python.testing.unittestEnabled": false,
@@ -198,6 +221,15 @@
   - fail fast
     > pytest -x           # stop after first failure
     > pytest --maxfail=2  # stop after two failures
+
+- behave
+  - cli options
+    --include <pattern>
+    --dry-run
+    --stop                # terminate executing tests after encountering the first failure
+    -m <mark_expression>  # single mark or expression similar to 'unit or not unit'
+  - supports tags for scenarios, e.g. @slow
+    --tags ~@skip         # run all tests except ones marked with skipped tag 
 
 
 ## linters
@@ -401,7 +433,17 @@
     - wheel types
       - pure-python wheel
       - platform wheel
+    - disadvantage: optimized for some specific architecture, so may not utilize all capabilities of your hardware/os
+    - options
+      --no-binary :all: forces pip to use source distributions, ignoring wheels (:all: means to apply option to package and all its dependencies) 
+    - naming convention {dist}-{version}(-{build})?-{python}-{abi}-{platform}.whl
 
+- build wheel from sources
+  - download sources from pip
+    > pip download numpy==1.23.1 --no-binary :all:
+    > 
+  - build wheel
+    > python3 setup.py bdist_wheel
 
 ## advanced features
 
@@ -439,6 +481,10 @@
 
 - re-raising exception using exception chaining syntax
   >>> raise RuntimeError from exc
+
+- constructor overloading
+  - does not work out of the box
+  - in python 3.x need to inherit from MultipleMeta class to achieve something like that [^2]
 
 
 ## vscode extensions

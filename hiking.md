@@ -20,3 +20,12 @@
   - rain jacket, waterproof pants, gloves, hat, and base layer
   - boots
   - waterproof socks
+
+
+## hiking spots and trails
+
+- grouse mountain
+  - grouse grind
+  - bcmc
+- deep cove
+  - quarry rock

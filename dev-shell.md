@@ -34,6 +34,15 @@
     Have a nice day
     EoF
   ```
+- conditionals
+  - string equality check: spaces around = operator are very important!!!
+    > if [ $my_var = test ] ; then echo yes ; else echo no ; fi
+  - substring pattern check, double brackets are very important!
+    > if [[ $my_var = *my_substring* ]] ; then echo yes ; else echo no ; fi
+  - string is null check (has zero length)
+    > if [ -z $my_var ]
+  - string is not null
+    > if [ -n $my_var ]
 
 
 ## zsh

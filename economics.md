@@ -28,7 +28,7 @@
 
 - wallerstein's world system theory model countries classification [^4]
   - core: high profit consumption goods
-  - periphery: cheap labor and raw materials
+  - periphery: cheap labor and raw materials (ресурсное государство)
   - semi-periphery
 
 
