@@ -44,6 +44,14 @@
   - string is not null
     > if [ -n $my_var ]
 
+- string substitution
+  - substring substitution
+    > my_var=test
+    > echo ${my_var/est/bla}
+    tbla
+  - removes .tar.gz extension from the value of my_var variable
+    > echo "${my_var/.tar.gz/}"
+
 
 ## zsh
 

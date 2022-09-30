@@ -111,11 +111,16 @@
 
 ## ide
 
-- visual studio: slow and bloated
-- vscode
-  - useful extensions
-    - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
-    - markdown preview mermaid support: adds mermaid diagram and flowchart support to vs code's builtin markdown preview
+- microsoft
+  - notepad (just kidding)
+  - visual studio: slow and bloated
+  - vscode
+    - very promising one, a joy to work in, hope they won't fuck this one up
+    - useful extensions
+      - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
+      - markdown preview mermaid support: adds mermaid diagram and flowchart support to vs code's builtin markdown preview
+    - to increase scrolll buffer in terminal set the following option [^5]
+      - "terminal.integrated.scrollback": 1000 
 
 - jetbrains
   - rider: for .net developers
@@ -157,3 +162,4 @@
 [^2]: https://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences
 [^3]: https://www.youtube.com/watch?v=TqfbAXCCVwE
 [^4]: https://youtu.be/LYIn_Ewpq-E?t=2205
+[^5]: https://stackoverflow.com/questions/39881395/visual-studio-code-scroll-back-buffer

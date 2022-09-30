@@ -133,6 +133,8 @@
       > pip install -r requirements.txt
     - download sources tarball
       > pip download numpy --no-binary :all:
+    - build .whl file(s)
+      > pip wheel -r requirements.txt
 
 - pipx
   - pip substitute for installing cli tools 
