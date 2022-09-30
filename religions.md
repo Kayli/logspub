@@ -34,11 +34,13 @@
   - monotheism
   - atheistic
     - practices of dialectical materialism in ussr
-
+ 
 - religion as an ecology of psychotechnologies [^4]
   - god is a one of the artifacts of such psychotechnologies
   - squeaking rats outside of my apartment are another one ;)
 
+ - axial age (500–300 BCE) 
+  - refers to the period during which most of the main religious and spiritual traditions emerged in eurasian societies
 
 ## well known
 

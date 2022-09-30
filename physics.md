@@ -1,5 +1,12 @@
 # self-learning physics course notes
 
+## basic facts
+
+- 7.5 x 10^18 grains of sand on earth
+- 10^21 stars and 10^82 atoms in the observable universe
+- 10^21 molecules in a drop of water
+- the brain has about 10¹¹ neurons and 1.8-3.2 x 10¹⁴ synapses
+    
 
 ## si system
 
