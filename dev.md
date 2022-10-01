@@ -40,6 +40,7 @@
   - treesitter 
     - source code https://github.com/tree-sitter/tree-sitter
     - python bindings https://github.com/tree-sitter/py-tree-sitter
+    - finer-grained update of ast based on stream of changes from the source code
 
 
 ## programming languages
@@ -89,8 +90,6 @@
         - look up termination analysis articles
     - problems: oop paradigms are not supported and fanboys will never admit this is an issue
 
-
-      
 
 ## verified compilers
 
