@@ -15,6 +15,13 @@
   - so that when you find where its wrong - you can correct it
 
 
+## modeling tools
+
+- declarative diagrams 
+  - c4 https://c4model.com/
+  - websequencediagrams https://www.websequencediagrams.com/
+
+
 ## references
 
 [^1]: https://www.youtube.com/watch?v=Qv92qaIGbDg
