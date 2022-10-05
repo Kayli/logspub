@@ -177,6 +177,20 @@
     - whole dna is synthesised
 
 
+## xenobots
+
+- definition
+  - synthetic lifeforms that are designed by computers to perform some desired function and built by combining together different biological tissues
+
+- organizms built up to date (2022)
+  - less than 1 millimeter (0.039 inches) wide
+  - some composed of just two things: skin cells and heart muscle cells
+    - cells derived from stem cells
+    - stem cells harvested from early (blastula stage) frog embryos
+  - skin cells provide rigid support and the heart cells act as small motors, contracting and expanding in volume to propel the xenobot forward
+  - can grow patches of cilia and use them as small oars(вёсла) for swimming
+
+
 ## environment
 
 - clostridium autoethanogenum [^1]

@@ -19,6 +19,11 @@
       - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
       - defend this position on the basis of natural law, economics, or tradition
 
+- rejection of some evolutionary principles [^7]
+  - the world that built us is the one we reject in some sense when we construct human societies
+  - all man created equal principle
+
+
 
 ## vague terms (to clarify)
 
@@ -114,3 +119,4 @@
 [^4]: https://youtu.be/yZKDBRtpxOE?t=1664
 [^5]: https://youtu.be/X3dLkGclWbg?t=138
 [^6]: https://youtu.be/FL1reDn9pJU?t=2580
+[^7]: lex fridman podcast #325 39:50

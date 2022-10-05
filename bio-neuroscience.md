@@ -6,7 +6,7 @@
   - helps to understand the origins and limitations of human knowledge
 
 - gyrification
-  - is the process of forming the characteristic folds of the cerebral cortex
+  - process of forming the characteristic folds of the cerebral cortex
   - happens due to impossibility of rapid changes in brain tissue architecture
   - does not increase total brain volume contrary to some myths or sloppy formulations
     - but only an volume of cortical tissues
@@ -38,20 +38,41 @@
     - these ?calcium? waves had an effect on neuron activity
     - these speeds are about a million times slower than action potential propagation (neuron firing)
 
+- grey matter
+  - neuronal cell bodies 
 
-## brain structure [^2]
+- white matter
+  - consists of myelinated axons
+  - 45% of human brain
+  - specific connections of each region may serve as a 'fingerpring' of that region across species
+    - enables us to discover interspecies homologies
+
+
+## brain anatomy [^2]
 
 - forebrain (передний мозг)
   - cerebrum (конечный мозг)
+    - cerebral cortex
+      - temporal lobe (side)
+        - olfactory cortex, sense of smell
+      - occipital lobe (back)
+        - visual cortex
 
 - midbrain (средний мозг)
-  - vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation
+  - referred as limbic system
+  - functions: vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation
+  - thalamus
+    - most sensory information goes through it on its way to the cortex (except olfactory)
+    - there is 10x more connections that go backwards from visual cortex back to thalamus (feedback) than forwards
+    - has many regions (nuclei) associated with different functions
+      - lateral geniculate nucleus (lgn): key component of the mammalian visual pathway
+  - septum
+  - amygdalae
+  - hypothalamus
+  - hippocampal complex
+  - cingulate cortex
 
 - hindbrain
-  - cerebellum (мозжечок, дословно «малый мозг»)
-    - functions
-      - preserves and reactivates automated motor patterns
-      - координация движений, регуляция равновесия и мышечного тонуса
   - brain stem (мозговой ствол)
     - basal ganglia
       - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
@@ -70,7 +91,11 @@
     - medulla (продолговатый мозг)
       - cardiac, respiratory, vomiting and vasomotor centers
       - autonomic functions of breathing, heart rate and blood pressure as well as the sleep wake cycle
-
+  - cerebellum (мозжечок, дословно «малый мозг»)
+    - functions
+      - preserves and reactivates automated motor patterns
+      - координация движений, регуляция равновесия и мышечного тонуса
+  
 
 ## mental functions
 
@@ -223,9 +248,19 @@ tbd
   - conduction of nervous impulses along axons, speed them up
 
 
+## scanning techniques
+
+- fmri
+  - resolution
+    - spatial: ~1 mm
+    - temporal: 6 seconds
+
+
 ## artificial intelligence
 
-- important paper: imagenet classification with deep convolutional neural networks (krizhevsky et all)
+- important papers
+  - imagenet classification with deep convolutional neural networks (krizhevsky et al, 2017) [^4]
+  - deep face recognition (om parkhi et al, 2015) [^5]
 
 
 ## brain structure - triune model (obsolete)
@@ -257,4 +292,6 @@ tbd
 
 [^1]: https://youtu.be/2jA-es793qo?t=2563
 [^2]: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
-[^3]: https://www.youtube.com/watch?v=ba-HMvDn_vU
+[^3]: https://www.youtube.com/watch?v=ba-HMvDn_vU (mit 9.13 the human brain 2019)
+[^4]: https://dl.acm.org/doi/abs/10.1145/3065386
+[^5]: https://ora.ox.ac.uk/objects/uuid:a5f2e93f-2768-45bb-8508-74747f85cad1

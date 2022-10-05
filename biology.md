@@ -8,6 +8,9 @@
 - histology (microscopic anatomy or microanatomy)
   - a branch of biology which studies the microscopic anatomy of biological tissues
 
+- autopoiesis (lit. greek 'self' + 'creation, production')
+  - refers to a system capable of producing and maintaining itself by creating its own parts
+
 
 ## cells  [^2]
 

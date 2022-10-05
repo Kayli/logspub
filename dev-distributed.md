@@ -130,7 +130,7 @@
 
 - micro frontend anarchy
   - a particularly egregious form of this syndrome is using multiple frontend frameworks 
-    - for example, React.js and Angular — in the same "single-page" application. 
+    - for example, react and angular — in the same "single-page" application. 
   - although this might be technically possible, it is far from advisable when not part of a deliberate transition strategy
 
 
@@ -144,7 +144,7 @@
 
 - typical reasons 
   - parts of the system need to be deployed independently of others [^11]
-  - monolithic release is to slow, too complicated [^11]
+  - monolithic release is too slow, too complicated [^11]
   - reducing risks of evolving/rewriting application when its time
 
 - residual monolith
@@ -254,6 +254,7 @@
       - can maintain the order of the events in the same partition
       - partitioning allows for multiple parallel logs to be used for the same event hub 
         - therefore multiplying the available raw io throughput capacity
+      - has kafka api
     - event grid
       - doesn’t guarantee the order of the events
       - does not support partitions
@@ -262,6 +263,8 @@
       - the messages are pulled out by the receiver & cannot be processed again
       - uses the terminology of queues and topics
       - some features overlap with event hub and event grid
+    - hdinsight kafka
+      - managed native kafka service in azure
   - service bus for windows
   - msmq (deprecated)
 
