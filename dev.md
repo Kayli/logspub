@@ -90,8 +90,6 @@
     - problems: oop paradigms are not supported and fanboys will never admit this is an issue
 
 
-      
-
 ## verified compilers
 
 - CompCert 

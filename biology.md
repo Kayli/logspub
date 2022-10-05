@@ -9,7 +9,7 @@
   - a branch of biology which studies the microscopic anatomy of biological tissues
 
 
-## cells  [^2] 
+## cells  [^2]
 
 - cell: basic structural and functional unit of life form
 
@@ -60,9 +60,6 @@
   - 6(CO2) + 6(H2O) + light = C6H12O6[sugar] + 6(O2)
 
 
-
-
-
 ## organisms
 
 - feeding habit
@@ -81,8 +78,6 @@
   - экзотоксины - находятся вне, выделяются микроскопическими грибами типа плесени
   - эндотоксины - находятся внутри тела гриба
     - пептиды: могут действовать как гормоны, нейроактивные в-ва и прочее
-
-
 
 
 ## symbiotic relationships
@@ -136,6 +131,22 @@
       - also can be consequence of a quick/sharp resonanse (chemical?)
 
 
+## domestication syndrome [^3]
+
+- associated with a list of typical traits which are characteristical of domesticated species
+- mammalian domestication syndrome
+  - depigmentation (especially white patches, brown regions)
+  - floppy ears
+  - reduced ears
+  - shorter muzzles
+  - smaller teeth
+  - docility (ready to accept control or instruction; submissive)
+  - smaller brain or cranial capacity
+  - reproductive cycles (more frequent estrous cycles)
+  - neotenous (juvenile) behavior
+  - curly tails
+
+
 ## keywords
 
 - cell, replicator, life, evolution
@@ -145,3 +156,4 @@
 
 [^1]: https://en.wikipedia.org/wiki/Symbiosis
 [^2]: https://www.youtube.com/playlist?list=PLZVQqcKxEn_4vjM5OgDpRSLlsoIVu7s6n
+[^3]: https://academic.oup.com/genetics/article/197/3/795/5935921

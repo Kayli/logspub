@@ -3,8 +3,8 @@
 
 ## windows 11
 
-- first impressions
-  - its scary to see how many glitches this os has
+- impressions
+  - its scary to see how many glitches this os has when just installed
   - some windows are rendered blurry on my secondary monitor
   - while resizing 'windows terminal' app window, blinking white stripes appear
   - on a first startup windows were rendered broken
@@ -20,7 +20,6 @@
     - was hanging with black screen several times during installation, so had to hard reset vm
   - system tray was renamed to "taskbar corner" which is weird
     - it also no longer support option for always showing all tray icons, you need to enable each icon manually
-  - connects to my bose bluetooth headphones only the first time, but can't reconnect after
   - synaptics trackpoint started moving mouse cursor on its own
     - wanted to turn it off, but trackpoint settings were unavailable/greyed-out
     - in device manager there was no option to disable this specific device
@@ -30,6 +29,11 @@
   - notepad does not repaint contents of it screen sometimes, when window is inactive
     - so visually it looks like there is an empty notepad window in the background, until you click on it
     - only after activating this window its contents get repainted
+  - edge browser forces me to look at market ticker on a new tab page
+    - to remove this option you have to guess that its called 'show greeting'
+  - onedrive does not recognize @microsoft account, such a nonsense
+  - windows button menu takes 5-7 seconds to load and be responsive after reboot
+    - fucking nonsesne
 
 
 ## useful folders

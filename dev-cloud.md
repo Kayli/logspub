@@ -87,7 +87,6 @@
   - github
 
 - ci/cd services
-
   - azure devops (azdo)
     - hosted git
     - pipelines
@@ -95,6 +94,14 @@
   - github
     - hosted git
     - actions (pipelines)
+
+- dns services
+  - dns api is limited to azure services only, you can't call it from outside?
+
+
+## microsoft outlook web
+
+- unable to copy my own email address to a clipboard from the web page
 
 
 ## google cloud platform

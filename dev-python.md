@@ -189,6 +189,8 @@
 
 ## debugging
 
+- in vscode: 
+
 - debug adapter protocol (dap) https://microsoft.github.io/debug-adapter-protocol/
 - python implementation of dap https://github.com/microsoft/debugpy
   - run script with debugging server listening on specified port
@@ -404,6 +406,13 @@
   > import jsonpickle
   > frozen = jsonpickle.encode(obj)
   > thawed = jsonpickle.decode(frozen)
+
+
+## work with processes [shell]
+
+- run subprocess
+  > import subprocess
+  > calling_output = subprocess.check_output(['ls','-l'])
 
 
 ## operator overloading

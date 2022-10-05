@@ -52,6 +52,17 @@
   - removes .tar.gz extension from the value of my_var variable
     > echo "${my_var/.tar.gz/}"
 
+- loops
+  - user-defined list of files
+    DOCKERFILES=(
+      docker/client-connector/Dockerfile-client-connector-base
+      docker/client-connector/Dockerfile-client-connector-code
+      docker/client-connector/Dockerfile-client-connector-no-config
+    )
+    for f in ${DOCKERFILES[*]}; do
+      docker run -i --rm $(DEFAULT_ACR).azurecr.io/tools/hadolint:20220310 hadolint --ignore DL3059 - < $f
+    done
+
 
 ## zsh
 
