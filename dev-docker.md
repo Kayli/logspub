@@ -118,6 +118,10 @@
   - pass args
     > docker build -t example-image:latest --build-arg EXAMPLE_VAR=value1 --build-arg DEMO_VAR=value2 .
 
+- dependencies
+  - when there are several dockerfiles that form a hierarchy, there is no single command to build whole dependency chain
+    - to address this, multistage dockerfiles should be used
+
 
 ## useful commands
 

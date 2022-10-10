@@ -6,6 +6,7 @@
 - impressions
   - its scary to see how many glitches this os has when just installed
   - some windows are rendered blurry on my secondary monitor
+    - fucking nonsense. how much time they need to fix this shit?
   - while resizing 'windows terminal' app window, blinking white stripes appear
   - on a first startup windows were rendered broken
     - as some drivers installations were changing resolution in background
@@ -31,9 +32,9 @@
     - only after activating this window its contents get repainted
   - edge browser forces me to look at market ticker on a new tab page
     - to remove this option you have to guess that its called 'show greeting'
-  - onedrive does not recognize @microsoft account, such a nonsense
   - windows button menu takes 5-7 seconds to load and be responsive after reboot
-    - fucking nonsesne
+    - this lag is fucking nonsesne, don't they have automated tests to catch shit like that?
+
 
 
 ## useful folders
@@ -50,3 +51,9 @@
 
 - echo path in powershell
   > $env:path.split(";")
+
+
+## related products
+
+- outlook: selected tree menu item (left) is too pale and hard to see
+- onedrive does not recognize @microsoft account, such a nonsense

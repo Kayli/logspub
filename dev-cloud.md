@@ -98,6 +98,8 @@
 - dns services
   - dns api is limited to azure services only, you can't call it from outside?
 
+- health check page https://status.dev.azure.com/
+
 
 ## microsoft outlook web
 
