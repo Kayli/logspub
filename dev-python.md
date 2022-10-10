@@ -108,6 +108,15 @@
     - c# naming convention, which is strange
     - no support for type hints
 
+## enums
+
+> from enum import Enum
+> class Season(Enum):
+    spring = 1
+    summer = 2
+> Season.SPRING.name
+> Season.SPRING.value
+
 
 ## file system
 
@@ -199,6 +208,13 @@
     >>> debugpy.breakpoint()
 
 
+## exceptions handling
+
+- commonly used standard exceptions
+  - NotImplementedError
+  - SystemExit
+    - when it is not handled, the python interpreter exits; no stack traceback is printed.
+
 ## automated testing
 
 - unittest: legacy native testing framework for python
@@ -225,6 +241,9 @@
   - fail fast
     > pytest -x           # stop after first failure
     > pytest --maxfail=2  # stop after two failures
+
+  - display captured output for all ran tests (not for just failed ones, which is default)
+    > pytest -rA
 
 - behave
   - cli options
