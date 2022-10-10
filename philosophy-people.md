@@ -1,5 +1,6 @@
 # notes about philosophers [^1]
 
+
 ## donald david hoffman 1955
 
 - multimodal user interface (MUI) theory
@@ -7,7 +8,7 @@
   - there were artificial 'reality' and artificial 'agents' adapting to it
 
   - models of reality that agents built in order to adapt were different from reality itself
-    - proves that there are no evolutionary reasons for a map to become identical to a territory
+    - proves that there are no evolutionary reasons for a map to become identical to a territory (haha)
   
   - interesting aspect is that he once again brings attention to the fact that physics is
     just our model of reality which we use to adapt and it is different from reality itself
@@ -17,7 +18,7 @@
     - like picture on a wall triggers stream of associations in our experience, so it is no longer
       just a picture as a physical object
 
-- 2 mixed colors vs music interval example https://youtu.be/RZdfE_7cde0?t=186
+  - 2 mixed colors vs music interval example https://youtu.be/RZdfE_7cde0?t=186
 
 
 ## daniel dannett 1942
@@ -59,6 +60,16 @@
 - fragmentation is good and unification means suppression of individual differences
 - fragmentation of language games is what makes freedom possible
 - ruling class constructs a separate class of people onto which all ills are getting projected
+
+
+## hannah arendt 1906-1975
+
+- political philosopher
+- banality of evil
+- labor vs work vs action
+  - labor: necessary for survival and does not leave anything after (production of food)
+  - work: associated with production of durable artifacts
+  - action: public speech, politics
 
 
 ## emmanuel levinas 1906-1995 [^3]

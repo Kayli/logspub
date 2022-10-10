@@ -10,6 +10,10 @@
   - a class of functional mental disorders involving chronic distress, 
     but neither delusions nor hallucinations
 
+- healthy narcissism 
+  - is an essential component of mature self-esteem and basic self-worth
+  - narcissistic behaviors are a system of intrapersonal and interpersonal strategies devoted to protecting one's self-esteem
+
 
 ## stress
 

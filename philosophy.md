@@ -99,12 +99,14 @@
   - deals with the nature of beauty and taste, as well as the philosophy of art
   - examines aesthetic values, often expressed through judgments of taste
 
+- performative refraction kitch
 
 ## interesting ideas
 
 - "consciousness is always present for itself" thomas w. clark 
 - reincarnation is just a poetic expression of what collective memory is [^2]
 - embracing anxiety as a natural emotion that animates body [^3]
+- бытие определяет сознание ... еще это назвают проф деформацией [^4]
 
 
 ## unsorted
@@ -206,3 +208,4 @@
 [^1]: https://www.youtube.com/watch?v=EEVFrdVnhfI
 [^2]: https://youtu.be/Wztf9aM0c5g?t=1410
 [^3]: https://www.youtube.com/watch?v=0PwRH5-TiIc
+[^4]: https://habr.com/ru/company/itsumma/blog/688932/

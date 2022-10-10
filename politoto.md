@@ -2,6 +2,23 @@
 
 ## basics
 
+- state
+  - is a centralized political organization that imposes and enforces rules over a population within a territory
+
+- constitutions of state (by plato)
+  - aristocracy
+    - government of the best (for who?)
+    - ruled by a philosopher-king
+  - timocracy
+    - the government of honour
+  - plutocracy (plutarchy)
+    - from ancient greek πλοῦτος (ploûtos) 'wealth', and κράτος (krátos) 'power' 
+    - or is a society that is ruled or controlled by people of great wealth or income
+  - oligarchy
+  - democracy
+  - ochlocracy (mob rule)
+  - tyranny
+
 - libertarianism
   - from Latin: libertas, "freedom"
   - a political philosophy that upholds liberty as a core value
@@ -19,10 +36,16 @@
       - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
       - defend this position on the basis of natural law, economics, or tradition
 
+<<<<<<< HEAD
 - rejection of some evolutionary principles [^7]
   - the world that built us is the one we reject in some sense when we construct human societies
   - all man created equal principle
 
+=======
+- meritocracy (from merit, достоинство + kratos 'strength, power') 
+  - is the notion of a political system in which economic goods and/or political power are vested in
+    individual people based on talent, effort, and achievement, rather than wealth or social class
+>>>>>>> 2feab01 ()
 
 
 ## vague terms (to clarify)

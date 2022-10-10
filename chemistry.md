@@ -45,6 +45,8 @@
   - relationship between the quantities of reactants and products before, during, and following chemical reactions
   - scheme: unit given -> moles -> moles -> unit requested
 
+- exergonic reaction
+  - chemical reaction where there is a net release of free energy (the change in the free energy is negative)
 
 ## atomic structure important for a chemist
 

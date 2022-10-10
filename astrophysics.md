@@ -323,9 +323,6 @@
 
 ## questions
 
-- if observable universe's mass has a schwarzschild radius of approximately 13.7 billion light-years
-  - how it avoided collapsing into a supermassive blackhole since big bang
-
 
 ## modelling
 
