@@ -528,6 +528,9 @@
 - Sequential UUID generator
   > pip install sequential-uuids
 
+- division + modulo operator (деление с остатком)
+  > quotient, remainder = divmod(10, 3)
+
 
 ## references
 

@@ -68,6 +68,9 @@
       - lateral geniculate nucleus (lgn): key component of the mammalian visual pathway
   - septum
   - amygdalae
+    - primary role in the processing of memory, decision making 
+    - emotional responses (including fear, anxiety, and aggression)
+    - electrical stimulations of the right amygdala induced negative emotions, especially fear and sadness. In contrast, stimulation of the left amygdala was able to induce either pleasant (happiness) or unpleasant (fear, anxiety, sadness) emotions
   - hypothalamus
   - hippocampal complex
   - cingulate cortex
@@ -95,11 +98,6 @@
     - functions
       - preserves and reactivates automated motor patterns
       - координация движений, регуляция равновесия и мышечного тонуса
-  
-
-## mental functions
-
-tbd
 
 
 ## neurons
