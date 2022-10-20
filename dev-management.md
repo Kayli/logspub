@@ -31,7 +31,6 @@
     the project stalls due to lack of knowledgeable or competent personnel
 
 
-
 ## communication
 
 - face-to-face conversations
@@ -107,6 +106,13 @@
   - 12% because of their manager 
   - 28% because of leadership
   - 52% development opportunities
+
+
+## jira
+
+- 'fix versions' tag for a ticket assigned with the correct release version
+  - heavy processes: the field is used for planning and defines in which version feature will likely be released
+  - agile processes: used to document when exactly the change became "live"
 
 
 ## look up topics

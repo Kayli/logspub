@@ -98,6 +98,8 @@
     > mydic = {'key1': 5, 'key2', 'something'}
   - iterate key/values
     >>> for key, value in a_dict.items(): print(key, '->', value)
+  - delete item
+    >>> mydict.pop('mykey')
 
 - linq-like extensions can be enabled by following libraries
   - py-linq https://pypi.org/project/py-linq/
@@ -125,6 +127,8 @@
   >>> p = Path('/etc')
   >>> p / Path('something/else')    # slash operator is overloaded to support paths concatenation
   PosixPath('/etc/something/else')
+  >>> Path('.').resolve()
+  PosixPath('/home/username/logs/pub')
 
 
 ## package/environment managers
@@ -211,9 +215,12 @@
 ## exceptions handling
 
 - commonly used standard exceptions
+  - Exception
+    - generic unexpected exception
   - NotImplementedError
   - SystemExit
     - when it is not handled, the python interpreter exits; no stack traceback is printed.
+
 
 ## automated testing
 
@@ -235,8 +242,9 @@
       - tests may not be discovered
       - relative imports may start to break
 
-  - insights into how manually run only a specific set of tests
-    https://stackoverflow.com/questions/36456920/is-there-a-way-to-specify-which-pytest-tests-to-run-from-a-file
+  - manually run only a specific set of tests
+    > pytest -k'modtools_auditing.feature'
+    - more here: https://stackoverflow.com/questions/36456920/is-there-a-way-to-specify-which-pytest-tests-to-run-from-a-file
 
   - fail fast
     > pytest -x           # stop after first failure

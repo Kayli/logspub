@@ -87,6 +87,12 @@
   - рифмуется с символами веры
 
 
+## war
+
+- nationalism and modern war as a social engineering technique
+  - petri-dish approach on global scale
+
+
 ## interesting ideas
 
 - america as a functional gerontocracy

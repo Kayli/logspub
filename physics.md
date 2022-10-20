@@ -35,6 +35,8 @@
   - distance: gravity, electromagnetism
   - contact: pressure, traction, torsion, deformation, friction
 
+- particles of air travel at average velocity of 460 m/s at room temperature
+
 
 ## particle physics
 

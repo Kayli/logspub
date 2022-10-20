@@ -52,6 +52,9 @@
   - removes .tar.gz extension from the value of my_var variable
     > echo "${my_var/.tar.gz/}"
 
+- stdin
+  - single dash "-", when not part of an option, is often used by convention to signify that a program should process stdin, as opposed to a file
+
 - loops
   - user-defined list of files
     DOCKERFILES=(

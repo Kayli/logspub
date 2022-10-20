@@ -156,6 +156,12 @@
     - runs on ephemeral containers behind the scenes
     - it is possible to set concurrency limits on individual aws lambda functions
 
+- impressions
+  - aws console url duplicates region in domain name as well as in parameter
+    - i'm sure there is an elaborate explanation why it is this way, but its not elegant
+  - ec2
+    - filter by instance id is not working
+
 
 ## vendor neutral
 
@@ -170,6 +176,11 @@
     "Once deleted, the feed will enter a disabled state for 30 days, after which it will be permanently deleted. In this state, packages cannot be installed, published, or manipulated and storage will not be reclaimed. You may restore the feed to its original state, or permanently delete it in the feed settings to clean up storage. This feed name may not be reused until permanently deleted."
 
 - azdo pipelines may not stop jobs right away when parent stage gets cancelled, but it will wait until job finishes or errors out
+
+
+## terminology
+
+- rds: relational database service
 
 
 ## references
