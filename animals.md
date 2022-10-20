@@ -13,9 +13,8 @@
   - that along with specific pigments on their feather, that we humans can't see, may allow them to identify each other and their gender
 
 - passerine (воробъиные)
-  - chickadee (синица)
-  - starling (шпак)
-
+  - chickadee, tit, titmice (синица)
+  - starling (скворец, шпак)
   - thrush (дрозд)
     - thrushes are a passerine bird family, turdidae, with a worldwide distribution
 
@@ -39,12 +38,15 @@
   - steller jay
     - can mimick sounds of other birds
 
+- robins (малиновка, вільшанка)
+- finch (зяблик, в'юрок)
+- warbler (славка, очеретянка)
+- siskin (чиж)
 
 ## insects
 
 - chilopoda
   - a class of myriapod arthropods which comprises the centipedes
-
 
 
 ## other

@@ -198,7 +198,7 @@
 
 - dissociation [^4]
   - dissociative episode
-    - may include different manifestations described below 
+    - may include different manifestations described below
   - dissociative amnesia: e.g. forgetting stressful episode or associated memories
   - maladaptive daydreaming
     - having more fun with your imagination than with real life
@@ -209,6 +209,14 @@
     - feeling like everything is a fake, living in a movie
   - dissociative identity disorder
     - multiple personality disorder
+  - types
+    - left brain dissociation
+      - trivialization by overfocusing on superficial external concerns to distract themselves from upsetting inner experience
+      - preoccupation with
+        - sports statistics
+        - lives of celebreties
+        - non-relevant political events
+        - world news
 
 - chemical imbalance theory
   - used to be very common way to explain depressive states
