@@ -10,6 +10,22 @@
 
 - autopoiesis (lit. greek 'self' + 'creation, production')
   - refers to a system capable of producing and maintaining itself by creating its own parts
+- co2 + h
+  - main exogenic reaction that was a power source for origin of life
+
+- 4 billion years ago bacteria dominated earth
+  - not much was happening after that for 2 billion years
+
+- trophic level 
+  - position organizm occupies in a food web
+  - is the number of steps it is from the start of the food chain. 
+
+- food web and trophic levels
+  - level 1: primary producers such as plants
+  - level 2: herbivores
+  - level 3 or higher: carnivores
+  - level 4 or 5: apex predators
+
 
 
 ## cells  [^2]

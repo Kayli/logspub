@@ -141,7 +141,10 @@
   
 
 ## minimal self-replicators
-      
+
+- von-neumann universal constructor
+  - is a self-replicating machine in a cellular automaton (CA) environment
+
 - axenic culture
   - state of a culture in which only a single species, variety, or strain of organism is present
     - and entirely free of all other contaminating organisms

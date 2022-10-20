@@ -20,15 +20,13 @@
 - abstract machine
   - theoretical computer used for defining a model of computation
   - examples
-    - rasp: random-access stored-program machine ()
+    - rasp: random-access stored-program machine
 
 - automata theory
   - is the study of
     - abstract machines (automata)
     - the computational problems that can be solved using such machines
   - is closely related to formal language theory
-
-
 
 - types of logic
   - combinatorial: does not have memory, a pure function
@@ -58,6 +56,44 @@
           - write tape symbol
           - move tape
           - set new (next) state
+
+
+## cellular automata
+
+- types
+  - number of dimensions
+  - reversible vs irreversible
+  - probabilistic vs deterministic
+
+- garden of eden (goe)
+  - is a configuration that has no predecessor
+  - it can be the initial configuration of the automaton but cannot arise in any other way
+
+- 2d
+  - von neumann neighborhood (4-neighborhood)
+  - range-2 "cross neighborhood"
+  - moore neighborhood
+
+- universal replicators
+  - contributors: von Neumann, Renato Nobili
+  - construction
+    - is the process by which one configuration generates another
+    - some configurations cannot be constructed by any means
+  - 2d
+    - von neumann universal replicator
+      - self-replicating machine consists of three parts
+        - "description" of itself ('blueprint' or program for)
+        - universal constructor mechanism
+          - can read any description 
+          - can construct the machine encoded in that description 
+        - universal copy machine that can make copies of any description
+
+      - steps
+        - construct a new machine encoded in the description using universal constructor
+        - use a copy machine to create a copy of that description
+          - pass on the copy to the new machine
+
+      - some machines will do this backwards, copying the description and then building a machine
 
 
 ## mechanical models

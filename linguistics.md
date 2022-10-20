@@ -177,6 +177,12 @@
   - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria 
 
 
+## interesting facts
+
+- swa- 
+  - from proto-indo-european *swé (“self”)
+
+
 ## references
 
 [^1]: tgc "myths, lies and half-truths about language use"

@@ -202,7 +202,6 @@
   - one of the major causes of fast economic growth
 
 
-
 ## modern global order
 
 - 19th century: invention of nations

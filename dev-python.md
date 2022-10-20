@@ -74,6 +74,7 @@
     >>>  [x for x in fruits if "a" in x]
   - sort in reverse order 
     >>> arr.sort(reverse=True)
+  - useful functions: reversed(), sorted()
 
 - collections.deque
   - deque (double-ended queue) is represented internally as a doubly linked list
@@ -90,6 +91,7 @@
 
 - dict: key/value pairs
   - aka hashmap in java, locates elements by a hash function, needs to be rehashed as it grows
+  - key type needs to be hashable, therefore immutable (string, tuple, etc)
   - defaultdict wont raise keyvalueerror when accessing non-existing key
     - but you will need to specify the type upon instantiation
   - ChainMap creates a signle view of multiple dictionaries
@@ -535,6 +537,12 @@
 
 - Sequential UUID generator
   > pip install sequential-uuids
+
+- division + modulo operator (деление с остатком)
+  > quotient, remainder = divmod(10, 3)
+
+- convert from base n to int
+  > int('110101', base=2)
 
 
 ## references

@@ -41,6 +41,14 @@
 
  - axial age (500–300 BCE) 
   - refers to the period during which most of the main religious and spiritual traditions emerged in eurasian societies
+  
+- liminality (lat. līmen, "a threshold") 
+  - is the quality of ambiguity or disorientation that occurs in the middle stage of a rite 
+    of passage, when participants no longer hold their pre-ritual status but have not yet begun 
+    the transition to the status they will hold when the rite is complete
+  - dissolution of order during liminality creates a fluid, malleable situation that enables new 
+    institutions and customs to become established
+
 
 ## well known
 
@@ -54,7 +62,7 @@
 
 ### paganism
 
-- used in the fourth century by early christians for people in the roman empire 
+- term being used in the fourth century by early christians to describe people in the roman empire 
   who practiced polytheism or ethnic religions other than judaism
 
 - saturnalia
