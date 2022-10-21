@@ -36,16 +36,13 @@
       - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
       - defend this position on the basis of natural law, economics, or tradition
 
-<<<<<<< HEAD
 - rejection of some evolutionary principles [^7]
   - the world that built us is the one we reject in some sense when we construct human societies
   - all man created equal principle
 
-=======
 - meritocracy (from merit, достоинство + kratos 'strength, power') 
   - is the notion of a political system in which economic goods and/or political power are vested in
     individual people based on talent, effort, and achievement, rather than wealth or social class
->>>>>>> 2feab01 ()
 
 
 ## vague terms (to clarify)

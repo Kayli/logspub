@@ -177,10 +177,12 @@
   - is an extinct Semitic language which was used during the third millennium BCE by the populations of Northern Syria 
 
 
-## interesting facts
+## interesting stuff
 
 - swa- 
   - from proto-indo-european *swé (“self”)
+
+- funny phonetic duality: acid house / acid cows
 
 
 ## references

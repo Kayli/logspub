@@ -114,6 +114,7 @@
   - notepad (just kidding)
   - visual studio: slow and bloated
   - vscode
+    - opensource
     - very promising one, a joy to work in, hope they won't fuck this one up
     - useful extensions
       - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
@@ -124,6 +125,8 @@
 - jetbrains
   - rider: for .net developers
   - pycharm: for python developers
+  - IntelliJ IDEA: java
+  - Fleet: in public preview as of oct 2022, polyglot ide
 
 
 ## software testing

@@ -5,7 +5,9 @@
 
 - 2.7.18 was the last release of python 2 in april 20, 2020
 
-- python does not support function overloading and therefore constructor overloading
+- python does not support
+  - function overloading and therefore constructor overloading
+  - passing variables by reference for value types
 
 - python3.x naturally supports big numbers with int type (which was called 'long' in 2.x)
 
