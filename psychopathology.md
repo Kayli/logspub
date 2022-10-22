@@ -1,4 +1,4 @@
-## psychopathology
+# psychopathology
 
 - dsm
   - diagnostic and statistical manual of mental disorders
