@@ -72,7 +72,9 @@
     - emotional responses (including fear, anxiety, and aggression)
     - electrical stimulations of the right amygdala induced negative emotions, especially fear and sadness. In contrast, stimulation of the left amygdala was able to induce either pleasant (happiness) or unpleasant (fear, anxiety, sadness) emotions
   - hypothalamus
+    - drives for sex, food, thirst
   - hippocampal complex
+    - memory?
   - cingulate cortex
 
 - hindbrain
@@ -94,6 +96,7 @@
     - medulla (продолговатый мозг)
       - cardiac, respiratory, vomiting and vasomotor centers
       - autonomic functions of breathing, heart rate and blood pressure as well as the sleep wake cycle
+    - pituitary gland, or hypophysis
   - cerebellum (мозжечок, дословно «малый мозг»)
     - functions
       - preserves and reactivates automated motor patterns
@@ -145,17 +148,21 @@
     - attention
     - locomotion control
 
+- acetylcholine
+  - playing an important role in arousal, attention, memory and motivation
 
-## neuromodulators
-
-- most known
-  - noradrenaline
+- catecholamines
+  - epinephrine (adrenaline), norepinephrene (noradrenaline)
     - may cause higher ventilation, higher heart rate, sweating
+    - acts on the alpha- and beta-adrenoreceptors 
+      - in the muscles, lungs, heart, and blood vessels
+    - cold water exposure for 1-5 mins reliably increases its levels
+
   - dopamine
-  - serotonin
-  - gaba
-  - neuropeptides
-    - oxytocin
+
+- serotonin
+
+- oxytocin
 
 
 ## memory
@@ -279,12 +286,21 @@
   - structures related to territoriality, ritual behavior and other "reptile" behaviors
 
 
+## neuroplasticity
+
+- ability of neural networks in the brain to change through growth and reorganization
+- stimulated by increased levels of dopaminergic system 
+
+
 ## terms and abbreviations 
 
 - gaba
   - gamma-aminobutyric acid
   - гаммааминомасляная кислота
 
+- hpa axis
+  - hypothalamic-pituitary-adrenal axis
+  - system that prepares our body for action by releasing hormones and neurotransmitters
 
 ## references
 

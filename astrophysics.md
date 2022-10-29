@@ -44,8 +44,6 @@
   - nuclei of atoms: hydrogen (protons), helium, etc
   - up to 10e20 ev for extragalactic rays
 
-  
-
 - space observation devices
   - earth based
     - hess, salt, keck, gemni, carma, greenbank, vla
@@ -95,7 +93,6 @@
     - one star collapsed into a black hole
     - 6k light years away from earth
     - 5 million y.o.???
-
 
 - kardashev scale - classification of civilizations
   - planetary - planet resources are utilized (type 1)
@@ -335,7 +332,17 @@
 
 - astronomers use angular measure to describe the apparent size of an object in the night sky
   - diameter of the moon is half a degree
+  - the width of your little finger at arms length is 1 to 1.5 degree(s)
+  - the width of your fist at arms length is 10 degrees
+
+- astronomers measure angles smaller than 1° (degree) in arcminutes, or “minutes of arc”
+  - there are 60 arcminutes in one degree
   - diameter of typical large telescope 10' (arcmin)
+
+
+## interesting links
+
+- celestial zoo https://www.pablocarlosbudassi.com/2021/02/the-celestial-zoo-celestial-zoo-tour-of.html
 
 
 ## references and materials used
