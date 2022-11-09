@@ -120,6 +120,12 @@
     - tendency to love everyone
 
 
+## vision
+
+- visual agnosia
+  - a condition in which a person can see but cannot recognize or interpret visual information, due to a disorder in the parietal lobes
+
+
 ## psychopathology
 
 - dsm

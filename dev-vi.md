@@ -45,5 +45,4 @@
 - enforce command       :q!
 - open file             e <filename>
 - open shell            :sh (ctrl+d to exit)
-
-
+- open file explorer    :Explorer

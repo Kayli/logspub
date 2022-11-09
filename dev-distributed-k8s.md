@@ -128,6 +128,9 @@
 ## typical scenarios
 
 - configure environment
+  - install kubectl
+    - create alias
+      > alias k='kubectl'
   - install minikube
   - install helm
     > sudo snap install helm --classic
@@ -146,6 +149,7 @@
   > k expose deployment hellonginx --type=LoadBalancer --name=hellonginx-service
   
 - get information
+  > k config get-contexts
   > k get deployments
   > k get pods
   > k describe pods
@@ -154,6 +158,7 @@
   - list containers in a pod
     > kubectl get pods <pod> -n <namespace> -o jsonpath='{.spec.containers[*].name}*'
   > kubectl logs <pod> <container>
+
 
 - scale deployment
   > kubectl scale deployment hellonginx --replicas=3

@@ -74,6 +74,9 @@
   - ml - machine learning training and stuff
   - container registry - container publishing and lifetime management
   - artifacts - nuget, npm, maven, python, universal packages
+    - twine (python)
+      - inside devcontainer we can use artifacts-keyring and it should prompt for az login on 'twine publish' command
+        - more details here: https://github.com/microsoft/artifacts-keyring
 
 - request unit (RU)
   - performance currency abstracting the system resources such as CPU, IOPS, and memory that are 
@@ -99,6 +102,8 @@
   - dns api is limited to azure services only, you can't call it from outside?
 
 - health check page https://status.dev.azure.com/
+
+
 
 
 ## microsoft outlook web
@@ -175,7 +180,14 @@
   - when trying to delete feed, the following message gets displayed:
     "Once deleted, the feed will enter a disabled state for 30 days, after which it will be permanently deleted. In this state, packages cannot be installed, published, or manipulated and storage will not be reclaimed. You may restore the feed to its original state, or permanently delete it in the feed settings to clean up storage. This feed name may not be reused until permanently deleted."
 
-- azdo pipelines may not stop jobs right away when parent stage gets cancelled, but it will wait until job finishes or errors out
+- azdo pipelines may not stop jobs right away when parent stage gets cancelled
+  - but it will wait until job finishes or errors out
+  - this may be no longer true as I saw it sometimes stops the job before it finishes
+    - anyways, it seems that behavior is undefined or maybe there are no guarantees that it finishes right away
+
+- there is no way to create personal authentication (pat) token for a service account in azdo
+  - so if you're using gitlab, you'll have to use pat assigned to one of your employees
+  - this will introduce risks and may force ppl to adopt closed-source github and azure pipelines instead of staying foss
 
 
 ## terminology

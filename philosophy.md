@@ -101,6 +101,23 @@
 
 - performative refraction kitch
 
+
+## truth
+
+- theories of truth
+  - correspondence
+    - idea has to correspond to reality to be considered 'truth'
+  - coherence
+    - idea has to be coherent with other 'true' ideas to be considered 'truth' 
+  - pragmatic
+    - idea has to be practicaly useful
+    - has to have power to change the world 
+  - semantic (tarski theory of truth)
+    - idea has to conform to a statement (sentense) expressed in some fixed language
+    - axioms define initial truth statements 
+    - theorems define truth statements derived from axioms and other proven theorems (sometimes referred as recursive definition)
+
+
 ## interesting ideas
 
 - "consciousness is always present for itself" thomas w. clark 

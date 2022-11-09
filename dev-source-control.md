@@ -67,5 +67,10 @@
 ## servers
 
 - gitlab (foss)
+  - problems observed
+    - 'pipeline run details' page sometimes doesn't get updated during run
+      - so that task may be finished by still displayed as pending
+      - need to refresh the page to update
+
 - gitea (foss)
 - bitbucket server

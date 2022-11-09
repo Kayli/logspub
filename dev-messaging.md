@@ -164,6 +164,11 @@
   - is an indicator of how much lag there is between kafka producers and consumers
   - indicates how far behind is your consumer compared to the latest produced message in the topic the consumer is reading from
 
+- cloud products
+  - azure hdinsight kafka (managed native kafka service in azure)
+  - azure event hub (supports kafka api)
+  - amazon managed streaming for apache kafka (msk)
+
 
 ## terminology
 

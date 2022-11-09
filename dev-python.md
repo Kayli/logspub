@@ -151,7 +151,12 @@
     - download sources tarball
       > pip download numpy --no-binary :all:
     - build .whl file(s)
-      > pip wheel -r requirements.txt
+      - from requirements file
+        > pip wheel -r requirements.txt
+      - from tarball with package sources
+        > pip wheel <tarball>
+      - from folder with package sources
+        > pip wheel <src>
 
 - pipx
   - pip substitute for installing cli tools 
@@ -266,6 +271,21 @@
   - supports tags for scenarios, e.g. @slow
     --tags ~@skip         # run all tests except ones marked with skipped tag 
 
+- hypothesis
+  - augments pytest with test sampling logic
+    - decorated functions are called multiple times for every element of sample set
+    - values are dynamically injected into a decorated function
+  - hypothesis remembers/reuses failed test cases in its dedicated local database once it finds any
+  - frequently used constructs
+    - @given decorator runs test multiple times for each element from a sample set
+      - it injects sampled parameter values into a decorated functions with every call
+    - @settings(max_examples=5000) decorator is used to specify sample set
+    - samples of characters
+      - @given(st.text())
+    - samples of lists of integers
+      - @given(st.lists(st.integers())) 
+    - search strategy: an object with methods that describe how to generate and simplify certain kinds of values
+    
 
 ## linters
 
@@ -274,6 +294,7 @@
   - usage: pylint <package-folder-path>
 
 - pyright https://github.com/microsoft/pyright
+  - much faster than mypy? [^9]
 
 - black
   - popular code formatter
@@ -557,3 +578,4 @@
 [^6]: https://thomasnyberg.com/releasing_the_gil.html
 [^7]: https://stackoverflow.com/questions/26021541/how-to-programmatically-create-a-topic-in-apache-kafka-using-python
 [^8]: https://realpython.com/python-wheels/
+[^9]: https://www.reddit.com/r/Python/comments/b5nvvp/pyright_yet_another_alternative_to_mypy_this_time/

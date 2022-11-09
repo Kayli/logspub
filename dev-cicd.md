@@ -57,6 +57,7 @@
 - tutorials
   - azure devops tutorial for beginners | ci/cd with azure pipelines https://www.youtube.com/watch?v=4BibQ69MD8c
 
+
 ### pipelines
 
 - key entities

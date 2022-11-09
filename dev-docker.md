@@ -92,7 +92,10 @@
 - .dockerignore files are an easy way to selectively copy only image relevant files
 
 - optimization
-  - combine RUN commands into one using && to avoid creating extra layers [^3]
+  - in older versions of Docker, it was important that you minimized the number of layers in your images to ensure they were performant
+    - it seems that it is no longer the case? [^3]
+  - happens by default?
+    - if you do not want to use the cache at all, you can use the --no-cache=true option on the docker build command
 
 - view sbom (software bill of materials)
   > docker sbom <image>
@@ -122,6 +125,11 @@
   - when there are several dockerfiles that form a hierarchy, there is no single command to build whole dependency chain
     - to address this, multistage dockerfiles should be used
 
+- best practices
+  - enable apt non-interactive mode during container build and combine with update
+    ARG DEBIAN_FRONTEND=noninteractive
+    apt update && apt -y install <package>
+
 
 ## useful commands
 
@@ -138,8 +146,12 @@
     - such as volume mounts for the container
     - port mappings
     - environment variables
+
 - to start containers
   > docker-compose up
+
+- to stop containers
+  > docker-compose stop
 
 
 ## alternatives
@@ -158,6 +170,20 @@
     > colima start
 
 
+## devcontainers
+
+- structured json with comments (jsonc) metadata format that tools can use to store any needed configuration 
+  required to develop inside of local or cloud-based containerized coding
+
+- metadata can be persisted in
+  - devcontainer.json
+  - embedded in images (how?)
+  - some other formats (which ones?)
+
+- https://containers.dev/implementors/spec/
+
+
+
 ## other useful tools
 
 - portainer
@@ -170,7 +196,7 @@
 
 [^1]: https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image
 [^2]: https://github.com/mviereck/x11docker
-[^3]: https://docs.docker.com/develop/develop-images/multistage-build/
+[^3]: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
 [^5]: https://www.kubegres.io/doc/getting-started.html
 [^4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
 [^5]: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container

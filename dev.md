@@ -151,11 +151,34 @@
 - mutual recursion: when more than one function call one another recursively [^4]
 
 
+## unicode
+
+- basic multilingual plane (bmp)
+  - utf16: use of 16 bits allows direct representation of 65,536 unique characters
+
+- supplementary character: is a character located beyond the bmp
+
+- surrogate
+  - unicode reserves the codepoints that match the ranges of the high and low pairs as invalid
+  - they are sometimes called surrogates but they are not characters, they don't mean anything by themselves
+
+- surrogate pair
+  - for UTF-16, a "surrogate pair" is required to represent a single supplementary character
+  - backward compatibility mechanism
+
+
 ## misc
 
 - stable vs unstable sorting algorithms
   - unstable may change order of values with same keys, where stable guarantees initial order
   - starts to matter when you sorting objects
+
+
+## useful resources
+
+- rosetta code https://rosettacode.org/wiki/Rosetta_Code
+  - programming chrestomathy site
+  - presents solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another
 
 
 ## references

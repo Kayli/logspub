@@ -4,6 +4,7 @@
 
 - shell is a computer program which exposes an operating system's services to a human user or other programs
 - popular shells: bash, zsh, fish
+- symbolic link to executable file is also executable
 
 
 ## debugging
@@ -25,8 +26,10 @@
   > cat file | md5sum
 - get first n characters from a stream
   > cat file | head -c <n>
+
 - inplace substitution in a file by string match
   > sed -i "s|old string|new string,|" <filename>
+
 - create file from a script with specified content
   ```bash
     cat << EoF > ./my-document.txt
@@ -43,6 +46,14 @@
     > if [ -z $my_var ]
   - string is not null
     > if [ -n $my_var ]
+
+- check if folder 
+  - is empty
+    > if [ -z "$(ls -A -- "$dir")" ]; then echo yes ; else echo no ; fi
+  - exists
+    > if [ -d "$dir" ]; then echo 'exists'; else echo 'not found'; fi
+  - does not exist
+    > if [ ! -e "$TWOHAT_DIR" ]; then echo 'not found'; else echo 'exists'; fi
 
 - string substitution
   - substring substitution
