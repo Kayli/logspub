@@ -192,6 +192,12 @@
     - all without needing to use the command line
 
 
+## problems
+
+- can't locate docker images in wsl
+  - it works somehow differently whem using docker desktop
+
+
 ## references
 
 [^1]: https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image

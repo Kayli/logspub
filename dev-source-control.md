@@ -1,7 +1,7 @@
 # source control
 
 ## git
-  
+
 - foss, written in shell + c
 - text ui: tig, lazygit
 
@@ -74,3 +74,23 @@
 
 - gitea (foss)
 - bitbucket server
+
+
+## branching strategies
+
+- trunk-based development
+  - everyone commits to a main branch and that thing goes to production
+- feature branches or github flow
+  - work performed in feature branches and then PRs a issued into main
+- forking
+  - pull requests from forked repo to main repo
+  - open source projects
+- release branches
+  - teams work on specific releases in separate release branches
+- gitflow
+  - main always has same code as in production
+  - develop is integration branch
+  - feature branches created from develop and merged back into it
+  - release branches created from develop and hotfixes applied there
+- environment branches
+  - its like gitflow, but with additional branhces for specific environments

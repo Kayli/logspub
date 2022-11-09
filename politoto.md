@@ -137,6 +137,15 @@
     which they never would have left, where it for the fantasies of the masses
 
 
+## terminology
+
+- proletariat
+  - social class of wage-earners, those members of a society whose only possession of significant economic value is their capacity to work
+  - a member of such a class is a proletarian  
+  - lat. prōlētārius: belonging to the lowest class of citizens, whose only contribution to the state was their offspring
+
+
+
 ## references
 
 [^1]: https://www.youtube.com/watch?v=whPnobbck9s

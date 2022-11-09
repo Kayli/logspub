@@ -1,6 +1,5 @@
 # notes on biology and related topics
 
-
 ## basics
 
 - cytology: a study of living cells and their structure, behaviour and function
@@ -16,9 +15,9 @@
 - 4 billion years ago bacteria dominated earth
   - not much was happening after that for 2 billion years
 
-- trophic level 
+- trophic level
   - position organizm occupies in a food web
-  - is the number of steps it is from the start of the food chain. 
+  - is the number of steps it is from the start of the food chain
 
 - food web and trophic levels
   - level 1: primary producers such as plants
@@ -26,6 +25,8 @@
   - level 3 or higher: carnivores
   - level 4 or 5: apex predators
 
+- 5.95 * 10^39 bacteria that ever lived [^4]
+- 1.33 * 10^50 number of atoms comprising all of planet earth [^4]
 
 
 ## cells  [^2]
@@ -176,3 +177,4 @@
 [^1]: https://en.wikipedia.org/wiki/Symbiosis
 [^2]: https://www.youtube.com/playlist?list=PLZVQqcKxEn_4vjM5OgDpRSLlsoIVu7s6n
 [^3]: https://academic.oup.com/genetics/article/197/3/795/5935921
+[^4]: https://biology.stackexchange.com/questions/6937/how-many-organisms-have-ever-lived-on-earth

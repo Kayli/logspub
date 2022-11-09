@@ -1,6 +1,5 @@
 # chemistry self-paced course notes
 
-
 ## basics
 
 - mass vs weight

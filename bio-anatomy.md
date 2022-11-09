@@ -21,6 +21,9 @@
   - red bone marrow (красный костный мозг)
   - marrow adipose tissue (fatty/yellow fraction, желтый костный мозг)
 
+- basal: forming or belonging to a bottom layer or base
+- lateral: of, at, toward, or from the side or sides
+
 
 ## human skeleton
 
