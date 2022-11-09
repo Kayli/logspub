@@ -1,7 +1,7 @@
 # source control
 
 ## git
-  
+
 - foss, written in shell + c
 - text ui: tig, lazygit
 

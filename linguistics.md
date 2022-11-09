@@ -8,7 +8,25 @@
 - auto-antonym or contronym
   - word with multiple meanings (senses) of which one is the reverse of another
   - combination of homonym (words with similar spelling or pronunciation) and antonym
-- morphology: study of words, how they are formed, and their relationship to other words in the same language
+
+- morphology
+  - study of words, how they are formed, and their relationship to other words in the same language
+
+- parts of speech
+  - pronouns (местоимения)
+  - adjective (прилагательное)
+    - from lat. adject - ‘added’
+
+- hypernym
+  - a word with a broad meaning that more specific words fall under; a superordinate. 
+  - example: color is a hypernym of red
+
+- synonym
+  - cognitive synonym ?
+    - words so similar in meaning that they cannot be differentiated either denotatively or connotatively, that is, not even by mental associations, connotations, emotive responses, and poetic value
+    - it is a stricter (more precise) technical definition of synonymy, specifically for theoretical (e.g., linguistic and philosophical) purposes
+  - near synonym
+    - synonyms with greater differences
 
 
 ## proto-languages  [^1] 

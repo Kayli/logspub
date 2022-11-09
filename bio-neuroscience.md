@@ -21,6 +21,12 @@
 - limitations
   - there is no neuron-wiring-level diagram that explains any high-level mental function (as of 2021)
 
+- nuclei, nuclei cluster
+  - structural/functional units, parts of the brain
+
+- lateralization bias
+  - specialization of certain brain areas/circuits in a particular hemisphere
+
 
 ## brain facts
 
@@ -33,8 +39,7 @@
 
 - 10¹¹ glial cells (the same as the number of neurons)
   - timescales of glial dynamics are substantially longer than for neuron dynamics
-  - Newman and Zahs 1998 mechanically stimulate glial cells in a rat retina, and find that this stimulation
-    results in slow-moving waves of increased calcium? concentration
+  - Newman and Zahs 1998 mechanically stimulate glial cells in a rat retina, and find that this stimulation results in slow-moving waves of increased calcium? concentration
     - these ?calcium? waves had an effect on neuron activity
     - these speeds are about a million times slower than action potential propagation (neuron firing)
 
@@ -57,6 +62,11 @@
         - olfactory cortex, sense of smell
       - occipital lobe (back)
         - visual cortex
+      - cingulate cortex
+        - anterior cingulate cortex (acc)
+          - is the frontal part of the cingulate cortex that resembles a "collar" surrounding the frontal part of the corpus callosum
+          - functions: attention allocation, reward anticipation, decision-making, ethics and morality, impulse control (e.g. performance monitoring and error detection), emotion
+      
 
 - midbrain (средний мозг)
   - referred as limbic system
@@ -70,7 +80,9 @@
   - amygdalae
     - primary role in the processing of memory, decision making 
     - emotional responses (including fear, anxiety, and aggression)
+    - basalateral amygdala (bla)
     - electrical stimulations of the right amygdala induced negative emotions, especially fear and sadness. In contrast, stimulation of the left amygdala was able to induce either pleasant (happiness) or unpleasant (fear, anxiety, sadness) emotions
+
   - hypothalamus
     - drives for sex, food, thirst
   - hippocampal complex
@@ -159,10 +171,21 @@
     - cold water exposure for 1-5 mins reliably increases its levels
 
   - dopamine
+    - forces us to seek out social interactions of a certain kind
 
 - serotonin
+  - satisfaction with what we have already
 
 - oxytocin
+  - mother-child bonding, breast feeding
+  - female orgasm, erection response
+  - social recognition: your friends, group, team, etc.
+  - pair bonding
+  - honesty
+
+- vasopressin
+  - regulates the tonicity of body fluids
+  - male orgasm
 
 
 ## memory
@@ -290,6 +313,21 @@
 
 - ability of neural networks in the brain to change through growth and reorganization
 - stimulated by increased levels of dopaminergic system 
+
+
+## behavioral ansambles
+
+- social bonding
+  - detector
+    - moving away/toward things
+    - acc, bla
+  - control center
+    - prefrontal cortex
+    - hypothalamus
+  - effector
+    - dorsal raphe nucleus (drn)
+      - serotonin (satisfaction with what we have already)
+      - dopamine (force us to seek out social interactions of a certain kind)
 
 
 ## terms and abbreviations 

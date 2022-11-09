@@ -18,12 +18,21 @@
     - make recognition more robust
     - extract invariant representations of detected phenomenon
 
+- ani: artificial narrow intelligence
+- agi: artificial general intelligence
+
+- deep learning
+  - model has multiple layers of learned representations, which makes it superior to other models
+  - dnns are dominating space, but there are some other ways to do it
+
 
 ## popular libraries
 
 - tensorflow
 - pytorch
 - onnx (pronounced like onyx)
+- sklearn
+  - built on NumPy, SciPy, and matplotlib
 
 
 ## books to consider

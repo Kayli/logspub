@@ -28,6 +28,8 @@
   - если богу требуется математика для его собственных нужд, пусть он создаст ее для себя [^3]
 - не спрашивай, истинно ли утверждение, пока не знаешь, что оно означает [^3]
 
+- heuristically, a proof is a rhetorical device for convincing someone else that a mathematical statement is true or valid [^5]
+
 
 ## references
 
@@ -35,3 +37,4 @@
 [^2]: Hilbert 1927 The Foundations of Mathematics in van Heijenoort 1967:475
 [^3]: https://www.amazon.ca/Proof-Pudding-Changing-Nature-Mathematical/dp/0387489088
 [^4]: https://www.youtube.com/watch?v=Ma4hPxc107s
+[^5]: 'proof is in the pudding' by steven krantz

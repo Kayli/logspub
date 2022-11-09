@@ -320,6 +320,9 @@
 
 ## questions
 
+- if photon is an electromagnetic wave
+  - then what is 'waving' there, if time suppose to stop at the speed of light?
+
 
 ## modelling
 

@@ -111,8 +111,7 @@
     - they were looking for parts of the genome that have been shaped by selection since dogs diverged from wolves [^1]
     
   - to understand the process of dog diversification better
-    - scientists conducted an extensive genome-wide survey of more than 48,000 single nucleotide polymorphisms 
-      in dogs and their wild progenitor, the grey wolf
+    - scientists conducted an extensive genome-wide survey of more than 48,000 single nucleotide polymorphisms in dogs and their wild progenitor, the grey wolf
 
   - deletion of genes GTF2I and GTF2IRD1 in people causes Williams syndrome
     - which is characterized by elfin facial features

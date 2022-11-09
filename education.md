@@ -10,7 +10,7 @@
   - is a school for primary education of children who are four to eleven years of age
 
 - secondary school
-  - lower secondary education (ages 11 to 14) 
+  - lower secondary education (ages 11 to 14)
   - upper secondary education (ages 14 to 18)
 
 - college, post-secondary education
@@ -21,8 +21,9 @@
   - more general in nature
   - include general education courses in a wide variety of subjects that are not part of graduate education
 
-- graduate program
-  - master's degree program
+- graduate, postgraduate program
+  - postgraduate is used interchangeably with graduate
+  - master's degree program (магистрская степень)
     - take around 2-3 years to complete
-  - doctoral degree
+  - doctoral degree (докторская степень)
     - doctoral degrees take around 5-6 years

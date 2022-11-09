@@ -39,9 +39,9 @@
   - god is a one of the artifacts of such psychotechnologies
   - squeaking rats outside of my apartment are another one ;)
 
- - axial age (500–300 BCE) 
+ - axial age (500–300 BCE)
   - refers to the period during which most of the main religious and spiritual traditions emerged in eurasian societies
-  
+
 - liminality (lat. līmen, "a threshold") 
   - is the quality of ambiguity or disorientation that occurs in the middle stage of a rite 
     of passage, when participants no longer hold their pre-ritual status but have not yet begun 

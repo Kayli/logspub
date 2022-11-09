@@ -115,8 +115,16 @@
   - expressed when two conversing people move fluidly and interchangeably between speaking and listening
 
 
+## psychedelics therapy
+
+- mdma therapy [^6]
+  - there are studies in which ppl get good results for treating trauma
+  - huberman informally reported 2 cases of worsening symptoms after therapy for addicts
+
+
 ## references
 
 [^3]: https://en.wikipedia.org/wiki/Bipolar_disorder
 [^4]: https://youtu.be/FFxFjSCoD1Y
 [^5]: https://youtu.be/-Nd40Uy6tbQ?t=5578
+[^6]: https://youtu.be/p3JLaF_4Tz8?t=5738
