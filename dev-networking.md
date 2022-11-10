@@ -30,9 +30,24 @@
 
 ## check for open ports
 
-- netstat -an | grep :8080
-- telnet localhost 8080
+- local machine
+  - telnet localhost 8080
+  - netstat -an | grep :8080
 
+- remote machine
+  - when you know specific port
+    > telnet remotehost 8080
+  - tcp syn scan
+    > sudo nmap -sS remotehost
+  - tcp connect scan with os detection
+    > sudo nmap -sT -O remotehost
+
+- to scan all network devices in your local segment
+  - sends only host discovery probes: icmp, tcp syn 443, tcp ack 80, icmp timestamp
+  - does not perform scanning of any other ports 
+  - command
+    > sudo nmap -sn 192.168.1.0/24
+  
 
 ## load balancing
 
