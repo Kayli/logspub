@@ -349,6 +349,8 @@
   - responsibilities
     - availability, latency, performance, efficiency, change management, monitoring, emergency response, capacity planning
 
+- daily active users (DAU)
+
 
 ## references
 

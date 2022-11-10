@@ -28,6 +28,25 @@
   - timeseries: influxdb, newrelic (nrdb)
 
 
+## scaling
+
+- allows to handle larger amounts of traffic (requests)
+- types
+  - vertical
+  - horizontal
+    - instead of single server you have set of nodes forming a cluster
+    - load balancer distributes requests among cluster nodes
+    - nodes can replicate data to increase availability and fault tolerance
+
+- replication types
+  - master/slave
+    - single master, many readonly replicas
+    - only master nodes can handle writes
+    - all writes are redirected to a single master node in a cluster
+  - multimaster/masterless
+    - any node can handle reads and writes
+
+
 ## migrations
 
 - relational database strategies [^3]
@@ -50,6 +69,14 @@
         - any incremental upgrade code must stay in the code-base until all the documents have been upgraded
 
 
+## caching
+
+- write-through: write is done synchronously both to the cache and to the backing store
+- write-back (write-behind)
+  - initially, writing is done only to the cache. 
+  - write to the backing store is postponed until the modified content is about to be replaced by another cache block
+
+
 ## orms
 
 - python
@@ -65,45 +92,6 @@
 - dotnet
   - entity framework
   - nhibernate
-
-
-## streamable data formats
-
-- motivation
-  - wiki articles on a topic suck for unknown reason :/
-    - phds were too busy to write that shit in an easily digestible manner ... as usual
-    - so i have to write that trivia that follows below
-
-  - data is too large to be transmitted in a one go while partially transmitted data is usable on the receiver side
-    - data may be a potentially infinite, e.g. sensor data or stream of digits for PI
-
-- solution
-  - data chopped into separate "chunks" to be transmitted while being
-    - indifferent to its internal structure
-      - stream of bytes chopped based on size of some buffer
-    - considering its internal structure, e.g.
-      - time series
-      - graph vertices and edges
-
-- processing in streaming vs messaging systems [^5]
-  - stream: message batches are units of work, so you have to buffer/accumulate them first
-  - messaging: individual messages are units of work
-
-- chunk types
-  - network packet
-    - formatted unit of data carried by a packet-switched network
-    - consists of control information and user data/payload
-  - message
-    - used by systems that implement publish-subscribe pattern
-    - message passing
-      - invoking program sends a message to a receiver (process/object)
-      - relies on that receiver and its supporting infrastructure to then select and run some appropriate code
-
-  - streamable data formats
-  - binary
-  - human readable
-    - yaml
-        - "is intended to be read and written in streams" [^1]
 
 
 ## relational dbs
@@ -178,7 +166,6 @@
     - supports sharding
 
 
-
 ## key-value stores
 
 - zookeeper
@@ -203,6 +190,44 @@
     - high concurrency
   - supports async replication of data across regions
   - cassandra query language (cql)
+  - nosql
+  - sypports async replication of data across regions
+
+
+## streamable data formats
+
+- motivation
+  - wiki articles on a topic suck for unknown reason :/
+    - phds were too busy to write that shit in an easily digestible manner ... as usual
+    - so i have to write that trivia that follows below
+
+  - data is too large to be transmitted in a one go while partially transmitted data is usable on the receiver side
+    - data may be a potentially infinite, e.g. sensor data or stream of digits for PI
+
+- solution
+  - data chopped into separate "chunks" to be transmitted while being
+    - indifferent to its internal structure
+      - stream of bytes chopped based on size of some buffer
+    - considering its internal structure, e.g.
+      - time series
+      - graph vertices and edges
+
+- chunk types
+  - network packet
+    - formatted unit of data carried by a packet-switched network
+    - consists of control information and user data/payload
+  - message
+    - used by systems that implement publish-subscribe pattern
+    - message passing
+      - invoking program sends a message to a receiver (process/object)
+      - relies on that receiver and its supporting infrastructure to then select and run some appropriate code
+
+- streamable data formats
+  - binary
+    - real-time transport protocol (rtp) 
+  - human readable
+    - yaml
+        - "is intended to be read and written in streams" [^1]
 
 
 ## references
