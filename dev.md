@@ -7,7 +7,16 @@
   - defines which points in code are legitimate to jump to
     - nowadays these structures are called methods, functions, switch statements, loops, etc.
 
-- ast: abstract syntax tree
+- lambda calculus is one of the origins of functional programming
+
+- pure function
+  - one that has no side-effects
+  - has referential transparency
+    - always returns same result when called with same parameters
+- prefix function
+  - usual named function that is placed before arguments
+- infix function
+  - is like '+' or '*' operators that is placed between 
 
 
 ## modelling languages and tools
@@ -19,43 +28,9 @@
   - vscode plugin
 
 
-## parsers
-
-- grammar standards
-    - ebnf (w3c grammar notation, extended backus–naur form)
-
-- components
-  - lexer: bundles sequence of characters into sequence of lexical tokens
-  - parser: converts lexical tokens into ast
-
-- parser generators/combinators
-  - antlr
-    - industry standard tool to generate parsers
-    - antlr is its own grammar standard
-    - supports many languages for generated parsers
-  - parsec
-    - parser combinator in python
-    - source code https://github.com/sighingnow/parsec.py/blob/master/src/parsec/__init__.py
-    - some examples https://github.com/sighingnow/parsec.py/tree/master/examples
-  - treesitter 
-    - source code https://github.com/tree-sitter/tree-sitter
-    - python bindings https://github.com/tree-sitter/py-tree-sitter
-    - finer-grained update of ast based on stream of changes from the source code
-
-
 ## programming languages
 
 - classic functional programming [^1]
-  - basics
-    - lambda calculus is one of the origins of functional programming
-    - pure function
-      - one that has no side-effects
-      - has referential transparency
-        - always returns same result when called with same parameters
-    - prefix function
-      - usual named function that is placed before arguments
-    - infix function
-      - is like '+' or '*' operators that is placed between 
   - haskell
     - evaluation of statements is lazy by default
     - function call
@@ -125,8 +100,10 @@
 - jetbrains
   - rider: for .net developers
   - pycharm: for python developers
-  - IntelliJ IDEA: java
-  - Fleet: in public preview as of oct 2022, polyglot ide
+  - intellij idea: java
+  - fleet: in public preview as of oct 2022, polyglot ide
+
+- unix: vim, emacs
 
 
 ## software testing
