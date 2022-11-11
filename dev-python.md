@@ -204,6 +204,8 @@
     > poetry add --dev <dev-package-name>
   - restore dependencies
     > poetry install
+  - clear cache (helps with hash-related errors)
+    > rm -rf ~/.cache/pypoetry
 
 - visual studio code
   - use the 'Python: Select Interpreter' command from the command palette (ctrl+shift+p)
