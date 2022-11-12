@@ -89,7 +89,7 @@
     > a ^ b   # symmetric difference: elements that are in one set or in other but not in both
 
 - tuple: immutable container
-  > mytup = (1,2,3,4,5)
+  > mytup = (1,2,3,4,5)`
 
 - dict: key/value pairs
   - aka hashmap in java, locates elements by a hash function, needs to be rehashed as it grows
@@ -122,6 +122,12 @@
     summer = 2
 > Season.SPRING.name
 > Season.SPRING.value
+
+
+## loops
+
+- simple 'for' loop with index
+  > for x in range(6): print(x)
 
 
 ## file system
@@ -310,7 +316,8 @@
     - won't complain if you try to use (dot into) undeclared field
       > self.hui.test() # this passes static check unfortunately
   - skipping analyzing 'xyz': module is installed, but missing library stubs or py.typed marker
-    - to suppress a single missing import error, add a # type: ignore at the end of the line containing the import
+    - to suppress a single missing import error, add '# type: ignore' at the end of the line containing the import
+      
 
 
 ## coverage tools

@@ -56,10 +56,25 @@
   > sudo apt install mesa-utils
   > glxinfo | egrep -i 'device|memory|video'
 
+- watch gpu resources consumption
+  > watch -n0.1 nvidia-smi
+
 
 ## speech to text
+
+- asr: automated speech recognition
+
+- as GPUs can only process small chunks of audio, we need to split input audio into chunks dynamically
+  - it is not a trivial task, as chunks should contain whole phrases, without cutting any of them in the middle
+  - see here for more https://huggingface.co/blog/asr-chunking
 
 - whisper transformer https://github.com/openai/whisper.git
   - had to install the following packages to make examples from huggingface work
     > sudo apt install ffmpeg
     > poetry add python numpy whisper transformers torch datasets soundfile librosa torchaudio
+  
+  - simple way to transcribe long audio https://gist.github.com/darinkist/71f27e248938d3f4b511acbfba5f0372
+    > import whisper
+    > model = whisper.load_model("base")
+    > result = model.transcribe("opto_sessions_ep_69_excerpt.wav")
+    > print(result["text"])
