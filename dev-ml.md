@@ -48,4 +48,18 @@
 
 - reading materials for the coursera "fundamentals of reinforcement learning" [course](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
   - main challenges: exploration vs exploitation tradeoff
-  
+
+
+## useful commands
+
+- to get amount of vram on linux
+  > sudo apt install mesa-utils
+  > glxinfo | egrep -i 'device|memory|video'
+
+
+## speech to text
+
+- whisper transformer https://github.com/openai/whisper.git
+  - had to install the following packages to make examples from huggingface work
+    > sudo apt install ffmpeg
+    > poetry add python numpy whisper transformers torch datasets soundfile librosa torchaudio

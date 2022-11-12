@@ -309,6 +309,8 @@
     - won't complain if you inherit from ABC or Protocol and dont implement some abstract memeber
     - won't complain if you try to use (dot into) undeclared field
       > self.hui.test() # this passes static check unfortunately
+  - skipping analyzing 'xyz': module is installed, but missing library stubs or py.typed marker
+    - to suppress a single missing import error, add a # type: ignore at the end of the line containing the import
 
 
 ## coverage tools
