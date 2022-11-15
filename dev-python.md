@@ -88,9 +88,10 @@
 - set: used to store unordered unique elements, supports intersection operators and alike
   > myset = {1,2,3,4,5}
   - operators
-    > a | b   # union
-    > a & b   # intersection
-    > a ^ b   # symmetric difference: elements that are in one set or in other but not in both
+    > a | b     # union
+    > a & b     # intersection
+    > a ^ b     # symmetric difference: elements that are in one set or in other but not in both
+    > m1 @ m2   # matrix multiplication (__matmul__ method)
 
 - tuple: immutable container
   > mytup = (1,2,3,4,5)`

@@ -61,9 +61,16 @@
   > watch -n0.1 nvidia-smi
 
 
+## linear algebra
+
+- matrix/tensor multiplication operator
+  > m1 @ m2   # matrix multiplication (__matmul__ method)
+
+
 ## speech to text
 
 - asr: automated speech recognition
+- stt: speech-to-text
 
 - as GPUs can only process small chunks of audio, we need to split input audio into chunks dynamically
   - it is not a trivial task, as chunks should contain whole phrases, without cutting any of them in the middle
