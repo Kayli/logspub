@@ -214,6 +214,9 @@
     - dump stdout to a file an watch it at the same time
       > process1 | tee log.txt
 
+  - change owner and group
+    - chown -hR <owner>:<group> <file>
+
 - audio
   - alsa
     - list sinks available 

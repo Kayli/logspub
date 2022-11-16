@@ -65,6 +65,7 @@
   - subdivisions
     - paleolithic 3.4mya-8800 bce
     - mesolithic 8800 – 4900 bce
+      - first use of drilling tools made of flint (кремень)
     - neolithic 4900 – 2000 bce
 - bronze age 3300 - 1200 bce
 - iron age 1110 - 1 bce
@@ -175,6 +176,13 @@
 
 - стримы бушвакера
   - скандинавы, варяги, викинги https://www.youtube.com/watch?v=M1xwsNqF8ks
+    - 8-9k years ago icecaps were melting and hunter-gatherers moved towards north of scandinavia following raindeers
+    - 2k bce protogermans came from the continent and mixed with scandinavians
+    - 1st century ce germans and in 2nd century ce goths move from scandinavia to european continent
+      - 3rn century ce goths will reach crimea and romainia regions
+    - ships: knarr (cargo transport) and drakkar
+    - ethnonym 'slavic' turns into 'slave' word during this period, as vikings were actively trading slavic ppl
+    
   - закат эпохи викингов и конец темных веков https://www.youtube.com/watch?v=9rQy2BORj5o
   - англосаксы и рождение англии https://www.youtube.com/watch?v=jQtj8uANmIE
   - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
