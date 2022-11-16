@@ -104,8 +104,6 @@
 - health check page https://status.dev.azure.com/
 
 
-
-
 ## microsoft outlook web
 
 - unable to copy my own email address to a clipboard from the web page
@@ -113,9 +111,18 @@
 
 ## google cloud platform
 
+- set default parameters
+  > gcloud config set compute/zone us-west1-a
+
+- get list of containers
+  > gcloud container images list --repository="gcr.io/deeplearning-platform-release"
+
 - manage GCP compute instances within free tier defaults
-  > gcloud compute instances create vm01 \
-      --image-project debian-cloud --image-family debian-11 --zone=us-west1-a --machine-type=e2-micro
+  - create new instance
+    > gcloud compute instances create vm01 --image-project debian-cloud --image-family debian-11 --machine-type=e2-micro
+  - create new instance based on a docker image (only images hosted on gcr are supported)
+    > gcloud compute instances create-with-container <instance-name> --container-image <image-name> --machine-type=e2-micro
+  
   > gcloud compute instances list
   > gcloud compute instances start <name>
   > gcloud compute ssh <name>
@@ -133,6 +140,8 @@
   - connect to gcp machine using one of the following commands
     > gcloud compute ssh <name>
     > ssh <username>@<public_ip_address>
+  - if you still can't connect, try populating ssh config on your local machine automatically
+    > gcloud compute config-ssh 
 
 - manage firewall
   - create new rule to allow all inbound traffic for all instances

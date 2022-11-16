@@ -54,6 +54,18 @@
 - ideas of freedom, progress and knowledge go together
 
 
+## existentianalism
+
+- frankfurt's school philosophers
+  - jean-paul sartre
+  - maurice merleau-ponty
+  - albert camus
+  - simone de beauvoir
+  - theodor adorno
+  - max horkheimer
+  - herbert marcuse
+
+
 ## postmodernism
 
 - postulates that humans have no direct access to reality, but through signs
@@ -116,6 +128,13 @@
     - idea has to conform to a statement (sentense) expressed in some fixed language
     - axioms define initial truth statements 
     - theorems define truth statements derived from axioms and other proven theorems (sometimes referred as recursive definition)
+
+
+## evolutionary epistemology
+
+- main contributors: karl popper, konrad lorenz, donald campbell
+- lorenz writes: kant's synthetic apriori is true in light of darwinian biology
+  - our cognitive apparatus evolved under to pressure of things in themselves in order to percieve them in ways that matter for survival
 
 
 ## interesting ideas

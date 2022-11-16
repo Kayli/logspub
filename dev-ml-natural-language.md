@@ -17,30 +17,47 @@
   - various ML algorithms are used to identify the sentiment, perform ner, process semantics, etc
   - often operate on text that has already been standardized by text pre-processing steps
 
-- stop word removal
-  - words which are filtered out because they are insignificant
-  - example: articles, pronouns (местоимения)
+- corpus: a body of text
 
 - pos: part of speech
-- pos tagging
-  - recursive neural tensor networks
-    - fancy name for the model that is often? used for tagging
 
 - nlg: natural language generation (language production)
 
-- word representations
-  - one-hot, localist ([00000000100000] vector)
-    - huge size
-    - does not encode relations between words
-  - word embeddings (word2vec)
-    - representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning
-    - you can get 'nearest neighbours' to find closely related words from the trained model
-    - types
-      - skip-grams (sg)
-        - predict context words given a target
-      - continuous bag of words (cbow)
-        - predict target word from bag-of-words context
-    - similarity calculated using dot product of vector representations
+- lexeme
+  - simplest unit in a corpus
+  - often a word
+  - can also be: punctuation, numbers, abbreviations
+
+- n-grams
+  - unigram: contains only one lexeme, usually a word
+  - bigram: combination of two lexemes fed as single unit to a model
+  - weight: probability of n-gram appearing in a random place of a corpus
+
+- lemma: base word and its inflections
+
+- inflectional morphology
+  - is the process by which a root form of a word is modified by adding prefixes or suffixes that specify its grammatical function but do not change its part-of-speech
+  - lemma (root form) is inflected (modified/combined) with one or more morphological features to create a surface form
+
+- precision: number of correct labels among the labels predicted by ml model
+- recall: number of labels that successfully were predicted, among all the real labels
+
+
+## data representations
+
+- one-hot vector, localist ([00000000100000] vector)
+  - huge size
+  - does not encode relations between words
+
+- word embeddings (word2vec)
+  - representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning
+  - you can get 'nearest neighbours' to find closely related words from the trained model
+  - types
+    - skip-grams (sg)
+      - predict context words given a target
+    - continuous bag of words (cbow)
+      - predict target word from bag-of-words context
+  - similarity calculated using dot product of vector representations
 
 - sentence embedding
   - encodes sentence similarity
@@ -48,7 +65,35 @@
 
 ## nlp/nlu
 
-- tbd
+- tokenization
+
+- lower casing
+
+- stop words removal
+  - words which are filtered out because they are insignificant for some specific task
+  - example: articles
+
+- stemming/lemmatization
+  - reduce inflectional forms and sometimes derivationally related forms of a word to a common base form
+  - stemming is cruder approach than lemmatization
+
+- tagging
+  - part-of-speech [4]
+    - coarse-grained (spacy pos_ attribute)
+    - fine-grained (spacy tag_ attribute)
+  - dependency tagging
+
+- coreference resolution
+  - which noun associated with a given pronoun
+  - example: pronoun 'she' will be associated or replaced with name 'alice'
+  - spacy module: https://spacy.io/universe/project/crosslingualcoreference
+
+- entities identification (named entity recognition)
+  - named entity disambiguation
+  - entity linking
+    - extracted entities from the text are mapped to corresponding unique ids from a target knowledge base
+
+- information extraction
 
 
 ## natural language generation (nlg)
@@ -58,8 +103,7 @@
 - subfield of artificial intelligence and computational linguistics that is concerned with the
   construction of computer systems than can produce understandable texts in english or other human languages from some underlying non-linguistic representation of information
 
-- language production: term preferred by psycholonguists
-
+- language production: term preferred by psycholinguists
 
 - practical applications
   - analysis summary (reporting) for business intelligence dashboards
@@ -144,6 +188,8 @@
 
 - word2vec
 - glove
+- recursive neural tensor networks
+  - fancy name for the model that is often? used for tagging
 
 
 ## popular/interesting libraries
@@ -153,8 +199,9 @@
   - classification (applies labels to chunks of text)
   - fast training as well as pretrained models
   - uses hierarchical classifier, binary tree of the labels (index)
-- spacy (word2vec)
+- spacy
   - source https://github.com/explosion/spaCy
+  - see corresponding section below for more details
 - starspace
   - source https://github.com/facebookresearch/StarSpace
   - learning word, sentence or document level embeddings
@@ -165,7 +212,10 @@
     - taxonomy
       - synonyms (synsets)
       - hypernyms: super-subordinate relation, also called hyperonymy, hyponymy or ISA relation
-  
+- rebel 
+  - source: https://github.com/Babelscape/rebel
+  - knowledge extraction, has spacy plugin
+
 - nlg
   - NaturalOWL
     - performs nlg on the semantic web
@@ -190,6 +240,138 @@
   - images of handwritten digits
 
 
+## library: spacy
+
+- tasks: part-of-speech tagging, named entity recognition, and dependency parsing
+- encodes all strings to hash values to reduce memory usage and improve efficiency
+
+- data extraction articles
+  - https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk
+    - see 'relations extraction' and 'build knowledge graph' sections
+
+
+- part of speech coarse grained tags
+  POS	  DESCRIPTION	              EXAMPLES
+  ADJ	  adjective	                big, old, green, incomprehensible, first
+  ADP	  adposition	              in, to, during
+  ADV	  adverb	                  very, tomorrow, down, where, there
+  AUX	  auxiliary	                is, has (done), will (do), should (do)
+  CONJ	conjunction	              and, or, but
+  CCONJ	coordinating conjunction	and, or, but
+  DET	  determiner	              a, an, the
+  INTJ	interjection	            psst, ouch, bravo, hello
+  NOUN	noun	                    girl, cat, tree, air, beauty
+  NUM	  numeral	                  1, 2017, one, seventy-seven, IV, MMXIV
+  PART	particle	                ’s, not
+  PRON	pronoun	                  I, you, he, she, myself, themselves, somebody
+  PROPN	proper noun	              Mary, John, London, NATO, HBO
+  PUNCT	punctuation	              ., (, ), ?
+  SCONJ	subordinating conjunction	if, while, that
+  SYM	  symbol	                  $, %, §, ©, +, −, ×, ÷, =, :), 😝
+  VERB	verb	                    run, runs, running, eat, ate, eating
+  X	    other	                    sfpksdpsxmsa
+  SPACE	space
+
+- part of speech fine grained tags
+  POS	POS_Description	Fine-grained Tag	Description	Morphology	EXAMPLE
+  - adjective (ADJ)
+    TAG   Description	            Morphology	                EXAMPLE
+    AFX	  affix	                  Hyph=yes	                  The Flintstones were a **pre**-historic family.
+    AFX	  affix	                  Hyph=yes	                  The Flintstones were a **pre**-historic family.
+    JJ	  adjective	              Degree=pos	                This is a **good** sentence.
+    JJR	  adjective, comparative	Degree=comp	                This is a **better** sentence.
+    JJS	  adjective, superlative	Degree=sup	                This is the **best** sentence.
+    PDT	  predeterminer	          AdjType=pdt PronType=prn	  Waking up is **half** the battle.
+    PRP$	pronoun, possessive	    PronType=prs Poss=yes	      **His** arm hurts.
+    WDT	  wh-determiner	          PronType=int rel	          It’s blue, **which** is odd.
+    WP$	  wh-pronoun, possessive	Poss=yes PronType=int rel	  We don’t know **whose** it is.
+  
+  ADP	adposition	IN	conjunction, subordinating or preposition		It arrived **in** a box.
+  ADV	adverb	EX	existential there	AdvType=ex	**There** is cake.
+  ADV	adverb	RB	adverb	Degree=pos	He ran **quickly**.
+  ADV	adverb	RBR	adverb, comparative	Degree=comp	He ran **quicker**.
+  ADV	adverb	RBS	adverb, superlative	Degree=sup	He ran **fastest**.
+  ADV	adverb	WRB	wh-adverb	PronType=int rel	**When** was that?
+  CONJ	conjunction	CC	conjunction, coordinating	ConjType=coor	The balloon popped **and** everyone jumped.
+  DET	determiner	DT	determiner		**This** is **a** sentence.
+  INTJ	interjection	UH	interjection		**Um**, I don’t know.
+  NOUN	noun	NN	noun, singular or mass	Number=sing	This is a **sentence**.
+  NOUN	noun	NNS	noun, plural	Number=plur	These are **words**.
+  NOUN	noun	WP	wh-pronoun, personal	PronType=int rel	**Who** was that?
+  NUM	numeral	CD	cardinal number	NumType=card	I want **three** things.
+  PART	particle	POS	possessive ending	Poss=yes	Fred**’s** name is short.
+  PART	particle	RP	adverb, particle		Put it **back**!
+  PART	particle	TO	infinitival to	PartType=inf VerbForm=inf	I want **to** go.
+  PRON	pronoun	PRP	pronoun, personal	PronType=prs	**I** want **you** to go.
+  PROPN	proper noun	NNP	noun, proper singular	NounType=prop Number=sign	**Kilroy** was here.
+  PROPN	proper noun	NNPS	noun, proper plural	NounType=prop Number=plur	The **Flintstones** were a pre-historic family.
+  PUNCT	punctuation	-LRB-	left round bracket	PunctType=brck PunctSide=ini	rounded brackets **(**also called parentheses)
+  PUNCT	punctuation	-RRB-	right round bracket	PunctType=brck PunctSide=fin	rounded brackets (also called parentheses**)**
+  PUNCT	punctuation	,	punctuation mark, comma	PunctType=comm	I**,**me and myself.
+  PUNCT	punctuation	:	punctuation mark, colon or ellipsis		colon **:** is a punctuation mark
+  PUNCT	punctuation	.	punctuation mark, sentence closer	PunctType=peri	Punctuation at the end of sentence**.**
+  PUNCT	punctuation	”	closing quotation mark	PunctType=quot PunctSide=fin	“machine learning**”**
+  PUNCT	punctuation	“”	closing quotation mark	PunctType=quot PunctSide=fin	**””**
+  PUNCT	punctuation	“	opening quotation mark	PunctType=quot PunctSide=ini	**”**machine learning”
+  PUNCT	punctuation	HYPH	punctuation mark, hyphen	PunctType=dash	ML site **-** machinelearningknowledge.ai
+  PUNCT	punctuation	LS	list item marker	NumType=ord	
+  PUNCT	punctuation	NFP	superfluous punctuation		
+  SYM	symbol	#	symbol, number sign	SymType=numbersign	This is hash**#** symbol.
+  SYM	symbol	$	symbol, currency	SymType=currency	Dollar **$** is the name of more than 20 curre…
+  SYM	symbol	SYM	symbol		this is a symbol **$**
+  VERB	verb	BES	auxiliary “be”		Let it **be**.
+  VERB	verb	HVS	forms of “have”		I**’ve** seen the Queen
+  VERB	verb	MD	verb, modal auxiliary	VerbType=mod	This **could** work.
+  VERB	verb	VB	verb, base form	VerbForm=inf	I want to **go**.
+  VERB	verb	VBD	verb, past tense	VerbForm=fin Tense=past	This **was** a sentence.
+  VERB	verb	VBG	verb, gerund or present participle	VerbForm=part Tense=pres Aspect=prog	I am **going**.
+  VERB	verb	VBN	verb, past participle	VerbForm=part Tense=past Aspect=perf	The treasure was **lost**.
+  VERB	verb	VBP	verb, non-3rd person singular present	VerbForm=fin Tense=pres	I **want** to go.
+  VERB	verb	VBZ	verb, 3rd person singular present	VerbForm=fin Tense=pres Number=sing Person=3	He **wants** to go.
+  X	other	ADD	email		example@gmail.com
+  X	other	FW	foreign word	Foreign=yes	Hello in spanish is **Hola**
+  X	other	GW	additional word in multi-word expression		
+  X	other	XX	unknown		
+  SPACE	space	_SP	space		
+  NIL	missing tag
+
+- dependency tags
+	Tag	      Description
+  ROOT      root word of a sentence
+  det	      determiner
+  compound	compound
+  nsubj	    nominal subject
+  amod	    adjectival modifier
+  cc	      coordinating conjunction
+  conj	    conjunct
+  dobj	    direct object
+  relcl	    relative clause modifier
+  punct	    punctuation
+  ccomp	    clausal complement
+  prep	    prepositional modifier
+  pobj	    object of preposition
+  pcomp	    complement of preposition
+  advmod	  adverbial modifier
+  aux	      auxiliary
+  mark	    marker
+  nsubjpass	nominal subject (passive)
+  auxpass	  auxiliary (passive)
+  advcl	    adverbial clause modifier
+  appos	    appositional modifier
+  dative	  dative
+  acomp	    adjectival complement
+  nummod	  numeric modifier
+  attr	    attribute
+  dep	      unclassified dependent
+  agent	    agent
+  expl	    expletive
+  acl	      clausal modifier of noun (adjectival clause)
+  npadvmod	noun phrase as an adverbial modifier
+  neg	      negation modifier
+  xcomp	    open clausal complement
+  intj	    interjection
+
+
 ## optimization techniques
 
 - batch gradient descent (bgd)
@@ -198,7 +380,9 @@
 
 ## books
 
-- building natural language generation systems by Ehud Reiter, Robert Dale
+- building natural language generation systems (ehud reiter, robert dale)
+- evolution of grounded spatial language (michael spranger) https://books.google.ca/books?id=z0VFDAAAQBAJ
+  - spatial language as complex adaptive system
 
 
 ## references
@@ -206,3 +390,5 @@
 [1]: https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d
 [2]: https://www.kdnuggets.com/2020/01/guide-natural-language-generation.html
 [3]: https://www2.arria.com/wp-content/uploads/2017/09/Technical-Overview-The-Arria-NLG-Engine-ARR3027.pdf
+[4]: https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/
+[5]: https://machinelearningknowledge.ai/tutorial-on-spacy-part-of-speech-pos-tagging/

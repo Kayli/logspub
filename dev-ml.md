@@ -33,7 +33,8 @@
 - onnx (pronounced like onyx)
 - sklearn
   - built on NumPy, SciPy, and matplotlib
-
+- nextflow
+  - dockerized pipeline for scientific data processing tasks
 
 ## books to consider
 

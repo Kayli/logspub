@@ -46,6 +46,15 @@
   - https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man
 
 
+## interesting stuff
+
+- gartner hype cycle
+  - peak of inflated expectations
+  - disillusionment
+  - slope of enlightenment
+  - plateau of productivity
+
+
 ## references
 
 [^1] https://www.quora.com/What-is-the-difference-between-a-monopoly-and-a-quasi-monopoly

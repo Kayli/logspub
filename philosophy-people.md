@@ -52,6 +52,45 @@
   inherent ambiguities of sign interpretations
 
 
+## jürgen habermas 1929
+
+- universal pragmatics
+  - that all speech acts have an inherent telos (greek "purpose"): the goal of mutual understanding
+  - human beings possess the communicative competence to bring about such understanding
+
+- roles of philosophy
+  - foundations for sciences
+  - to judge which inquiries belong to which jurisdictions
+    - e.g. scientific inquiry to science, artistic to art ...
+  - guardians of rationality
+  - stand-in to defend universalistic claims which are not yet defendable by empirical sciences
+  - interpreter, communicator
+
+- farewells to philosophy because
+  - therapeutic: foundationalists project collapsed, so we need to cure it from its inconsistencies
+  - heroic: give a way to a different medium altogether
+  - salvaging: historical preservation of body of texts
+
+- space of communicative discourse: the only place where we reach agreement
+
+
+## joseph margolis 1924-2021
+
+- cognition and the world are symbiotic (no access to things in themselves)
+  - worlded language and languaged world
+
+- no universal bivalence (certain statements are either true or false)
+  - bivalence claim is applicable in some areas (math), but may not be in others (history)
+  - often it is perfectly reasonable to relax bivalence requirement
+    - as our judjements are not detachable from evidence
+  - truth is relative to fields of evidence
+    - historical, esthetical or art judgements
+    - allows multiple objective but incompatible interpretations
+  
+- turning to pragmatic biological grounds
+  - human inquiry develops out of the biological and precognitive interaction between organism and environment
+
+
 ## lyotard, jean-françois 1924–1998
 
 - distinctive sciences are incommensurable (like physics and psychology)
@@ -83,6 +122,7 @@
 
 - german philosopher, sociologist, psychologist, musicologist, and composer 
 - known for his critical theory of society, capitalism, enlightenment, progress
+- neomarxist, combined the thought of marx, hegel, freud
 
 
 ## heidegger martin 1889-1976 [^1]

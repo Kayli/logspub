@@ -12,11 +12,6 @@
 - morphology
   - study of words, how they are formed, and their relationship to other words in the same language
 
-- parts of speech
-  - pronouns (местоимения)
-  - adjective (прилагательное)
-    - from lat. adject - ‘added’
-
 - hypernym
   - a word with a broad meaning that more specific words fall under; a superordinate. 
   - example: color is a hypernym of red
@@ -27,6 +22,61 @@
     - it is a stricter (more precise) technical definition of synonymy, specifically for theoretical (e.g., linguistic and philosophical) purposes
   - near synonym
     - synonyms with greater differences
+
+
+## parts of speech
+
+- nouns (существительные)
+
+- adjective (прилагательные)
+  - from lat. adject - ‘added’
+  - examples: ashamed, adorable, attractive, beautiful, awful, aggressive, cruel, clever, tasty, jealous
+
+- adverbs (наречия)
+  - word or an expression that generally modifies a verb, adjective, another adverb, determiner, clause, preposition, sentence
+  - examples: quickly, slowly, yesterday, last week, here, there, today, daily, never, rarely, extremely, annually
+
+- pronouns (местоимения)
+  - personal
+    - subject: i, you, he, she, it, we, they
+    - object: me, him, her, it, us, them
+  - indefinite: another, anybody/ anyone, anything, each, either, enough, everybody/ everyone, everything
+  - reflexive: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.
+  - reciprocal: each other, one another
+  - possessive: mine, yours, his, hers, ours, yours, theirs
+  - demonstrative: this, that, these, those
+  - interrogative: who, which, where, how, what
+  - relative: who, whom, which, whose, that
+
+- particle (части́ца)
+  - function word that must be associated with another word or phrase to impart meaning
+
+- determiners
+  - articles (артикли): the, a/an
+    - used with noun phrases to mark the identifiability of the referents of the noun phrases
+  - demonstratives: this, that, these, those
+  - possessives: my, your, his, her, its, our, their, x’s (possessive ’s)
+  - quantifiers: (a) few, fewer, (a) little, many, much, more, most, some, any
+  - numbers: one, two, three
+
+- prepositions, postpositions, adpositions (предлоги)
+  - are a class of words used to
+    - express spatial or temporal relations (in, under, towards, before)
+    - mark various semantic roles (of, for)
+  - examples: in, on, at, through, across, above, over, up, down, to, with, by, beside, beneath, in front of, between, among
+
+- conjunctions (союзы)
+  - part of speech that connects words, phrases, or clauses that are called the conjuncts of the conjunctions
+  - coordinating
+    - allow you to join words, phrases, and clauses of equal grammatical rank in a sentence
+    - examples: for, and, nor, but, or, yet, so
+  - correlative
+    - pairs of conjunctions that work together
+    - examples: either/or, neither/nor, and not only/but also
+  - subordinating
+    - join independent and dependent clauses
+    - can signal a cause-and-effect relationship, a contrast, or some other kind of relationship between the clauses
+    - examples: because, since, as, although, though, while, and whereas
 
 
 ## proto-languages  [^1] 

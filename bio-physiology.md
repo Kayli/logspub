@@ -44,6 +44,10 @@
     - capable of acting independently of the sympathetic and parasympathetic nervous systems
       - although it may be influenced by them
 
+- terms origin
+  - sympathetic: etymology: syn- "together" + pathos "feeling"
+  - para: beside, altered
+
 - vagus nerve (блуждающий нерв)
   - also known as the tenth cranial nerve, cranial nerve X, or simply CN X, 
   - is a cranial nerve that interfaces with the parasympathetic control of the heart, lungs, and digestive tract

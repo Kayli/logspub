@@ -17,6 +17,9 @@
 - connotation
   - the secondary, cultural meanings of signs; or "signifying signs," signs that are used as signifiers for a secondary meaning, e.g., the word "rose" signifies passion.
 
+- semiosis
+  - sign process, is any form of activity, conduct, or process that involves signs, including the production of meaning.
+
 
 ## sign
 
@@ -47,6 +50,15 @@
       - numbers and alphabets
 
 - can be framed as alienated fragment of reality?
+
+- grounding process
+  - the meaning of a word on a page is "ungrounded"
+  - the meaning of the words in one's head — those words one does understand — are "grounded"
+  - to be grounded, the symbol system would have to be augmented with nonsymbolic, sensorimotor capacities—the capacity to interact autonomously with that world of objects, events, actions, properties and states that their symbols are systematically interpretable (by us) as referring
+  - can be vewed as robotic turing test, which is hybrid symbolic/sensorimotor
+
+- procedural semantics
+  - semantics of natural language sentences can be characterized in a formalism whose meanings are defined by abstract procedures that a computer (or a person) can either execute or reason about. In this theory the meaning of a noun is a procedure for recognizing or generating instances, the meaning of a proposition is a procedure for determining if it is true or false, and the meaning of an action is the ability to do the action or to tell if it has been done
 
 
 # references

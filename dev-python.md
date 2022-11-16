@@ -43,7 +43,11 @@
 ## installation
 
 - in some oses pip is not installed by default and python is not mapped to python3
+- sometimes pip is not installed by default and python is not mapped to python3
   > sudo apt install python3 python3-pip python-is-python3
+
+- if apt is not installed, try the following
+  > sudo python -m ensurepip --upgrade
 
 
 ## string operations

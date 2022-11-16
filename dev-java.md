@@ -17,6 +17,11 @@
       - support is available from many 3rd parties
         - third parties will also port Oracle security fixes to OpenJDK builds
 
+- build systems
+  - maven
+  - gradle
+  - intellij
+
 
 ## useful links
 
