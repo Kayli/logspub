@@ -168,6 +168,8 @@
         > pip wheel <tarball>
       - from folder with package sources
         > pip wheel <src>
+  - list all versions available for the package
+    > pip index versions spacy
 
 - pipx
   - pip substitute for installing cli tools 
@@ -217,6 +219,7 @@
     > poetry install
   - clear cache (helps with hash-related errors)
     > rm -rf ~/.cache/pypoetry
+  - allows flexible rules to constraint package versions https://python-poetry.org/docs/dependency-specification/
 
 - visual studio code
   - use the 'Python: Select Interpreter' command from the command palette (ctrl+shift+p)

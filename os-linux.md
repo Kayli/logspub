@@ -47,6 +47,12 @@
   - pseudo-device that makes a file accessible as a block device
 
 
+## shell
+
+- if you have (accidentally) pressed Ctrl+V immediately before pasting (or before pressing a special key), 
+  it will cause ^[[200~ characters to appear [^9]
+
+
 ## terminal multiplexer (tmux)
 
 - ctrl + b        initiation sequence (ctrlb)
@@ -319,3 +325,4 @@
 [^6]: https://www.reddit.com/r/pop_os/comments/oin0ev/invert_workspace_touchpad_gestures/h4wjyz0/
 [^7]: https://www.youtube.com/watch?v=QIO2pJqMxjE
 [^8]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
+[^9]: https://superuser.com/questions/1532688/pasting-required-text-into-terminal-emulator-results-in-200required-text

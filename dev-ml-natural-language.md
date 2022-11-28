@@ -222,6 +222,7 @@
     - adopts a typical natural language generation pipeline (Reiter and Dale, 2000)
       - produces texts in three stages: document planning, microplanning, and surface realization
     - implemented as a java library and protege plugin https://protege.stanford.edu
+    - pretty old project, not supported, with lots of outdated hardcoded owl dependencies (urls) in code
 
   - simplenlg https://github.com/simplenlg/simplenlg 
     - surface realization for a simple grammar
@@ -244,11 +245,22 @@
 
 - tasks: part-of-speech tagging, named entity recognition, and dependency parsing
 - encodes all strings to hash values to reduce memory usage and improve efficiency
+- pipeline
+  - does not support stream processing of data
+  - whole text is converted into a document object
+  - document object passed from one step of pipeline to the other
+
 
 - data extraction articles
   - https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk
     - see 'relations extraction' and 'build knowledge graph' sections
 
+- split text into sentences
+  >>> from spacy.lang.en import English
+  >>> nlp = English()
+  >>> nlp.add_pipe('sentencizer')
+  >>> doc = nlp(text)
+  >>> print(doc.sents)
 
 - part of speech coarse grained tags
   POS	  DESCRIPTION	              EXAMPLES
@@ -372,6 +384,8 @@
   intj	    interjection
 
 
+
+
 ## optimization techniques
 
 - batch gradient descent (bgd)
@@ -383,6 +397,12 @@
 - building natural language generation systems (ehud reiter, robert dale)
 - evolution of grounded spatial language (michael spranger) https://books.google.ca/books?id=z0VFDAAAQBAJ
   - spatial language as complex adaptive system
+
+
+## useful commands
+
+- check gpu cuda usage
+  > watch -n 0.5 nvidia-smi
 
 
 ## references
