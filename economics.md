@@ -24,12 +24,31 @@
     - able to influence prices and balance the markets, providing downside protection in the short to middle term
 
 
+## macroeconomics
+
+- country's central bank provides accounts for
+  - sovereign government
+    - from which the government can spend and also receive taxes and other inflows
+  - every commercial bank
+    - by means of which it manages its reserves (that is, money for clearing and settling interbank transactions)
+
+- key scenarios
+  - government spends money
+    - its treasury takes money from central bank's operating account and deposits this money into private bank accounts (and hence into the commercial banking system)
+  - taxation
+    - private bank accounts are debited; thus, deposits in the commercial banking sector fall.
+  - Central Bank sells bonds, removing reserves from the banking system
+  - Central Bank buys bonds by simply creating money – it is not financed in any way
+
+
 ## global
 
 - wallerstein's world system theory model countries classification [^4]
   - core: high profit consumption goods
-  - periphery: cheap labor and raw materials (ресурсное государство)
   - semi-periphery
+  - periphery: cheap labor and raw materials (ресурсное государство)
+
+
 
 
 ## books to consider reading

@@ -65,6 +65,7 @@
   - bounding volume hierarchies
   - bounding volumes
   - surface geometry
+  - octree (quadtree for 2d)
 
 
 ## references

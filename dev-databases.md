@@ -168,6 +168,10 @@
 
 ## key-value stores
 
+- classification
+  - consistency and partition tolerance (cp)
+  - availability and partition tolerance (ap)
+
 - zookeeper
 - etcd
   - quite specific to k8

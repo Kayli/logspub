@@ -28,7 +28,7 @@
   - vscode plugin
 
 
-## programming languages
+## functional programming languages
 
 - classic functional programming [^1]
   - haskell
@@ -64,6 +64,15 @@
       - purity and halting problem: are they even connected?
         - look up termination analysis articles
     - problems: oop paradigms are not supported and fanboys will never admit this is an issue
+  - lisp
+
+- modern fp: closure, fsharp, scala
+
+
+## imperative/hybrid programming languages
+
+- javascript and typescript
+  - don't natively support named function parameters on a call site
 
 
 ## verified compilers
@@ -125,6 +134,9 @@
 
 ## recursion
 
+- base case: a terminating scenario that does not use recursion to produce an answer
+- recursive step: a set of rules that reduces all successive cases toward the base case
+
 - mutual recursion: when more than one function call one another recursively [^4]
 
 
@@ -144,7 +156,26 @@
   - backward compatibility mechanism
 
 
-## misc
+## algorithms
+
+- big O notation
+  - defines worst-case scenario time complexity
+  - non-dominant terms are dropped if they are composed by addition
+    - if your algorithm does something that takes log time and then something that takes linear time, complexity will be linear
+  - you can't drop terms if they are composed by multiplication
+    - if your algorithm does something that takes linear t
+  - examples
+    - constant     O(1)
+    - log:         O(log n)
+    - linear:      O(n)
+    - log-linear:  O(n * log n)
+    - quadratic:   O(n^2)
+    - polynomial:  O(n^const) ???
+    - exponential: O(2^n)
+    - factorial:   O(n!)
+
+- popular ones
+  - binary search
 
 - stable vs unstable sorting algorithms
   - unstable may change order of values with same keys, where stable guarantees initial order

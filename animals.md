@@ -17,6 +17,7 @@
   - starling (скворец, шпак)
   - thrush (дрозд)
     - thrushes are a passerine bird family, turdidae, with a worldwide distribution
+  - junco (юнко)
 
 - turkeys
   - wild turkeys can fly, while domesticated turkeys can't
@@ -42,6 +43,13 @@
 - finch (зяблик, в'юрок)
 - warbler (славка, очеретянка)
 - siskin (чиж)
+
+- woodpecker family (дятел)
+  - downy woodpecker
+  - hairy woodpecker
+  - northern flicker (золотой дятел)
+  - pileated woodpecker (хохлатая желна)
+
 
 ## insects
 

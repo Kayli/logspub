@@ -22,9 +22,15 @@
   - gradle
   - intellij
 
+- there is no easy to use cli to bootstrap a basic command-line (or whatever) apps
+  - there are some web-framework specific tools like 'spring boot' or something like that
+  - had to use ide gui wizards to do basic scaffolding, which is sad
+  - looks like ppl copypasting xmls from internets in order to make shit work? or just use ides wizards
+
 
 ## useful links
 
+- see ./dev-ide.md 'idea' section for ide specifics
 - https://whichjdk.com/
 - https://www.ibm.com/cloud/blog/jvm-vs-jre-vs-jdk
 

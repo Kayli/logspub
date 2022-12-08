@@ -25,10 +25,14 @@
   - model has multiple layers of learned representations, which makes it superior to other models
   - dnns are dominating space, but there are some other ways to do it
 
+- transfer learning
+  - storing knowledge gained while solving one problem and applying it to a different but related problem
+
 
 ## popular libraries
 
 - tensorflow
+  - keras: acts as an interface to a tensorflow library
 - pytorch
 - onnx (pronounced like onyx)
 - sklearn

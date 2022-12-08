@@ -5,6 +5,8 @@
 - cognitive science
   - discipline studying thinking processes of animals, humans and beyond
 
+- intelligence is ability to solve problems, while consciousness is ability to suffer [^6]
+
 
 ## theories of consciousness 
 
@@ -115,8 +117,6 @@
 [^1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
 [^2]: https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
 [^3]: https://www.youtube.com/watch?v=IvqJpeXw2ww&list=PL2VCCjshTuUNjwf2NR52z3wgtMisDnOcJ&index=2
-<<<<<<< HEAD
 [^4]: overthink podcasrt 61 self-knowledge
-=======
-[^4]: john vervaeke ep10 awakening from the meaning crisis 9:13
->>>>>>> fb06df4 ()
+[^5]: john vervaeke ep10 awakening from the meaning crisis 9:13
+[^6]: https://www.youtube.com/watch?v=1rtS2OEV6bM

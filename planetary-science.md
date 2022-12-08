@@ -44,7 +44,16 @@
     - considering that we don't add more junk during that time
 
 
-## geology
+## geology [^2]
+
+- gravel: grain size > 2mm diameter
+- sand: grain size 1/16 - 2 mm diameter
+- silt: grain size 1/256 - 1/16 mm diameter
+- clay
+  - grain size: < 1/256 (< 0.004mm)
+  - synonymous to mud
+  - not a composition of materials, but defined by grain size
+
 
 ### seismology
 
@@ -54,3 +63,4 @@
 ## terms and abbriviatures used
 
 [^1]: iss https://en.wikipedia.org/wiki/International_Space_Station 
+[^2]: https://www.youtube.com/watch?v=csEdTdwhmVI&t=53s

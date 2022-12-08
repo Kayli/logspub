@@ -89,6 +89,10 @@
 - deism
   - god created earth but after that no longer had influence on life
 
+- dionysian mysteries
+  - rituals in acient greece and rome related to consumption of alcohol and psychedelics
+  - inspired christian traditions related to consumption of wine
+
 
 ### islam 24.1%
 

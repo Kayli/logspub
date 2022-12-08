@@ -1,6 +1,11 @@
 # notes about c++ language and related tools
 
 
+## cpp 11
+
+- alternative function declaration syntax with auto and -> (arrow)
+
+
 ## version 20  [^1]
 
 - so now you should write all your module code in .mpp file
@@ -48,3 +53,4 @@
 ## reference
 
 [^1]: https://youtu.be/szHV6RdQdg8?t=1088
+[^2]: https://stackoverflow.com/questions/22514855/arrow-operator-in-function-heading

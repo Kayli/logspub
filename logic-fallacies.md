@@ -37,6 +37,11 @@
 - false attribution fallacy
   - appealing to an irrelevant, unqualified, unidentified, biased or fabricated source in support of an argument
 
+- jingle-jangle fallacies
+  - jingle: two different things are the same because they bear the same name
+    - use of one word to describe multiple phenomena leads to the belief that the multiple phenomena are identical
+  - jangle: two identical or almost identical things are different because they are labeled differently
+
 
 ## interesting resources online
 

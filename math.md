@@ -132,6 +132,9 @@
 
 ## theorem provers
 
+- automatic theorem provers
+  - in general, finding a proof for a given statement is undecidable [^14]
+
 - components of a typical prover
   - theorem: thing we want to prove
   - logic, which is a type theory, e.g. calculus of constructions [^5]
@@ -219,6 +222,12 @@
 - isabelle/hol https://www.youtube.com/watch?v=1nEpUoVopT0
 
 
+## software products
+
+- matlab
+- octave: opensource matlab alternative
+
+
 ## terminology
 
 - qed: quod erat demonstrandum
@@ -252,3 +261,4 @@
 [^11]: https://www.cl.cam.ac.uk/research/hvg/old/HOL/documentation/hol90.7/syntax.html
 [^12]: https://math.stackexchange.com/questions/463362/whats-the-difference-between-theorem-lemma-and-corollary/463365#463365
 [^13]: https://stackoverflow.com/questions/14268749/how-does-structural-recursion-differ-from-generative-recursion
+[^14]: https://youtu.be/Uav5jWHNghY?t=308

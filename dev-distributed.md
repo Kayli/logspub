@@ -312,11 +312,13 @@
 
 ## high availability
 
+- consistent hashing ring algorithm
+  - minimizes number of keys need to be remapped when hash table is resized
+
 - 3 and 5 node clusters make most practical sense [^12]
   - they shouldn't be 
     - too far away from each other: cluster performance may degrade
     - too close to each other: so that disaster is likely to influence only one
-
 
 - cluster synchronozation protocols
   - paxos
@@ -328,6 +330,17 @@
       and it cleanly addresses all major pieces needed for practical systems
   - zab
     - crash-recovery atomic broadcast algorithm for the zookeeper coordination service
+  - gossip
+    - maintains table with memberid and heartbeat counter for every node
+    - periodically sends heartbeat requests to random? nodes in a cluster
+
+- leader election
+  - tbd: define scenarios, determine which cluster sync protocols need to elect a leader
+
+- state synchronization
+  - merkle tree (hash tree)
+    - leafs are usually data blocks
+    - can be viewed as commitment scheme, in which the root of the tree is seen as a commitment and leaf nodes may be revealed and proven to be part of the original commitment
 
 
 ## some techs to uncover

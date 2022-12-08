@@ -45,6 +45,9 @@
 - misorobotics
   - automated cooking? antropomorphic hand is there ... not sure why
 
+- dronedeploy
+  - their product 'rocos' was used by nasa to drive some robots on international space station (iss)
+
 
 ## related mechanics
 
@@ -59,6 +62,17 @@
 - servo motor
 
 
+## solvers
+
+- discrete vs continuous solvers [^8]
+  - simulators are able to produce continuosly evolving states e.g. line/spline trajectory, which can be infinitely divided
+    - such continuous simulation data can provide more information to the solver in order for it to come up with more accurate solution, comparing to discrete simulation
+    - in contrast, realtime mode is always discrete
+
+- implicit vs explicit integration: tbd
+  - implicit methods need some information about the next state of a system in order to solve for current one
+
+
 ## foss libraries
 
 - https://github.com/AtsushiSakai/PythonRobotics
@@ -67,7 +81,17 @@
 - https://github.com/rwaldron/johnny-five
 
 
-## ros (robotic operational system)
+## ros2 (robotic operational system)
+
+- not a real os but just an sdk for robotics
+
+- distributions
+  - rolling ridley: rolling release with latest features
+  - humble hawksbill (latest, as of nov 2022)
+    - released on may 2022
+
+- uses data distribution service (DDS) standard that provides interface to pub-sub middleware implementations 
+- uses colcon tool to manage environments, build and test code in ros
 
 - ros concepts
   - nodes
@@ -79,11 +103,14 @@
     - used for async operations
   - message type
     - type of the message passed to a service
+  - parameter server
+    - communal database
 
+- processes are represented as nodes in a graph structure, connected by edges called topics
  
-- system does not utilize encapsulation principles in order to make system more usable
+- system does not fully utilize encapsulation principles in order to make system more usable
   - focuses attention of users on wrong things
-	- most likely consequences of 
+	- most likely consequences of
 	  - leaky abstractions
 	  - poor design decisions
 	  - backward compatibility constraints
@@ -94,13 +121,49 @@
   - doesn't feel like elegantly designed robotics framework/solution
     - but more like a bunch of students hackery around message bus
 
+- vscode + devcontainer for ros2
+  - https://www.allisonthackston.com/articles/vscode-docker-ros2.html
 
-## data structures typically used
+- simulators
+  - gazeebo
+  - rviz
+
+
+## data structures/algorithms typically used
+
+- tbd: a-star and stuff like that
 
 - octree [^6]
   - tree data structure in which each internal node has exactly eight children
   - often used to partition a three-dimensional space by recursively subdividing it into eight octants
   - python bindings [^7] 
+
+- final state machine (fsm)
+
+- behavior tree
+  - nodes represent tasks
+  - node types
+    - action task
+      - composite action task
+        - fallback (tries among several alternatives)
+        - sequence (list of tasks to be executed)
+    - condition
+      - never in a 'running' state
+      - don't change the world
+  - node states: running, success, failure
+  - execution
+    - tree is 'ticked' repeatedly
+      - meaning system calls tree update method repeatedly
+      - tree updates its state during tick
+      - this ensures fine-grained state change while taking controlled amount of system resources
+    - uses approach somewhat similar to dfs for traversing nodes
+    - if node that we're visiting is in
+      - 'running' state - we just stop traversal till the next tick
+      - 'failed' state - execution continues to a next child of a composite node
+  - advantages
+    - few dependencies between components
+    - modularity
+    - clear graphical representation (as a tree)
 
 
 ## useful commands
@@ -115,6 +178,22 @@
   - to list topics inside ROS container
     > rostopic list
 
+
+## interesting things
+
+- ros is often used with realtime os like rocos
+  - low-level stuff is done in realtime os
+    - joints solver
+    - trajectory following code
+  - higher-level stuff is done in ros
+    - motion planning
+
+- in space you need to plan for radiation
+  - ecc memory modules provide base self-correcting algorithms
+  - 3 machines are used to cross-verify commands
+    - in case of detected error motion-stop command gets issued
+
+
 ## links
 
 - sun and planet gears https://en.wikipedia.org/wiki/Sun_and_planet_gear
@@ -124,4 +203,4 @@
 [^5]: https://octomap.github.io
 [^6]: https://en.wikipedia.org/wiki/Octree
 [^7]: https://github.com/wkentaro/octomap-python
-
+[^8]: https://robotics.stackexchange.com/questions/2148/continuous-or-discrete

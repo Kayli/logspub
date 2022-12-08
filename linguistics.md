@@ -250,7 +250,14 @@
 - swa- 
   - from proto-indo-european *swé (“self”)
 
-- funny phonetic duality: acid house / acid cows
+
+## phonetic similarities
+
+- acid house / acid cows
+- comet / covid / corvid
+- берлиоз / berylliosis
+  - poisoning by beryllium or beryllium compounds, especially by inhalation causing fibrosis of the lungs
+- set alite / satelite
 
 
 ## references

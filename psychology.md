@@ -52,6 +52,18 @@
   - the crime of feeling an emotion that displeases the dictator
   - or not feeling an emotion that pleases the dictator
 
+- guilt: negative evaluation of a specific act or behavior 
+  - guilt-prone individuals engage in restorative behavior
+  - psychologically adaptive function, helping to facilitate resolution
+- shame: negative evaluation of the self [^13]
+  - anger is also directed on the self
+  - shame-prone individuals engage in
+    - denial
+    - unproductive self-rumination
+    - aggressive defences that block positive resolutions
+  - genetically defined instincts based on what appears socially acceptable, not on what is right or true
+    - fear of disapproval
+
 
 ## terms
 
@@ -159,7 +171,7 @@
   
   - umwelt
     - model of the world of a model object, usually some animal
-  
+
   - психогидравлическая модель врожденного поведения по лоренсу
     - вода в модели аналогична химическим сигнальным агентам
     - домашний скворец инициировал охотничье поведение
@@ -185,7 +197,51 @@
   - bullshit
     - goal is to capture attention
     - doesn't have to be a lie
-  
+
+
+## rumination [^14]
+
+- definition
+  - the action or process of thinking deeply about something
+  - a deep or considered thought about something
+
+- morbid form
+  - circling unproductively around negative thoughts
+    - like a deeply scratched vynil record we skip back to the same position looping around same groove
+  - often begins as a coping strategy
+    - person is coping with perceived shortcoming, that itself can be a result of brainwashing/mistreatment
+    - rumination will have a dampening effect on emotions in this case
+    - trades anxiety for depression
+  - not being able to stop, despite promising yourself to do that, results in a feeling of intense powerlessness
+
+- types
+  - concrete
+    - specific details and contexts give a chance to learn from it and move on
+    - systematic focus
+  - abstract
+    - unanswerable questions: possibilities are endless and debilitating (изнуряющие)
+    - broad generalizations: distort information
+      - generalizing to personality trait when failing some task (we become a failure: can't do anything right)
+    - haphazard (random, unsystematic) butterfly focus
+    - individuals become overloaded with unresolved thoughts and feelings
+
+- dealing with thoughts
+  - resist (maladaptive)
+    - causes internal conflict
+    - thought gains power
+    - fearful, fragile position
+  - dismiss
+    - acknowledge its existence
+    - not to give much attention/emotional energy to it
+    - builds towards internal harmony
+    - maintain neutral position
+  - debunk
+    - 'what ifs' are planting anxieties in us that we can't resolve
+      - there is no end to the chain of such unanswerable questions
+    - check for evidence
+  - express
+    - journaling
+    - expressing in words, gestures, symbols
 
 
 ## interesting facts
@@ -203,7 +259,7 @@
   - miRNA много разных видов
   - выброс серотонина - стимулятор воспоминаний (улитка)
 - suffix -osis (-ωσις)
-  - 'diseased' or 'abnormal condition')
+  - 'diseased' or 'abnormal condition'
 
 
 ## references
@@ -220,3 +276,5 @@
 [^10]: https://www.youtube.com/watch?v=kI2hhk77OwA&list=PLf8iQozIdvKjrN720elAZrWya4GCVzjpB&index=3
 [^11]: https://youtu.be/Vx--JL4InJ4?t=687
 [^12]: https://youtu.be/u91ctugBCsg?t=18
+[^13]: https://www.youtube.com/watch?v=kMeehIpxH5k
+[^14]: https://www.youtube.com/watch?v=o1G4JFuLlO8

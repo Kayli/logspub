@@ -5,6 +5,8 @@
 
 - 2.7.18 was the last release of python 2 in april 20, 2020
 
+- cpython is a default state-of-the-art implementation of interpreter written in c
+
 - python does not support
   - function overloading and therefore constructor overloading
   - passing variables by reference for value types
@@ -42,7 +44,12 @@
 
 ## installation
 
-- in some oses pip is not installed by default and python is not mapped to python3
+- if brew is installed
+  > brew install python3
+
+- pip is a default package manager
+  - recursive acronym for "pip installs packages"
+
 - sometimes pip is not installed by default and python is not mapped to python3
   > sudo apt install python3 python3-pip python-is-python3
 
@@ -80,7 +87,14 @@
     >>>  [x for x in fruits if "a" in x]
   - sort in reverse order 
     >>> arr.sort(reverse=True)
-  - useful functions: reversed(), sorted()
+  - slicing syntax sugar
+    - takes elements from initial index (inclusive) to end index (non inclusive) using jump interval
+      >>> mylist[initial:end:jump]
+    - all parameters are optional
+      >>> mylist[:5]
+    - slicing operation has linear time complexity and will create new instance of the list every time
+
+  - useful global functions: reversed(), sorted()
 
 - collections.deque
   - deque (double-ended queue) is represented internally as a doubly linked list
@@ -94,7 +108,7 @@
     > m1 @ m2   # matrix multiplication (__matmul__ method)
 
 - tuple: immutable container
-  > mytup = (1,2,3,4,5)`
+  > mytup = (1,2,3,4,5)
 
 - dict: key/value pairs
   - aka hashmap in java, locates elements by a hash function, needs to be rehashed as it grows
@@ -118,6 +132,7 @@
   - https://pypi.org/project/Linq/
     - c# naming convention, which is strange
     - no support for type hints
+
 
 ## enums
 
@@ -227,8 +242,6 @@
 
 ## debugging
 
-- in vscode: 
-
 - debug adapter protocol (dap) https://microsoft.github.io/debug-adapter-protocol/
 - python implementation of dap https://github.com/microsoft/debugpy
   - run script with debugging server listening on specified port
@@ -246,6 +259,8 @@
   - SystemExit
     - when it is not handled, the python interpreter exits; no stack traceback is printed.
 
+- expecting exception in test
+  >>> with pytest.raises(RuntimeError) as excinfo:
 
 ## automated testing
 
@@ -288,6 +303,7 @@
     --tags ~@skip         # run all tests except ones marked with skipped tag 
 
 - hypothesis
+  - implements concept of property-based testing [^11]
   - augments pytest with test sampling logic
     - decorated functions are called multiple times for every element of sample set
     - values are dynamically injected into a decorated function
@@ -492,6 +508,17 @@
   >>> def __getattr__(self, key):
   >>>   return self.get(key)
 
+- equality operator __eq__
+- comparison operators __lt__, __le__, __gt__, __ge__
+- functools module provides the total_ordering decorator which meant to provide all comparison methods, given that you provide an implementation for at least one of them
+
+
+## type hints
+
+- examples
+  >>> from typing import Iterable
+  >>> list: Iterable[int] = [1, 2, 3]
+
 
 ## messaging
 
@@ -575,16 +602,28 @@
 - trunk https://trunk.io/products/check
 
 
+## history
+
+- was inspired by 'abc' programming language [^10]
+- initially designed by guido van rossum
+
+
 ## misc
 
 - Sequential UUID generator
   > pip install sequential-uuids
 
+- integer division (деление без остатка)
+  >>> 10 // 3
+
 - division + modulo operator (деление с остатком)
-  > quotient, remainder = divmod(10, 3)
+  >>> quotient, remainder = divmod(10, 3)
 
 - convert from base n to int
-  > int('110101', base=2)
+  >>> int('110101', base=2)
+
+- restart vscode language server
+  - issue command in vscode pallete 'python: restart language server'
 
 
 ## references
@@ -598,3 +637,5 @@
 [^7]: https://stackoverflow.com/questions/26021541/how-to-programmatically-create-a-topic-in-apache-kafka-using-python
 [^8]: https://realpython.com/python-wheels/
 [^9]: https://www.reddit.com/r/Python/comments/b5nvvp/pyright_yet_another_alternative_to_mypy_this_time/
+[^10]: https://en.wikipedia.org/wiki/ABC_(programming_language)
+[^11]: https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237

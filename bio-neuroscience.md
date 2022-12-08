@@ -66,6 +66,9 @@
         - anterior cingulate cortex (acc)
           - is the frontal part of the cingulate cortex that resembles a "collar" surrounding the frontal part of the corpus callosum
           - functions: attention allocation, reward anticipation, decision-making, ethics and morality, impulse control (e.g. performance monitoring and error detection), emotion
+      - insular cortex
+        - functions: interoceptive awareness (among many others)
+
       
 
 - midbrain (средний мозг)

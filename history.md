@@ -81,6 +81,24 @@
 - industrial/modern 1800 ce - now
 
 
+## ice ages
+
+- earth's climate alternates between ice ages and greenhouse periods
+  - during greenhouse periods there are no glaciers on the planet
+  - glacials are long, interglacials short
+
+- currently, earth is in an interglacial period
+  - called the holocene epoch beginning 15,000 to 10,000 years ago
+  - this caused the ice sheets from the last glacial period to slowly melt
+
+- at least five major ice ages have occurred throughout earth's history
+  - huronian        2.5 - 2.2 gya
+  - cryogenian      720 - 635 mya
+  - andean-saharan  460 - 420 mya
+  - late paleozoic  360 - 255 mya
+  - quaternary      2.58 mya - now
+
+
 ## holocene
 
 - 11,700 years ago was the world's first historically verifiable revolution in agriculture
