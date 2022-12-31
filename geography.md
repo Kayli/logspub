@@ -22,6 +22,12 @@
   - language: latvian (lettish)
     - balto-slavic branch of the indo-european language family
 
+- iceland
+  - capital: reykjavik
+    - largest city
+  - nordic island country in the north atlantic ocean and in the arctic ocean
+  
+
 
 ## asia
 
@@ -41,6 +47,12 @@
     - более трёх четвертей территории киргизии занимают горы
     - пик победы высота 7439м
     - пик ленина высота 7134м
+
+
+## toponyms
+
+- north africa and sub-saharan africa
+  - regions of the continent of Africa that lies north/south of the sahara
 
 
 ## references 

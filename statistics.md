@@ -113,13 +113,11 @@
       - center
         - median: an area to the left of the median equals to the area to the right
         - mean: simply an average
+      
       - spread
+        - mean absolute deviation, MAD
         - standard deviation
-          - alternative names: sd, sigma, среднеквадратичное отклонение
-          - most natural measure of spread
-        - variance 
-          - alternative names: sigma^2, дисперсия
-          - has the additive property when dealing with random variables [^6]
+        - variance
         - interquartile range (iqr)
           - equals to q3-q1 or 1.349 sigma
       - outliers
@@ -144,6 +142,20 @@
     - is another measure of spread
     - means how spread out middle 50% of our data is
 
+- spread
+  - mean absolute deviation, MAD
+    - it corresponds to "real life" much better than sd
+    - is more accurate in sample measurements
+    - less volatile than STD since it is a natural weight whereas standard deviation uses the observation itself as its own weight, imparting large weights to large observations, thus overweighing tail events
+    - most natural measure of spread
+
+  - standard deviation
+    - alternative names: sd, sigma, среднеквадратичное отклонение
+    - variance = 1/N * sum((x - mean)^2)
+  - variance 
+    - alternative names: sigma^2, дисперсия
+    - has the additive property when dealing with random variables [^6]
+        
 - bell shaped distribution
   - empirical rules
     - 68% of the data lies within 1sd from the mean

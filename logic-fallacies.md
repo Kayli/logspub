@@ -42,6 +42,9 @@
     - use of one word to describe multiple phenomena leads to the belief that the multiple phenomena are identical
   - jangle: two identical or almost identical things are different because they are labeled differently
 
+- barnum effect
+  - is a common psychological phenomenon whereby individuals give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically to them, yet which are in fact vague and general enough to apply to a wide range of people
+
 
 ## interesting resources online
 

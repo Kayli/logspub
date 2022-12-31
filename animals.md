@@ -50,6 +50,15 @@
   - northern flicker (золотой дятел)
   - pileated woodpecker (хохлатая желна)
 
+- ducks
+  - barrow's
+
+- geese
+  - canada goose
+
+- parts of body/plumage
+  - nape (затылок)
+
 
 ## insects
 

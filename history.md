@@ -8,10 +8,16 @@
   - parallel sources describing same events
   - archeological findings
 
+- first radioactive dating method
+  - carbon 14 dating
+    - pioneered by williard libby in late 1940s
+    
+
 
 ## beginnings
 
 - universe is 13.7 billion years old
+- first stars 12 billion years ago
 - milkyway is 13.51 billion years old
 - solar system 4.6 billion years old
 - earth 4.543 billion years old

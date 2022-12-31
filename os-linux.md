@@ -314,6 +314,10 @@
 - ranger https://github.com/ranger/ranger
 
 
+## building linux from scratch
+
+- https://habr.com/ru/company/ruvds/blog/702570/
+
 
 ## references
 

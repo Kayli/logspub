@@ -52,8 +52,6 @@
   - example: animal farm by george orwell is a political allegory pertaining to the russian revolution of 1917 and the rise of communism
 
 
-
-
 ## digital literacy
 
 - students are often taught literacy skills such as how to verify credible sources online, 

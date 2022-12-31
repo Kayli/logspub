@@ -24,6 +24,8 @@
   - corollaries
     - something that follows trivially from any one of a theorem, lemma, or other corollary
 
+- factorial: n * (n - 1)
+
 
 ## set theory
 

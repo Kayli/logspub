@@ -30,6 +30,10 @@
   - minimum number of team members that have to suddenly disappear from a project before 
     the project stalls due to lack of knowledgeable or competent personnel
 
+- types of technical managers
+  - technical leader: leading a team with technical decisions
+  - engineering manager: leading in both technical decisions and people management
+
 
 ## communication
 

@@ -49,6 +49,9 @@
   - periphery: cheap labor and raw materials (ресурсное государство)
 
 
+## prices
+
+- the price of oil influences about 65% of food prices [^2]
 
 
 ## books to consider reading
@@ -78,3 +81,4 @@
 
 [^1] https://www.quora.com/What-is-the-difference-between-a-monopoly-and-a-quasi-monopoly
 [^4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
+[^2]: https://www.visualcapitalist.com/inflation-rising-food-energy-prices-impact-economy/

@@ -137,6 +137,7 @@
 - base case: a terminating scenario that does not use recursion to produce an answer
 - recursive step: a set of rules that reduces all successive cases toward the base case
 
+- driver function: provides interface for algorithm and hides parameters needed for recursive calls
 - mutual recursion: when more than one function call one another recursively [^4]
 
 
@@ -154,32 +155,6 @@
 - surrogate pair
   - for UTF-16, a "surrogate pair" is required to represent a single supplementary character
   - backward compatibility mechanism
-
-
-## algorithms
-
-- big O notation
-  - defines worst-case scenario time complexity
-  - non-dominant terms are dropped if they are composed by addition
-    - if your algorithm does something that takes log time and then something that takes linear time, complexity will be linear
-  - you can't drop terms if they are composed by multiplication
-    - if your algorithm does something that takes linear t
-  - examples
-    - constant     O(1)
-    - log:         O(log n)
-    - linear:      O(n)
-    - log-linear:  O(n * log n)
-    - quadratic:   O(n^2)
-    - polynomial:  O(n^const) ???
-    - exponential: O(2^n)
-    - factorial:   O(n!)
-
-- popular ones
-  - binary search
-
-- stable vs unstable sorting algorithms
-  - unstable may change order of values with same keys, where stable guarantees initial order
-  - starts to matter when you sorting objects
 
 
 ## useful resources

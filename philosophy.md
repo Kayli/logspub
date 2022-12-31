@@ -124,6 +124,10 @@
   - pragmatic
     - idea has to be practicaly useful
     - has to have power to change the world 
+    - subtypes
+      - untilitarian
+      - personal (nitzsche)
+        - ideal human, uberman
   - semantic (tarski theory of truth)
     - idea has to conform to a statement (sentense) expressed in some fixed language
     - axioms define initial truth statements 

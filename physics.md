@@ -193,6 +193,11 @@
     - or, equivalently, the magnitude of the negative electric charge carried by a single electron
       - which has charge −1 e
 
+- general relativity takes into account the effects of gravity, while special relativity does not
+
+- time and gravity
+  - clock slows down getting closer to the source of gravitation and vice versa
+
 
 ## astrophysics
 

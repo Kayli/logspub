@@ -21,12 +21,6 @@
   - python ast docs https://greentreesnakes.readthedocs.io/en/latest/
   - command-line utility for querying Python ASTs using XPath syntax https://github.com/hchasestevens/astpath
 
-- generator functions, async io, coroutines
-  - coroutine is a specialized version of a Python generator function
-  - at the heart of async IO are coroutines
-  - asyncio.sleep() is used to stand in for a non-blocking call instead of time.sleep()
-  - async def/await syntax since python 3.5 is preferred to older decorator syntax for coroutines
-
 - readonly class declaration
   - assign decorator to a class: @dataclass(frozen=True)
 
@@ -93,19 +87,24 @@
     - all parameters are optional
       >>> mylist[:5]
     - slicing operation has linear time complexity and will create new instance of the list every time
-
+  - filtering
+    - using filter function with lambda 
+      >>> seq = [1,2,3,4,5]
+      >>> odd = filter(lambda p : p%2 != 0, seq)
   - useful global functions: reversed(), sorted()
 
 - collections.deque
   - deque (double-ended queue) is represented internally as a doubly linked list
 
 - set: used to store unordered unique elements, supports intersection operators and alike
-  > myset = {1,2,3,4,5}
+  >>> myset = {1,2,3,4,5}
+  >>> emptyset = set()
+  >>> set2 = set((1,2,3))
   - operators
     > a | b     # union
     > a & b     # intersection
     > a ^ b     # symmetric difference: elements that are in one set or in other but not in both
-    > m1 @ m2   # matrix multiplication (__matmul__ method)
+    
 
 - tuple: immutable container
   > mytup = (1,2,3,4,5)
@@ -147,7 +146,37 @@
 ## loops
 
 - simple 'for' loop with index
-  > for x in range(6): print(x)
+  >>> for x in range(6): print(x)
+
+- enumerate array with index
+  >>> for count, value in enumerate(['a', 'b', 'e']):
+        print(count, value)
+
+
+## generator functions, async io, coroutines
+
+- generator function
+  - enables lazy evaluation
+  - implemented using 'yield' keyword
+  - create generator object and defer execution of a function until next(gen) is called
+
+- coroutine is a specialized version of a python generator function
+- at the heart of async io are coroutines
+- asyncio.sleep() is used to stand in for a non-blocking call instead of time.sleep()
+- async def/await syntax since python 3.5 is preferred to older decorator syntax for coroutines
+
+
+## inheritance, oop
+
+- overloading a function of a parent class
+  - happens automatically
+    - class functions are virtual by default
+    - just match function name and parameters
+  - use super() to access base class function
+
+- it is possible to override module functions using 
+  - single dispatch:    @functools.singledispatch and type annotations
+  - multiple dispatch:  multipledispatch package
 
 
 ## file system
@@ -506,10 +535,13 @@
 
 - to overload dot operator define dunder method in class definition
   >>> def __getattr__(self, key):
-  >>>   return self.get(key)
+        return self.get(key)
 
 - equality operator __eq__
 - comparison operators __lt__, __le__, __gt__, __ge__
+- matrix multiplication __matmul__
+  >>> m1 @ m2
+
 - functools module provides the total_ordering decorator which meant to provide all comparison methods, given that you provide an implementation for at least one of them
 
 
@@ -538,7 +570,7 @@
   - wheel distribution
     - prebuilt, therefore a faster one to install using pip
     - created with the following command
-      >  python setup.py bdist_wheel
+      > python setup.py bdist_wheel
     - wheel types
       - pure-python wheel
       - platform wheel
@@ -553,6 +585,7 @@
     > 
   - build wheel
     > python3 setup.py bdist_wheel
+
 
 ## advanced features
 

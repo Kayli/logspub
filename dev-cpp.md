@@ -50,6 +50,11 @@
   - 404 stars
 
 
+## interesting stuff
+
+- cpp2: cppfront transpiler https://github.com/hsutter/cppfront
+
+
 ## reference
 
 [^1]: https://youtu.be/szHV6RdQdg8?t=1088
