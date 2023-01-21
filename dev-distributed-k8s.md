@@ -280,6 +280,16 @@
   - uses 'rego' dsl to define logic for policies
 
 
+## probes
+
+- kubelet uses probes to assess state of container
+- types of probes
+  - startup: to know when a container application has started
+  - readiness: to know when a container is ready to start accepting traffic
+  - liveness: to know when to restart a container if its unresponsive
+
+
+
 ## gitops or infrastructure as code (iac)
 
 - gitlab via
@@ -297,6 +307,14 @@
 
 - some additional info
   - https://medium.com/style-theory-engineering/infrastructure-as-code-kubernetes-a2f050389f26
+
+
+## logs
+
+- kibana + elastic search
+  - has snapshot/restore to different backends (S3, GCS, Azure)
+- fluentd (unification)
+- loki
 
 
 ## tools to consider

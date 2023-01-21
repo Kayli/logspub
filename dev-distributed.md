@@ -171,6 +171,7 @@
       - run in 'append only file' mode with fsync at every query to provide stong guarantees
   - key-value store
     - use to store shared configuration
+  - telemetry: zipkin, open telemetry
 
 
 ## rpc/apis

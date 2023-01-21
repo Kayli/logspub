@@ -2,26 +2,91 @@
 
 ## basics
 
-- as of may 17, 2022
-  - c# latest version is 10 
-  - dotnet latest version is 6.0 (recommended), 7.0 (in preview)
-  - ide latest version: visual studio 2022
+- latest versions as of jan 13, 2023
+  - csharp 11 released in November 2022
+  - dotnet 7.0 released in January 2023
+  - visual studio 2022 ide
+
+- important legacy versions
+  - .net framework 4.8.1 released in August, 2022
+    - preinstalled on windows 11
+  - no longer officially supported
+    - .net framework 3.5, 4, 4.5, 4.6, 4.7
+    - .net core 2.1, 3.1, 5
+  - visual studio: 2013, 2015, 2017, 2019
+
+- 2014, Microsoft introduced .net core as a cross-platform, open-source successor to .net framework
+  - .net core through version 3.1, next version was named .net 5
+
+- roslyn compiler services
+  - provide extensibility model for compiler
+  - allows custom extensions for c# language
 
 
-## installation on debian
+## auth
 
-- add the following lines to your .profile file
-  > export PATH=$PATH:/home/illiak/.dotnet
-  > export DOTNET_ROOT=/home/illiak/.dotnet
+- common standards
+  - openid connect
+  - oauth
+
+- implementations
+  - microsoft 
+    - identity platform
+      - collection of azure services that enables developers to build secure and scalable identity solutions 
+      - built on top of Azure AD 
+      - provides additional capabilities such as 
+        - token-based authentication and API access control
+        - supports third-party identity providers like twitter, google, amazon, etc.
+    - azure active directory (free below 50k monthly active users)
+      - supports multifactor
+    - msal - client authentication libraries, support different programming platforms
+  - openiddict
+  - identityserver6 (ex identityserver4, now supported by duende)
+  - ikeycloak, sponsored by redhat
+  - auth0
+
+
+## .net (ex core)
+
+- cross-platform, opensource
+
+- why latest versions of .net are faster
+  - improvements related to new processor extensions and alike are not backported to .net framework
+  - related mostly to computation-heavy tasks, io-bound operations will be likely the same
+
+- comes as a collection of nuget packages
+  - can be trimmed down even further using optimization flag: PublishTrimmed
+
+- no support for remoting, app domains or code access security
+  - instead it is recommended to simply run untrusted code in a separate process
+  - in the future
+    - you will have WebAssembly and wasi
+    - those new apis are experimental as of mid 2022
+
+
+## .net 7, csharp 11
+
+- app trimming improvements based on actual usage
+- simplified tar file management
+- high precision support for datetime: nanoseconds added
+- simplified linq sorting with Order() for primitive types and ones implementing IComparable
+- multiline sting interpolation
+- blazor lists (scroll) virtualization added, to speed up rendering
+- static abstract interface members
+  - allow each implementing member of an interface to implement their version of a static member
+- INumber<T> can be used as generic constraint to enable arithmetic on T
+- 'required' keyword for properties
+
+
+## .net 6
+
+- startup.cs was eliminated from web projects
+
+
+
 
 
 ## new language features [^1][^2]
-
-- csharp 11
-  - static abstract interface members
-    - allow each implementing member of an interface to implement their version of a static member
-  - INumber<T> can be used as generic constraint to enable arithmetic on T
-  - 'required' keyword for properties
 
 - csharp 10 and earlier
 
@@ -130,7 +195,22 @@
   > dotnet new --list
 
 
+## async/await
+
+- one way to return result from asynchronous method
+  > var data = new { myprop = "something" };
+  > return Task.FromResult(data);
+
+
 ## interop
+
+- using dotnet framework assemblies from dotnet core
+  - no, unless 
+    - your assembly is multiplatform
+    - targets netstandard or netcoreapp
+    - using 'compatibility shim', with which there is no guarantee that code will work
+  - your multiplatform code will likely end up with a bunch of #ifdefs
+  - warning: adding a .net standard 2.0 library to a v4.6.1 framework applications bloats the runtime by an extra 97 DLLs
 
 - with python
   - pythonnet https://github.com/pythonnet/pythonnet
@@ -139,10 +219,50 @@
   - ironpython: microsoft abandoned it (and its sister project IronRuby) in late 2010
 
 
+## dependency injection
+
+- application builder simplifies registration of typical components like controllers
+- .NET provides a built-in service container, IServiceProvider [^4]
+  - services are typically registered at the app's start-up and appended to an IServiceCollection
+  - once all services are added, you use BuildServiceProvider to create the service container
+
+
+## webapi
+
+- support for openapi (new name for swagger since 2016)
+  - schema can be defined as .json or .yaml, but there is no difference in functionality
+
+- supports api versioning
+  - by adding versioning nuget package: integrates into startup plumbing easily
+
+
 ## asp.net
 
 - for asp.net applications the default stack size is only 256k, comparing to 1mb for desktop app
   - can be changed in the PE header
+
+
+## web servers
+
+- iis/iis express
+  - log, request tracking, reverse proxy, server farm
+  - rich functions for tracing/logging allow better debugging experience
+
+- kestrel
+  - lightweight server
+  - can run under user account (no need for admin elevation)
+  - uses a new request pipeline with ASP.NET Core (instead of old iis HTTP modules & handlers)
+  - typical scenario: reverse proxy behind iis
+
+
+## scripting support
+
+- csx files can be made executable 
+  - dotnet script tool is installed
+    > dotnet tool install -g dotnet-script
+  - for unix: when script contains following shebang: #!/usr/bin/env dotnet-script
+
+- https://ttu.github.io/dotnet-script/
 
 
 ## useful tools
@@ -150,8 +270,22 @@
 - dotnet fiddle online compiler with .net 6 support: https://dotnetfiddle.net
 
 
+## support models
+
+- short term support (sts): 18 month
+- long term support (lts): 3 years
+
+
+## installation on debian
+
+- add the following lines to your .profile file
+  > export PATH=$PATH:/home/illiak/.dotnet
+  > export DOTNET_ROOT=/home/illiak/.dotnet
+
+
 ## references
 
 [^1]: https://www.youtube.com/c/Elfocrash
 [^2]: https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10
 [^3]: https://docs.microsoft.com/en-us/dotnet/core/deploying/trimming/trim-self-contained
+[^4]: https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection

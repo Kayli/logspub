@@ -245,6 +245,8 @@
 - causal bayesian network
 - structural equation modelling
 
+- projects
+  - http://dagitty.net allows to draw and analyse causal diagrams
 
 
 

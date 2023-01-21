@@ -51,11 +51,31 @@
   - is the representation of abstract ideas or principles by characters, figures, or events in narrative, dramatic, or pictorial form
   - example: animal farm by george orwell is a political allegory pertaining to the russian revolution of 1917 and the rise of communism
 
+- allusion
+  - a figure of speech, in which an object or circumstance from unrelated context is referred to covertly or indirectly
+  - it is left to the audience to make the direct connection
+  - antonym: reference (where the connection is directly and explicitly stated by the author)
+
 
 ## digital literacy
 
 - students are often taught literacy skills such as how to verify credible sources online, 
   cite websites, and prevent plagiarism
+
+
+## ancient greece mythology
+
+- sword of damocles
+  - allusion to the imminent and ever-present peril faced by those in positions of power
+
+- sisyphus: a guy rolling a rock
+- tantalus: was condemned to stand beneath fruit-laden branches, up to his chin in water
+
+- apollo: god of oracles, healing, archery, music and arts, sunlight, knowledge
+
+- dionysus
+  - god of wine, specifically its intoxication and social influence
+  - patron of agriculture and the theater
 
 
 ## references

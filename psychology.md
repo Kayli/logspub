@@ -244,6 +244,13 @@
     - expressing in words, gestures, symbols
 
 
+## iq
+
+- means 'intelligence quotient'
+- original formula: (mental_age / chronological_age) * 100
+- yield normal distributions when large representative population sample is tested
+
+
 ## interesting facts
 
 - сумчатая мышь https://youtu.be/USFhhovkurE?t=4943

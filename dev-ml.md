@@ -8,9 +8,25 @@
     - deals with labeled data and training sets
   - unsupervised learning
     - uncovering hidden structures in unlabeled data
+    - likely clustering algorithms
   - reinforcement learning
     - agent interacting over time with its environment to achieve a goal
     - tasks that RL focuses on: sensation, action, goal
+    - state: is a formalism that represents the state of the world, i.e. what the agent's idea of the world is
+    - policy: maps states to actions, where action is what action it should take in that state
+
+- phases
+  - training
+  - validation/test
+  - application
+
+- dataset types
+  - training (60%): used to train the model, learning its parameters
+  - validation (20%)
+    - used to tune the model, learning its hyper-parameters 
+    - is used to estimate prediction error for model selection
+    - uses separate dataset to avoid overfitting??
+  - test (20%): used to access quality of the model
 
 - data augmentation in pattern recognition
   - altering input data by introduction of small transformations/disturbances
@@ -39,6 +55,7 @@
   - built on NumPy, SciPy, and matplotlib
 - nextflow
   - dockerized pipeline for scientific data processing tasks
+
 
 ## books to consider
 
@@ -70,6 +87,9 @@
 - matrix/tensor multiplication operator
   > m1 @ m2   # matrix multiplication (__matmul__ method)
 
+- dot product 
+  - algebraically, it is the sum of the products of the corresponding entries of the two sequences of numbers
+
 
 ## speech to text
 
@@ -90,3 +110,10 @@
     > model = whisper.load_model("base")
     > result = model.transcribe("opto_sessions_ep_69_excerpt.wav")
     > print(result["text"])
+
+
+## software
+
+- https://midjourney.gitbook.io/docs/
+  - offers a discord midjourney bot, which you can use to generate images
+  - there is a free plan as well as paid subscription

@@ -58,12 +58,16 @@
 - forebrain (передний мозг)
   - cerebrum (конечный мозг)
     - cerebral cortex
+      - frontal lobe
+        - dominant (usually left) hemisphere
+          - broca's area: speech production
+      - parietal lobe
       - temporal lobe (side)
         - olfactory cortex, sense of smell
       - occipital lobe (back)
         - visual cortex
-      - cingulate cortex
         - anterior cingulate cortex (acc)
+      - cingulate cortex (ususally hidden between hemispheres)
           - is the frontal part of the cingulate cortex that resembles a "collar" surrounding the frontal part of the corpus callosum
           - functions: attention allocation, reward anticipation, decision-making, ethics and morality, impulse control (e.g. performance monitoring and error detection), emotion
       - insular cortex

@@ -42,10 +42,9 @@
 ## foss cloud solutions
 
 - openstack
+  - developer: Rackspace Hosting and NASA (original founders according to from wikipedia)
   - written in: python
   - supported by the "open infrastructure foundation" (openinfra foundation)
-    - wikipedia says that original founders are Rackspace Hosting and NASA
-  - website feels like a marketing blob vaguely explaining how to configure services in a cloud
   - root repository https://github.com/openstack/openstack
 
 - openshift
@@ -60,6 +59,14 @@
 
 
 ## azure cloud platform
+
+- azure compute services
+  - virtual machines
+  - app service
+  - container instances
+  - kubernetes services (aks)
+  - functions
+  - virtual desktop
 
 - azure data services 
   - sql database/sql managed instance
@@ -94,6 +101,7 @@
     - hosted git
     - pipelines
     - agile board
+    - scheduled for deprecation
   - github
     - hosted git
     - actions (pipelines)
@@ -107,53 +115,6 @@
 ## microsoft outlook web
 
 - unable to copy my own email address to a clipboard from the web page
-
-
-## google cloud platform
-
-- set default parameters
-  > gcloud config set compute/zone us-west1-a
-
-- get list of containers
-  > gcloud container images list --repository="gcr.io/deeplearning-platform-release"
-
-- manage GCP compute instances within free tier defaults
-  - create new instance
-    > gcloud compute instances create vm01 --image-project debian-cloud --image-family debian-11 --machine-type=e2-micro
-  - create new instance based on a docker image (only images hosted on gcr are supported)
-    > gcloud compute instances create-with-container <instance-name> --container-image <image-name> --machine-type=e2-micro
-  
-  > gcloud compute instances list
-  > gcloud compute instances start <name>
-  > gcloud compute ssh <name>
-  > gcloud compute instances delete <name>
-
-- google cloud doesn't provide an easy solution to backup/restore vm instances
-  - you can only make a snapshot of disks attached to instances
-
-- to connect with external ssh client
-  - generate ssh key on your client machine
-    > ssh-keygen -t ed25519 -C "<comment>"
-  - copy public key and save as a file in a cloud shell terminal
-  - add public key from cloud shell terminal
-    - gcloud compute os-login ssh-keys add --key-file=<your_pubkey_file>
-  - connect to gcp machine using one of the following commands
-    > gcloud compute ssh <name>
-    > ssh <username>@<public_ip_address>
-  - if you still can't connect, try populating ssh config on your local machine automatically
-    > gcloud compute config-ssh 
-
-- manage firewall
-  - create new rule to allow all inbound traffic for all instances
-    > gcloud compute firewall-rules create allow-all --direction=INGRESS --action=ALLOW --priority=500 \
-        --project=rock-module-342604 --network=default --rules=all
-  - disable/enable rule
-    > gcloud compute firewall-rules update allow-all --disabled --project=rock-module-342604
-    > gcloud compute firewall-rules update allow-all --no-disabled --project=rock-module-342604
-
-- costs
-  - free tier: one e2-micro instance
-  - machine image $0.05 gb/month (typical debian image is about 10GB)
 
 
 ## aws
@@ -170,11 +131,9 @@
     - runs on ephemeral containers behind the scenes
     - it is possible to set concurrency limits on individual aws lambda functions
 
-- impressions
-  - aws console url duplicates region in domain name as well as in parameter
-    - i'm sure there is an elaborate explanation why it is this way, but its not elegant
-  - ec2
-    - filter by instance id is not working
+- data
+  - s3
+  - redshift: big data analysis platform (etl, bi, reports)
 
 
 ## vendor neutral
@@ -199,9 +158,23 @@
   - this will introduce risks and may force ppl to adopt closed-source github and azure pipelines instead of staying foss
 
 
+## serverless
+
+- definition
+  - cloud computing execution model 
+  - in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers
+
+- usually contrasted with traditional styles, such as microservices or monoliths
+
+- devs are not concerned with
+  - capacity planning, configuration, management, maintenance, fault tolerance
+  - scaling of containers, VMs, or physical servers
+
+
 ## terminology
 
 - rds: relational database service
+
 
 
 ## references

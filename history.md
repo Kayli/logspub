@@ -11,7 +11,6 @@
 - first radioactive dating method
   - carbon 14 dating
     - pioneered by williard libby in late 1940s
-    
 
 
 ## beginnings
@@ -211,7 +210,7 @@
   - англосаксы и рождение англии https://www.youtube.com/watch?v=jQtj8uANmIE
   - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
 
-- 1830 отмена рабства
+- 1830 abolition of slavery
 
 
 ## india

@@ -14,3 +14,11 @@
   - more than half of the cluster nodes lose connection with the cluster, resulting in quorum loss
     - cluster recovery process may be involved
     - it better be automated and tested beforehand
+
+
+## performance testing
+
+- load testing: performance assessment under given average load
+- stress testing: system stability under extreme conditions
+- soak testing: reliability over a longer period of time
+- spike Testing: simulates huge spike of load on a very short period of time

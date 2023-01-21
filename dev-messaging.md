@@ -46,7 +46,7 @@
 
 ## enterprise integration patterns
 
-- core patterns
+- integration styles
   - file transfer
   - shared database
   - remote procedure invocation

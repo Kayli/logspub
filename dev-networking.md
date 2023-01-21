@@ -70,6 +70,25 @@
     > ssh -L 127.0.0.1:80:client.example.com:80 remote.example.com
 
 
+## tls
+
+- ssl (secure sockets layer) is now considered deprecated, tls is used instead
+- uses port 443
+- latest version is 1.3
+- since tls 1.2 https is faster than http
+- tls 1.3 improvements
+  - handshake can now be accomplished with a single roundtrip and enables zero roundtrip resumption (0-RTT)
+
+- handshake
+  - tls handshake enables the tls client and server to establish the secret keys with which they communicate
+  - both symmetric and asymmetric keys are used
+  - public key from server is used to encrypt message from client
+    - this message contains symmetric key that server should use to form a response
+
+- termination
+  - the process of decrypting encrypted traffic before passing it along to a web server
+
+
 ## todo
 
 - subnetting

@@ -9,6 +9,11 @@
 - container registry
   - is used to store containers and deploy them into different environments
 
+- iac: infrastructure as code
+- gitops: applying iac best practice of having git repo as a single source of truth 
+  - push model: using pull request and going through ci/cd pipeline to propagate changes
+  - pull model: monitoring some branches and propagating changes automatically as soon as they appear
+
 
 ## gitlab
 

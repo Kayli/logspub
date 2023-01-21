@@ -207,6 +207,11 @@
   - export to latex
   - supports matplotlib backend
 
+- automatic differentiation
+  - https://en.wikipedia.org/wiki/Automatic_differentiation
+  - makes it possible to invent and implement new neural network architectures without doing any calculus 
+    - according to Andrew Ng, in his 'How to Build Your AI Career' book
+
 
 ## recursion [^13]
 

@@ -8,8 +8,19 @@
   - generic: no competitive advantage and high entry barrier, can reuse existing third-party solution
   - supporting: no competitive advantage and low entry barrier, can be outsourced
 - bounded context (bc)
+  - subdomain implementation
 - entity
 - repository
+- context map: reflects relationships of entities, bcs and alike
+  - utilizes ubiquitous language
+  - shows relationships between different bcs
+    - inide every bc shows entities belonging to it
+  - shows anticorruption layers
+
+- event storming
+  - process that allows to outline dynamic nature of key application scenarios
+  - helps to facilitate the collaboration between domain experts and engineers
+
 
 ## examples of subdomains [^1]
 

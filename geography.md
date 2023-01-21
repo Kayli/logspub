@@ -55,6 +55,18 @@
   - regions of the continent of Africa that lies north/south of the sahara
 
 
+## paleogeography
+
+- continental drift theory
+  - proposed by alfred wegner 1912
+
+- major supercontinents
+  - kenorland         2.7 - 2.5 bya
+  - columbia (nuna)   1.8 - 1.4 bya
+  - rodinia           1.26 - 0.90 bya
+  - pangea            335 - 200 mya
+
+
 ## references 
 
 [^1]: https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F
