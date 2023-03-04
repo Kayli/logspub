@@ -78,6 +78,15 @@
   - patron of agriculture and the theater
 
 
+## poetry
+
+- limerick
+  - is a form of verse, usually humorous and frequently rude
+  - in five-line, predominantly with a strict rhyme scheme of AABBA
+    - in which the first, second and fifth line rhyme
+    - while the third and fourth lines are shorter and share a different rhyme
+
+
 ## references
 
 [^1]: wikipedia + improvisation

@@ -319,6 +319,14 @@
 - https://habr.com/ru/company/ruvds/blog/702570/
 
 
+## parallelism model
+
+- implemented using 'task' abstraction
+  - there are no internal structures implementing processes or threads
+  - instead there is a struct task_struct that describe an abstract scheduling unit called task
+- forking horror stories
+  - if a process forks with an open mysql connection, bad things happen, as the socket is shared between two processes. Even if only one process uses the connection, the other stops it from being closed
+
 ## references
 
 [^1]: https://superuser.com/questions/118642/recursive-filesystem-notifications-inotify-for-ubuntu-karmic-koala

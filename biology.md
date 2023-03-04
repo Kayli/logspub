@@ -26,12 +26,16 @@
   - level 4 or 5: apex predators
 
 - 5.95 * 10^39 bacteria that ever lived [^4]
-- 1.33 * 10^50 number of atoms comprising all of planet earth [^4]
+- for comparison: 1.33 * 10^50 number of atoms comprising all of planet earth [^4]
 
 
 ## cells  [^2]
 
 - cell: basic structural and functional unit of life form
+- mostly composed of proteins
+  - ≈55% of the cell dry weight, followed by RNA at ≈20%, Lipid at ≈10% and DNA at ≈3%
+  - 6.8 * 10^495 protein variations for an average-sized protein of 375 aminoacids long
+  
 
 - cell types
   - by structural advancement

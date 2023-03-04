@@ -69,12 +69,30 @@
   - virtual desktop
 
 - azure data services 
-  - sql database/sql managed instance
+  - sql
+    - sharding is possible using elastic client library and shard map manager
+  - sql managed instance
   - analysis services [^2]
     - tabular data model: in-memory table, highly compressed
   - synapse
     - for big data, sharding
+  - table storage (nosql)
+    - up to 500tb in rows per table
+    - write performance: up to 2k rows/second at 1kb/row per table (20k per account)
+    - entity
+      - is essentially a table row
+      - set of properties and values
+      - up to 1mb of data
+      - max 255 properties
+      - always present properties: partition key, rowkey, timestamp
+    - one region with optional secondary read region
   - cosmos db (many different apis to access same data)
+    - table storage api
+      - 10mops per second per table
+      - multiregion 30+
+      - automatic indexing
+  
+  
   - hdinsight (kafka, hbase, hadoop mapreduce)
   - databricks
   - data factory - etl, transforming and moving data around

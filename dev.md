@@ -112,7 +112,9 @@
   - intellij idea: java
   - fleet: in public preview as of oct 2022, polyglot ide
 
+- windows: HxD hex editor
 - unix: vim, emacs
+
 
 
 ## software testing

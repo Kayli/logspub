@@ -86,6 +86,16 @@
   - only leaf nodes have pointers to data, so every leaf node key has a pointer
   - keys from parent nodes are copied to children
   - leaf nodes are connected, like a linked list
+  - reads and writes are log(n)
+
+- bloom filter
+  - 'contains element' operation
+    - can answer: probably yes, definitely no
+    - which means that false positives are possible, false negatives are not allowed
+  - you can never remove an item from a bloom filter
+  - implementation
+    - multiple hashes are mapping element to flags array
+    - all hashes need to refer to 'true' value in flags array in order to consider element probably present 
 
 
 ## asymptotic analysis

@@ -28,6 +28,22 @@
       listens on 0.0.0.0, it will be reachable at both of those IPs
 
 
+- routing schemes
+  - unicast: one to one
+  - anycast: one to one of many
+  - broadcast: one to many
+  - multicast: one to some of many
+
+## http
+
+- http1: uses tcp, requires spearate tcp connection for every request
+- http2: uses tcp, introduced http streams, so multiple streams can be used in the same connection
+- http3: 
+  - uses udp + quic
+  - uses connection id to speed-up switching between different networks on mobile devices
+
+- parts: protocol, hostname, path, resource, query string
+
 ## check for open ports
 
 - local machine

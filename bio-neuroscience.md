@@ -2,6 +2,7 @@
 
 ## basics [^3]
 
+
 - study of the mind as an empirical epistemology
   - helps to understand the origins and limitations of human knowledge
 
@@ -73,8 +74,6 @@
       - insular cortex
         - functions: interoceptive awareness (among many others)
 
-      
-
 - midbrain (средний мозг)
   - referred as limbic system
   - functions: vision, hearing, motor control, sleep and wakefulness, arousal (alertness), and temperature regulation
@@ -93,6 +92,11 @@
   - hypothalamus
     - drives for sex, food, thirst
   - hippocampal complex
+    - hippocampus
+      - short term memory, морской конек
+      - original task related to creation of a space map
+      - navigation
+      - other specializations evolve later
     - memory?
   - cingulate cortex
 
@@ -171,14 +175,15 @@
   - playing an important role in arousal, attention, memory and motivation
 
 - catecholamines
+  - dopamine
+    - forces us to seek out social interactions of a certain kind
+
   - epinephrine (adrenaline), norepinephrene (noradrenaline)
     - may cause higher ventilation, higher heart rate, sweating
     - acts on the alpha- and beta-adrenoreceptors 
       - in the muscles, lungs, heart, and blood vessels
     - cold water exposure for 1-5 mins reliably increases its levels
-
-  - dopamine
-    - forces us to seek out social interactions of a certain kind
+    - epinephrine (adrenaline) is made from dopamine
 
 - serotonin
   - satisfaction with what we have already

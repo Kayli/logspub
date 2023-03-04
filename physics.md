@@ -6,7 +6,7 @@
 - 10^21 stars and 10^82 atoms in the observable universe
 - 10^21 molecules in a drop of water
 - the brain has about 10¹¹ neurons and 1.8-3.2 x 10¹⁴ synapses
-    
+
 
 ## si system
 
@@ -36,6 +36,27 @@
   - contact: pressure, traction, torsion, deformation, friction
 
 - particles of air travel at average velocity of 460 m/s at room temperature
+
+
+## thermodynamics
+
+- entropy
+  - doesn’t really correspond to “disorder” in a well defined way
+    - disorder and complexity are very slippery and subjective notions, so better be avoided
+
+- gibbs free energy (also free enthalpy)
+  - provides a measure of the amount of energy available to do useful work
+  - combines the internal energy and entropy of a system into a single quantity
+  - negative gibbs number
+    - indicates that you can get energy out of the reaction
+    - it is a favorable reaction, which means that the chemical reaction "wants" to move towards its lower state
+  - positive gibbs number
+    - shows that you must put energy in to get energy out
+
+
+## liquid dynamics
+
+- salted water boils at higher temperatures and freezes at lower
 
 
 ## particle physics
@@ -155,6 +176,8 @@
         - contains two protons, two neutrons, and two electrons
 
 - quasiparticle concept
+  - examples
+    - hole: absence of electron in atom's obital
   - important in condensed matter physics because it can simplify the many-body problem in quantum mechanics
 
 - radioactive decay

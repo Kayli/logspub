@@ -7,6 +7,10 @@
 
 ## suicide
 
+- suicide is a fundamental human right 
+  - not widely recognized
+  - gift of life that you can't easily return is a burdain
+
 - most popular methods
   - firearm (52%)
   - suffocation (mostly hanging) accounts for 23%
@@ -29,3 +33,19 @@
 
 - typically results from the interaction of many factors
   - mental illness, marital breakdown, financial hardship, deteriorating physical health, a major loss, or a lack of social support
+
+
+## maid
+
+- medical assistance in dying
+- other terms used
+  - euthanasia and assisted suicide (eas, used in netherlands)
+  - rational suicide
+
+- criteria
+  - available to canadian citizens 18+
+
+- common use cases
+  - terminally ill patients
+  - psychiatric eas
+

@@ -49,6 +49,8 @@
   - dissolution of order during liminality creates a fluid, malleable situation that enables new 
     institutions and customs to become established
 
+- secularism: separation of church and state
+
 
 ## well known
 
@@ -98,9 +100,11 @@
 
 - forms 610-670 ce
   - sacred cities: mecca, medina, jerusalim
-  - hijr al-aswad (the black stone) 
-    - presimably a meteorite
-    - located in kabba (black-gold-white cube building) in mecca (city)
+  - masjid al-haram (great mosque of mecca)
+    - hijr al-aswad (the black stone) 
+      - presumably a meteorite
+      - located in kabba (black-gold-white cube building) in mecca (city)
+    - some areas in the grand mosque, including the central area around the kaaba, are reserved for men only
   - caliphate or khilāfah (arabic pronunciation: [xi'laːfah]) 
     - is an institution or public office governing a territory under islamic rule
   - sacred books: quran, hadith
@@ -111,12 +115,20 @@
       - alcaida, wahabits
       - islamists: government defined by quran with sharia law
       - arabists
-
     - literate/direct interpretaion of quran
+
   - shia [шииты]
     - allow allegorical interpretations of quran by high ranking clergy (ayatollahs)
     - alawites [алавиты]
       - sincretism (mixture) of islam, christianity and some other stuff
+
+- secularism
+  - often been perceived as a foreign ideology imposed by invaders and perpetuated by post-colonial ruling elites
+  - is frequently understood to be equivalent to irreligion or anti-religion
+
+- high frequency phrases
+  - allahu akbar: god the greatest
+  - sall allahu alayhi wa sallam: may god bless him and grant him peace
 
 
 ### hinduism 15.1%
@@ -202,55 +214,6 @@
 - classified as
   - religious movement
   - social movement
-
-
-## social formation principles
-
-- used for ppl aggregation/segregation
-- many principles will likely mix/intersect in any particular instance
-
-- principles
-  - territorial proximity
-  - spatial position/orientation
-    - elevated hill, stage, etc
-    - lying vs standing
-    - vulnerable postures
-      - submission/trust, may personal/impersonal
-  - physical resource
-  - artifact
-  - charismatic individual
-    - scents: pheromones, fragrances, etc
-    - voice timbre
-    - atypical body postures, moves
-    - atypical mimics
-
-  - language
-  - divine texts
-  - education
-    - institution
-    - methodology
-      - imposed artificial barriers on knowledge aquisition
-
-  - sound making
-    - music styles
-    
-  - trade
-    - barter
-    - fiat money (does not have intrinsic value and does not have use value)
-    - securities, certificates of ownership
-    - crypto
-    - non-fungible tokens
-
-  - body properties
-    - skin colour, epicantus, mass, height, etc.
-  - body practices
-    - excerise
-    - decoration: piercing, tatoo
-  - ritual
-  - habit
-
-  - shared fantasy
-    - almighty/supernatural being
 
 
 ## references

@@ -13,15 +13,19 @@
 ## popular frameworks
 
 - react (ui)
-- vue (ui)
 - angular (ui)
-- django (ui, api)
-- flask (api)
+- vue (ui)
+- python
+  - django (ui, api)
+  - flask (api)
+  - fastapi
+  - tornado
 - spring (ui, api)
 - aspnet core (ui, api)
 - laravel (ui, api)
 - ember (ui)
-- express (ui, api)
+- nodejs
+  - express (ui, api)
 - gatsby (ui)
   - webpack + graphql + react
   - integration with cms plugins like strapi, graphcms and many others [^1]
@@ -84,6 +88,20 @@
   - provides introspection over its schema [^5]
 
 
+## single sign-on (sso)
+
+- protocols
+  - oauth
+  - openid connect (oidc)
+    - uses signed jwt document to share information across identity services
+    - is a thin layer that sits on top of OAuth 2.0 that adds login and profile information about the person who is logged in
+  - security assertion markup language (saml)
+  - lightweight directory access protocol (ldap)
+  - active directory federation services (adfs)
+  - kerberos
+  - radius
+
+
 ## web assembly
 
 - web standard to distribute/use compiled binary code in a web browser
@@ -109,11 +127,26 @@
 - pages: instance of a template
 
 
-## streaming
+## streaming?
 
-- websocket frameworks
-  - socket.io (crossplatform)
-  - signalr (microsoft)
+- websocket 
+  - frameworks
+    - socket.io (crossplatform)
+    - signalr (microsoft)
+
+- xmpp
+
+
+## single-page applications
+
+- most popular frameworks: react, angular, vue
+- key aspects to be aware of
+  - state management
+  - components and their lifecycle
+  - dependency injection
+  - routing
+  - bundling/minimization
+  - server-side rendering
 
 
 ## references

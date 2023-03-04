@@ -39,6 +39,9 @@
     - observable universe will likely contain only our galaxy
       - due to accelerated expansion
 
+- some stats
+  - number of particles in observable universe: 3.28 x 10^80
+
 - cosmic rays
   - visilbe as auroras (полярные сияния)
   - nuclei of atoms: hydrogen (protons), helium, etc
@@ -78,7 +81,6 @@
       - active galactic nucleus powered by supermassive black hole
       - 10 or more percents of matter falling into it gets converted into energy of light
   
-
 - gravitaional waves
   - inversely proportional of the distance to a source of a signal
 
@@ -94,21 +96,23 @@
     - 6k light years away from earth
     - 5 million y.o.???
 
-- kardashev scale - classification of civilizations
-  - planetary - planet resources are utilized (type 1)
-  - stellar - star resources are utilized (type 2)
-  - galactic - galactic core resources utilized? (type 3)
-  - extension to a model
-    - universe - can control or use the entire universe (type 4)
-    - multiverse - can control collections of universes (type 5)
-    - humans - ones that don't qualify, like we are now (type 0)
+- kardashev scale 
+  - is a theoretical framework that categorizes civilizations based on their level of technological development and energy usage 
+  - classification of civilizations
+    - planetary - planet resources are utilized (type 1)
+    - stellar - star resources are utilized (type 2)
+    - galactic - galactic core resources utilized? (type 3)
+    - extension to a model
+      - universe - can control or use the entire universe (type 4)
+      - multiverse - can control collections of universes (type 5)
+      - humans - ones that don't qualify, like we are now (type 0)
 
 
 ## milky way
 
 - age: 13 byo
 - saggitarius a* active galactic nucleus
-    - supermassive black hole at the center
+  - supermassive black hole at the center
 
 
 ## planetary systems
@@ -238,7 +242,6 @@
       - uranus
       - neptune
 
-
   - kupier asteroid belt
     - alt name: Edgeworth–Kuiper belt
     - circumstellar disc in the outer Solar System
@@ -262,7 +265,6 @@
 - neutrino radiation is used to study sun's structure/composition
   - neutrino occasionally converts a chlorine-37 atom into one of argon-37 via the charged current interaction
     - this is one of the ways how they are detected
-
 
 
 ### mars

@@ -702,77 +702,178 @@
   - animals are just machines, material substances (no soul vs Arestotelian 3 levels of soul)
 
 
-## aristotel 400bce - 300bce
+## thomas aquinas 1225-1274
 
-- logic and metaphysics
-  - lived in 
-  - categories of things
-    - material objects - substance
-      - contains parts but is not a part of anything
-      - properties are predicated of it
-      - it is not predicated of anything
-      - in Greek - hypokeimenon (underlying)
-    - 9 categories that are predicated to material objects: properties, etc
-    - substances are more real than their properties
-  - doctrine of 4 causes
-    - material
-    - formal
-    - efficient
-    - final
-  - 3 levels of soul
+- god is the source of both the light of natural reason and the light of faith
+- embraced several ideas put forward by aristotle
+  - attempted to synthesize aristotelian philosophy with the principles of christianity
+
+
+## aristotle 384–322 bce
+
+- lived in athens, greece
+- had a big influence on medieval philosophers
+
+- hypokeimenon: underlying substance or subject that persists through changes in form
+
+- doctrine of 4 causes: every object has four causes that explain its existence
+  - material cause (what it is made of)
+  - formal cause (its form or shape)
+  - efficient cause (what brought it into being)
+  - final cause (its purpose or end goal)
+
+- idea of the soul
+  - is the animating principle of life and that it is composed of different parts
+  - levels of soul
     - vegetative (plants)
     - animal (emotional, perceptual, instinctual)
     - rational (humans)
 
+- idea of practical wisdom
+  - ability to apply theoretical knowledge to real-life situations in order to make good decisions
 
-## plato 423bce – 348bce
+- ultimate goal of life: living well, happiness
 
-- grounded in idealism, postulated platonic solids
-- planets follow path of uniform circular motion 
+- idea of the common good
+  - the purpose of politics is to promote the common good, which is the well-being of the community as a whole
+
+- quotes
+  - the whole is greater than the sum of its parts
+  - we are what we repeatedly do. Excellence, then, is not an act, but a habit
+  - the roots of education are bitter, but the fruit is sweet
+  - unplanned life is not worth examining
+
+
+## diogenes 412-323 bce
+
+- one of the founders of cynicism
+- made a virtue of poverty: begged for a living and often slept in a large ceramic wine jar, or pithos, in the marketplace
+- performance with carrying a lamp during a day looking for a 'man'
+- spited and urinated on people, farted, and masturbated in public
+
+
+## plato 423-348 bce
+
 - famous student: aristotel
 
+- associated with idealism
+  - one can only have mere opinions about the perceivable objects
+    - it is not possible to have knowledge of anything that could change or was particular
+    - but one can have (complete?) knowledge about the world of ideas/universals/forms
+  - world of forms is the true reality, eternal and unchanging
+  - denies that eternal forms are mental artifacts (platonic realism)
 
-## socrates
+- allegory of the cave
+  - was also critical of poetry and drama, which he believed could corrupt the morals of young people
+  - he argued that these art forms were mere imitations of reality, and that they lacked the truth and wisdom of philosophy
+
+- philosopher-king is an ideal form of government
+- planets follow path of uniform circular motion
+- believed that all knowledge is innate, and that we simply need to recollect it
+- concept of the "just city"
+  - each person has a specific role to play based on their abilities
+  - everyone works together to create a harmonious society
+- myth of er: journey of a man who dies and is given a glimpse of the afterlife
+- love as a form of "divine madness": it can inspire people to pursue beauty, truth, and goodness
+- method of dialectic (dialog) to arrive at a deeper understanding of truth and knowledge
+- education as the key to creating a just and harmonious society
+  - argued that children should be taught music, gymnastics, and philosophy
+  - should be trained to become virtuous and wise adults
+- tyranny of the majority: true democracy is impossible
+
+- writings
+  - wrote 27 books
+    - sometimes its hard to distinguish between socrates and plato's own thoughts
+    - often used socrates as a character in his writings
+  - main purpose for using myths was didactic
+    - only a few people were capable or interested in following a reasoned philosophical discourse
+    - but men in general are attracted by stories and tales
+  - wrote about platonic solids (but not invented them)
+
+- founded the academy in athens: the first institution of higher learning in the western world
+- quote by alfred whitehead
+  - 'all of western philosophy subsequently after plato consists of a set of footnotes to plato and his work'
+  - used by dugin in one of his lectures without referencing the source
+
+
+## democritus 460-370 bce
+
+- atomism: world is made of particles that can't be divided any further
+  - along with leucippus and epicurus, proposed the earliest views on the shapes and connectivity of atoms
+- rational debate through dialogs
+- was known as "the laughing philosopher"
+
+
+## socrates 470-399 bce
 
 - famous for his dialogues
 - socratic method
   - ask questions until you break big problem into smaller parts
   - test hypotheses posed by those smaller parts
-- famous student: plato
+- authored no texts, but was known because of writing of his students: plato and xenophanes
+- had a bad hygene
+- was making money by teaching, but wasn't rich
+- accused of impiety (desacration and mockery of divine objects) and corrupting the youth
+  - been sentenced to death, refused offers to help him escape
+- 'unexamined life is not worth living', everyone should be a philosopher
 
 
-## democritus
+## anaxagoras 480 bc 
 
-- atomism: world is made of particles that can't be divided any further
-- rational debate through dialogs
+- first idealist philosopher
+- "all things" were created by Nous ("Mind")
+- held that mind held the cosmos together and gave human beings a connection to the cosmos or a pathway to the divine
 
 
-## empedocles
+## empedocles 494-434 bce
 
 - theory of 4 classical elements: earth, air, fire, water
 - mixed by 2 forces: love and strife
+- last greek philosopher to have recorded his ideas in verse
 
 
-## pythagoras
+## parmenedes 515 bce
+
+- first used deductive reasoning
+- something can not come from nothing, therefore universe always existed, ethernal
+
+
+## heraclitus 535-475 bce
+
+- liked to live in isolation, was considered a misanthrope who was subject to melancholia
+- central idea of Heraclitus' philosophy is the unity of opposites
+- became known as "the weeping philosopher"
+- universe is governed by universal cosmic law
+- quote 'you may not step into the river twice'
+
+
+## pythagoras 570-495 bce
 
 - introduced notion of idealism
   - study of generating abstract models of perfect stuff
 - move from practical arithmetic to new pure geometry
+- idea of reincarnation
+- established a commune where people were studying math, music and astronomy
 
 
-## anaximander
+## anaximander 610-546 bce
 
 - student of thales
 - rejected thales's water universal substrate
+- universe originates in the separation of opposites in the primordial matter
+  - posited that every element had an opposite, or was connected to an opposite (water is cold, fire is hot)
 
 
-## thales (фалес милетский)
+## thales (фалес милетский) 624–548 bce
   
 - nature is ruled by discoverable laws
 - natural world is separate from the divine
 - milesian school of philosophy, theory of matter
   - water is a primary substrate
 - made 'predictions' about upcoming harvests to influence market of olive oil in his favor
+- name etymology from greek 
+  - φαλλός meaning erected penis
+  - Θαλῆς (thállō, “to thrive”) + -ης (-ēs), in which case “one who thrives”
 
 
 ## references

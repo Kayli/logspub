@@ -4,7 +4,7 @@
 
 - truth-functional propositional logic
   - formulas are interpreted as having precisely one of two possible truth values, 
-    the truth value of true or the truth value of false
+    the truth value of true l the truth value of false
   - principle of bivalence and the law of excluded middle are upheld
 
 - inferences: are steps in reasoning, moving from premises to logical consequences

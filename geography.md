@@ -1,5 +1,39 @@
 # notes related to geographical areas of different kind
 
+## common geopolitical terms (toponyms)
+
+- fertile crescent
+  - refers to a semi-circular area of the eastern mediterranean region
+  - including the valleys of the nile, tigris and euphrates rivers
+  - includes parts of the modern countries of Israel, Lebanon, Jordan, Syria, northern Egypt, and Iraq
+
+- east asia
+  - modern china, japan, mongolia, north korea, south korea, and taiwan
+
+- southeast asia
+  - south of china, south-east of the indian subcontinent and north-west of australia
+  - modern territories of
+    - cambodia, laos, myanmar, peninsular malaysia, thailand, and vietnam
+    - the andaman and nicobar islands (india), brunei, christmas island and
+      the cocos islands (australia), east malaysia, east timor, indonesia, the philippines, and singapore
+
+- far east
+  - east and southeast asia as well as the russian far east to a lesser extent
+
+- middle east (ash-sharq al-awsat)
+  - region spanning the Levant, Arabian Peninsula, Anatolia (including modern Turkey and Cyprus), Egypt, Iran and Iraq
+
+- near east: kinda similar to middle east
+
+- hellenistic region
+  - territories of greek culture (agean, adriatic, medeterranian seas)
+
+- balkans
+  - balkan peninsula, territories of modern greece and albania
+
+- north africa and sub-saharan africa
+  - regions of the continent of Africa that lies north/south of the sahara
+
 
 ## europe
 
@@ -26,7 +60,6 @@
   - capital: reykjavik
     - largest city
   - nordic island country in the north atlantic ocean and in the arctic ocean
-  
 
 
 ## asia
@@ -47,12 +80,6 @@
     - более трёх четвертей территории киргизии занимают горы
     - пик победы высота 7439м
     - пик ленина высота 7134м
-
-
-## toponyms
-
-- north africa and sub-saharan africa
-  - regions of the continent of Africa that lies north/south of the sahara
 
 
 ## paleogeography

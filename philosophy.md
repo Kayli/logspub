@@ -47,6 +47,16 @@
   - study of the structures of experience and consciousness
 
 
+## periods
+
+- ancient egyptian/greek
+- medieval
+- modern (1st half of 20th century)
+- contemporary
+  - analytic
+  - continental
+
+
 ## enlightment
 
 - 18th century
@@ -125,7 +135,7 @@
     - idea has to be practicaly useful
     - has to have power to change the world 
     - subtypes
-      - untilitarian
+      - utilitarian
       - personal (nitzsche)
         - ideal human, uberman
   - semantic (tarski theory of truth)

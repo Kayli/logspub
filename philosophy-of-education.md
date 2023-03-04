@@ -5,14 +5,18 @@
 - guided education
   - pros
     - wise parent-like figure can do miracles
+    - moldable mind substrate
+      - natural for young people
+      - can be induced by psychedelics
   - disadvantages
-    - corupted through language poisoning
+    - prone to abuse
+    - often corupted through language poisoning
       - they 'breath' intellectual corruption, so its hard to notice the problem
     - attempts to put student into submission is a default mode of persuation
     - intellectual slavery is a shadow of institutional slave-owner mentality
 
 - self education
-  - not a guarantee, but at least you have a chance
+  - not a guarantee, but at least its all in your hands
   - survivor's mindset
 
 

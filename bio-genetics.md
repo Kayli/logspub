@@ -50,8 +50,6 @@ keywords: biology, bioinformatics, organic-chemistry, gene
   - functions
     - information storage, replication, transport, catalytic and regulatory
 
-
-
 - allele
   - is one of two, or more forms of a given gene variant
     - gene variants are versions of the same gene at the same place on a chromosome
@@ -86,7 +84,6 @@ keywords: biology, bioinformatics, organic-chemistry, gene
     - generated from dna during transcription
   - trna
     - generated from mrna during translation
-
 
 
 ## dna
@@ -174,7 +171,7 @@ keywords: biology, bioinformatics, organic-chemistry, gene
       with each division. This end stage is known as cellular senescence.
 
 
-## protein 
+## protein
 
 - large biomolecules and macromolecules that comprise one or more long chains of amino acid residues
   - perform a vast array of functions within organisms, including 
@@ -184,14 +181,28 @@ keywords: biology, bioinformatics, organic-chemistry, gene
     - providing structure to cells and organisms
     - transporting molecules from one location to another
 
-- aminoacid    
-  - there is an alphabet of 20 aminoacids
+- aminoacids
+  - building blocks of proteins
+  - there is an 'alphabet' of 20 aminoacids that are commonly found in proteins
+  - peptide
+    - are short chains of amino acids (less than 20)
+    - are linked by peptide bonds
+    - polypeptide
+      - is a longer, continuous, unbranched peptide chain (20 and more amino acids)
 
-- peptide
-  - are short chains of amino acids (less than 20) 
-  - are linked by peptide bonds
-  - polypeptide 
-    - is a longer, continuous, unbranched peptide chain (20 and more amino acids)
+- types
+  - hormonal
+  - enzymatic (enzymes)
+    - catalyze chemical reactions in the body
+    - highly specific and only catalyze specific chemical reactions
+  - structural
+    - collagen, keratin and elastin
+    - forms the connective framework of muscles, bones, tendons, skin and cartilage
+  - defensive: antibodies (immunoglobulin)
+  - storage: e.g. hemoglobin for storing iron
+  - transport
+  - receptor
+  - motor, contractile
 
 - protein is composed of multiple polypeptides which are composed of aminoacids
   - in other words: aminoacids -> polypeptides -> protein
@@ -205,9 +216,12 @@ keywords: biology, bioinformatics, organic-chemistry, gene
 - protein spatial configuration stability
   - slightly different polypeptide chains result in same spatial configuration
 
+- effects of mutation on enzymes
+  - enhance an enzyme's activity
+  - alter its substrate specificity, resulting in reduction/increase of function
+
 
 ### protein synthesis
-
 
 - can be divided broadly into two phases
   - transcription
@@ -234,11 +248,6 @@ keywords: biology, bioinformatics, organic-chemistry, gene
     of RNA bases into a sequence of amino acids
 
 
-
-
-
-
-
 ## evolutionary models
 
 - fisher's fundamental theorem of natural selection
@@ -263,6 +272,31 @@ keywords: biology, bioinformatics, organic-chemistry, gene
       - where Y is the smallest
         - encodes difference between male and female organisms
         - represents almost 2 percent of the total DNA in cells
+
+
+## mutations
+
+- average rate: 10^-9 to 10^-6 mutations per base pair per generation
+- for enzymes
+  - probability of a mutation creating a new functional enzyme is directly proportional to the size of the gene
+  - formula: P = uLs, where 
+    - P is the probability of a mutation creating a new functional enzyme
+    - u is the mutation rate per base pair per generation
+    - L is the size of the gene, and s is the selective advantage of the new functional enzyme
+
+
+## model organizms
+
+- generation time
+  - time during which organizm can double its population under optimal conditions in a lab
+
+- vibrio natriegens
+  - generation time: 6-7 minutes
+
+- escherichia coli
+  - generation time: 20-30 minutes
+
+- saccharomyces cerevisiae (baker's yeast)
 
 
 ## python libraries

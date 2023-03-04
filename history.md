@@ -134,27 +134,6 @@
 - indus valley (harappan culture, modern pakistan)
 
 
-## common geopolitical terms (toponyms)
-
-- east asia
-  - modern china, japan, mongolia, north korea, south korea, and taiwan
-- southeast asia
-  - south of china, south-east of the indian subcontinent and north-west of australia
-  - modern territories of
-    - cambodia, laos, myanmar, peninsular malaysia, thailand, and vietnam
-    - the andaman and nicobar islands (india), brunei, christmas island and 
-      the cocos islands (australia), east malaysia, east timor, indonesia, the philippines, and singapore
-- far east
-  - east and southeast asia as well as the russian far east to a lesser extent
-- middle east (ash-sharq al-awsat) 
-  - region spanning the Levant, Arabian Peninsula, Anatolia (including modern Turkey and Cyprus), Egypt, Iran and Iraq
-- near east: kinda similar to middle east
-- hellenistic region
-  - territories of greek culture (agean, adriatic, medeterranian seas)
-- balkans
-  - balkan peninsula, territories of modern greece and albania
-
-
 ## mediterranean region [^1]
 
 - greece

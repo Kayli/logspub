@@ -66,6 +66,7 @@
 
 ## .net 7, csharp 11
 
+- default language version: csharp 11
 - app trimming improvements based on actual usage
 - simplified tar file management
 - high precision support for datetime: nanoseconds added
@@ -76,14 +77,32 @@
   - allow each implementing member of an interface to implement their version of a static member
 - INumber<T> can be used as generic constraint to enable arithmetic on T
 - 'required' keyword for properties
-
+- grpc
+  - performance improvements
+  - restful api transcoding + openapi support
+    - means that you can mirror your grpc endpoints to http2/rest automatically
 
 ## .net 6
 
+- default language version: csharp 10
 - startup.cs was eliminated from web projects
+- DateOnly/TimeOnly capture date and time correspondingly
+- multiplatform app ui (maui) replaces xamarin for cross-platform mobile development
+- blazor desktop for writing html-based desktop apps
 
 
+## .net 5
 
+- default language version: csharp 9
+- top level statements: only one file in your application may use top-level statements
+
+
+## .net core 3
+
+- default language version: csharp 8
+- interface default method implementations
+  - so now csharp interfaces are whats called 'traits' in other languages
+- interface static constructors and members
 
 
 ## new language features [^1][^2]
@@ -149,13 +168,9 @@
 
   - switch/case statements can do type matching
 
-- csharp 9
-  - top level statements: only one file in your application may use top-level statements
 
-- csharp 8
-  - interface default method implementations
-    - so now csharp interfaces are whats called 'traits' in other languages
-  - interface static constructors and members
+
+
 
 
 ## new framework features
@@ -200,6 +215,12 @@
 - one way to return result from asynchronous method
   > var data = new { myprop = "something" };
   > return Task.FromResult(data);
+
+- unintuitive behavior of aggregate exception
+  - with the following code awaiting for both tasks to complete
+    > await Task.WhenAll(firstTask, secondTask);
+  - for await continuations it always gets unwrapped as its first inner exception, by design
+    - meaning that if there is more than one exception, dotnet unwraps AggregateException and only first one will be thrown
 
 
 ## interop
@@ -274,6 +295,17 @@
 
 - short term support (sts): 18 month
 - long term support (lts): 3 years
+
+
+## compatability
+
+- assemblies targeting .net standard 2.0 will run on
+  - .net core 2.0+
+  - .net framework 4.6.1+
+  - mono 5.4+
+- .net 5+ can reference .net framework assemblies with limitations
+  - however exception will be thrown if method is not supported
+  - nontrivial dependencies will fail to resolve
 
 
 ## installation on debian

@@ -44,6 +44,61 @@
     - such values influenced the rise of capitalism and helped create the modern world order
 
 
+## social formation principles
+
+- used for ppl aggregation/segregation
+- many principles will likely mix/intersect in any particular instance
+
+- principles
+  - territorial proximity
+  - spatial position/orientation
+    - elevated hill, stage, etc
+    - lying vs standing
+    - vulnerable postures
+      - submission/trust, may be personal/impersonal
+  - physical resource
+  - artifact
+  - charismatic individual
+    - scents: pheromones, fragrances, etc
+    - voice timbre
+    - atypical body postures, moves
+    - atypical mimics
+
+  - language
+  - divine texts
+  - education
+    - institution
+    - methodology
+      - imposed artificial barriers on knowledge aquisition
+
+  - sound making
+    - particular styles of music
+    
+  - trade
+    - barter
+    - fiat money (does not have intrinsic value and does not have use value)
+    - securities, certificates of ownership
+    - crypto
+    - non-fungible tokens
+
+  - body properties
+    - skin colour, epicantus, mass, height, etc.
+  - body practices
+    - excerise
+    - decoration: piercing, tatoo
+  - ritual, habit
+    - e.g. prayer 5 times a day in islam
+    - crossing oneself in christianity (hand gesture)
+
+  - shared fantasy
+    - almighty/supernatural being
+
+  - priority of irrational over rational thinking patterns
+    - praising irrationality of faith as a virtue
+      - e.g. trust is undoubdfully good, right?
+      - belittling cognitive capacities of followers
+
+
 ## suicide
 
 - durkheim observed that suicide rates jump 5-6 times when countries become industrialized [^4]
@@ -52,6 +107,7 @@
     - excessive hope
     - too much freedom: 'whatever works for you'
     - atheism
+
 
 ## references
 

@@ -46,6 +46,34 @@
   - is a common psychological phenomenon whereby individuals give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically to them, yet which are in fact vague and general enough to apply to a wide range of people
 
 
+## manipulative tactics
+
+- gaslighting
+  - obfuscation: deliberately muddying or overcomplicating an issue
+  - withholding: pretending not to understand the victim
+  - countering: vehemently calling into question a victim's memory despite the victim having remembered things correctly
+  - blocking and diverting: diverting a conversation from the subject matter to questioning the victim's thoughts and controlling the conversation
+  - trivializing: making the victim believe their thoughts or needs are unimportant
+  - forgetting and denial: pretending to forget things that have really occurred
+
+
+## woo-woo mindset
+
+- free will is an illusion
+- ego is an illusion
+- we don't know what anything is ... there is irreducible mysteriousness to everything
+
+
+## authority
+
+- submission
+  - happens in hierarchical structures
+  - explicit, 
+
+- conformity
+  - 
+
+
 ## interesting resources online
 
 - https://en.wikipedia.org/wiki/List_of_fallacies

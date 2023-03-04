@@ -188,8 +188,7 @@
 - solutions
   - rest
     - industry most popular choice for apis
-    - cons: lacks standardization
-      - therefore unified observability and introspection is hindered across heterogeneous stack
+    - openapi provides observability and introspection even across heterogeneous stack
 
   - graphql
     - queryable apis
@@ -201,6 +200,7 @@
     - simple idl
     - many generators from idl to popular languages
     - grpc-web extends same approach to web-apis as well
+    - supports tls encryption of all traffic
 
   - envoy
     - creates observable service-mesh
@@ -272,6 +272,11 @@
 
 ## tracing/monitoring
 
+- elk stack
+  - logstash: used for publishing and transforming logs
+  - elastic search: used for storing and indexing logs
+  - kibana: used as a dashboard on top of elastic search
+
 - if you ever need to ssh into a machine with a service, it likely means that monitoring failed you
 
 - tools
@@ -342,6 +347,23 @@
   - merkle tree (hash tree)
     - leafs are usually data blocks
     - can be viewed as commitment scheme, in which the root of the tree is seen as a commitment and leaf nodes may be revealed and proven to be part of the original commitment
+
+
+## content delivery network (cdn) services
+
+- commercial offerings
+  - amazon cloudfront
+  - cloudflare
+  - akamai
+  - microsoft azure cdn
+
+- point of presence server (pop, edge)
+  - servers distributed geographically to provide higher latency
+  - cache static as well as dynamic content
+  - uses either dns or unicast routing
+
+- provide protection against ddos attacks, by distributing content across many nodes, avoiding spof 
+- supports automatic minification of js, css and html files
 
 
 ## some techs to uncover

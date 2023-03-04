@@ -168,6 +168,21 @@
   - transformer and self-attention (gpt-2)
 
 
+## gpt
+
+- generative pre-trained transformer
+
+
+- gpt2: open-source artificial intelligence model created by openai in february 2019
+
+
+## chatgpt
+
+- temperature hyperparameter
+  - if the temperature is low, the probabilities to sample other but the class with the highest log probability will be small, and the model will probably output the most correct text, but rather boring, with small variation
+  - if the temperature is high, the model can output, with rather high probability, other words than those with the highest probability. The generated text will be more diverse, but there is a higher possibility of grammar mistakes and generation of nonsense
+
+
 
 ## processing pipeline examples
 
@@ -384,12 +399,31 @@
   intj	    interjection
 
 
-
-
 ## optimization techniques
 
 - batch gradient descent (bgd)
 - stochastic gradient descent (sgd)
+
+
+## speech to text
+
+- asr: automated speech recognition
+- stt: speech-to-text
+
+- as GPUs can only process small chunks of audio, we need to split input audio into chunks dynamically
+  - it is not a trivial task, as chunks should contain whole phrases, without cutting any of them in the middle
+  - see here for more https://huggingface.co/blog/asr-chunking
+
+- whisper transformer https://github.com/openai/whisper.git
+  - had to install the following packages to make examples from huggingface work
+    > sudo apt install ffmpeg
+    > poetry add python numpy whisper transformers torch datasets soundfile librosa torchaudio
+  
+  - simple way to transcribe long audio https://gist.github.com/darinkist/71f27e248938d3f4b511acbfba5f0372
+    > import whisper
+    > model = whisper.load_model("base")
+    > result = model.transcribe("opto_sessions_ep_69_excerpt.wav")
+    > print(result["text"])
 
 
 ## books
