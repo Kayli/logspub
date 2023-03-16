@@ -57,6 +57,10 @@
       > git fetch origin
       > git reset --hard origin/<branch>
 
+  - stash/unstash changes
+    > git stash
+    > git stash pop
+
 
 ## mercurial
 

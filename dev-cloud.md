@@ -21,6 +21,14 @@
   - on-demand configurable pool of shared resources allocated within a public cloud environment, 
     providing a certain level of isolation between the different organizations using the resources
 
+- region
+  - geographical location where a cloud provider hosts their data centers
+  - consists of multiple availability zones
+  - can have different capabilities and pricing structures
+
+- availability zone
+  - physically separated data centers within the region, providing additional redundancy and fault tolerance
+
 
 ## closed-source cloud solutions
 

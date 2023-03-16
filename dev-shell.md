@@ -20,10 +20,15 @@
 
 - bash is a default shell on many nix systems
 - default shebang #!/bin/bash
+
+- single quotes results in non-interpolated string
+
 - generate random number
   > echo $RANDOM
+
 - generate hash
   > cat file | md5sum
+
 - get first n characters from a stream
   > cat file | head -c <n>
 
@@ -76,6 +81,9 @@
     for f in ${DOCKERFILES[*]}; do
       docker run -i --rm $(DEFAULT_ACR).azurecr.io/tools/hadolint:20220310 hadolint --ignore DL3059 - < $f
     done
+
+- run command as a different user
+  > su [username] -c "[command]"
 
 
 ## zsh
