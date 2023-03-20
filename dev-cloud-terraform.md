@@ -20,6 +20,9 @@
 - see values for output variables
   > tf output
 
+- save plan in human readable form into a file
+  > tf plan -no-color > <filename>.txt
+
 
 ## custom scripts
 

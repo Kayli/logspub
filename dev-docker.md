@@ -91,6 +91,9 @@
 
 - .dockerignore files are an easy way to selectively copy only image relevant files
 
+- USER <username>
+  - sets the user name or UID to use when running the image and for any following RUN directives
+
 - optimization
   - in older versions of Docker, it was important that you minimized the number of layers in your images to ensure they were performant
     - it seems that it is no longer the case? [^3]
