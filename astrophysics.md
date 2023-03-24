@@ -174,8 +174,10 @@
     - usually between the size of a grain of sand and a boulder
       - boulders size starts approx at 256 millimetres (10.1 in) in diameter
     - it originates from a comet or asteroid
+
   - meteor
     -  meteoroid that enters the earth’s atmosphere and vaporizes
+
   - meteorite
     - meteoroid that hits Earth without burning up in the atmosphere
   
@@ -213,6 +215,7 @@
     - earth
       - about a million earths will fit into a sun
       - circumference 40,075 km
+      - will become non-habitable in 1.1 billion years
     - mars
       - 4 - 20 light minutes away from earth
 

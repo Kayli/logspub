@@ -124,10 +124,12 @@
   - emerging 
     - during the chalcolithic and early bronze ages
   - cuneiform (клинопись) form of writing
+
 - ancient egypt 3100-332 bce
   - writing: hieroglyphs, which combined 
     - logographic, syllabic and alphabetic elements
     - with a total of some 1,000 distinct characters
+
 - china
 - norte chico (mexico)
 - olmec (mexico)
@@ -203,6 +205,11 @@
       - отдельно канализация биоотходов и отдельно сточных вод!!
 - aryan migration 1750 bce
   - synthesis of arian with harappan cultures evolved into a vedic culture
+
+
+## china
+
+- see history-china.md
 
 
 ## japan

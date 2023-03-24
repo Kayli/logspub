@@ -57,6 +57,38 @@
     - differentially weighting the significance of each part of the input data
 
 
+## standard terminology for anns
+
+- parameter: value that is learned by the network during the training process
+  - types
+    - weights: determine the strength of the connections between neurons
+    - biases: represent the minimum activation level required for a neuron to fire and produce an output
+
+- token: one sample/record of data
+
+- batch size
+  - number of samples of training data loaded into memory at once
+  - more precisely, processed in one forward and backward pass of the network during training
+
+- dimensions: number of neurons in a typical layer of ann
+
+- heads
+  - output layers that are added to the network for specific tasks such as classification or regression
+  - example: in a typical image classification task, the "head" of the network is a softmax layer that predicts the probability of each class based on the features extracted by the previous layers of the network
+
+
+## model sizes
+
+- as of 2023 
+  - number of parameters: tens of billions
+  - dimensions: thousands
+  - n heads: tens
+  - n layers: tens
+  - learning rate: 10^-4 (e.g. 3.0e-4)
+  - batch size: 4m
+  - n tokens: 1-1.4 trillion
+
+
 ## popular techniques
 
 - attention
@@ -93,8 +125,10 @@
 
 - simplest ones
   - final state machine (fsm): used in computer games and some devices
+
 - notable examples
   - connectionist: neural networks
+  - gpt
 
 
 ## books to consider
@@ -131,3 +165,15 @@
 
 - watch gpu resources consumption
   > watch -n0.1 nvidia-smi
+
+
+## fun
+
+- modern ml models as [^1]
+  - stochastic parrots/chameleons
+  - analogous to biological mimicry
+
+
+## references
+
+[^1]: https://www.youtube.com/watch?v=fhn6ZtD6XeE&t=186s

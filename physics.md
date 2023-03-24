@@ -28,6 +28,13 @@
     - can be derived from base
 
 
+## major breakthroughs
+
+- discovery of an atom
+  - 1808 john dalton published his atomic theory
+  - early 1900s Ernest Rutherford with friends - discovery of the atomic nucleus and the proton
+
+
 ## classical mechanics
 
 - forces [^3]
@@ -234,6 +241,11 @@
 
 
 ## optics
+
+- spectral vs non spectral colors
+- rods and 3 types of cones
+- trichromatic theory
+  - three types of cones preferentially sensitive to blue, green, and red, respectively
 
 - octaves of light
   - in music, an octave is the interval between a pitch, and a second pitch with double the first pitch's frequency

@@ -3,22 +3,29 @@
 # basic facts
 
 - noteable rivers: yangtze (янцзы), huáng hé (yellow river хуанхэ)
-- pīnyīn (пиньинь) - фонетическое письмо
-- используется во всём мире в качестве официальной латинской транскрипции имён и названий из КНР
+- pīnyīn (пиньинь) 
+  - фонетическое письмо
+  - используется во всём мире в качестве официальной латинской транскрипции имён и названий из КНР
 - huang (皇 huáng "august (ruler)")
 - confucius (/kənˈfjuːʃəs/ kən-FEW-shəs; Chinese: 孔夫子; pinyin: Kǒng Fūzǐ, "Master Kǒng"
 
 
 # early dynastic period (ancient)
 
-- xia 2070 – 1600 bc
-- chinese: 夏朝; pinyin: xiàcháo, (шиачао)
-  - хуася выращивали просо и порося )
-- is the first dynasty in traditional chinese historiography
-- shang 1600 – 1046 bc
+- xia 2070 - 1600 bc
+  - chinese: 夏朝; pinyin: xiàcháo, (шиачао)
+    - хуася выращивали просо и порося )
+  - is the first dynasty in traditional chinese historiography
+
+- shang 1600 - 1046 bc
+
 - zhou 1100 and 500 bc
-- invented ideas of 'dynastic cycle' and 'mandate of heaven' around 1027 bce 
-  which was used to overthrow the shang empire
+  - invented ideas of 'dynastic cycle' and 'mandate of heaven' around 1027 bce
+    which was used to overthrow the shang empire
+
+  - later period 600 bc to 221 bc
+    - 100 schools of though
+    - famous for the beginnings of three major chinese philosophies: confucianism, taoism and legalism
 
 
 # imperial period

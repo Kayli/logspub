@@ -709,12 +709,172 @@
   - attempted to synthesize aristotelian philosophy with the principles of christianity
 
 
+## epicurus 341–270 bce
+
+- truth
+  - senses don't lie to us, its the best thing we have, despite their limitations
+  - but our minds may misinterpret our senses
+
+- materialism
+  - universe is made up of atoms and empty space
+  - soul is made up of atoms and dies with the body
+
+- pleasure is the highest good
+  - the ultimate goal of life
+  - comes from living a simple, tranquil life in which one is free from pain, fear, and anxiety
+
+- self-sufficiency
+  - true happiness comes from self-sufficiency and independence
+  - one should not rely on the gods, fate, or other people for one's happiness
+
+- friendship
+  - is essential to a happy life
+  - based on mutual trust, respect, and understanding
+  - is one of the most important sources of pleasure
+
+
+## buddha 566-486 bce
+
+- it is debated when he lived, birth date estimates vary from 949 to 566bce
+- founder of buddhism
+- metaphors often used
+  - lotus flower as path to enlightenment
+  - waking up (allusions in matrix movie, also sam harris works)
+    - buddha means 'awakened'
+- born into nobility and excess
+- supposedly left his home after witnessing age, sickness, death
+  - universe been run by a horse joke
+- the middle way: path of moderation
+- dissatisfaction is a natural state of all human beings
+  - happens because of attachment, aversion (отвращение) via expectation, ignorance
+- meditation, mindfullness
+
+
+## confucius 551-479 bce
+
+- one of the most influential philosophers in history
+- gift of the genuine interest in learning
+- been given a job of overseing granaries
+- founder of confucianism school of thought
+  - one of the 100 schools of thoughts appeared during fall of zhou dynasty
+- officials were puzzled what went wrong with zhou dynasty and how to fix it
+  - laozi and confucius were two of those officials
+
+- adhering to tradition, family values
+- concerned with practical matters: useful things to save china
+- was an aggregator of chinese wisdom teachings
+  - quote: i transmit and not innovate
+- goal: to become a superior man
+
+- tried to answer question: what is the best way for a man to live his life and to govern?
+  - leading virtuously by example and following 4 principles
+    - loyalty
+    - filial piety (respect for parents and elders)
+    - ritual propriety
+    - reciprocity
+
+- quotes
+  - [we should do our best to learn from other people's successes and mistakes]
+  - the more man meditates on good thoughts, the better will be his world and the world at large
+  - do not impose on others what you yourself do not desire
+  - it is easy to hate and difficult to love
+
+- became an ultra-conservative
+- life facts
+  - was born with physical abnormalities
+  - been successful holding position of minister of crime
+  - being rejected by the ruling class (envy)
+    - died at 73
+- confucianism remained dominant philosophy until rise of communist china
+
+
+## zhuangzi (гуандзы) 369-286 bce
+
+- another founder of taoism
+- wrote a book with the same title 'zhuangzi' (гуандзы)
+  - ideas of relativism: inability to get true knowledge from only one perspective
+
+- concerns with most effective way of being a happy individual
+  - follow dao, practice art of wu-wei
+
+- its pointless to pursue something unlimited with the life that is limited
+  - we live for relatively short period of time
+  - there is seemingly infinite amount of knowledge to be gained just in the world we live in
+
+
+## laozi 600-500 bce
+
+- founder of taoism, author of 'tao te ching' book
+  - dao/tao (way, path, road)
+- people are better off when living life closer to nature
+- civilization dehumanizes people ?? (mnemonic: lazy hippies)
+
+- non-action principle (wu wei: "inaction", or "effortless action")
+  - go with the flow of the universe
+
+- tai chi (lit. 'great pole')
+  - supreme ultimate state of undifferentiated absolute and infinite potential
+  - the oneness before duality, from which yin and yang originate
+
+- quotes from 'tao te ching'
+  - dao gives birth to one (origin of all things)
+    - one gives birth to two
+    - two gives birth to three
+    - three give birth to 10k things
+    - ten thousand things carry ying and embrace yang: they mix these energies to enact harmony
+  - the dao that can be taught/explained is not the eternal dao
+
+- yin and yang principle (concept was invented before laozi)
+  - describes opposite but interconnected forces
+  - yin is the receptive and yang the active principle
+  - both contain the essence of it's opposite
+
+- human beings are one of 10k things/manifestations
+
+- governing people is like pulling fish out of water
+    - people work best when they are not governed
+    - presence of government should be very small
+
+
 ## aristotle 384–322 bce
 
 - lived in athens, greece
 - had a big influence on medieval philosophers
+- alexander the great was his student
 
-- hypokeimenon: underlying substance or subject that persists through changes in form
+- ultimate goal of life: living well, happiness
+
+- classified living organisms into two main groups
+  - plants:  herbs, shrubs, and trees
+  - animals: with/without blood, red blood or not
+
+- created first scientific method
+  - used systematic observation and empirical evidence to support his theories
+  - careful observation and the collection of data
+  - believed that scientific theories should be based on empirical evidence rather than pure speculation
+
+- math variables
+  - used letters of the alphabet to represent unknown quantities and variables in his mathematical equations
+
+- logic: contributions to the study of syllogisms 
+  - identified several different types, based on the relationship between the premises and the conclusion
+  - developed a set of rules for evaluating syllogisms and determining their validity
+  - used variables to define logical statements
+  - helped to lay the groundwork for the development of formal logic and deductive reasoning
+
+- idea of the soul (greek: peri psychēs; latin: de anima)
+  - is the animating principle of life and that it is composed of different parts
+  - levels of soul
+    - vegetative (plants)
+    - animal (emotional, perceptual, instinctual)
+    - rational (humans)
+
+- potentiality and actuality distinction
+  - seed has the potential to become a plant
+  - but it only became an actual plant through a process of growth and development
+
+- idea of practical wisdom
+  - ability to apply theoretical knowledge to real-life situations in order to make good decisions
 
 - doctrine of 4 causes: every object has four causes that explain its existence
   - material cause (what it is made of)
@@ -722,24 +882,21 @@
   - efficient cause (what brought it into being)
   - final cause (its purpose or end goal)
 
-- idea of the soul
-  - is the animating principle of life and that it is composed of different parts
-  - levels of soul
-    - vegetative (plants)
-    - animal (emotional, perceptual, instinctual)
-    - rational (humans)
-
-- idea of practical wisdom
-  - ability to apply theoretical knowledge to real-life situations in order to make good decisions
-
-- ultimate goal of life: living well, happiness
+- hypokeimenon: underlying substance or subject that persists through changes in form
 
 - idea of the common good
   - the purpose of politics is to promote the common good, which is the well-being of the community as a whole
 
+- virtues 
+  - are habits or dispositions that allow us to act in accordance with reason, and they are developed through practice and repetition
+
+- idea of unmoved mover
+  - eternal, unchanging entity that is responsible for setting the universe in motion
+
 - quotes
   - the whole is greater than the sum of its parts
   - we are what we repeatedly do. Excellence, then, is not an act, but a habit
+  - pleasure in the job puts perfection in the work
   - the roots of education are bitter, but the fruit is sweet
   - unplanned life is not worth examining
 
@@ -816,6 +973,8 @@
 - accused of impiety (desacration and mockery of divine objects) and corrupting the youth
   - been sentenced to death, refused offers to help him escape
 - 'unexamined life is not worth living', everyone should be a philosopher
+- was a conservative
+  - in the sense of valuing limited oligarchic governance (i.e. anti-democratic but libertarian) and the social order governed by families operating under traditional rules/behaviours
 
 
 ## anaxagoras 480 bc 
@@ -865,7 +1024,7 @@
 
 
 ## thales (фалес милетский) 624–548 bce
-  
+
 - nature is ruled by discoverable laws
 - natural world is separate from the divine
 - milesian school of philosophy, theory of matter
@@ -881,3 +1040,4 @@
 [^1]: https://www.thegreatcourses.com/courses/modern-intellectual-tradition-from-descartes-to-derrida
 [^2]: https://plato.stanford.edu/
 [^3]: https://www.overthinkpodcast.com
+[^4]: https://www.philosophizethis.org/podcasts (by stephen west)

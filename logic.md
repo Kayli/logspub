@@ -40,6 +40,8 @@
 - iff vs equivalence [^3]
   - P ↔ Q is statement that could be either true or false, but P ≡ Q means that P ↔ Q is always a true biconditional
 
+- syllogism ‘with’ + ‘to reason’
+
 
 ## rules of inference
 

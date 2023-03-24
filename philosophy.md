@@ -6,6 +6,18 @@
   - literally: love of wisdom
   - the most generic type of inquiry
 
+- main philosophical positions
+  - epistemic realism
+  - antirealism (relativism)
+  - scepticism
+
+- related theories
+  - logic
+  - philosophy of language
+  - science
+  - social philosophy
+  - political philosophy
+
 - objective (of a person or their judgment)
   - not influenced by personal feelings or opinions in considering and representing facts
   - so its about one person vs group judgment, where group is likely some scientific community
@@ -144,11 +156,70 @@
     - theorems define truth statements derived from axioms and other proven theorems (sometimes referred as recursive definition)
 
 
+## relativism, antirealism
+
+- standards of truth, rationality, and ethical right and wrong vary greatly between cultures and historical epochs 
+  - there are no universal criteria for picking best between them
+
+
 ## evolutionary epistemology
 
 - main contributors: karl popper, konrad lorenz, donald campbell
 - lorenz writes: kant's synthetic apriori is true in light of darwinian biology
   - our cognitive apparatus evolved under to pressure of things in themselves in order to percieve them in ways that matter for survival
+
+
+## causality
+
+- relationship between an event (the cause) and a second event (the effect), where the second event is a result of the first
+
+- can be established through experimental design 
+  - researchers manipulate an independent variable and measure its effect on a dependent variable
+
+- theories of causality
+
+  - deterministic
+    - every effect has a single, definite cause that can be traced back to a previous event or state
+
+  - probabilistic
+    - effect may have multiple possible causes, each with a certain probability of occurring
+    - bayesian networks
+      - represented by conditional probabilities that specify the likelihood of an effect given its possible causes
+
+  - counterfactual/interventionist
+    - cause is an event that, if it had not occurred, would have prevented the effect from occurring
+
+  - agency theories
+    - actions of agents who intentionally bring about the effect
+
+- establishing causality
+  - in medicine: double-blind, randomized, placebo-controlled trial
+  - no causation without manipulation (paul holland)
+    - to find out what happens when you change something, it is necessary to change it
+    - there are things you learn from perturbing a system that you'll never find out from any amount of passive observation. [^5]
+
+
+## space and time
+
+- leibniz, kant and einstein all thought that space and time are mental constructs
+  - emerge from interactions between different parts of matter
+
+
+## taoism, daoism
+
+- yin and yang
+  - describes opposite but interconnected forces
+  - yin is the receptive and yang the active principle
+
+
+## hellenism
+
+- epicurianism: self-sufficiency, pleasure, friendship, materialism
+- cynics: don't care about social conventions (diogenes)
+- stoics: fatalism, dog tight to a cart being moved by a horse
+- scepticism: suspend judgement as we never can be fully certain
+- neoplatonism
+- aristotelianism
 
 
 ## interesting ideas
@@ -161,19 +232,7 @@
 
 ## unsorted
 
-- main philosophical positions
-  - epistemic realism
-  - antirealism (relativism)
-  - scepticism
-
-- related theories
-  - logic
-  - philosophy of language
-  - science
-  - social philosophy
-  - political philosophy
-
-- medieval pheriod (middle ages) 5-14 century
+- medieval period (middle ages) 5-14 century
   - all sciences are part of philosophy
   - made by priests
   - europe is a collection of states ruled by aristocrates
@@ -259,3 +318,4 @@
 [^2]: https://youtu.be/Wztf9aM0c5g?t=1410
 [^3]: https://www.youtube.com/watch?v=0PwRH5-TiIc
 [^4]: https://habr.com/ru/company/itsumma/blog/688932/
+[^5]: https://stats.stackexchange.com/questions/2245/statistics-and-causal-inference

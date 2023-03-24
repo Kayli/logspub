@@ -22,3 +22,10 @@
 - stress testing: system stability under extreme conditions
 - soak testing: reliability over a longer period of time
 - spike Testing: simulates huge spike of load on a very short period of time
+
+
+## frameworks
+
+- jmeter
+- selenium
+- nunit, xunit

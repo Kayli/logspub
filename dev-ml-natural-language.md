@@ -62,6 +62,9 @@
 - sentence embedding
   - encodes sentence similarity
 
+- distributional hypothesis 
+  - the more semantically similar two words are, the more distributionally similar they will be in turn, and thus the more that they will tend to occur in similar linguistic contexts
+
 
 ## nlp/nlu
 
@@ -171,17 +174,24 @@
 ## gpt
 
 - generative pre-trained transformer
+- gpt2: open-source ai model created by openai in february 2019
 
-
-- gpt2: open-source artificial intelligence model created by openai in february 2019
+- LLaMA (large language model meta ai)
+  - open-source, created by meta ai, non-commercial license
+  - uses open data for training (commoncrawl, c4)
+  - models ranging from 7b to 65b parameters
+    - 13b version of a model outperforms gpt3 175b on most benchmarks
+    - 7b version can run on a local computer
+  - alpaca
 
 
 ## chatgpt
 
+- openai product, closed source
+
 - temperature hyperparameter
   - if the temperature is low, the probabilities to sample other but the class with the highest log probability will be small, and the model will probably output the most correct text, but rather boring, with small variation
   - if the temperature is high, the model can output, with rather high probability, other words than those with the highest probability. The generated text will be more diverse, but there is a higher possibility of grammar mistakes and generation of nonsense
-
 
 
 ## processing pipeline examples
@@ -254,6 +264,15 @@
   - beginner friendly: flowers, petals and stuff
 - mnist dataset
   - images of handwritten digits
+
+- popular training sets in 2023
+  - common crawl
+  - c4
+  - github
+  - wikipedia
+  - books ???
+  - arxiv
+  - stackexchange
 
 
 ## library: spacy
@@ -431,6 +450,19 @@
 - building natural language generation systems (ehud reiter, robert dale)
 - evolution of grounded spatial language (michael spranger) https://books.google.ca/books?id=z0VFDAAAQBAJ
   - spatial language as complex adaptive system
+
+
+## software
+
+- nano gpt by andrew karpathy https://github.com/karpathy/nanoGPT
+
+- dalai  https://github.com/cocktailpeanut/dalai
+  - web app to run/query language models (alpaca/llama only?) on local computer
+
+- alpaca https://github.com/tatsu-lab/stanford_alpaca
+  - meta llama model fine-tuned by standford
+
+- LLaMA (large language model meta ai) https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 
 
 ## useful commands

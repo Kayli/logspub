@@ -132,6 +132,10 @@
   - supports document storage
   - mariadb is a fork after mysql been aquired by oracle
 
+- mssql
+  - can run on linux: https://hub.docker.com/_/microsoft-mssql-server
+  - dockerize .dbproj https://medium.com/@stepan.chubanian/dockerize-ms-sql-with-ssdt-on-windows-31c570e8d88d
+
 
 ## document dbs
 

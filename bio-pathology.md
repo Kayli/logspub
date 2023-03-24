@@ -227,6 +227,9 @@
   - used to be very common way to explain depressive states
   - been disevowed recently by medical community [^5]
 
+- depression
+  - когда человек чувствует тяжелое эмоциональное состояние, у него возникает неосознанная потребность обосновать это состояние когнитивно -> думать о плохом
+
 
 ## psychonorm
 

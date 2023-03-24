@@ -1,5 +1,7 @@
 # abstract algebra self-learning course notes [^1]
 
+## basics
+
 - abstract (modern) algebra is a study of algebraic structures
 
 - not to be confused with universal (general) algebra
@@ -10,9 +12,36 @@
 
 - common algebraic structures
   - groups, rings, fields
-  - modules, vector spaces, lattices, and algebras
+  - modules, vector spaces, topological spaces, lattices, and algebras
 
 - groups, rings, fields can be represented as sets
+
+- morphism
+  - structure-preserving function
+  - maps one mathematical object (such as a group, a ring, a vector space, or a topological space) to another
+
+- isomorphism [^2]
+  - inverse function exists between two mathematical objects
+  - types
+    - bijections: between sets
+    - bijective homomorphisms: between groups, rings, fields
+    - homeomorphisms: between topological spaces
+
+- category
+  - is a collection of objects and morphisms (or arrows) between those objects that satisfy certain axioms
+
+- functor
+  - map between categories that preserves the structure of the categories
+
+
+## useful analogies [^2]
+
+- in set theory: functions with domains and codomains tell us how sets interact with each other
+- in group theory: group homomorphisms tell us how groups interact with each other
+- in topology: continuous functions tell us how topological spaces mapped to each other
+
+- to generalize structures above, we use categories
+  - which are collection of of objects and collection of morphisms
 
 
 ## groups
@@ -65,4 +94,4 @@
 ## references
 
 [^1]: socratica youtube channel, playlist "abstract algebra"
-
+[^2]: https://youtu.be/igf04k13jZk

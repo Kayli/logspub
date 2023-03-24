@@ -34,6 +34,22 @@
 - typically results from the interaction of many factors
   - mental illness, marital breakdown, financial hardship, deteriorating physical health, a major loss, or a lack of social support
 
+- normative theory of suicide, types by emile durkheim
+  - egoistic: low level of social integration
+  - altruistic: die for the lives of others
+  - anomic: sense of aimlessness or despair that arises from the inability to reasonably expect life to be predictable
+  - fatalistic: overregulation by society
+
+ - types by maurice halbwachs
+  - искупительное
+  - проклинающее
+  - протестующее
+
+- books
+  - final exit by derek humphry
+  - social meanings of suicide by jack douglas
+  - suicide: a study in sociology by emile durkheim
+
 
 ## maid
 
@@ -49,3 +65,9 @@
   - terminally ill patients
   - psychiatric eas
 
+
+## exit international
+
+- euthanasia device
+  - was invented by Philip Nitschke in 2008. 
+  - it uses a canister of nitrogen, a plastic suicide bag, and a plastic tube with one end attached to the gas canister and the other fixed inside the bag by a tie held by adhesive tape

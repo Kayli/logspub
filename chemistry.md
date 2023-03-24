@@ -28,17 +28,8 @@
 - isotopes
   - atoms that differ only by the number of neutrons in a nucleus
   - e.g. chlorine-35 (75.77% of all chlorine atoms) and chlorine-37 (24.23%)
-
-- isomers
-  - definition
-    - molecules having same formula but spacial arrangement is different
-  - structural isomers - different bondings
-  - stereo isomers
-    - cis-trans (geometric) isomers
-    - enantiomers - for example, a mirrored molecule
-  - polymorphs
-    - compounds that can adopt different forms and/or crystal structures
-    - polymorphism is a form of isomerism
+  - isotope concept (grouping all atoms of each element) emphasizes chemical over nuclear properties
+    - while 'nuclide' concept (referring to individual nuclear species) emphasizes nuclear properties over chemical
 
 - stoichiometry
   - relationship between the quantities of reactants and products before, during, and following chemical reactions
@@ -46,6 +37,7 @@
 
 - exergonic reaction
   - chemical reaction where there is a net release of free energy (the change in the free energy is negative)
+
 
 ## atomic structure important for a chemist
 
@@ -63,6 +55,19 @@
 - atoms are grouped by a number of valence electrons
   - valence electrons are ones located in a valence shell
   - atom's valence shell is the outermost electron shell
+
+
+## isomers
+
+- definition
+  - molecules having same formula but spacial arrangement is different
+- structural isomers - different bondings
+- stereo isomers
+  - cis-trans (geometric) isomers
+  - enantiomers - for example, a mirrored molecule
+- polymorphs
+  - compounds that can adopt different forms and/or crystal structures
+  - polymorphism is a form of isomerism
 
 
 ## periodic table

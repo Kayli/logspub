@@ -27,6 +27,11 @@
 - factorial: n * (n - 1)
 
 
+## scientific notation
+
+- e notation example: 3.8e7 = 3.8 * 10^7
+
+
 ## set theory
 
 - zermelo–fraenkel set theory (zf)

@@ -1,4 +1,10 @@
-# notes about geology and related topics
+# notes about planetology and related topics
+
+- scientific study of 
+  - planets (including Earth)
+  - celestial bodies (such as moons, asteroids, comets)
+  - planetary systems (in particular those of the solar system)
+  - processes of their formation
 
 
 ## atmospheric science
@@ -9,6 +15,11 @@
 
 
 ### earth
+
+- age: 4.54 billion years old
+- will become non-habitable in 1.1 billion years
+- natural satellite: moon
+  - formed after impact with planet theia about 4.5 years ago
 
 - atmospheric layers
   - exosphere 700km to 10,000km
@@ -54,13 +65,30 @@
   - synonymous to mud
   - not a composition of materials, but defined by grain size
 
+- stratum (pl: strata)
+  - layer of rock or sediment characterized by certain lithologic properties or attributes that distinguish it from adjacent layers from which it is separated by visible surfaces known as either bedding surfaces or bedding planes
+  - not deposited at the same rate (1917 joseph barell discovery)
+
 
 ### seismology
 
 - seismic sea waves have a period of about 20 minutes, and speeds of 760 km/h
 
 
+### dating [^3]
+
+- relative
+- absolute
+  - invented in early 20th century
+  - radioactive isotopes used
+    - carbon-14     5.7e3 (5-6k years)
+    - potassium-40  1.3e9
+    - uranium-238   4.5e9
+    - rubidium-87   4.9e10
+
+
 ## terms and abbriviatures used
 
 [^1]: iss https://en.wikipedia.org/wiki/International_Space_Station 
 [^2]: https://www.youtube.com/watch?v=csEdTdwhmVI&t=53s
+[^3]: https://www.youtube.com/watch?v=suUX9-JAwNM

@@ -52,6 +52,12 @@
 - secularism: separation of church and state
 
 
+## monoteism
+
+- ancient egypt 14th century bce
+  - pharaoh akhenaten promoted the worship of a single deity, the Aten, as the supreme creator and sustainer of the universe
+
+
 ## well known
 
 ### ancient mesopotamian region
@@ -60,6 +66,16 @@
   - two aspects
     - she is a creator goddess, peacefully creating the cosmos through successive generations
     - monstrous embodiment of primordial chaos
+
+
+### zoroastrism
+
+- ahura mazda: lit. 'lord of wisdom'
+- zoroaster 
+  - greek rendering of the avestan name zarathustra
+  - zar - king?
+  - zorro - fox (spanish)
+  - aster - star?
 
 
 ### paganism
