@@ -19,6 +19,10 @@
     - богатство, bogatъ, ubogъ
     - доля, делить, получать долю, наделять
 
+- statistics 2021
+  - 84% of the world's population identifies with a particular religious group or tradition
+  - less than 9% are atheists
+
 - religious experience
   - refers to the conviction or sensation that one is connected to “the divine” 
   - this type of communion might be experienced when people are praying or meditating
@@ -110,6 +114,11 @@
 - dionysian mysteries
   - rituals in acient greece and rome related to consumption of alcohol and psychedelics
   - inspired christian traditions related to consumption of wine
+
+- abraham sacrificing his son
+  - god commands abraham to offer his son isaac as a sacrifice 
+  - after isaac is bound to an altar, a messenger from god stops abraham before the sacrifice finishes
+    - saying "now i know you fear god"
 
 
 ### islam 24.1%

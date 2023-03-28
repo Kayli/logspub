@@ -41,7 +41,7 @@
 
 - neurosis
   - is a class of functional mental disorders involving chronic distress, but neither delusions nor hallucinations
-  
+
 - psychosis
   - abnormal condition of the mind that results in difficulties determining what is real and what is not real
   - psychotic episode - обострение
@@ -100,6 +100,26 @@
   - used to be very common way to explain depressive states
   - been disevowed recently by medical community [^5]
 
+- adhd and ad
+  - being oblivious to time
+  - emotional disregulation
+  - trouble getting things started
+  - trouble picking on social queues
+  - highly inheritable?
+
+- adhd
+  - seek novel and new experiences, become bored with routine
+  - inattention to the entire conversation
+  - hijacking conversation by interrupting and going off on a tangent
+  - may fidget to make them focus
+
+- asd
+  - comforted by familiarity and routine
+  - don't understand subtext messages from body language
+  - overwhelmed with a sensory demands of a chit-chatting
+  - if person thinks very literally, they may miss important social signals and subtle messages
+  - may fidget because there is something in the environment that makses them uncomfortable
+
 
 ## psychonorm
 
@@ -113,6 +133,22 @@
 
 - healthy narcissism and healthy codependency
   - expressed when two conversing people move fluidly and interchangeably between speaking and listening
+
+
+## pharmaceutics
+
+- adderall
+  - prescribed for treating adhd
+  - amphetamine and dextroamphetamine
+  - increases levels of dopamine and norepinephrine
+  - can improve attention and focus, reduce impulsivity, and increase energy levels
+
+- ritalin
+  - prescribed for treating adhd
+  - methylphenidate (a stimulant)
+  - increases levels of dopamine and norepinephrine in the brain
+  - also blocks the reuptake of dopamine and norepinephrine
+    - which helps to keep these neurotransmitters in the brain for longer periods of time
 
 
 ## psychedelics therapy

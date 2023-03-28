@@ -66,100 +66,14 @@
   - cloudkeeper https://github.com/someengineering/cloudkeeper
 
 
-## azure cloud platform
+## azure
 
-- azure compute services
-  - virtual machines
-  - app service
-  - container instances
-  - kubernetes services (aks)
-  - functions
-  - virtual desktop
-
-- azure data services 
-  - sql
-    - sharding is possible using elastic client library and shard map manager
-  - sql managed instance
-  - analysis services [^2]
-    - tabular data model: in-memory table, highly compressed
-  - synapse
-    - for big data, sharding
-  - table storage (nosql)
-    - up to 500tb in rows per table
-    - write performance: up to 2k rows/second at 1kb/row per table (20k per account)
-    - entity
-      - is essentially a table row
-      - set of properties and values
-      - up to 1mb of data
-      - max 255 properties
-      - always present properties: partition key, rowkey, timestamp
-    - one region with optional secondary read region
-  - cosmos db (many different apis to access same data)
-    - table storage api
-      - 10mops per second per table
-      - multiregion 30+
-      - automatic indexing
-  
-  
-  - hdinsight (kafka, hbase, hadoop mapreduce)
-  - databricks
-  - data factory - etl, transforming and moving data around
-  - ml - machine learning training and stuff
-  - container registry - container publishing and lifetime management
-  - artifacts - nuget, npm, maven, python, universal packages
-    - twine (python)
-      - inside devcontainer we can use artifacts-keyring and it should prompt for az login on 'twine publish' command
-        - more details here: https://github.com/microsoft/artifacts-keyring
-
-- request unit (RU)
-  - performance currency abstracting the system resources such as CPU, IOPS, and memory that are 
-    required to perform the database operations supported by Azure Cosmos DB
-  - the cost to do a point read (fetching a single item by its ID and partition key value) 
-    for a 1-KB item is 1 RU
-
-- source control services
-  - team foundation version control (TFVC)
-  - azure repos git
-  - github
-
-- ci/cd services
-  - azure devops (azdo)
-    - hosted git
-    - pipelines
-    - agile board
-    - scheduled for deprecation
-  - github
-    - hosted git
-    - actions (pipelines)
-
-- dns services
-  - dns api is limited to azure services only, you can't call it from outside?
-
-- health check page https://status.dev.azure.com/
-
-
-## microsoft outlook web
-
-- unable to copy my own email address to a clipboard from the web page
+- see dev-cloud-azure.md
 
 
 ## aws
 
-- compute
-  - ec2: virtual machines
-  - ecs: elastic container store (docker)
-    - aws container orchestration platform
-    - operates with clusters and tasks
-  - fargate
-    - run docker containers without managing any servers for container orchestration
-  - lambda
-    - time limit of 15 minutes per function
-    - runs on ephemeral containers behind the scenes
-    - it is possible to set concurrency limits on individual aws lambda functions
-
-- data
-  - s3
-  - redshift: big data analysis platform (etl, bi, reports)
+- see dev-cloud-aws.md
 
 
 ## vendor neutral

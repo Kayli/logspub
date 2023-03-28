@@ -43,6 +43,13 @@
     - hard, continuous labour as a spiritual end in itself
     - such values influenced the rise of capitalism and helped create the modern world order
 
+- disenchantment [^5]
+  - is the cultural rationalization and devaluation of religion apparent in modern society
+  - in traditional society the world remains a great enchanted garden
+  - in western society 
+    - scientific understanding is more highly valued than belief
+    - processes are oriented toward rational goals
+
 
 ## social formation principles
 
@@ -115,3 +122,4 @@
 [^2]: https://en.wikipedia.org/wiki/Stanford_prison_experiment
 [^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
 [^4]: https://youtu.be/z9W0GQvONKc?t=82
+[^5]: https://en.wikipedia.org/wiki/Disenchantment

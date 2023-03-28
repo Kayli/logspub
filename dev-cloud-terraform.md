@@ -59,9 +59,23 @@
 
 ## alternatives
 
-- https://www.pulumi.com/
+- terraform vs pulumi vs crossplane [^2]
+  - crossplane
+    - yaml definitions similar to k8s
+      - this allows to store definitions together with other k8s resources
+      - can leverage k8s ecosystem for managing/templating/modularizing/packaging definitions (helm, etc)
+    - does not support previewing of a plan before applying changes
+    - able to monitor infrastructural components in realtime and 'fix' differences immediately
+    - needs k8s cluster to run
+  - pulumi https://www.pulumi.com/
+    - supports many programming languages for writing definitions
+    - supports state tracking and plan command
+  - terraform
+    - industry standard for provisioning automation
+    - clunky declarative syntax
 
 
 ## references
 
 [^1]: https://subscription.packtpub.com/book/cloud-and-networking/9781800207554/2/ch02lvl1sec18/querying-external-data-with-terraform
+[^2]: https://www.youtube.com/watch?v=RaoKcJGchKM

@@ -201,7 +201,8 @@
 
 ## space and time
 
-- leibniz, kant and einstein all thought that space and time are mental constructs
+- space and time are mental constructs
+  - leibniz, kant and einstein were proponents of this idea 
   - emerge from interactions between different parts of matter
 
 
