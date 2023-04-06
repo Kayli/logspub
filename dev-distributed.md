@@ -82,8 +82,6 @@
 - dumb pipes
   - buses should be trivial to use, in that sense they should be 'dumb'
   - if some optimization is possible - thats okay, but pipes should not dictate much
-  - ideally they should adapt to demands of the applications
-    - they should autoconfigure based on usage pattern
 
 - transactional outbox [^4]
   - safely save messages into a database before sending them asynchronously
@@ -99,6 +97,7 @@
 - api gateway
   - useful for data aggregation from multiple microservices that own different databases
   - improves security by reducing attack surface
+  - can hide infrastructural complexities and provide simpler communication interface
   - should never call another api gateway
   - alternatives: materialized view, cqrs
 

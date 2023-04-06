@@ -174,6 +174,7 @@
 ## gpt
 
 - generative pre-trained transformer
+
 - gpt2: open-source ai model created by openai in february 2019
 
 - LLaMA (large language model meta ai)
@@ -183,6 +184,9 @@
     - 13b version of a model outperforms gpt3 175b on most benchmarks
     - 7b version can run on a local computer
   - alpaca
+
+- rlhf: reinforcement learning from human feedback
+  - fine-funing technique that makes trained language models more predictable/focused
 
 
 ## chatgpt
@@ -460,7 +464,7 @@
   - web app to run/query language models (alpaca/llama only?) on local computer
 
 - alpaca https://github.com/tatsu-lab/stanford_alpaca
-  - meta llama model fine-tuned by standford
+  - meta's llama model fine-tuned by standford
 
 - LLaMA (large language model meta ai) https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 

@@ -7,6 +7,7 @@
   - diameter 93 giga light years
   - mass of ordinary matter 1.5×10^53
   - age 13.77 byo
+  - number of particles: 3.28 x 10^80
 
 - composition
   - not well studied
@@ -38,9 +39,6 @@
   - in 1 trillion years from now
     - observable universe will likely contain only our galaxy
       - due to accelerated expansion
-
-- some stats
-  - number of particles in observable universe: 3.28 x 10^80
 
 - cosmic rays
   - visilbe as auroras (полярные сияния)
@@ -108,9 +106,25 @@
       - humans - ones that don't qualify, like we are now (type 0)
 
 
+## cluster/group
+
+- our cluster: the local group
+
+
+## observability
+
+- edges of observability
+  - affectable (by a photon) 16.5 bly
+  - currently observable 46.4 bly
+    - including 'seeing' with gravitational waves?
+  - eventually observable 62.9 bly
+  - ultimately observable 79.4 bly
+
+
 ## milky way
 
 - age: 13 byo
+- size: 100 kly in diameter (when avg is 150kly??)
 - saggitarius a* active galactic nucleus
   - supermassive black hole at the center
 
@@ -215,7 +229,7 @@
     - earth
       - about a million earths will fit into a sun
       - circumference 40,075 km
-      - will become non-habitable in 1.1 billion years
+      - will become non-habitable in 0.5-1.1 billion years
     - mars
       - 4 - 20 light minutes away from earth
 
@@ -316,6 +330,10 @@
 
 
 ## extraterrestial life
+
+- drake equation
+  - defines how many alien societies exist, and are detectable
+  - second? most-famous equation in science
 
 - oxygen can start to accumulate in the atmosphere of a planet by the action of ultraviolet light [^6]
   - uv divides the co2 in the atmosphere into co and o2

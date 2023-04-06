@@ -704,9 +704,106 @@
 
 ## thomas aquinas 1225-1274
 
+- faith and reason are compatible
+  - both are necessary for a full understanding of the world
+
+- community is essential for human flourishing
+
+- identified seven sacraments (таинства), see religions.md file
+
 - god is the source of both the light of natural reason and the light of faith
+- popularizes 'unmoved mover' aristotelian idea
 - embraced several ideas put forward by aristotle
   - attempted to synthesize aristotelian philosophy with the principles of christianity
+- existence of god could be demonstrated through reason
+  - as the universe must have had a first cause, and such cause must be a god
+
+
+## avicenna (ibn sina) 980-1037 ce
+
+- born in a small village near bukhara (samani kingdom, modern uzbekistan)
+- was self-educated
+- 'heals' aristotle to be compatible with islam
+
+- related philosophers
+  - al farabi: helped to understand aristotel metaphysics
+  - al kindi: tried to fuse aristotelian and and platos philosophy
+    - the truth is the most important thing that 'enobles all' no matter of their origin
+  - al ghazali: questions authority based opinions, all things around him
+  - averroes: philosophy and religion working together
+
+- flying man thought experiment
+  - supposed to illustrate that mind and body are separate from each other
+  - in the spirit of: "i think therefore my body is separate from my rational soul"
+
+- intellect
+  - all human beings have the capacity to understand and know the same things, regardless of their individual backgrounds, experiences, or abilities
+  - is the highest faculty of the human soul
+  - it is responsible for all knowledge and understanding
+  - two aspects to the intellect
+    - "potential intellect" which has the capacity to receive knowledge
+    - "active intellect" which actually brings that knowledge to fruition
+  - mirror analogy: intellect is like a mirror that reflects the divine light of knowledge, and that it is this light that allows us to perceive the truth
+
+
+## boethius 480–524 ce
+
+- was one of the most important translators of Greek philosophy into Latin
+
+- conversations with lady philosophy
+  - in his work 'the consolation of philosophy'
+  - has been imprisoned and is facing execution
+  - is visited by lady philosophy, who offers him comfort and guidance
+
+- life as a wheel of fortune: gives and takes
+
+- music theory
+  - divided music into four categories: rhythm, melody, harmony, and modulation
+  - study of music could help to develop the mind and the soul, and that it was essential for understanding the harmony and order of the universe
+
+
+## saint augustine 354-430 ce
+
+- 'sins' committed as a child
+  - begging for mothers milk
+  - ungrateful complaining, crying whenever he needed something
+- lust experienced as young adult
+
+- followed manichaeism for some time
+  - manichaeism thrived between the third and seventh centuries
+  - at its height was one of the most widespread religions in the world
+- converted to christianity
+- achievement: fused philosophy of plotinus to christianity
+
+- theory of time
+  - god created time, god existed before time
+  - nothing exists except present: present of past, present of present, present of future
+  - our minds measure time, it is an illusion created by our minds
+
+
+## plotinus 205-270 ce
+
+- associated with neoplatonism
+  - a philosophical school that combined elements of Platonic philosophy, Aristotelianism, and Eastern mysticism
+
+- concept of the soul
+  - plotinus believed that the soul was a divine spark that was present in all human beings
+  - he believed that the goal of human life was to cultivate this divine spark and to achieve union with 'the one'
+
+- the highest form of human activity - direct intuition of the divine
+
+- material world 
+  - was created by a process of emanation from 'the one'
+    - it was not a deliberate act of creation, but rather a natural overflow of "the one's" abundance
+  - not inherently evil or flawed, but rather a reflection of the limitations of the lower levels of reality
+
+- evil does not exist as a positive entity
+  - but it is an absence or privation of good
+
+- multi-tier fountain analogy
+  - top tier:     'the one' (or god)
+  - middle tier:  intellect
+  - bottom:       soul which creates physical world we live in
 
 
 ## epicurus 341–270 bce
@@ -843,6 +940,8 @@
 - alexander the great was his student
 
 - ultimate goal of life: living well, happiness
+
+- mind and body are one
 
 - classified living organisms into two main groups
   - plants:  herbs, shrubs, and trees

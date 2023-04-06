@@ -7,11 +7,23 @@
 - 10^21 molecules in a drop of water
 - the brain has about 10¹¹ neurons and 1.8-3.2 x 10¹⁴ synapses
 
+- covalent radius of a hydrogen atom is approximately 37 x 10^-12 meters
+  - is half the distance between two identical atoms that are bonded together
 
-## si system
+- charge radius of a proton is approximately 0.87 x 10^-15 meters
 
-- units
-  - base
+- planck length is approximately 1.616 x 10^-35 meters
+
+- inertial frame of reference
+  - one that is not undergoing any acceleration
+  - has constant velocity
+
+
+## system of units of measurement
+
+- si system
+  - most widely used system of units and is used in everyday life, commerce, and most scientific and engineering applications
+  - base units
     - fundamental
     - can't be derived from other units
     - 7 in total
@@ -22,10 +34,32 @@
       - amount of substance: mole (mol)
       - electric current: ampere
       - luminous intensity: candela (cd)
-      
-  - derived
+  - derived units
     - well defined
     - can be derived from base
+
+- natural units
+  - alternative system of units that can be used to describe physical phenomena
+  - physical units of measurement based only on universal physical constants
+  - base Planck units: length, mass, time, temperature, charge
+  - scale of the Planck length
+    - roughly the order of magnitude around which the structure of spacetime becomes dominated by quantum effects
+    - roughly the scale of the “quantum foam”
+  - gravitational attractive force of two bodies of 1 Planck mass each, set apart by 1 Planck length
+    is 1 coherent Planck unit of force
+  - distance traveled by light during 1 Planck time is 1 Planck length
+  - speed of light c 
+    - is a natural unit of speed
+    - 299792.458km/s  (referred as approx 300000 km/s)
+    - e=mc^2 interpretation
+      - the numerical value of the speed of light is set to equal 1
+      - and the formula expresses an equality of numerical values: E = m
+  - elementary charge e 
+    - is a natural unit of electric charge
+    - usually denoted by e or sometimes qe 
+    - is the electric charge carried by a single proton
+    - or, equivalently, the magnitude of the negative electric charge carried by a single electron
+      - which has charge −1 e
 
 
 ## major breakthroughs
@@ -201,27 +235,8 @@
 
 ## general relativity
 
-- natural units
-  - physical units of measurement based only on universal physical constants
-  - base Planck units: length, mass, time, temperature, charge
-  - scale of the Planck length
-    - roughly the order of magnitude around which the structure of spacetime becomes dominated by quantum effects
-    - roughly the scale of the “quantum foam”
-  - gravitational attractive force of two bodies of 1 Planck mass each, set apart by 1 Planck length 
-    is 1 coherent Planck unit of force
-  - distance traveled by light during 1 Planck time is 1 Planck length
-  - speed of light c 
-    - is a natural unit of speed
-    - 299792.458km/s  (referred as approx 300000 km/s)
-    - e=mc^2 interpretation
-      - the numerical value of the speed of light is set to equal 1
-      - and the formula expresses an equality of numerical values: E = m
-  - elementary charge e 
-    - is a natural unit of electric charge
-    - usually denoted by e or sometimes qe 
-    - is the electric charge carried by a single proton
-    - or, equivalently, the magnitude of the negative electric charge carried by a single electron
-      - which has charge −1 e
+- a geodesic generalizes the notion of a "straight line" to curved spacetime
+
 
 - general relativity takes into account the effects of gravity, while special relativity does not
 

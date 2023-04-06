@@ -20,6 +20,11 @@
   - survivor's mindset
 
 
+ - antonio gramsci - the common school https://www.youtube.com/watch?v=WPq1sFseEjI
+    - dangers of having private schools (leads to stratification)
+    - problems with instrumental, market-based grounds for education
+
+
 ## references
 
 - prussian reforms, humboldtian model of higher education https://en.wikipedia.org/wiki/Humboldtian_model_of_higher_education

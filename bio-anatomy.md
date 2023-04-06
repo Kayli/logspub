@@ -105,6 +105,10 @@
 ## organs
 
 - organ is a collection of tissues joined in a structural unit to serve a common function
+- liver
+  - location: right side under the diaphragm
+- stomach
+  - left side under the diaphragm
 
 
 ## circulatory system

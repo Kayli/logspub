@@ -7,12 +7,19 @@
   - containers are isolated from one another and bundle their own software, libraries and configuration files
     - they can communicate with each other through well-defined channels
 
+ - host operating system has no concept of a container
+  - but it does provide features such as namespaces, cgroups, and file system overlays that make a container possible
+
 - open container initiative (oci)
   - standards around container technology
   - compliant: docker, containerd, cri-o
 
 - state is not preserved after restarting container by default
   - unless you're using a docker volume
+
+- container runtimes [^6]
+  - containerd (most popular)
+  - cri-o (built specificatlly for k8s)
 
 
 ## installation
@@ -209,3 +216,4 @@
 [^5]: https://www.kubegres.io/doc/getting-started.html
 [^4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
 [^5]: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container
+[^6]: https://earthly.dev/blog/containerd-vs-docker/

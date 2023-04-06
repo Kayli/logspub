@@ -16,7 +16,7 @@
     - policy: maps states to actions, where action is what action it should take in that state
 
 - phases
-  - training
+  - training (pre-training and fine-funing sub phases)
   - validation/test
   - application
 
@@ -141,6 +141,9 @@
 - https://midjourney.gitbook.io/docs/
   - offers a discord midjourney bot, which you can use to generate images
   - there is a free plan as well as paid subscription
+
+- https://github.com/DeepGenX/CodeGenX
+  - free vscode plugin for intelligent coding assistaint
 
 
 ## popular libraries

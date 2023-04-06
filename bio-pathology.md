@@ -5,8 +5,7 @@
 - pathology 
   - is the study of the causes and effects of disease or injury
 - medical condition
-  - broad term that includes all diseases, lesions, disorders, or nonpathologic condition that normally receives 
-    medical treatment, such as pregnancy or childbirth
+  - broad term that includes all diseases, lesions, disorders, or nonpathologic condition that normally receives medical treatment, such as pregnancy or childbirth
   - general medical condition
     - refers to all diseases, illnesses, and injuries except for mental disorders
 - disorder

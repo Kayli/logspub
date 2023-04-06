@@ -116,6 +116,7 @@
     - atheism
 
 
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/Milgram_experiment
@@ -123,3 +124,4 @@
 [^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
 [^4]: https://youtu.be/z9W0GQvONKc?t=82
 [^5]: https://en.wikipedia.org/wiki/Disenchantment
+

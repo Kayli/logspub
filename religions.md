@@ -120,6 +120,67 @@
   - after isaac is bound to an altar, a messenger from god stops abraham before the sacrifice finishes
     - saying "now i know you fear god"
 
+- seven sacraments (таинства) identified by thomas aquinas
+  - baptism
+    - ritual washing with water as a sign of purification and initiation into the christian community
+    - symbolic act of dying to the old self and being reborn as a new person in christ
+    - variations related to water
+      - full immersion in water
+      - pouring water over the head
+      - sprinkling water on the forehead
+    - variations related to age
+      - infants are baptized
+      - only those who have made a conscious decision to follow christ are baptized
+    - modern version: ???
+
+  - confirmation
+    - laying on of hands
+    - anointing (помазание) with chrism (a consecrated oil, миро, елей)
+    - signifies
+      - holy spirit's strengthening and empowerment
+      - completing the process of initiation into the сhristian community that began with baptism
+    - modern version: patting on a back in the office by a manager
+
+  - eucharist
+    - consumption of bread and wine that have been consecrated by a priest or minister
+    - words often pronounced: Hoc est corpus meum, or "this is my body"
+      - origin of 'hocus pocus' expression
+    - symbolic cannibalism, improvement over archaic form - literal cannibalism
+    - modern version: consumption of food during a sports event
+
+  - penance (покаяние)
+    - confession of sins to a priest or minister
+    - receiving of absolution or forgiveness for sins committed
+    - later evolved into 'sacrament of penance' with 5 steps:
+      - examination of conscience, confession, contrition, absolution, penance
+    - modern version: session with a psychotherapist
+
+  - anointing of the sick (помазание больных)
+    - way of providing spiritual and emotional support to those who are suffering from illness or injury
+    - offering hope and comfort in the face of death
+    - reinforcing belief that god's grace and healing power are available to those who seek them
+      - that the sick person is not alone in their struggle
+    - modern version: treating allergy with cortecosteroids
+
+  - holy orders
+    - ordination of individuals to serve as clergy within the church
+    - typical steps
+      - discernment
+        - individual feels called by god to serve as a minister or priest
+        - undergoes a period of discernment and training to prepare for this role
+      - candidacy
+        - evaluated by church leaders and may receive additional training and education
+      - ordination
+        - individual is ordained to the ministry or priesthood by a bishop or other authorized minister
+        - typically involves
+          - the laying on of hands
+          - prayer
+          - conferring of specific sacramental powers and responsibilities
+
+  - matrimony (marriage)
+    - seen as a way of expressing the love and commitment that god has for humanity
+    - symbolizes relationship between christ and the church
+
 
 ### islam 24.1%
 
