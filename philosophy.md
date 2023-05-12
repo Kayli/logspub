@@ -6,6 +6,13 @@
   - literally: love of wisdom
   - the most generic type of inquiry
 
+- reason
+  - ability to think logically, critically, and analytically in order to make sense of the world around us
+  - capacity for rational thought and inference, based on evidence and experience
+    - enables us to arrive at sound judgments and make informed decisions
+  - often contrasted with emotion or intuition
+    - are seen as more subjective and less reliable sources of knowledge
+
 - main philosophical positions
   - epistemic realism
   - antirealism (relativism)
@@ -24,6 +31,8 @@
 
 - epistemology (greek 'episteme' meaning knowledge)
   - theory of knowledge, the branch of philosophy concerned with knowledge
+  - nominalism: categories are names, we create them, no universal entities
+  - realism: categories are real, universal entities exist
 
 - metaphysics - theory of reality
   - ontology

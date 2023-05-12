@@ -80,6 +80,13 @@
         - evolved in the common ancestor of placental mammals, which almost all living mammals
 
 - well known
+  - upper respiratory infections (URIs)
+    - influenza (flu)
+      - caused by influenza viruses only
+      - flu is worse than the common cold, and symptoms are typically more intense and begin more abruptly
+    - common cold
+      - number of different viruses, including rhinoviruses, parainfluenza, and seasonal coronaviruses
+
   - smallpox (оспа)
   - rabies (бешенство)
 
@@ -92,6 +99,20 @@
       during the process of breathing in and breathing out
   - caused by infection with viruses or bacteria
     - identifying the responsible pathogen can be difficult
+
+- anemia
+  - lack of healthy red blood cells to carry adequate oxygen to your body's tissues
+
+
+## vaccines
+
+- first documented uses
+  - originated 1000 bce in india
+  - people were given small dose of infected substance in a hope that their immune system overcomes infection naturally
+
+- cowpox 
+  - closely related cow virus has been used to trigger immune response in people while not infecting them
+  - practiced in 17 century in persia, africa and europe
 
 
 ## genetic diseases
@@ -124,7 +145,21 @@
   - a condition in which a person can see but cannot recognize or interpret visual information, due to a disorder in the parietal lobes
 
 
+## diabetes
+
+- type 2 
+  - chronic metabolic disorder characterized by high levels of glucose in the blood
+  - the most common form of diabetes, accounting for around 90-95% of all diabetes cases
+  - drugs: semaglutide (older), tirzepatide (newer) [^3]
+
+
 ## psychopathology
+
+- types of specialist
+  - psychotherapist (психотерапевт)
+  - clinical psychologist клинический психолог
+    - master's or doctorate in clinical psychology
+  - psychiatrist (психиатр)
 
 - dsm
   - diagnostic and statistical manual of mental disorders
@@ -132,7 +167,7 @@
 
 - pseudohallucination
   - involuntary sensory experience vivid enough to be regarded as a hallucination, 
-    but which is recognised by the person experiencing it as being subjective and unreal. 
+    but which is recognised by the person experiencing it as being subjective and unreal
   - by contrast, a "true" hallucination is perceived as entirely real by the person experiencing it
   - patients can be easily misdiagnosed in a case of gaslighting
 
@@ -227,7 +262,32 @@
   - been disevowed recently by medical community [^5]
 
 - depression
-  - когда человек чувствует тяжелое эмоциональное состояние, у него возникает неосознанная потребность обосновать это состояние когнитивно -> думать о плохом
+  - possibly caused by
+    - когда человек чувствует тяжелое эмоциональное состояние, у него возникает неосознанная потребность обосновать это состояние когнитивно -> думать о плохом. как следствие идет наработка мало?адаптивных когнитивных автоматизмов
+    - генетическая программа адаптации в группе
+
+- schizofrenia
+  - drugs: xanomeline-trospium
+
+- narcissistic personality disorder
+  - дезадаптация: человек уже не может приспособиться к гибким, постоянно меняющимся условиям социума
+  - типы по миллону
+    - амурные
+      - имеют истерические черты
+      - для таких людей важны внешние атрибуты соблазнения, заигрывания, флирта, блеска. 
+      - потакают своим телесным желаниям, завораживают, а также склонны к мошенничеству (брачные аферисты)
+    - элитарные
+      - жаждут чувствовать себя привилегированными и свой статус поддерживают ложными достижениями
+      - фальшивый фасад, на который наклеены ярлыки
+      - могут получать воинские звания, научные степени, быть академиками трех академий, на самом деле ничего не представляя собой
+    - компенсаторные
+      - которые чувствуют свою неполноценность
+      - низкая самооценка, и, стремясь ее повысить, они выстраивают свое поведение так, чтобы оказываться в центре внимания и быть предметом восхищения
+  - not capable of a reciprocal attachment or relationship
+    - will function either through putting others down in a negative way or in raising themselves up at the expense of those around them
+
+- substance abuse/addiction
+  - research indicates that more than half of the people with mental health concerns also misuse drugs or alcohol
 
 
 ## psychonorm
@@ -239,9 +299,17 @@
   - intense emotional state induced by displeasure
   - characterised by loss of self-control from violence of emotion
   - related: anger, indignation, ire, wrath, tantrum (in a young child)
-  
+
+- healthy narcissism
+  - is a positive sense of self that is in alignment with the greater good
+  - continuum
+    - deficient: results in a loss of confidence, low self-esteem, hopelessness, and depression
+    - healthy
+    - pathological: pits the individual against all others, destructive
+
 
 ## references
 
 [^1]: https://www.insidescience.org/news/rare-human-syndrome-may-explain-why-dogs-are-so-friendly
 [^2]: https://www.nature.com/articles/nature08837
+[^3]: https://www.youtube.com/watch?v=v2LbvjZbpiA

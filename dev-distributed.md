@@ -74,6 +74,11 @@
   - possible disadvantages
     - storing events can consume 2-3 orders of magnitude more storage than storing state
 
+- schema registry
+  - component that helps with schema verification before publishing message to a pipe
+  - arbitrates the contract between publishers and subscribers
+  - see more at dev-messaging.md
+
 - cqrs
   - commands and queries have different state representations
   - simplifies representation, increases performance

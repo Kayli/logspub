@@ -32,3 +32,15 @@
   - called that because they use a modal verb followed by a perfect tense construction
   - perfect modals are used to talk about past actions
 
+
+## expressions
+
+- to get your ducks in a row
+  - means to organize your tasks and schedule so that you are ready for the next step
+
+- goulash
+  - may be used as a derogatory term to describe a hodgepodge or mishmash of different things that are thrown together without any clear structure or coherence
+
+- we're not in Kansas anymore
+  - is a well-known quote from the 1939 movie "The Wizard of Oz"
+  - in the movie, the character Dorothy says this line after being transported from her home in Kansas to the magical land of Oz, where everything is strange and unfamiliar to her

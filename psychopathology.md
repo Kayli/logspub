@@ -120,6 +120,15 @@
   - if person thinks very literally, they may miss important social signals and subtle messages
   - may fidget because there is something in the environment that makses them uncomfortable
 
+- alexithymia 
+  - impaired ability to be aware of, explicitly identify, and describe one's feelings
+
+
+## addictions
+
+- to therapy
+  - happens when it serves only for offloading emotions without doing a deeper work
+
 
 ## psychonorm
 
@@ -130,6 +139,7 @@
   - intense emotional state induced by displeasure
   - characterised by loss of self-control from violence of emotion
   - related: anger, indignation, ire, wrath, tantrum (in a young child)
+  - anger, when motivated, serves justice (thomas aquinas?)
 
 - healthy narcissism and healthy codependency
   - expressed when two conversing people move fluidly and interchangeably between speaking and listening

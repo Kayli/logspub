@@ -25,6 +25,11 @@
     - problems with instrumental, market-based grounds for education
 
 
+- zone of proximal development (ZPD) 
+  - is a concept in educational psychology
+  - represents the space between what a learner is capable of doing unsupported and what the learner cannot do even with support
+
+
 ## references
 
 - prussian reforms, humboldtian model of higher education https://en.wikipedia.org/wiki/Humboldtian_model_of_higher_education

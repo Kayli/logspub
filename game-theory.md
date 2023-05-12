@@ -1,5 +1,15 @@
 # Game theory and related topics
 
+## basics
+
+- runaway selection (fisherian runaway)
+  - examples
+    - sexually dimorphic phenotypic traits such as behavior expressed by a particular sex
+    - evolution of ostentatious male ornamentation by persistent, directional female choice
+      - initially the ornament signalled greater potential fitness (the likelihood of leaving more descendants), so preference for the ornament had a selective advantage
+      - subsequently, if strong enough, female preference for exaggerated ornamentation in mate selection could be enough to undermine natural selection even when the ornament has become non-adaptive
+
+
 ## infinite games
 
 - theory-of-mind agent games

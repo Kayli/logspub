@@ -29,7 +29,42 @@
 - partita bwv 1004 in d-minor V ciaccona [^2]
 
 
+## orlando lasso 1532-1594
+
+## giovanni battista doni 1595-1647
+
+- italian musicologist and humanist who made an extensive study of ancient music
+- renamed the note "ut" to "do" in solfège
+  - arguing that "do" is easier to pronounce than "ut" 
+  - and that "do" is an abbreviation for "dominus", the Latin word for The Lord, who is the tonic and root of the world
+  - imprinted himself into musical canon in perpetuity because "do" is also ulteriorly an abbreviation for his surname
+
+
+## giovanni pierluigi da palestrina (1525-1594)
+
+- italian composer of late renaissance music. 
+- considered the leading composer of late 16th-century Europe
+- полифония строгого стиля
+
+
+## guido of arezzo 991-1033 [^3]
+
+- italian music theorist and pedagogue of high medieval music
+
+- inventor of the modern staff notation
+  - had a massive influence on the development of western musical notation and practice
+  - names of the notes based on the first letters of verses of a prayer to saint john 
+    - [Ut] queant laxīs
+    - [re]sonāre fibrīs
+    - [Mī]ra gestōrum
+    - [fa]mulī tuōrum,
+    - [Sol]ve pollūtī
+    - [la]biī reātum,
+    - [S]āncte [I]ohannēs
+
+
 ## references
 
 [^1]: https://youtu.be/qWli4mESroA?t=2952
 [^2]: https://youtu.be/qWli4mESroA?t=4084
+[^3]: https://www.youtube.com/watch?v=Tspk2mWxiGk

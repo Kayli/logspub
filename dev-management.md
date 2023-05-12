@@ -59,7 +59,7 @@
   - culture of obscurity for the sake of job security manifistations
     - spaghetti code without realistic plans of addressing it
     - unreasonably overcomplicated processes to follow
-  - it is usefule to view obscurity as an emergent process, not something done intentionally
+  - it is useful to view obscurity as an emergent process, not something done intentionally
     - however, malignant intent should not be taken out from consideration completely
     - gives short term benefits (local extremum)
     - engineers need non-trivial extra effort to avoid it

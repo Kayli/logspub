@@ -16,6 +16,10 @@
   - a word with a broad meaning that more specific words fall under; a superordinate. 
   - example: color is a hypernym of red
 
+- hyponym (opposite of hypernym)
+  - represents a specific member of that category or a lower-level concept that is subsumed under the hypernym
+  - example: animal is a hypernym of cat, dog, fish, etc.
+
 - synonym
   - cognitive synonym ?
     - words so similar in meaning that they cannot be differentiated either denotatively or connotatively, that is, not even by mental associations, connotations, emotive responses, and poetic value
@@ -23,6 +27,12 @@
   - near synonym
     - synonyms with greater differences
 
+- homophone
+  - word that is pronounced the same (to varying extent) as another word but differs in meaning
+
+- filler, hesitation marker, planner (дискурсивные слова, слова-паразиты)
+  - 
+  
 
 ## parts of speech
 

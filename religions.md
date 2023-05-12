@@ -19,6 +19,18 @@
     - богатство, bogatъ, ubogъ
     - доля, делить, получать долю, наделять
 
+- what is religion [^3]
+  - things that surpass the limits of our knowledge (durkheim)
+  - a sigh of the oppressed creature, the heart of a heartless world, and the soul of 
+    soulless conditions. It is the opium of the people (marx)
+
+- functions
+  - performs the key function of providing social solidarity in a society
+  - rituals, worship of icons, and belief in supernatural beings 
+    “excite, maintain or recreate certain mental states” (Durkheim 1912) 
+  - brings people together, provide a ritual and symbolic focus, and unify them
+  - this referred as functionalist perspective in sociology
+
 - statistics 2021
   - 84% of the world's population identifies with a particular religious group or tradition
   - less than 9% are atheists
@@ -46,7 +58,7 @@
  - axial age (500–300 BCE)
   - refers to the period during which most of the main religious and spiritual traditions emerged in eurasian societies
 
-- liminality (lat. līmen, "a threshold") 
+- liminality (lat. līmen, "a threshold")
   - is the quality of ambiguity or disorientation that occurs in the middle stage of a rite 
     of passage, when participants no longer hold their pre-ritual status but have not yet begun 
     the transition to the status they will hold when the rite is complete
@@ -55,6 +67,18 @@
 
 - secularism: separation of church and state
 
+- disenchantment [^5]
+  - is the cultural rationalization and devaluation of religion apparent in modern society
+  - in traditional society the world remains a great enchanted garden
+  - in western society 
+    - scientific understanding is more highly valued than belief
+    - processes are oriented toward rational goals
+
+- apocalypse
+  - from greek meaning 'uncovering' or 'revealing'
+  - a genre of literature portraying god revealing hidden truth about the future to it's chosen individual
+  - main themes: alienation, imminent divine intervention, transformation
+
 
 ## monoteism
 
@@ -62,7 +86,21 @@
   - pharaoh akhenaten promoted the worship of a single deity, the Aten, as the supreme creator and sustainer of the universe
 
 
-## well known
+## people
+
+### emile durkheim 1858-1917
+
+- major work: elementary forms of religious life
+  - renewed interest in metaphysical and spiritual
+  - religious practices are more important than religious beliefs
+    - religious beliefs are too general and vague for the common people to understand
+      - this is why people are more attracted to practices
+  - religions are not inherently false or illusory
+  - sense of sacred is common to all religions
+
+
+
+## well known religions
 
 ### ancient mesopotamian region
 
@@ -95,91 +133,7 @@
 
 ### christianity 31.2%
 
-- stems from judaism around 0ce
-  - judaism was formed around 500bce
-    - stems from jahwism 
-      - jahwism was formed around 1200bce, mesopotamia
-- old testament
-  - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
-  - was written around 500 bce
-
-- bible
-  - from greek word biblion, which originally referred to papyrus or scroll books
-  - greek word came from a semitic place name, Byblos, or Gebal, a very ancient port in Lebanon, 
-    once famous for production of papyrus books
-
-- deism
-  - god created earth but after that no longer had influence on life
-
-- dionysian mysteries
-  - rituals in acient greece and rome related to consumption of alcohol and psychedelics
-  - inspired christian traditions related to consumption of wine
-
-- abraham sacrificing his son
-  - god commands abraham to offer his son isaac as a sacrifice 
-  - after isaac is bound to an altar, a messenger from god stops abraham before the sacrifice finishes
-    - saying "now i know you fear god"
-
-- seven sacraments (таинства) identified by thomas aquinas
-  - baptism
-    - ritual washing with water as a sign of purification and initiation into the christian community
-    - symbolic act of dying to the old self and being reborn as a new person in christ
-    - variations related to water
-      - full immersion in water
-      - pouring water over the head
-      - sprinkling water on the forehead
-    - variations related to age
-      - infants are baptized
-      - only those who have made a conscious decision to follow christ are baptized
-    - modern version: ???
-
-  - confirmation
-    - laying on of hands
-    - anointing (помазание) with chrism (a consecrated oil, миро, елей)
-    - signifies
-      - holy spirit's strengthening and empowerment
-      - completing the process of initiation into the сhristian community that began with baptism
-    - modern version: patting on a back in the office by a manager
-
-  - eucharist
-    - consumption of bread and wine that have been consecrated by a priest or minister
-    - words often pronounced: Hoc est corpus meum, or "this is my body"
-      - origin of 'hocus pocus' expression
-    - symbolic cannibalism, improvement over archaic form - literal cannibalism
-    - modern version: consumption of food during a sports event
-
-  - penance (покаяние)
-    - confession of sins to a priest or minister
-    - receiving of absolution or forgiveness for sins committed
-    - later evolved into 'sacrament of penance' with 5 steps:
-      - examination of conscience, confession, contrition, absolution, penance
-    - modern version: session with a psychotherapist
-
-  - anointing of the sick (помазание больных)
-    - way of providing spiritual and emotional support to those who are suffering from illness or injury
-    - offering hope and comfort in the face of death
-    - reinforcing belief that god's grace and healing power are available to those who seek them
-      - that the sick person is not alone in their struggle
-    - modern version: treating allergy with cortecosteroids
-
-  - holy orders
-    - ordination of individuals to serve as clergy within the church
-    - typical steps
-      - discernment
-        - individual feels called by god to serve as a minister or priest
-        - undergoes a period of discernment and training to prepare for this role
-      - candidacy
-        - evaluated by church leaders and may receive additional training and education
-      - ordination
-        - individual is ordained to the ministry or priesthood by a bishop or other authorized minister
-        - typically involves
-          - the laying on of hands
-          - prayer
-          - conferring of specific sacramental powers and responsibilities
-
-  - matrimony (marriage)
-    - seen as a way of expressing the love and commitment that god has for humanity
-    - symbolizes relationship between christ and the church
+- see religions-christianity.md
 
 
 ### islam 24.1%
@@ -300,6 +254,14 @@
 - classified as
   - religious movement
   - social movement
+
+
+### ai apacalypticism
+
+- organizations: transhumanist groups, new religious movements
+- people: ray kurzweil
+- cataclysimic event: singularity
+  - exponential growth of human innovation which is unpredictable
 
 
 ## references

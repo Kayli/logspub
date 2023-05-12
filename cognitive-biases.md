@@ -39,6 +39,24 @@
   - for example, an individual may be more likely to purchase a car if it is placed alongside 
     a more expensive model (anchor)
 
+- halo effect (halo error)
+  - tendency for positive impressions of a person, company, country, brand, or product in one area to positively or negatively influence one's opinion or feelings in other areas
+  - how to avoid while gathering opinions from the group of experts 
+    - before discussing problem in a group setting, get individual opinion from very person separately 
+    - this prevents first voiced opinions to influence expression of subsequent ones
+
+- frequency illusion (baader-meinhoff phenomenon)
+  - tendency to notice something more often after noticing it for the first time
+  - leads to the belief that it has an increased frequency of occurrence
+
+- zeigarnik effect (incomplete work vs mind)
+  - activity that has been interrupted may be more readily recalled
+  - may lead to problems with sleeping
+    - solution: create a plan to complete the task without implementing it
+
+
+## random stuff
+
 - bless yourself with holy water, have masses said, and so on; by simple and natural process this will make you believe
   - this will dull you, quiet your critical intellect [^2]
 

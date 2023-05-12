@@ -13,7 +13,7 @@
   - interesting aspect is that he once again brings attention to the fact that physics is
     just our model of reality which we use to adapt and it is different from reality itself
 
-- another idea that is worth noting is that map creates reality of its own
+- map creates reality of its own
   - connects multiple modalities into a coherent stream of consciousness
     - like picture on a wall triggers stream of associations in our experience, so it is no longer
       just a picture as a physical object
@@ -40,14 +40,18 @@
 - extends structuralist's notion of signs
   - synchronic (relational) structural dimension
   - diachronic (historical) dimension - derrida's addition
+
 - meaning is generative 
   - we can always find new ways of describing sign through other signs
   - sometimes referred as generative polysemy
+
 - when we communicate, we must suppress unwanted meanings
 - phonocentrism: privilege of speech over writing
+
 - logocentrism
   - when signs presuppose direct or immediate relationship to an object or a content (transcendental signified)
   - western philosophy tries to control meanings of words
+
 - deconstruction is derrida's attempt to show inconsistencies in philosophical writings by exposing
   inherent ambiguities of sign interpretations
 
@@ -123,6 +127,9 @@
 - german philosopher, sociologist, psychologist, musicologist, and composer 
 - known for his critical theory of society, capitalism, enlightenment, progress
 - neomarxist, combined the thought of marx, hegel, freud
+- quotes
+  - truth is a 'force field' between subject and object
+  - nazi reality is so miserable that it does not deserve to be called 'true'
 
 
 ## heidegger martin 1889-1976 [^1]
@@ -702,6 +709,35 @@
   - animals are just machines, material substances (no soul vs Arestotelian 3 levels of soul)
 
 
+## erasmus of rotterdam 1469–1536
+
+- criticism of the catholic church
+  - had become too focused on material wealth and power and had lost sight of its spiritual mission (corrupt)
+  - misguided emphasis on ritual and hierarchy over personal faith and piety
+
+- each person had the capacity for reason and moral judgment
+  - should be guided by their own conscience
+  - should not blindly follow the teachings of religious authorities
+
+- diplomacy and negotiation are the best means of resolving disputes between nations and individuals
+- strong proponent of humanistic ideals such as reason, individualism, and the pursuit of knowledge for its own sake
+
+
+## william of ockham 1287-1347
+
+- born in south east england, scholastic philosopher, apologist, catholic theologian
+- referred as a man who tried to salvage chistian philosophy from the prison of aristotel
+- studied and teaching at oxford
+
+- ockham's razor
+  - not the inventor of the idea, but used it very often
+  - criticized categories of aristotel which christianity adopted as truth
+    - categories are not entities
+    - tries to prove that church is building its philosophy on a wrong foundation
+    - this paints him as epistemological nominalist
+  - brilliant toad chess piece analogy https://youtu.be/B6y-3tiwO5Y?t=1191
+
+
 ## thomas aquinas 1225-1274
 
 - faith and reason are compatible
@@ -713,10 +749,17 @@
 
 - god is the source of both the light of natural reason and the light of faith
 - popularizes 'unmoved mover' aristotelian idea
+- unifies eternal universe and final universe of christianity
+  - god is eternal, its the cause of universe, so universe in that sense is also eternal
+
 - embraced several ideas put forward by aristotle
   - attempted to synthesize aristotelian philosophy with the principles of christianity
+
 - existence of god could be demonstrated through reason
   - as the universe must have had a first cause, and such cause must be a god
+  - desipite eternity and infinity concepts were thought as self-contradictory by aristotel
+    - infinite dogs taking up all the space
+    - numbers, as you can always create a new number by adding one
 
 
 ## avicenna (ibn sina) 980-1037 ce
@@ -760,6 +803,10 @@
 - music theory
   - divided music into four categories: rhythm, melody, harmony, and modulation
   - study of music could help to develop the mind and the soul, and that it was essential for understanding the harmony and order of the universe
+
+- free will
+  - human beings have free will
+  - but it is limited by the concept of providence, which he defines as the plan of god for the universe
 
 
 ## saint augustine 354-430 ce
@@ -929,8 +976,8 @@
 - human beings are one of 10k things/manifestations
 
 - governing people is like pulling fish out of water
-    - people work best when they are not governed
-    - presence of government should be very small
+  - people work best when they are not governed
+  - presence of government should be very small
 
 
 ## aristotle 384–322 bce
@@ -1049,7 +1096,7 @@
 - founded the academy in athens: the first institution of higher learning in the western world
 - quote by alfred whitehead
   - 'all of western philosophy subsequently after plato consists of a set of footnotes to plato and his work'
-  - used by dugin in one of his lectures without referencing the source
+  - used by dugin in one of his lectures without referencing the source?
 
 
 ## democritus 460-370 bce

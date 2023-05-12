@@ -45,6 +45,13 @@
 - barnum effect
   - is a common psychological phenomenon whereby individuals give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically to them, yet which are in fact vague and general enough to apply to a wide range of people
 
+- regression (regressive) fallacy
+  - assumes that something has returned to normal because of corrective actions taken while it was abnormal
+
+- post hoc fallacy
+  - post hoc ergo propter hoc: after this, therefore because of this
+  - assumes that since event Y followed event X, event Y must have been caused by event X
+
 
 ## manipulative tactics
 
@@ -71,7 +78,6 @@
   - explicit, 
 
 - conformity
-  - 
 
 
 ## interesting resources online

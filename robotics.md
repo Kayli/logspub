@@ -15,6 +15,37 @@
       - posterior probability distribution
     - in other words: inferring quantity x from sensor data y
 
+- automated guided vehicle (agv)
+
+
+## fleet software
+
+- fleet monitoring software
+  - provides current status of the fleet
+  - allows to remotely control individual robots
+  - companies: freedom robotics, braincorp
+
+- fleet management software
+  - products: mir fleet, omron fleet, otto fleet manager, fetchcore software, in orbit
+
+
+## standards
+
+- sdf (simulation description format)
+  - describes objects and environments for robot simulators, visualization, and control
+
+- urdf (unified robotics description format)
+  - is an XML specification
+  - used in academia and industry to model multibody systems
+    - e.g. robotic manipulator arms for manufacturing assembly lines and animatronic robots for amusement parks
+  - supported by ros, dart
+
+- vda 5050
+- massrobotics interop 
+- open-rmf
+
+
+
 ## quadruped robots
 
 - mit cheetah 3 mechanics paper
@@ -40,6 +71,10 @@
   - idea behind anki robot was pretty cool
   - however i've got a deficient/autistic one
     - which suppose to be symbolic i guess
+
+- hadabot https://www.hadabot.com/purchase.html
+  - turtle robot
+  - ros2 compatible
 
 
 ## top robotic companies
@@ -69,11 +104,13 @@
 - bowden cable (/ˈboʊdən/ BOH-dən)
   - is a type of flexible cable used to transmit mechanical force or energy by the movement 
     of an inner cable relative to a hollow outer cable housing
+
 - stepper motor
   - brushless DC electric motor that divides a full rotation into a number of equal steps
   - the motor's position can be commanded to move and hold at one of these steps 
     - without any position sensor for feedback (an open-loop controller)
       as long as the motor is correctly sized to the application in respect to torque and speed
+
 - servo motor
 
 
@@ -94,9 +131,26 @@
 - https://github.com/ros2
 - https://github.com/hybridgroup/gobot
 - https://github.com/rwaldron/johnny-five
+- https://dartsim.github.io/index.html
 
 
-## ros2 (robotic operational system)
+## frameworks
+
+### open-rmf
+
+- description
+  - foss
+  - modular software system that enables robotic system interoperability
+  - coordinates multiple fleets of indoor and outdoor robots with typical robotic use cases
+  - integrates them with elevators/lifts, doors and other infrastructure
+
+- features
+  - schedule
+  - traffic negotiation
+  - task dispatch auctions
+
+
+### ros2 (robotic operational system)
 
 - not a real os but just an sdk for robotics
 
@@ -108,13 +162,14 @@
 - uses data distribution service (DDS) standard that provides interface to pub-sub middleware implementations 
 - uses colcon tool to manage environments, build and test code in ros
 
-- ros concepts
+- key concepts
   - graph
     - network of ros elements processing data together
     - processes are represented as nodes in a graph structure
   - nodes
     - communicate with each other using topics and services
     - have parameters, configuration value of a node
+    - can have a managed lifecycle: a configurable state machine in charge of initialization and shutdown of the node
   - topics
     - used for publish/subscribe communication
   - services
@@ -122,20 +177,87 @@
   - actions
     - provide functionality for setting a goal and receiving a feedback
     - implemented using of services and topics
+  - message types
+    - data structure defining a message format used when interacting with a services, topics, actions
+  - bags
+    - tool for recording, and replaying data
+    - use sqlite behind the scenes to store data
+    - commands: record, play, and info
+  - parameter server
+    - shared database
 
-  - message type
-    - type of the message passed to a service
+  - packages: tbd
+  - workspaces: tbd
 
-  - parameter server: shared database
+- ros2 cli commands
+  - launch
+    - typically configures and runs multiple nodes at the same time
+    - serves as an entry point, aka main function but potentially affecting all nodes
+    - can do other arbitrary things, as it is just mapped to a python script
+
+- ros2 tools
+  - colcon: builds code in multiple packages in dependency order
+  - traffic_editor
+    - annotates building floor plans with fleet-specific traffic information in a vendor neutral manner
+    - allows auto-generation of 3d worlds for simulations
+
+- simulators supported: gazebo, v-rep, morse, webots
+
+- visualizers
+  - rviz
+    - it is a tool for visualizing data from a variety of sources, including simulations. 
+    - is not a simulator in itself
+    - can display 3D models of robots and their environments, as well as sensor data such as lidar, camera, and IMU readings
 
 - vscode + devcontainer for ros2
   - https://www.allisonthackston.com/articles/vscode-docker-ros2.html
 
-- simulators
-  - Gazebo: Gazebo is a high-fidelity physics simulator that is designed specifically for robotics applications. It allows users to create realistic simulations of robots and their environments, and it integrates with ROS through a set of plugins.
-  - V-REP: V-REP is a multi-purpose robotics simulation software that can be used to simulate robots, sensors, and environments. It supports a wide range of robot platforms and can be used with ROS through a set of libraries and plugins.
-  - Morse: Morse is a robotics simulation software that is designed to be simple and lightweight. It allows users to create simulations of robots and their environments using a set of simple blocks, and it integrates with ROS through a set of libraries and scripts.
-  - Webots: Webots is a professional robotics simulation software that is used by a number of research labs and companies around the world. It allows users to create realistic simulations of robots and their environments, and it integrates with ROS through a set of plugins and libraries.
+- bridges
+  - ROS1_bridge
+    - allows to interface ros1 robot with ros programs
+    - republishes ros1 messages in ROS2 format
+
+
+## simulators
+
+- gazebo
+  - is a high-fidelity physics simulator that is designed specifically for robotics applications
+  - allows users to create realistic simulations of robots and their environments
+  - integrates with ROS through a set of plugins
+  - most popular simulator according to a survey [^9]
+
+- coppeliasim (formerly v-rep)
+  - is a multi-purpose robotics simulation software that can be used to simulate robots, sensors, and environments. 
+  - supports a wide range of robot platforms and can be used with ROS through a set of libraries and plugins
+
+- morse
+  - morse is a robotics simulation software that is designed to be simple and lightweight
+  - it allows users to create simulations of robots and their environments using a set of simple blocks, and it integrates with ROS through a set of libraries and scripts
+
+- webots
+  - professional robotics simulation software that is used by a number of research labs and companies around the world
+  - allows users to create realistic simulations of robots and their environments, and it integrates with ROS through a set of plugins and libraries
+
+
+## physics engines
+
+- foss
+  - bullet https://github.com/bulletphysics/bullet3
+    - used by openai gym https://github.com/openai/gym
+  - ode https://www.ode.org/
+  - physx https://github.com/NVIDIAGameWorks/PhysX
+    - backed by nvidia
+  - chrono https://github.com/projectchrono/chrono
+
+- commercial
+  - havok
+  - mujoco https://mujoco.org/
+  - newton dynamics http://newtondynamics.com/forum/newton.php
+
+- benchmarks
+  - https://leggedrobotics.github.io/SimBenchmark/
+  - https://arxiv.org/pdf/1402.7050.pdf
+    - 119 participants survey
 
 
 ## approaches to modelling
@@ -163,6 +285,8 @@
 ## data structures/algorithms typically used
 
 - tbd: a-star and stuff like that
+
+- scene graph
 
 - octree [^6]
   - tree data structure in which each internal node has exactly eight children
@@ -253,7 +377,13 @@
 - reddit robotics https://www.reddit.com/r/robotics
 - ros2 with k8 https://ubuntu.com/blog/exploring-ros-2-with-kubernetes
 - ros 2 and AI on the NVIDIA Jetson Platform https://developer.nvidia.com/blog/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2/
+- ros multirobot book https://osrf.github.io/ros2multirobotbook/intro.html
+
+
+## references
+
 [^5]: https://octomap.github.io
 [^6]: https://en.wikipedia.org/wiki/Octree
 [^7]: https://github.com/wkentaro/octomap-python
 [^8]: https://robotics.stackexchange.com/questions/2148/continuous-or-discrete
+[^9]: https://arxiv.org/pdf/1402.7050.pdf

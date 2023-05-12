@@ -29,6 +29,7 @@
   - specialization of certain brain areas/circuits in a particular hemisphere
 
 
+
 ## brain facts
 
 - the brain has about 10¹¹ neurons and 1.8-3.2 x 10¹⁴ synapses
@@ -198,6 +199,10 @@
 - vasopressin
   - regulates the tonicity of body fluids
   - male orgasm
+
+- endorphines
+  - reduce pain and promote feelings of pleasure or euphoria
+  - they are sometimes referred to as "natural painkillers"
 
 
 ## memory

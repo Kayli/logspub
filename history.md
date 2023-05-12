@@ -57,7 +57,7 @@
 
 ## great apes 
 
-- hominid is a member of the family hominidae, the great apes: orangutans, gorillas, chimpanzees and humans. 
+- hominid is a member of the family hominidae, the great apes: orangutans, gorillas, chimpanzees and humans
 - hominine is a member of the subfamily homininae: gorillas, chimpanzees, and humans
 - hominin is a member of the tribe hominini: chimpanzees and humans
 
@@ -74,15 +74,21 @@
     - neolithic 4900 – 2000 bce
 - bronze age 3300 - 1200 bce
 - iron age 1110 - 1 bce
-- roman 56 bce – 400 ce 
+
+- roman 56 bce – 476 ce
+
 - early medieval period 400 - 800 ce
   - dark ages begin around 600 ce
+
 - medieval period 800 – 1500 ce
   - dark ages end around 1000 ce
+  - black death in europe: 1347-1351, 30-50% percent of europe died
   - printing press, guttenbergs revolution 1440-1500 ce
+
 - post-medieval period 1500 – 1800 ce
   - renaissance 1500-1600 ce
   - enlightenment, age of reason 1700-1800 ce
+
 - industrial/modern 1800 ce - now
 
 
@@ -147,6 +153,8 @@
 - phoenicians
   - rus: финикийцы, карфагеняне
   - notable cities: tyre, sidon, beirut, byblos
+  - punic people
+    - were a Semitic people in the Western Mediterranean who migrated from Tyre, Phoenicia[1] to North Africa during the Early Iron Age
 
 - persians
   - modern territories of iran

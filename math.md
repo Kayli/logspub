@@ -62,6 +62,9 @@
   - quantity that characterizes the rate of separation of infinitesimally close trajectories
   - highest lyapunov exponent represents chaoticity of a system
 
+- теорема пифагора доказана в аксиомах эвклидовой геометрии
+  - кривизна пространства-времени ото свидетельствует о неэвклидовых свойствах его геометрии?
+
 
 ## self-referential systems
 

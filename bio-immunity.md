@@ -27,6 +27,10 @@
   - all 3 systems are interdependent and influence one another
   - sometimes same molecule can simultaneously play roles of hormone, cytokine and neurotransmitter
 
+- immunity half-life
+  - time required for a quantity (memory B cells) to reduce to half of its initial value
+  - examples: measels 200 years, smallpox 75 years, tetanus 11 years
+
 
 ## important compounds
 
@@ -51,6 +55,7 @@
 
 - immunosuppressors
   - cortisol - stress hormone
+
 
 
 ## organs
@@ -172,7 +177,7 @@
   - the Pfizer–BioNTech COVID-19 vaccine requires ultracold storage before distribution
     - but other mRNA vaccines do not, such as the COVID-19 vaccines by Moderna, CureVac and Walvax
 
-- covid-19 vaccines 
+- covid-19 vaccines
   - two RNA vaccines (Pfizer–BioNTech and Moderna)
   - nine conventional inactivated vaccines 
     - BBIBP-CorV, Chinese Academy of Medical Sciences, CoronaVac, Covaxin, CoviVac
@@ -180,6 +185,10 @@
   - five viral vector vaccines (Sputnik Light, Sputnik V, Oxford–AstraZeneca, Convidecia, and Janssen)
   - four protein subunit vaccines (Abdala, EpiVacCorona, MVC-COV1901, Soberana 02, and ZF2001)
   - use pseudouridine instead of uridine (nucloside containing urocil attached to a ribose ring)
+
+- risks [^8]
+  - 1 in 10k to 1 in 100k will cause negative health effects
+  - stats established based on correlation, causation hasn't been proved 
 
 
 ## abnormal growth of tissues
@@ -206,3 +215,4 @@ https://en.wikipedia.org/wiki/Neurotransmitter
 https://en.wikipedia.org/wiki/Immune_system
 https://en.wikipedia.org/wiki/Endocrine_system
 [^7]: https://en.wikipedia.org/wiki/RNA_vaccine
+[^8]: https://www.thegreatcourses.com/player/Video/1924

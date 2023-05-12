@@ -283,6 +283,10 @@
   - neutrino occasionally converts a chlorine-37 atom into one of argon-37 via the charged current interaction
     - this is one of the ways how they are detected
 
+- prediction horizon
+  - for Mercury, Venus, Earth, Mars: decades to centuries
+  - for Jupiter, Saturn, Uranus, Neptune: thousands of years or more
+
 
 ### mars
 

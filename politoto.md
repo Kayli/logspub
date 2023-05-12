@@ -5,6 +5,8 @@
 - state
   - is a centralized political organization that imposes and enforces rules over a population within a territory
 
+- regime: a government, especially an authoritarian one
+
 - constitutions of state (by plato)
   - aristocracy
     - government of the best (for who?)
@@ -111,6 +113,23 @@
 
 - nationalism and modern war as a social engineering? technique
   - petri-dish approach on global scale
+
+
+## plato's republic
+
+- polemarchus
+
+- thrasymachus (фрасимах)
+  - enjoys dispelling illusions and pretty beliefs
+  - justice is what benefits the rulers
+  - rules are set by the winners of the game to protect and promote their interests
+  - justice consists of the art of convincing people to obey the rules that are really in the interests of others (rulers)
+    - justice is a sucker's game
+  - just person is a fool for obeying laws that are not beneficial to him
+  - socrates response
+    - it is not self-evident what our true interests are
+    - rulers make mistakes
+    - what kind of truth is that to decieve and fleece other people?
 
 
 ## interesting ideas

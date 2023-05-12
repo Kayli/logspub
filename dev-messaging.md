@@ -38,8 +38,13 @@
   - json schema (.schema.json)
   - xml schema (.xsd)
   - protobuf (.proto)
+    - RPC and serialization framework
   - apache thrift (.thrift)
+    - RPC and serialization framework
+    - is statically typed
+      - implies a benefit from the better performance of generated code
   - apache avro (.avsc)
+    - supports dynamic typing
   - parquet
   - orc (optimized row columnar)
 

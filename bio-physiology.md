@@ -113,6 +113,22 @@
 - relatively low probability of hiv being passed to a child, when clinic is informed about condition
 
 
+## history
+
+- humorism
+  - people: hippocrates, alcmaeon, galen
+  - 4 vital body fluids:  
+    - blood: air, mixture of 3 others
+    - phlegm: water, pus, mucus, saliva, sweat, semen, brain tissue
+    - yellow bile: fire, gallbladder
+    - black bile: earth, spleen
+  - extreme excess or deficiency of any of the humors (bodily fluid) in a person can be a sign of illness
+  - moderate imbalance in the mixture of these fluids produces behavioral patterns
+  - term 'temperament' came to refer just to psychological dispositions
+    - sanguine, choleric, melancholic and phlegmatic signified specific combination of the fluids
+  - techniques to cure diseases: purging, bloodletting, catharsis, diuresis, etc.
+
+
 ## references
 
 - https://en.wikipedia.org/wiki/Ovarian_follicle

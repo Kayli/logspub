@@ -119,6 +119,23 @@
   - possibility to run simulations before introducing new laws 
 
 
+## terms
+
+- hitherto (хизерту)
+  - until now or until the point in time under discussion
+
+- necessary corollary
+  - refers to a logical consequence that must follow from a particular legal principle or rule
+
+- to commence: start, begin
+
+- into someone's conduct 
+  - an investigation or examination of a person's behavior or actions. 
+  - it implies a scrutiny of the way a person behaves, acts or conducts themselves in a particular situation or over a period of time.
+
+- malfeasance: должностное преступление
+
+
 ## references
 
 [^1]: https://www.justice.gc.ca/eng/csj-sjc/just/03.html

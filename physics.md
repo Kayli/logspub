@@ -18,6 +18,8 @@
   - one that is not undergoing any acceleration
   - has constant velocity
 
+- tachyon: hypothetical particle that always travels faster than light
+
 
 ## system of units of measurement
 
@@ -233,10 +235,9 @@
     - emitted beta particle is an electron
 
 
-## general relativity
+## general relativity (теория гравитации энштейна)
 
 - a geodesic generalizes the notion of a "straight line" to curved spacetime
-
 
 - general relativity takes into account the effects of gravity, while special relativity does not
 

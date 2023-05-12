@@ -39,8 +39,7 @@
   - opposed this to the intuitively similar concept of verifiability
     - verifying the claim "all swans are white" would require assessment of all swans, which is not possible
     - the single observation of a black swan is sufficient to falsify it
-      - its like unit-tests trying to falsify your written program to find 
-        - inconsistency between actual and expected behaviors of the system (a bug)
+      - its like unit-tests trying to falsify your written program to find inconsistency between actual and expected behaviors of the system (a bug)
 
 - kuhn's rationality of theory choice 
   - book "the structure of scientific revolutions"
@@ -87,8 +86,23 @@
   - is an approach to philosophy that identifies processes, changes, or shifting relationships as the only true elements of the ordinary, everyday real world. It treats other real elements (examples: enduring physical objects, thoughts) as abstractions from, or ontological dependents on, processes
   - has some parallels with 'event sourcing' approach in software design
 
+- underdetermination thesis of theory by data
+  - all evidence necessarily underdetermines any scientific theory
+  - example
+    - if all that was known was that exactly $10 was spent on apples and oranges, and that apples cost $1 and oranges $2, then one would know enough to eliminate some possibilities (e.g., 6 oranges could not have been purchased), but one would not have enough evidence to know which specific combination of apples and oranges was purchased
 
-## references 
+- duhem–quine thesis
+  - posits that it is impossible to experimentally test a scientific hypothesis in isolation
+    - because an empirical test of the hypothesis requires one or more background assumptions 
+      - also called auxiliary assumptions or auxiliary hypotheses
+      - similar to godel's incompleteness theorem ???
+  - unambiguous scientific falsifications are impossible
+  - related thesis: bundle of hypotheses
+    - as a whole can be tested against the empirical world and be falsified if it fails the test
+    - impossible to isolate a single hypothesis in the bundle ('confirmation holism' viewpoint)
+
+
+## references
 
 - coursera 'philosophy of sciences: introduction to philosophy of physical sciences' by university of edinburgh
   - professor michela massimi (looks like jernej's relative)

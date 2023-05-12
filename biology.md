@@ -132,27 +132,35 @@
     - all other arrangements
 
 
-## evolutionary thories
+## evolution
 
-- divine creation
-- darwinism
-  - catastrophism
-  - mutogenesis
-    - main trains of thought
-      - lamarckism
-      - darwinism
-  - modern synthesis
-  
-- modern ideas
-  - continuous vs discrete increments of fenotype
-    - continuous (micromutations)
-      - degree of expression of certain genes
-        - regulatory proteins
-          - modify accessibility of binding sites of dna molecule
-            - similarities with event-diven systems in software
-    - discrete (macromutations)
-      - genome is discrete by itself, so not a big surpise here
-      - also can be consequence of a quick/sharp resonanse (chemical?)
+- evolutionary thories
+  - divine creation
+  - darwinism
+    - catastrophism
+    - mutogenesis
+      - main trains of thought
+        - lamarckism
+        - darwinism
+    - modern synthesis
+      - includes baldwin effect
+
+  - modern ideas
+    - continuous vs discrete increments of fenotype
+      - continuous (micromutations)
+        - degree of expression of certain genes
+          - regulatory proteins
+            - modify accessibility of binding sites of dna molecule
+              - similarities with event-diven systems in software
+      - discrete (macromutations)
+        - genome is discrete by itself, so not a big surpise here
+        - also can be consequence of a quick/sharp resonanse (chemical?)
+
+- baldwin effect
+  - phenotype-first theory of evolution, describes the effect of learned behaviour on evolution
+  - part of modern synthesis evolutionary theory
+  - neurophysiological and conscious mental factors may contribute to the effect
+    - this brings into focus the question of the possible survival value of consciousness
 
 
 ## domestication syndrome [^3]

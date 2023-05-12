@@ -34,6 +34,11 @@
 - north africa and sub-saharan africa
   - regions of the continent of Africa that lies north/south of the sahara
 
+- levant
+  - area in the Eastern Mediterranean region of Western Asia
+  - stretch of land bordering the Mediterranean in southwestern Asia
+  - historical region of syria (greater syria), which includes present-day Israel, Jordan, Lebanon, Palestine, Syria and most of Turkey southwest of the middle Euphrates
+
 
 ## europe
 

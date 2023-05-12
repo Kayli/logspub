@@ -22,33 +22,48 @@
     - following five days, psychological abuse of the prisoners by the "guards" became increasingly brutal
     - had to stop experiment on the sixth day
 
+- civil servants
+  - are individuals who are employed by the government to carry out administrative, regulatory, and executive functions
+  - work in various departments and agencies of the government, such as ministries, bureaus, and other public institutions
+  - responsible for
+    - implementing government policies and programs
+    - managing public resources
+    - providing essential services to the public
+    - ensuring that the government operates efficiently and effectively
 
-## religion
+- universal suffrage: всеобщее избирательное право
 
-- what is religion [^3]
-  - things that surpass the limits of our knowledge (durkheim)
-  - a sigh of the oppressed creature, the heart of a heartless world, and the soul of 
-    soulless conditions. It is the opium of the people (marx)
+- habits
+  - behaviors internalized earlier in life
+  - later help us to perform different functions in society
 
-- performs the key function of providing social solidarity in a society
-  - rituals, worship of icons, and belief in supernatural beings 
-    “excite, maintain or recreate certain mental states” (Durkheim 1912) 
-  - brings people together, provide a ritual and symbolic focus, and unify them
-  - this referred as functionalist perspective in sociology
+- decadence
+  - can refer to a decline in social or moral values, often associated with excess and luxury
+  - can manifest in various forms, such as political corruption, economic decline, or a breakdown in social institutions
 
-- protestants vs catholics (by max weber)
-  - catholics are more community focused, but protestants are more individualistic
-    - poverty is a virtue and labour simply a means for maintaining the individual and community
-  - protestants are more likely reflect the values of hard work and savings conducive to capitalist ideology
-    - hard, continuous labour as a spiritual end in itself
-    - such values influenced the rise of capitalism and helped create the modern world order
 
-- disenchantment [^5]
-  - is the cultural rationalization and devaluation of religion apparent in modern society
-  - in traditional society the world remains a great enchanted garden
-  - in western society 
-    - scientific understanding is more highly valued than belief
-    - processes are oriented toward rational goals
+## methodological approaches
+
+- british individualism
+  - society builds up starting from individual drives and fears
+  - people: hobbes, locke, adam smith, js mill
+
+- french collectivism
+  - society is more than mere sum of individuals
+  - founders: montesquieu, rousseau
+
+- conflict theory
+  - try to explain what breaks up society
+  - people: marx and weber
+
+- functionalism
+  - focuses on role of social structures and institutions in maintaining social order and stability
+  - people: durkheim
+
+
+## religion 
+
+- see religions.md
 
 
 ## social formation principles
@@ -95,7 +110,7 @@
     - decoration: piercing, tatoo
   - ritual, habit
     - e.g. prayer 5 times a day in islam
-    - crossing oneself in christianity (hand gesture)
+    - crossing hand gesture in christianity
 
   - shared fantasy
     - almighty/supernatural being
@@ -115,6 +130,13 @@
     - too much freedom: 'whatever works for you'
     - atheism
 
+
+## high level analysis
+
+- marx and weber are conflict theorists
+  - try to explain what breaks up society
+
+- durkheim 
 
 
 ## references

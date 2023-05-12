@@ -238,6 +238,12 @@
         - "is intended to be read and written in streams" [^1]
 
 
+## sql syntax
+
+- "having" clause
+  - used when filtering is needed for aggregate functions on grouped results
+
+
 ## references
 
 [^1]: https://en.wikipedia.org/wiki/YAML
