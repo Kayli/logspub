@@ -7,6 +7,9 @@
   - Max Weber 1864–1920
   - Karl Marx 1818–1883
 
+- социология задает вопросы о том что происходит и что за этим кроется [^7]
+  - по контрасту с этикой, которая пытается определить как должно быть
+
 - milgram social psychology experiments [^1]
   - study obedience to authority figures
   - participants were asked 
@@ -136,7 +139,23 @@
 - marx and weber are conflict theorists
   - try to explain what breaks up society
 
-- durkheim 
+- evolutionary game theory [^6]
+  - R. A. Fisher: The Genetic Theory of Natural Selection (1930)
+  - Maynard Smith: Evolution and the Theory of Games (1982)
+  - introduced the concept of an evolutionarily stable strategy (hereafter ESS)
+
+
+## agency
+
+- distributed agency
+  - individuals and groups do not possess agency solely within themselves
+  - agency is distributed among multiple actors in social networks and relationships
+
+- principal actor
+  - individual or group that holds a central or dominant position in a social structure or network
+  - often seen as having greater power and influence over other actors in the network
+  - able to shape the behavior and interactions of other actors to a greater extent
+
 
 
 ## references
@@ -146,4 +165,5 @@
 [^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
 [^4]: https://youtu.be/z9W0GQvONKc?t=82
 [^5]: https://en.wikipedia.org/wiki/Disenchantment
-
+[^6]: https://plato.stanford.edu/entries/game-evolutionary/
+[^7]: https://youtu.be/KgF7Oo9xsWM?t=3021

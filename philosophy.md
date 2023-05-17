@@ -133,7 +133,7 @@
     is trapped in that state - it may be a life not worth living
 
 
-## art
+## aesthetics
 
 - etymology of word 'art'
   - early 13c: "skill as a result of learning or practice" from old french
@@ -147,7 +147,7 @@
   - deals with the nature of beauty and taste, as well as the philosophy of art
   - examines aesthetic values, often expressed through judgments of taste
 
-- performative refraction kitch
+- fine arts
 
 
 ## truth

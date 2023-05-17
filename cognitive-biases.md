@@ -5,10 +5,11 @@
     across all experiments, the vast majority of participants chose addition over subtraction
     out of 94 participants who completed the grid task, 73 added squares, 18 subtracted 
     squares and another three simply reworked the original number of squares
+  - examples: tbd
 
 - agent detection
   - inclination for animals, including humans, to presume the purposeful intervention of a 
-    sentient or intelligent agent in situations that may or may not involve on
+    sentient or intelligent agent in situations that may or may not involve it
   - если вам говорят что никаких агентов не существует, это вовсе не означает что их там нет
     - может использоваться как пси-барьер за котрый нельзя выходить когнитивным процессам жертвы
       по аналогии со стенками клетки (body cell, mind prison cell, similar analogies)
@@ -16,7 +17,8 @@
 
 - ты заболел
   - патологизация - инструмент контроля рабов мычащих не в такт
-  
+  - doctors often incentivised to find diseases rather than taking care of wellbeing of their patients
+
 - ambiguity effect
   - decision making is affected by a lack of information, or "ambiguity"
   - people tend to select options for which the probability of a favorable outcome is known, 
@@ -44,6 +46,8 @@
   - how to avoid while gathering opinions from the group of experts 
     - before discussing problem in a group setting, get individual opinion from very person separately 
     - this prevents first voiced opinions to influence expression of subsequent ones
+  - examples
+    - nobel price laureate roger penrose and his microtubule vibrations speculations
 
 - frequency illusion (baader-meinhoff phenomenon)
   - tendency to notice something more often after noticing it for the first time
@@ -53,6 +57,10 @@
   - activity that has been interrupted may be more readily recalled
   - may lead to problems with sleeping
     - solution: create a plan to complete the task without implementing it
+
+- peak-end rule [^3]
+  - psychological heuristic that changes the way we recall past events
+  - we remember a memory or judge an experience based on how they felt at the peak moments, as well as how they felt at the end
 
 
 ## random stuff
@@ -65,3 +73,4 @@
 
 [^1]: https://en.wikipedia.org/wiki/List_of_cognitive_biases
 [^2]: https://www.youtube.com/watch?v=fZpJ7yUPwdU
+[^3]: https://thedecisionlab.com/biases
