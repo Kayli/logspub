@@ -32,6 +32,9 @@
   - agnus dei qui tollis peccata mundi - агнец божий, берущий на себя грехи мира
   - пасхальный агнец — ягнёнок (реже козлёнок), который выступал как искупительная жертва
 
+- ich ruf zu dir herr jesu christ bwv 639
+  - used in Andrei Tarkovsky's "Solaris" (1972)
+
 
 ## orlando lasso 1532-1594
 

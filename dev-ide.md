@@ -7,6 +7,10 @@
     - opt + cmd + left/right:   switch between tabs
     - cmd + shift + k:          delete line
 
+- to enable "goto definition" f12 for particular project in vscode
+  - press ctrl-shift-p 
+  - select OmniSharp: Select Project to select the correct project (or .sln file)
+
 
 ## intellij idea
 

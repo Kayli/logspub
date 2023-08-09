@@ -93,3 +93,33 @@
 
 - get folder in which current script is running
   > mydir=${0:a:h}
+
+
+## batch files (.bat)
+
+- comments
+  - 'rem' command
+  - colon symbol ":" at the beginning of the line
+
+- fail fast
+  - neither 'cmd' nor 'powershell' don't have 'fail fast' mode for commands execution
+  - while bash provides a `set -eo pipefail` exit code handling mode
+
+- to run scripts as admin use
+  > runas /user:Administrator <my-script.bat>
+
+- create local user
+  > net user <username> <password> /add
+- delete local user
+  > net user <username> /delete
+- grant full access to folder
+  > icacls <path> /grant <username>:(OI)(CI)F /T
+- remove folder recursively
+  > rmdir <mydir> /s /q
+
+- common exit codes
+  - 0	Program successfully completed
+  - 1	Incorrect function. Indicates that Action has attempted to execute non-recognized command
+  - 2	The system cannot find the file specified
+  - 3	The system cannot find the path specified
+  - 5	Access is denied

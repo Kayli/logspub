@@ -2,6 +2,13 @@
 
 ## basics
 
+- kubernetes (k8s)
+  - is a portable, extensible, open source platform for managing containerized workloads and services
+  - facilitates both declarative configuration and automation
+
+- word 'kubernetes' originates from Greek, meaning helmsman or pilot
+ - helmsman or helm is a person who steers a ship, sailboat, submarine, other type of maritime vessel, or spacecraft
+
 - kubectl (cube cuddle) is cli for k8s
 - 'minikube' and 'kind' tools provide simple local k8s cluster
 - helm is a k8s package manager
@@ -20,20 +27,44 @@
   - can be executed by
     > kubectl apply -f <myspec.yaml>
 
+- resources
+  - a data structure that tells other components/programs how to behave
+  - compute resources: cpu and memory
+    - measurable quantities that can be requested, allocated, and consumed
+  - api resources
+    - objects that can be read and modified through the Kubernetes API server
+    - examples: pods, services
+
+- kubectl
+  - cli for interacting with k8s cluster
+  - interacts through api server which is hosted inside 'control plane'
+
 - control plane (ex master node)
-  - has 4 processes
+  - can be made up of one or many computer systems
+  - has processes
     - api server: gateway to the cluster
     - scheduler: decides on which node to host individual pods
     - controller manager: monitors/recovers cluster state
-    - etcd: stores cluster state/configuration data (not application data!)
+    - data storage: etcd, stores cluster state/configuration data (not application data!)
+    - dns server
 
 - node (ex worker node)
   - is a vm or a physical computer that serves as a worker machine in a kubernetes cluster
-  - has processes
-    - kubelet: starts the pod with a container inside
-    - container runtime, e.g. docker
-    - kube proxy: intelligently manages connections between pods
   - hosts multiple pods
+  - has processes
+    - kubelet
+      - creates (realize) pods with containers in them
+      - performs containers/pods monitoring
+    - cAdvisor (container + advisor)
+      - gathers and reports metrics about activities within the given worker node
+      - is aware of all the containers running on a worker node
+      - collects CPU, memory, file system, and network usage statistics about the containers
+        - this information can be viewed using reporting tools such as Prometheus and Grafana
+        - particularly useful when testing and troubleshooting an application running on Kubernetes
+    - kube proxy
+      - intelligently manages connections between pods
+      - figures out how to route an incoming request to the corresponding container on the worker node
+      - syncs and applies routing information received from control plane
   
 - pod
   - smallest deployable units of computing that you can create and manage in k8s
@@ -117,13 +148,20 @@
   - manages fail-over 
   - has a data backup option allowing to dump PostgreSql data regularly in a given volume
 
-- patterns
-  - sidecar
-    - there are 2 containers in a single pod
-      - main app
-      - sidecar
-    - goal: augment functionality of main app in some way
 
+## patterns
+
+- sidecar
+  - there are 2 containers in a single pod
+    - main app
+    - sidecar
+  - goal: augment functionality of main app in some way
+
+- realization approaches
+  - imperative
+    - create a Kubernetes resource directly from the command line using the kubectl CLI
+  - declarative
+    - write a text file that describes the resource's configuration, execute the kubectl command against that file
 
 ## typical scenarios
 
@@ -213,12 +251,23 @@
   - https://github.com/cdwv/awesome-helm
 
 
-## operators
+## controllers
+
+- controller
+  - entity that monitors resources and determines whether the current state matches the configured state
+    - if it doesn't, the controller then tries to align resources with the desired state
+
+- built-in controllers
+  - installed in every Kubernetes environment by default
+  - are managed by kube-controller-manager, a daemon built into the kubernetes control plane
+  - examples
+    - Deployment: monitors the state of Kubernetes Deployments, the most common approach to deploying a workload in Kubernetes
+    - StatefulSet: provides stateful storage for persistent applications
+    - CronJob: runs Jobs -- components of a Kubernetes workload that execute specific tasks -- according to a set schedule
 
 - operator
   - custom form of controllers
-  - it takes human operational knowledge and encodes it into software that is more easily packaged 
-    and shared with consumers
+  - it takes human operational knowledge and encodes it into software that is more easily packaged and shared with consumers
   - watches over your k8 environment and uses its current state to make decisions in milliseconds
 
 - operator framework https://operatorframework.io
@@ -349,6 +398,20 @@
 - introduction to helm https://www.youtube.com/watch?v=5_J7RWLLVeQ
 - gitlab, k8s, helm integration example https://www.youtube.com/watch?v=8Ao5WcMJJ2c
 - gitlab: automating k8s deployments https://www.youtube.com/watch?v=wEDRfAz6_Uw
+
+
+## useful info
+
+- historical overview of how deployments evolved: https://kubernetes.io/docs/concepts/overview/
+
+- pod realization process
+  - once the best worker node is found, the control plane notifies the instance of kubelet running on the identified worker node to realize a pod's container. Then, kubelet does the work of installing the container on the worker node (Figure 3) and reports back to the API server the particulars about the container installation. That information is stored in the etcd database.
+
+- despite sometimes being referred as 'orchestration platform', k8s eliminates the need for orchestration
+  - technical definition of orchestration is execution of a defined workflow: first do A, then B, then C
+  - in contrast, kubernetes comprises a set of independent, composable control processes that continuously drive the current state towards the provided desired state. It shouldn't matter how you get from A to C. Centralized control is also not required
+  - this results in a system that is easier to use and more powerful, robust, resilient, and extensible
+
 
 
 ## references

@@ -35,6 +35,25 @@
   - windows button menu takes 5-7 seconds to load and be responsive after reboot
     - this lag is fucking nonsesne, don't they have automated tests to catch shit like that?
 
+- its 2023 and issue with different dpi monitors still haven't been solved
+  - if you choose high-dpi monitor as your main one and other monitors are standard dpi - some text becomes blurred
+    - 'clear type' mode is enabled, but doesn't help
+  - workaround
+    - select low-dpi monitor as a main one
+    - make sure to reboot
+
+- strange 'there is nothing to show here' bug when opening pictures in standard photos app
+  - happens when you open files from 'recent' folder
+    - picture opens but then suddenly disappears displaying 'there is nothing to show here'
+  - likely reason: those files are likely temporary/short-living
+  - solution: open same files from 'pictures' folder, should be fine
+
+
+## managed service account
+
+- managed service accounts are identified by ending in a dollar sign ($)
+  - they allow to run programs as an account that doesn't require a password while still having the security of a strong password
+  - example: IIS may use managed service accounts to impersonate app that connects to sql database using windows authentication
 
 
 ## useful folders
@@ -47,10 +66,22 @@
 - AutoHotkey https://www.autohotkey.com/ (source code https://github.com/Lexikos/AutoHotkey_L)
 
 
-## useful commands
+## useful powershell commands
 
 - echo path in powershell
   > $env:path.split(";")
+
+- test if port opened
+  > tnc <hostname> -Port <port>
+
+- check service running
+  > Get-Service <servicename>
+
+- zip/unzip file from command line (no max file size limitation)
+  - compress file or folder into a tar.gz archive
+    > tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
+  - extract into a folder
+    > tar -xzvf database/LSMP.tar.gz -C C:projects/lsmp-git/compose/database
 
 
 ## related products

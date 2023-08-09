@@ -173,10 +173,6 @@
   - switch/case statements can do type matching
 
 
-
-
-
-
 ## new framework features
 
 - async timer class: PeriodicTimer
@@ -194,6 +190,9 @@
 
 
 ## dotnet cli
+
+- list supported new app templates
+  > dotnet new list
 
 - create new solution
   > dotnet new sln
@@ -213,6 +212,8 @@
 - list local project templates
   > dotnet new --list
 
+- add nuget package
+  > dotnet add package <package_name>
 
 ## async/await
 
@@ -300,6 +301,8 @@
 ## useful tools
 
 - dotnet fiddle online compiler with .net 6 support: https://dotnetfiddle.net
+- specflow: library for writing bdd gherkin style tests
+  - supports .net 6 (but not .net 7 yet, as of june 2023)
 
 
 ## support models
@@ -324,6 +327,18 @@
 - add the following lines to your .profile file
   > export PATH=$PATH:/home/illiak/.dotnet
   > export DOTNET_ROOT=/home/illiak/.dotnet
+
+
+## console application
+
+- handling configuration file with self-contained executable
+  ```csharp
+    var builder = new ConfigurationBuilder()
+      .SetBasePath(Path.GetDirectoryName(System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName))
+      .AddJsonFile("appsettings.json", optional: false, reloadOnChange: false);
+    this.config = builder.Build();
+  ```
+
 
 
 ## references

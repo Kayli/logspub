@@ -10,7 +10,7 @@
   - computer-software vulnerability previously unknown to those who should be interested in its mitigation
   - until the vulnerability is mitigated, hackers can exploit it to adversely affect programs, data, 
     additional computers or a network
-    
+
 - zero-day exploit 
   - an exploit directed at a zero-day is called a zero-day exploit, or zero-day attack
 
@@ -36,6 +36,9 @@
 - shift left security practices
   - can significantly reduce the risk of releasing software with security vulnerabilities into production. 
   - helps to optimize the continuous delivery chain by making security part and parcel of the development process
+
+- hard tokens: physical objects, used to grant access to a restricted digital asset
+- soft tokens: pieces of software, used also grant access to digital assets
 
 
 ## penetration testing [^2]

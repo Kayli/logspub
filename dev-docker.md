@@ -84,6 +84,10 @@
 - view mounts
   > docker inspect -f '{{ .Mounts }}' <container_id>
 
+- clear temporary files
+  > docker system df
+  > docker system prune
+
 
 ## build an image
 
@@ -100,6 +104,10 @@
 
 - USER <username>
   - sets the user name or UID to use when running the image and for any following RUN directives
+
+- HEALTHCHECK <instruction> [^7]
+  - initial state will be starting, and will become healthy after the HEALTHCHECK instruction is checked successfully. If it fails for a certain number of times, it will become unhealthy
+  - default interval between checks is 30 seconds
 
 - optimization
   - in older versions of Docker, it was important that you minimized the number of layers in your images to ensure they were performant
@@ -118,8 +126,8 @@
 
 - docker build
   > docker build .                          # builds image from Dockerfile in a current folder
-  > docker build --file <dockerfile>        # builds image from dockerfile
-  > docker build --rm --file <dockerfile>   # removes intermediate containers after successful build
+  > docker build --file <dockerfile> .      # builds image from dockerfile
+  > docker build --rm --file <dockerfile> . # removes intermediate containers after successful build
   > docker build --progress=plain .         # builds and displays all output, while default behavior is to show build messages only briefly
 
 - custom build arguments
@@ -141,10 +149,21 @@
     apt update && apt -y install <package>
 
 
+## windows containers
+
+- starting/stopping container is so slow comparing to linux
+
+- specify powershell as default shell in dockerfile
+  - SHELL ["powershell", "-Command", "$ErrorActionPreference = 'Stop'; $ProgressPreference = 'Continue'; $verbosePreference='Continue';"]
+
+
 ## useful commands
 
 - run bash process inside already running container 
   > docker exec -it <container> bash
+
+- get ip address of the container
+  - docker inspect --format '{{ .NetworkSettings.Networks.nat.IPAddress }}' <container-id>
 
 
 ## docker compose
@@ -157,11 +176,20 @@
     - port mappings
     - environment variables
 
-- to start containers
-  > docker-compose up
+- start all services (containers)
+  > docker compose up
 
-- to stop containers
-  > docker-compose stop
+- start specific container and its dependencies
+  > docker compose up <service>
+
+- stop all services
+  > docker compose stop
+
+- rebuild image for service without using cache
+  > docker compose build --no-cache <service>
+
+- 'docker-compose' is the older version of compose
+  - prefer using 'docker compose' command instead
 
 
 ## alternatives
@@ -217,3 +245,4 @@
 [^4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
 [^5]: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container
 [^6]: https://earthly.dev/blog/containerd-vs-docker/
+[^7]: https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck.html

@@ -149,6 +149,12 @@
   - server-side rendering
 
 
+## iis useful commands
+
+- get iis logs from powershell
+  - https://stackoverflow.com/questions/26784883/get-iis-log-location-via-powershell
+
+
 ## references
 
 [^1]: https://www.gatsbyjs.com/plugins/#cms

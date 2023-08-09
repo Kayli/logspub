@@ -391,6 +391,10 @@
 
 - daily active users (DAU)
 
+- hostile multitenancy
+  - describes hosting platforms that must provide strict resource governance and security isolation between different customers
+  - in contrast, 'enterprise multitenancy' assumes internal customers with good intent and reactive controls
+
 
 ## references
 

@@ -43,6 +43,9 @@
   - list all git lfs files 
     > git lfs ls-files --all
 
+  - prune lfs cache
+    > git lfs prune
+
   - stage changed files with detecting renamed ones
     > git -A add .
   
@@ -61,11 +64,19 @@
     > git stash
     > git stash pop
 
+  - get repo size
+    > git count-objects -vH | grep 'size-pack'
+
 
 ## mercurial
 
 - foss, written in python
 - repository https://www.mercurial-scm.org/repo/hg/
+
+
+## svn
+
+- migrate svn repository to git
 
 
 ## servers

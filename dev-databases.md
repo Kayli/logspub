@@ -135,7 +135,18 @@
 - mssql
   - can run on linux: https://hub.docker.com/_/microsoft-mssql-server
   - dockerize .dbproj https://medium.com/@stepan.chubanian/dockerize-ms-sql-with-ssdt-on-windows-31c570e8d88d
+  - has 2 auth modes
+    - sql server authentication
+    - windows authentication
 
+  - get row count foe 
+    DECLARE @TableRowCounts TABLE ([TableName] VARCHAR(128), [RowCount] INT) ;
+    INSERT INTO @TableRowCounts ([TableName], [RowCount])
+    EXEC sp_MSforeachtable 'SELECT ''?'' [TableName], COUNT(*) [RowCount] FROM ?' ;
+    SELECT [TableName], [RowCount]
+    FROM @TableRowCounts
+    ORDER BY [RowCount] desc
+    GO
 
 ## document dbs
 
