@@ -22,4 +22,4 @@
 ## examples
 
 - runs oc describe to read the information from etcd about a pod named simplehttp:
-  > oc describe pod/simplehttp
+- > oc describe pod/simplehttp
