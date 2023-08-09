@@ -124,12 +124,14 @@
 
 ## 6 early civilizations
 
-- sumer (mesopotamia) 6-5k bce
+- sumer (mesopotamia, later babylon) 6-5k bce
   - historical region of southern mesopotamia (now southern iraq)
     - tigris and euphrates rivers
-  - emerging 
-    - during the chalcolithic and early bronze ages
-  - cuneiform (клинопись) form of writing
+  - writing
+    - seals, cylinder-seals
+    - evolution: tokens > pictograph > cuneiform (клинопись)
+  - cities
+    - uruk
 
 - ancient egypt 3100-332 bce
   - writing: hieroglyphs, which combined 
@@ -230,6 +232,14 @@
   - one of the major causes of fast economic growth
 
 
+## world wars
+
+- Second World War
+  - Battle of Dunkirk
+    - was fought around the French port of Dunkirk (Dunkerque) during the 
+    - Allies vs Nazi Germany
+
+
 ## modern global order
 
 - 19th century: invention of nations
@@ -261,6 +271,8 @@
 - кентавр (др.-греч. κένταυρος, сentauros)
   - этимология два греческих корня: κεντέω — «колоть, рубить» и ταυρος — «бык»
   - может интерпретироваться и как «убийца быков» или «охотник на быков», и как «погонщик быков» или даже «ковбой»
+
+- ирак этимология: по одной из гипотез, от названия шумерского города урук (библейский эрех)
 
 
 ## abbreviations

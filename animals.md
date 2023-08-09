@@ -51,7 +51,7 @@
   - pileated woodpecker (хохлатая желна)
 
 - ducks
-  - barrow's
+  - barrow's goldeneye (Bucephala islandica) is a medium-sized sea duck of the genus bucephala, the goldeneyes
 
 - geese
   - canada goose
@@ -66,11 +66,20 @@
   - a class of myriapod arthropods which comprises the centipedes
 
 
+## hybrids
+
+- мул: гибрид осла и кобылы
+- лошак: гибрид жеребца и ослицы
+
+
 ## other
 
 - funny bird game from cornell lab https://academy.allaboutbirds.org/features/flaptothefuture
+- tiktaalik: переходное звено между рыбами и тетраподами [^2]
+- эволюция китообразных заняла 30 миллионов лет
 
 
 ## references
 
 [^1]: https://youtu.be/g8gStd80vwY?t=1288
+[^2]: https://youtu.be/Ajh1y5a2l3M?t=888

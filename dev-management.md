@@ -80,6 +80,7 @@
 
 - agile
 - evidence-based scheduling by Joel Spolsky [^5]
+- cologne cathedral: 600 years planning horizon
 
 
 ## risks management

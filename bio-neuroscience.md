@@ -54,6 +54,8 @@
   - specific connections of each region may serve as a 'fingerpring' of that region across species
     - enables us to discover interspecies homologies
 
+- new neurons in the adult brain are created in hippocampus [^6]
+
 
 ## brain anatomy [^2]
 
@@ -98,6 +100,7 @@
       - original task related to creation of a space map
       - navigation
       - other specializations evolve later
+      - new neurons are created here in an adult brain
     - memory?
   - cingulate cortex
 
@@ -181,10 +184,13 @@
 
   - epinephrine (adrenaline), norepinephrene (noradrenaline)
     - may cause higher ventilation, higher heart rate, sweating
-    - acts on the alpha- and beta-adrenoreceptors 
+    - acts on the alpha- and beta-adrenoreceptors
       - in the muscles, lungs, heart, and blood vessels
     - cold water exposure for 1-5 mins reliably increases its levels
     - epinephrine (adrenaline) is made from dopamine
+    - difference
+      - epinephrine has slightly more of an effect on heart
+      - norepinephrine has more of an effect on blood vessels
 
 - serotonin
   - satisfaction with what we have already
@@ -212,11 +218,24 @@
 
 ## brain waves
 
+- three different levels of oscillatory activity have been widely recognized in CNS
+  - micro-scale (activity of a single neuron)
+  - meso-scale (activity of a local group of neurons)
+
+  - macro-scale (activity of different brain regions)
+    - reflects the summation of the synchronous activity of thousands or millions of neurons that have similar spatial orientation
+
+    - large-scale oscillations can also be measured outside the scalp using 
+      - electroencephalography (EEG)
+      - magnetoencephalography (MEG)
+
 - alpha waves (rythm)
   - neural oscillations in the frequency range of 8–12 Hz
-  - originating from 
-    - the synchronous and coherent (in phase or constructive) electrical activity of thalamic pacemaker cells
+  - originating from the synchronous and coherent electrical activity of thalamic pacemaker cells
   - signify idle state (no new/relevant information) in certain observed brain areas
+  are reduced with open eyes and sleep, while they are enhanced during drowsiness
+  - inhibit areas of the cortex not in use, or alternatively that they play an active role in network coordination and communication
+  - occipital alpha waves during periods of eyes closed are the strongest EEG brain signals
 
 
 ## hallucinations
@@ -357,6 +376,12 @@
   - hypothalamic-pituitary-adrenal axis
   - system that prepares our body for action by releasing hormones and neurotransmitters
 
+
+## useful resources
+
+- interactive brain atlas https://neurotorium.org/tool/brain-atlas/
+
+
 ## references
 
 [^1]: https://youtu.be/2jA-es793qo?t=2563
@@ -364,3 +389,4 @@
 [^3]: https://www.youtube.com/watch?v=ba-HMvDn_vU (mit 9.13 the human brain 2019)
 [^4]: https://dl.acm.org/doi/abs/10.1145/3065386
 [^5]: https://ora.ox.ac.uk/objects/uuid:a5f2e93f-2768-45bb-8508-74747f85cad1
+[^6]: https://youtu.be/ShIjh6pAIgk?t=699

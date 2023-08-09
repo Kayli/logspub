@@ -1,6 +1,5 @@
 # notes on quantum mechanics
 
-
 - simplest wavefunction
   - electrons are the simplest quantum objects to model
     - they hold certain resemblence to many physical objects
@@ -57,6 +56,32 @@
     - shows that even measuring "witness" photons collapses wave function for boh "signal" and "witness"
   - observer effect is removed from "signal" part of the experimental setup
     - but collapse happens there anyways
+
+
+## qm interpretations
+
+- copenhagen
+  - set of ideas/principles attributed to Niels Bohr and Werner Heisenberg
+  - quantum mechanics is intrinsically indeterministic
+    - probabilities calculated using the Born rule: probability density of finding a system in a given state, when measured, is proportional to the square of the amplitude of the system's wavefunction at that state
+  - principle of complementarity
+    - objects have certain pairs of complementary properties which cannot all be observed or measured simultaneously
+  - act of "observing" or "measuring" an object is irreversible
+  - no truth can be attributed to an object except according to the results of its measurement
+  - quantum descriptions are objective (not subjective)
+
+- many worlds
+  - universal wavefunction obeys the same deterministic, reversible laws at all times
+  - there is no wavefunction collapse associated with measurement
+    - measurements are explained by decoherence, which occurs when states interact with the environment
+    - parts of the wavefunction describing observers become increasingly entangled with the parts of the wavefunction describing their experiments
+  -  observations "split" the universe into mutually unobservable alternate histories
+
+- quantum information theories
+  - describe an observer's knowledge of the world, rather than the world itself
+    - has some similarity with Bohr's thinking
+  - collapse (also known as reduction) is often interpreted as an observer acquiring information from a measurement, rather than as an objective event
+  - in qbism, quantum state is not an element of reality—instead it represents the degrees of belief an agent has about the possible outcomes of measurements
 
 
 ## references

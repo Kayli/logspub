@@ -22,6 +22,10 @@
   - provide extensibility model for compiler
   - allows custom extensions for c# language
 
+- dotnet tool
+  - special NuGet package that contains a console application
+  - can be global (access from anywhere) or local (specific folder or any of its subfolders)
+
 
 ## auth
 
@@ -221,6 +225,13 @@
     > await Task.WhenAll(firstTask, secondTask);
   - for await continuations it always gets unwrapped as its first inner exception, by design
     - meaning that if there is more than one exception, dotnet unwraps AggregateException and only first one will be thrown
+
+
+## System.CommandLine
+
+- standard library for building cli applications
+- supports posix and windows style of parameters, autocomplete, typo correction suggestion
+- features overview https://www.youtube.com/watch?v=MOweq3EttPU
 
 
 ## interop

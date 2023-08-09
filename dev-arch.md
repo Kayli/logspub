@@ -20,6 +20,29 @@
 - declarative diagrams 
   - c4 https://c4model.com/
   - websequencediagrams https://www.websequencediagrams.com/
+  - mermaid https://mermaid.js.org/intro/
+
+
+## microservices
+
+- microservices
+  - pros
+    - each unit is simple
+    - independent scaling
+    - independent deployment
+    - own their own persistence
+    - optimal technology stack
+    - security boundary
+  - cons
+    - multiple cooperating units
+    - exchange in-process for network latencies
+    - more sophisticated deployment and monitoring
+    - higher overall system complexity
+
+- splitting monolith
+  - database
+    - functional partitioning
+    - sharding
 
 
 ## references

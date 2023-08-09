@@ -56,6 +56,8 @@
   - tflint
     - warning: may not find some obvious mistakes that 'tf validate' finds
 
+- tfenv: helps to install/use multiple versions on the same environment
+
 
 ## alternatives
 

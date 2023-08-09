@@ -30,6 +30,10 @@
 
 - size
   - most likely infinite
+    - to register light, human eye's cell has to catch 9 photons within 100 milliseconds
+      - 750 light years is enough to stop seeing light from a sun
+      - may be one of the reasons why sky is not infinitely bright?
+
   - observable universe
     - 46 billion light years in every direction
     - taking into account accelerated expansion
@@ -57,6 +61,10 @@
   - is a unit of length, roughly the distance from Earth to the Sun
   - about 150 million kilometres (93 million miles)
   - ~8 light minutes
+
+- parsec
+  - parallax of one second
+  - is the distance from the Sun to an astronomical object that has a parallax angle of one arcsecond 
 
 - electromagnetic spectrum
   - gamma rays 1Å and shorter
@@ -87,12 +95,14 @@
   - 20x sun-mass star 10 million years
 
 - notable objects
-  - first black hole discovered 'sygnus x1'
-    - is a microquasar
-    - started as a binary star
-    - one star collapsed into a black hole
-    - 6k light years away from earth
-    - 5 million y.o.???
+  - galaxies
+  - black holes
+    - first black hole discovered 'sygnus x1'
+      - is a microquasar
+      - started as a binary star
+      - one star collapsed into a black hole
+      - 6k light years away from earth
+      - 5 million y.o.???
 
 - kardashev scale 
   - is a theoretical framework that categorizes civilizations based on their level of technological development and energy usage 
@@ -121,12 +131,15 @@
   - ultimately observable 79.4 bly
 
 
-## milky way
+## galaxies
 
-- age: 13 byo
-- size: 100 kly in diameter (when avg is 150kly??)
-- saggitarius a* active galactic nucleus
-  - supermassive black hole at the center
+- there are several hundred billion galaxies in observable universe
+
+- milky way
+  - age: 13 byo
+  - size: 100 kly in diameter (when avg is 150kly??)
+  - saggitarius a* active galactic nucleus
+    - supermassive black hole at the center
 
 
 ## planetary systems

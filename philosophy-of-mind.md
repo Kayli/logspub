@@ -66,6 +66,9 @@
   - наглядно действенное
   - образное
   - отвлеченно-вербально-логическое-абстрактно-понятийное ))
+  - творческое [^7]
+    - дивергентное: способность создавать много разных решений для заданной креативной задачи
+    - конвергентное: способность из всех решений, которые были созданы во время дивергентного мышления, выбрать наиболее творческое и интересное 
 
 - сложность и целесообразность поведения не обязательно являются результатом актов мышления
 - поведение включает
@@ -112,6 +115,11 @@
     - fragmentation of consciousness with dictatorship dynamics around one of the fragments
 
 
+## religion and spiritualism
+
+- ability to create and experience 'disembodied minds' is the next evolutionary step from 'theory of mind' cognitive ability
+
+
 ## referernces
 
 [^1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
@@ -120,3 +128,4 @@
 [^4]: overthink podcasrt 61 self-knowledge
 [^5]: john vervaeke ep10 awakening from the meaning crisis 9:13
 [^6]: https://www.youtube.com/watch?v=1rtS2OEV6bM
+[^7]: https://postnauka.org/video/154989

@@ -132,6 +132,31 @@
     - what kind of truth is that to decieve and fleece other people?
 
 
+## nato
+
+- north atlantic treaty organization
+- is a military alliance between countries in North America and Europe
+- was formed in the aftermath of World War II to preserve peace in Europe
+  and protect democratic nations from potential attacks by the Soviet Union
+
+- list of countries as of 2023
+  Albania	2009		Lithuania	2004
+  Belgium	1949*		Luxembourg	1949*
+  Bulgaria	2004	Montenegro	2017
+  Canada	1949*		Netherlands	1949*
+  Croatia	2009		North Macedonia	2020
+  Czech Republic	1999		Norway	1949*
+  Denmark	1949*		Poland	1999
+  Estonia	2004		Portugal	1949*
+  France	1949*		Romania	2004
+  Germany	1955		Slovakia	2004
+  Greece	1952		Slovenia	2004
+  Hungary	1999		Spain	1982
+  Iceland	1949*		Turkey	1952
+  Italy	1949*		  United Kingdom	1949*
+  Latvia	2004		United States	1949*
+
+
 ## interesting ideas
 
 - america as a functional gerontocracy

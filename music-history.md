@@ -28,6 +28,10 @@
   - вступительная часть обыгрывается в тибибо дркина
 - partita bwv 1004 in d-minor V ciaccona [^2]
 
+- mass in b minor "agnus dei" [^4]
+  - agnus dei qui tollis peccata mundi - агнец божий, берущий на себя грехи мира
+  - пасхальный агнец — ягнёнок (реже козлёнок), который выступал как искупительная жертва
+
 
 ## orlando lasso 1532-1594
 
@@ -68,3 +72,4 @@
 [^1]: https://youtu.be/qWli4mESroA?t=2952
 [^2]: https://youtu.be/qWli4mESroA?t=4084
 [^3]: https://www.youtube.com/watch?v=Tspk2mWxiGk
+[^4]: https://www.youtube.com/watch?v=tdLCcQixNvg

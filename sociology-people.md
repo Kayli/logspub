@@ -1,7 +1,6 @@
 # notes on famous sociologists [^1]
 
 
-
 ## pierre bourdieu 1930-2002
 
 - tbd
@@ -355,6 +354,8 @@
     - having assumption of resources scarsity he concludes that fight for resources is inevitable
   - order has to be imposed on people, otherwise it will be war of everyone against everyone
   - considered the first rational choice theorist by some
+
+- people exchanged their natural right to kill for a civil liberty of not been killed
 
 - good laws should serve people
 - shortcomings

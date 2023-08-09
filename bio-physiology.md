@@ -113,6 +113,12 @@
 - relatively low probability of hiv being passed to a child, when clinic is informed about condition
 
 
+## vision
+
+- to register light, human eye's cell has to catch 9 photons within 100 milliseconds
+  - 750 light years is enough to stop seeing light from a sun
+
+
 ## history
 
 - humorism

@@ -135,7 +135,7 @@
 ## heidegger martin 1889-1976 [^1]
 
 - phenomenologist, atheist
-- ejects transcendental ego concept introduced by husserl
+- rejects transcendental ego concept introduced by husserl
 - most influential book: being in time
 
 - created his own terminology which complicates things quite a bit
@@ -160,9 +160,16 @@
 
 - inspired 20th century existentialists
 
+- оппозиция близкого и далекого [^5]
+  - далекое удалено от нас не только пространственно но и экзистенциально
+  - техника подрывает онтологические основания человеческого существования
+    - она убивает даль, но без дали нет близости
+    - оппозиция спекается и мир становится неразличимым недалеким единством
+
 
 ## john dewey 1859-1952 [^1]
 
+- one of the founders of pragmatism (philosophical tradition)
 - process philosopher
 - american naturalism
 
@@ -1187,3 +1194,4 @@
 [^2]: https://plato.stanford.edu/
 [^3]: https://www.overthinkpodcast.com
 [^4]: https://www.philosophizethis.org/podcasts (by stephen west)
+[^5]: https://youtu.be/Lr-rUkFS-FA?t=1996

@@ -157,7 +157,7 @@
 
 - types of specialist
   - psychotherapist (психотерапевт)
-  - clinical psychologist клинический психолог
+  - clinical psychologist (клинический психолог)
     - master's or doctorate in clinical psychology
   - psychiatrist (психиатр)
 
@@ -289,6 +289,12 @@
 - substance abuse/addiction
   - research indicates that more than half of the people with mental health concerns also misuse drugs or alcohol
 
+- childhood trauma [^4]
+  - root causes: repeated emotional abuse
+  - chronic stress can exacerbate the dysregulation of this stress system. 
+    - the HPA axis becomes chronically activated, leading to elevated stress hormones and accompanying hyperarousal (Nakazawa, 2015)
+    - children who endure prolonged trauma may experience continuous arousal, anxiety, hypervigilance, and alertness (De Bellis & Zisk, 2014)
+
 
 ## psychonorm
 
@@ -313,3 +319,4 @@
 [^1]: https://www.insidescience.org/news/rare-human-syndrome-may-explain-why-dogs-are-so-friendly
 [^2]: https://www.nature.com/articles/nature08837
 [^3]: https://www.youtube.com/watch?v=v2LbvjZbpiA
+[^4]: https://www.psychologytoday.com/us/blog/understanding-addiction/202109/why-trauma-can-lead-to-addiction

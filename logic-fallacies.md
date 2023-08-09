@@ -63,6 +63,17 @@
   - trivializing: making the victim believe their thoughts or needs are unimportant
   - forgetting and denial: pretending to forget things that have really occurred
 
+- hero culture
+  - one gets a good rating for fighting a fire
+  - if you do it right the first time, you are invisible
+    - the result is visible, can be quantified, you satisfied the requirements, that is your job, boring
+  - mess it up, and correct is later, you become a hero [^2]
+
+- extracting forgiveness [^3]
+  - trying to convince a target that 
+    - not forgiving will backfire on the unforgiving individual
+    - lack of forgiveness shows a moral deficiency
+
 
 ## woo-woo mindset
 
@@ -91,3 +102,5 @@
 ## references
 
 [^1]: https://www.txstate.edu/philosophy/resources/fallacy-definitions/Begging-the-Question.html
+[^2]: https://www.qualitygurus.com/edwards-deming-quotes/#:~:text=One%20gets%20a%20good%20rating,first%20time%2C%20you%20are%20invisible.
+[^3]: https://youtu.be/YIQocoxv5tg?t=942

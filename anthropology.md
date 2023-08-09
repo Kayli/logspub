@@ -167,6 +167,10 @@
         - 1.3 миллиарда лет назад
  
 
+## other
+
+- juvenile traits of chimps resemble human traits [^8]
+- first forms of cave art 40k years ago [^9]
 
 
 ## references
@@ -178,3 +182,5 @@
 [^5]: https://en.wikipedia.org/wiki/Homo
 [^6]: https://www.newscientist.com/article/dn9989-timeline-human-evolution/
 [^7]: https://www.youtube.com/watch?v=bxtoU_-WwS4
+[^8]: https://youtu.be/Ajh1y5a2l3M?t=3138
+[^9]: https://youtu.be/4z_zvi9nr98?t=3315

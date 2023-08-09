@@ -31,9 +31,21 @@
   - brings people together, provide a ritual and symbolic focus, and unify them
   - this referred as functionalist perspective in sociology
 
+- typical activities
+  - ceremony
+    - ways in which a group of people share a common belief and also reinforce solidarity across the group
+  - sacramental meals
+    - often builds on 'you are what you eat' cognitive dillusion
+    - symbolic canibalism, evolution of practical canibalism
+  - sacrifice: a commitment device
+  - deference to authority as a negotiating technique (god, boss, known criminal, etc)
+  - depiction of dieties
+    - cherubs: leveraging instinctual mechanisms to circumvent or augment rational thought
+
 - statistics 2021
   - 84% of the world's population identifies with a particular religious group or tradition
   - less than 9% are atheists
+  - there are over 4,000 religions, faiths groups, and denominations that exist around the world today
 
 - religious experience
   - refers to the conviction or sensation that one is connected to “the divine” 
@@ -50,12 +62,12 @@
   - monotheism
   - atheistic
     - practices of dialectical materialism in ussr
- 
+
 - religion as an ecology of psychotechnologies [^4]
   - god is a one of the artifacts of such psychotechnologies
   - squeaking rats outside of my apartment are another one ;)
 
- - axial age (500–300 BCE)
+- axial age (500–300 BCE)
   - refers to the period during which most of the main religious and spiritual traditions emerged in eurasian societies
 
 - liminality (lat. līmen, "a threshold")
@@ -80,9 +92,10 @@
   - main themes: alienation, imminent divine intervention, transformation
 
 
+
 ## monoteism
 
-- ancient egypt 14th century bce
+- as far as we can tell, first time appears ancient egypt 14th century bce
   - pharaoh akhenaten promoted the worship of a single deity, the Aten, as the supreme creator and sustainer of the universe
 
 
@@ -206,6 +219,16 @@
 - tbd
 - зион - священная гора в израиле
 
+- cantor
+  - trained vocalist and member of the clergy who leads the congregation in song and prayer
+  - teaches music to both children and adults
+  - officiates major life cycle events
+
+- rabbi
+  - a jewish scholar or teacher, especially one who studies or teaches jewish law
+  - a person appointed as a jewish religious leader
+
+
 
 ### taosism 0.04%
 
@@ -262,6 +285,12 @@
 - people: ray kurzweil
 - cataclysimic event: singularity
   - exponential growth of human innovation which is unpredictable
+- catastrophism, fearmongering
+
+
+## interesting ideas
+
+- guilty until proven innocent vs innocent until proven guilty
 
 
 ## references

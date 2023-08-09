@@ -150,3 +150,15 @@
     - emerged in the 19th century 
     - emphasizes the second coming of Jesus Christ
     - emphasize the importance of the Sabbath and the health message
+
+- 7 deadly sins and symbolism
+  - sloth
+    - habitual disinclination to exertion (нежелание прилагать усилия), or laziness
+    - symbol: snail
+  - avarice (жадность, алчность)
+    - symbol: toad
+  - envy snake
+  - wrath lion
+  - gluttony pig
+  - lust goat
+  - pride peacock

@@ -28,6 +28,11 @@
 - 5.95 * 10^39 bacteria that ever lived [^4]
 - for comparison: 1.33 * 10^50 number of atoms comprising all of planet earth [^4]
 
+- endosymbiosis
+  - any organism that lives within the body or cells of another organism
+  - symbiogenesis: endosymbiotic theory
+  - example: mitochondria is a result of a cell aquiring bacterial endosymbiont
+
 
 ## cells  [^2]
 
@@ -73,6 +78,10 @@
       - this zipper seems necessary to allow the homologues to break and recombine
         - thereby exchanging a set of genes between Mom and Dad 
         - before sending the chromosomes into the world aboard egg or sperm
+
+- plastid
+  - is a membrane-bound organelle
+  - formed as a result of endosymbiosis
 
 
 ## photosynthesis

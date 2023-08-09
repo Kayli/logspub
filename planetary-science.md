@@ -54,6 +54,8 @@
   - low orbits up to 400km will clean up automatically after 10 years
     - considering that we don't add more junk during that time
 
+- oxygination of atmosphere: 2.5 ga, proterozoic eon
+
 
 ## geology [^2]
 
@@ -68,6 +70,16 @@
 - stratum (pl: strata)
   - layer of rock or sediment characterized by certain lithologic properties or attributes that distinguish it from adjacent layers from which it is separated by visible surfaces known as either bedding surfaces or bedding planes
   - not deposited at the same rate (1917 joseph barell discovery)
+
+- obsidian
+  - is a naturally occurring volcanic glass formed when lava extruded from a volcano cools rapidly with minimal crystal growth
+  - an igneous rock
+  - used historically to make stone tools
+
+- flint (flintstone)
+  - sedimentary cryptocrystalline form of the mineral quartz 
+  - categorized as the variety of chert that occurs in chalk or marly limestone
+  - used historically to make stone tools and start fires
 
 
 ### seismology

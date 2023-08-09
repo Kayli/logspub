@@ -1,4 +1,4 @@
-# self education course on foss laptop oses
+# notes on foss laptop oses
 
 
 - manjaro 

@@ -14,6 +14,9 @@
   - is an essential component of mature self-esteem and basic self-worth
   - narcissistic behaviors are a system of intrapersonal and interpersonal strategies devoted to protecting one's self-esteem
 
+- suppression: conscious inhubition of one's own emotional expressive behavior while emotionally aroused [^15]
+- repression: thought to give rise to anxiety and to neurotic symptoms, which begin when a forbidden drive or impulse threatens to enter the conscious mind [^16]
+
 
 ## stress
 
@@ -101,6 +104,13 @@
   - boehm, C. (1984). blood revenge: the anthropology of feuding in montenegro 
     and other nonliterate societies. lawrence: university press of kansas
 
+- viewing abusers
+  - as children
+    - because in some important developmental terms they are
+  - as clowns, histrionic actors
+
+- applying simplistic emotional shortcuts to complex situations can leave people locked in pain and ignorance
+
 
 ## psychophysiology
 
@@ -155,7 +165,7 @@
         - приглашение на спаривание с самкой
         - приглашение поймать и съесть поросенка
     - референциальные
-      - сигналы которые «не “заражают” сородичей эмоциями
+      - сигналы которые не “заражают” сородичей эмоциями
       - дают особям конкретную информацию об окружающем мире
       - предоставляют животным «освобождение от эмоций и обретение ими способности обозначать 
         конкретные объекты (или ситуации) окружающего мира, что позволяет особи принимать менее 
@@ -206,23 +216,35 @@
   - a deep or considered thought about something
 
 - morbid form
+  - becomes a psychological trap
   - circling unproductively around negative thoughts
     - like a deeply scratched vynil record we skip back to the same position looping around same groove
+    - reimagining themselves as angry victors, which makes them feel powerful for a while
+      - but such anger is intoxicating and addictive
   - often begins as a coping strategy
     - person is coping with perceived shortcoming, that itself can be a result of brainwashing/mistreatment
     - rumination will have a dampening effect on emotions in this case
-    - trades anxiety for depression
+      - trades anxiety for depression
   - not being able to stop, despite promising yourself to do that, results in a feeling of intense powerlessness
 
 - types
   - concrete
+    - fact based
     - specific details and contexts give a chance to learn from it and move on
     - systematic focus
   - abstract
+    - we drift away from facts
     - unanswerable questions: possibilities are endless and debilitating (изнуряющие)
     - broad generalizations: distort information
+      - specific context often gets removed
       - generalizing to personality trait when failing some task (we become a failure: can't do anything right)
+      - we more likely to apply generalisations to other people, labeling them selfish and uncaring
+      - prevent us from learning, leaving us with a sense of hopelesness
+      - example: everyone is amenable to reason
     - haphazard (random, unsystematic) butterfly focus
+      - hopping around from thought to though, from memory to memory in a disorganized way
+      - never stopping long enought to see anything through to the point of resolution
+      - past experiences get blurred together into false patterns
     - individuals become overloaded with unresolved thoughts and feelings
 
 - dealing with thoughts
@@ -230,6 +252,10 @@
     - causes internal conflict
     - thought gains power
     - fearful, fragile position
+  - viewing as reflections of who we are (can be maladaptive)
+    - equating our thoughts with our identity
+    - some random thoughts stick to us
+    - thought crime
   - dismiss
     - acknowledge its existence
     - not to give much attention/emotional energy to it
@@ -238,10 +264,15 @@
   - debunk
     - 'what ifs' are planting anxieties in us that we can't resolve
       - there is no end to the chain of such unanswerable questions
+      - magical fearmongering
     - check for evidence
   - express
     - journaling
     - expressing in words, gestures, symbols
+
+- letting go of fantasies (forms of denial) that
+  - some things can be fixed
+  - there is always hope for change
 
 
 ## iq
@@ -249,6 +280,19 @@
 - means 'intelligence quotient'
 - original formula: (mental_age / chronological_age) * 100
 - yield normal distributions when large representative population sample is tested
+
+
+## psychohistory (for real)
+
+- studies
+  - history of childhood
+    - how have children been raised throughout history
+    - how has the family been constituted
+    - how and why have practices changed over time
+    - the changing place and value of children in society over time
+    - how and why our views of child abuse and neglect have changed
+
+- what constitutes child abuse is a matter of objective fact, and that some of the practices which mainstream anthropologists apologize for (e.g., sacrificial rituals) may result in psychosis, dissociation and magical thinking
 
 
 ## interesting facts
@@ -267,6 +311,7 @@
   - выброс серотонина - стимулятор воспоминаний (улитка)
 - suffix -osis (-ωσις)
   - 'diseased' or 'abnormal condition'
+  - like in: schlerosis
 
 
 ## references
@@ -285,3 +330,5 @@
 [^12]: https://youtu.be/u91ctugBCsg?t=18
 [^13]: https://www.youtube.com/watch?v=kMeehIpxH5k
 [^14]: https://www.youtube.com/watch?v=o1G4JFuLlO8
+[^15]: the myth of normal, page 100
+[^16]: https://www.britannica.com/science/repression-psychology

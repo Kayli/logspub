@@ -66,6 +66,7 @@
   - final exit by derek humphry
   - social meanings of suicide by jack douglas
   - suicide: a study in sociology by emile durkheim
+  - peaceful pill by philip nitschke, fiona stewart
 
 
 ## rational suicide
@@ -84,14 +85,15 @@
   - terminally ill patients
   - psychiatric
 
-- people
-  - sallekhana (or santhara)
-    - religious practice of voluntarily fasting to death by gradually reducing the intake of food and liquids
-    - it is not considered as a suicide by Jain scholars because it is not an act of passion, nor does it deploy 
-      poisons or weapons. After the sallekhana vow, the ritual preparation and practice can extend into years.
-    - one should know how to die, that is one should die like a man, not like a beast, bellowing and panting 
-      and making vain efforts to avoid the unavoidable
+- history
+  - in ancient greece
+    - athenian magistrates kept a supply of poison for anyone who wanted to die. You just needed official permission. For the stoics of ancient times, suicide was considered an appropriate response, if the problems of pain, grave illness or physical abnormalities became too great
 
+  - with the rise of christianity
+    - suicide came to be viewed as a sin (a violation of the sixth commandment)
+
+
+- people
   - david benatar https://en.wikipedia.org/wiki/David_Benatar
     - antinatalism and pessimism are most notable topics
     - there is a crucial asymmetry between the good and the bad things, such as pleasure and pain
@@ -122,8 +124,29 @@
     - impossibility of obtaining consent from the human who will be brought into existence
 
 
-## exit international
+## organizations
 
-- euthanasia device
-  - was invented by Philip Nitschke in 2008. 
-  - it uses a canister of nitrogen, a plastic suicide bag, and a plastic tube with one end attached to the gas canister and the other fixed inside the bag by a tie held by adhesive tape
+- santhara (sallekhana)
+  - religious practice of voluntarily fasting to death by gradually reducing the intake of food and liquids
+  - it is not considered as a suicide by Jain scholars because it is not an act of passion, nor does it deploy 
+    poisons or weapons. After the sallekhana vow, the ritual preparation and practice can extend into years.
+  - one should know how to die, that is one should die like a man, not like a beast, bellowing and panting 
+    and making vain efforts to avoid the unavoidable
+  - however, actual videos on youtube depict experience looking more like a theatrical torture performance rather than peaceful death
+
+- exit international
+  - international non-profit organisation advocating legalisation of voluntary euthanasia and assisted suicide
+  - recommended ways
+    - nembutal
+      - pill or liquid form
+      - can be sourced from mexico, peru, china
+    - euthanasia device
+      - was invented by philip nitschke in 2008
+      - it uses a canister of nitrogen, a plastic suicide bag, and a plastic tube with one end attached to the gas canister and the other fixed inside the bag by a tie held by adhesive tape
+
+
+## misonceptions
+
+- overdosing sleeping pills will cause death
+  - in most western countries there are now no medically prescribed barbiturate sleeping tablets
+  - what remains in the public consciousness, however, is the belief that an overdose of sleeping tablets - any sleeping tablet - will cause death. This misconception leads to many failed suicide attempts as elderly or seriously ill people often stockpile, then take, large numbers of modern, non-lethal sleeping tablets

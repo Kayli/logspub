@@ -50,7 +50,7 @@
 ## foss cloud solutions
 
 - openstack
-  - developer: Rackspace Hosting and NASA (original founders according to from wikipedia)
+  - developer: Rackspace Hosting and NASA (original founders according to wikipedia)
   - written in: python
   - supported by the "open infrastructure foundation" (openinfra foundation)
   - root repository https://github.com/openstack/openstack
@@ -58,9 +58,14 @@
 - openshift
   - developer: redhat
   - written in: go, angular.js
-  - an on-premises platform as a service
-    - built around docker containers orchestrated and managed by kubernetes 
-      on a foundation of red hat enterprise linux
+  - most popular as on-premises platform as a service solution
+  - built around docker containers orchestrated and managed by kubernetes on a foundation of red hat enterprise linux
+
+  - distributions
+    - origin: opensource application container platform
+    - online: public application development hosting service
+    - dedicated: managed private cluster on aws/gcp 
+    - enterprise: on-premise private paas
 
 - monitoring
   - cloudkeeper https://github.com/someengineering/cloudkeeper

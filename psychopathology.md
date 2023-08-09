@@ -128,6 +128,20 @@
 
 - to therapy
   - happens when it serves only for offloading emotions without doing a deeper work
+  - when society segregates and commercializes certain spectrum of conversational practices
+    - self-help, emotional literacy and healthy friendship practices become harder to aquire?
+    - or: quantifying friendship, making it transactional 
+
+- to computers
+  - excessive or compulsive use of the computer
+    - which persists despite serious negative consequences for personal, social, or occupational function
+  - subtype: internet addiction
+  - symptoms
+    - not being interested in the outside world
+    - not spending time with people from the outside world
+    - increase in their loneliness and dejection
+    - depression and marital infidelity
+
 
 
 ## psychonorm

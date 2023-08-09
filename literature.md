@@ -77,6 +77,12 @@
   - god of wine, specifically its intoxication and social influence
   - patron of agriculture and the theater
 
+- achilles: a guy with a vulnerable heel, character of homer's iliad
+
+- persephone
+  - also called kore or cora
+  - became the queen of the underworld after her abduction by and marriage to her uncle hades, the king of the underworld
+
 
 ## poetry
 
@@ -85,6 +91,16 @@
   - in five-line, predominantly with a strict rhyme scheme of AABBA
     - in which the first, second and fifth line rhyme
     - while the third and fourth lines are shorter and share a different rhyme
+
+
+## folklore
+
+- литература vs фольклор: литературные произведения не подчинялись фольклорным канонам, имели более сложную композицию, произвольно развивающийся сюжет и могли существовать только в письменной форме, поскольку каждое из них представляло собой оригинальное сочинение, созданное одним человеком 
+https://thedifference.ru/chem-otlichaetsya-folklor-ot-literatury/
+
+- не является историческим источником
+- базовые семантические механизмы фольклорной традиции пока малопонятны
+
 
 
 ## references

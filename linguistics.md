@@ -31,7 +31,6 @@
   - word that is pronounced the same (to varying extent) as another word but differs in meaning
 
 - filler, hesitation marker, planner (дискурсивные слова, слова-паразиты)
-  - 
   
 
 ## parts of speech
@@ -260,6 +259,9 @@
 - swa- 
   - from proto-indo-european *swé (“self”)
 
+- нет независимой реальности языка 
+  - а есть социальные отношения которые кристаллизовались в языковых формах [^2]
+
 
 ## phonetic similarities
 
@@ -272,5 +274,5 @@
 
 ## references
 
-[^1]: tgc "myths, lies and half-truths about language use"
-
+[^1]: https://www.thegreatcourses.com/courses/myths-lies-and-half-truths-of-language-usage
+[^2]: https://www.youtube.com/watch?v=IDB5_afOpCE

@@ -133,7 +133,16 @@
     is trapped in that state - it may be a life not worth living
 
 
+## ethics (moral philosophy)
+
+- branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong behavior
+- ethical aspects of quantified relationships
+  - https://www.researchgate.net/publication/317552368_The_Quantified_Relationship
+
+
 ## aesthetics
+
+- first forms of cave art appeared 40k years ago
 
 - etymology of word 'art'
   - early 13c: "skill as a result of learning or practice" from old french
@@ -167,13 +176,21 @@
   - semantic (tarski theory of truth)
     - idea has to conform to a statement (sentense) expressed in some fixed language
     - axioms define initial truth statements 
-    - theorems define truth statements derived from axioms and other proven theorems (sometimes referred as recursive definition)
+    - theorems define truth statements derived from axioms and other proven theorems (recursive definition)
+    - most relevant in formal sciences
 
 
 ## relativism, antirealism
 
 - standards of truth, rationality, and ethical right and wrong vary greatly between cultures and historical epochs 
   - there are no universal criteria for picking best between them
+
+
+## pragmatism
+
+- is a philosophical tradition
+- considers words and thoughts as tools and instruments for prediction, problem solving, and action
+- it rejects the idea that the function of thought is to describe, represent, or mirror reality
 
 
 ## evolutionary epistemology
