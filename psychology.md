@@ -2,7 +2,7 @@
 
 ## basics
 
-- психика животных [^8]
+- психика животных [8]
   - форма отражения объективной действительности позволяющая организму 
     адекватно ориентировать свою активность по отношению к компонентам среды
 
@@ -14,8 +14,8 @@
   - is an essential component of mature self-esteem and basic self-worth
   - narcissistic behaviors are a system of intrapersonal and interpersonal strategies devoted to protecting one's self-esteem
 
-- suppression: conscious inhubition of one's own emotional expressive behavior while emotionally aroused [^15]
-- repression: thought to give rise to anxiety and to neurotic symptoms, which begin when a forbidden drive or impulse threatens to enter the conscious mind [^16]
+- suppression: conscious inhubition of one's own emotional expressive behavior while emotionally aroused [15]
+- repression: thought to give rise to anxiety and to neurotic symptoms, which begin when a forbidden drive or impulse threatens to enter the conscious mind [16]
 
 
 ## stress
@@ -46,19 +46,20 @@
 - anger
   - occurs when some essential need is threatened or frustrated
 
-- эффект неприятия потерь (англ. loss aversion) [^11]
+- эффект неприятия потерь (англ. loss aversion) [11]
   - поведенческая аномалия, проявляющаяся в условиях неопределённости и риска
   - заключается в том, что люди испытывают больше неудовольствия от потери, чем удовольствия 
     от получения эквивалентной прибыли
 
-- feelcrime [^12]
+- feelcrime [12]
   - the crime of feeling an emotion that displeases the dictator
   - or not feeling an emotion that pleases the dictator
 
 - guilt: negative evaluation of a specific act or behavior 
   - guilt-prone individuals engage in restorative behavior
   - psychologically adaptive function, helping to facilitate resolution
-- shame: negative evaluation of the self [^13]
+
+- shame: negative evaluation of the self [13]
   - anger is also directed on the self
   - shame-prone individuals engage in
     - denial
@@ -68,11 +69,37 @@
     - fear of disapproval
 
 
-## terms
+## grief [^17]
 
-- psychotic episode
-  - related: temper tantrum [^1]
+- is a label assigned to emotion associated with any kind of loss
+  - physical: things, abilities, freedoms
+  - self-concept: roles, values, labels
+  - worldview: innocence, safety
+  - dreams: how things should be
+  - social: loss of relationships
 
+- primary losses also produce secondary losses, which have to be acknowledged and grieved
+  - part of ourselves
+  - identity
+  - self-confidence
+  - chosen lifestyle
+  - security or a sense of safety
+  - even more dreams
+
+- types
+  - anticipatory: provides time for the preparation of loss
+  - normal: just a standard grief with clear cause and feelings
+  - complicated
+    - chronic
+      - normal reactions that don't subside and continue for long time
+    - delayed
+      - normal reactions which are suppressed, postponed
+      - survivor consciously or unconsciously avoids the pain of the loss
+    - masked
+      - we're not aware that behaviors that interfere with normal functioning are result of the loss
+    - disenfranchised
+      - can't be openly acknowledged, socially sanctioned or publically shared
+    
 
 ## psychoanalysis
 
@@ -91,7 +118,7 @@
   - на практике оказывается трудно разделить первичную выгоду от вторичной
     - поэтому используется термин вторичная выгода, secondary morbid gain
 
-- tertiary morbid gain [^4]
+- tertiary morbid gain [4]
   - a less well-studied process, is the benefit that a third party receives from the patient's symptoms
   - it includes gaslighting
     - in which a family member or healthcare worker, for financial or other reasons, manipulates a patient 
@@ -120,7 +147,7 @@
 - just-noticeable difference (JND) 
   - smallest change in stimuli that can be perceived
 
-- ascending method of limits [^5]
+- ascending method of limits [5]
   - some property of the stimulus starts out at a level so low that the stimulus could not be detected,
     then this level is gradually increased until the participant reports that they are aware of it
     - "low level" variants
@@ -136,7 +163,7 @@
 
 ## psychodelics
 
-- bayesian priors relaxed by psychedelics [^6] paper [^7]
+- bayesian priors relaxed by psychedelics [6] paper [7]
   - prediction errors don't get stuck on lower layers of the hierarchical world model
   - light up our brain with feeling of contact with an unknown reality
 
@@ -151,7 +178,7 @@
     - species-specific behaviors
       - behavioral genetics
 
-  - этологи выделяют у животных следующие типы сигналов [^9][^10]
+  - этологи выделяют у животных следующие типы сигналов [9] [10]
     - эмоциональные
       - сигналы с высокой виральностью
       - это сигналы "о себе", о своем физиологическом или психологическом состоянии
@@ -209,7 +236,7 @@
     - doesn't have to be a lie
 
 
-## rumination [^14]
+## rumination [14]
 
 - definition
   - the action or process of thinking deeply about something
@@ -314,21 +341,29 @@
   - like in: schlerosis
 
 
-## references
+## terms
 
-[^1]: stephanie lyn coaching youtube https://www.youtube.com/channel/UCAm2Q5XaKAkHSK-SZStujVg
-[^2]: постнаука https://www.youtube.com/watch?v=UAsSWYpNy6s&t=2203s
-[^3]: https://ru.wikipedia.org/wiki/Выгода_от_болезни
-[^4]: https://en.wikipedia.org/wiki/Primary_and_secondary_gain
-[^5]: https://en.wikipedia.org/wiki/Psychophysics#Method_of_limits
-[^6]: https://manuel-brenner.medium.com/
-[^7]: https://pharmrev.aspetjournals.org/content/pharmrev/71/3/316.full.pdf
-[^8]: https://www.youtube.com/watch?v=DMmK8nInkCI&list=PLf8iQozIdvKjrN720elAZrWya4GCVzjpB
-[^9]: Светлана Бурлак «Происхождение языка», 2011
-[^10]: https://www.youtube.com/watch?v=kI2hhk77OwA&list=PLf8iQozIdvKjrN720elAZrWya4GCVzjpB&index=3
-[^11]: https://youtu.be/Vx--JL4InJ4?t=687
-[^12]: https://youtu.be/u91ctugBCsg?t=18
-[^13]: https://www.youtube.com/watch?v=kMeehIpxH5k
-[^14]: https://www.youtube.com/watch?v=o1G4JFuLlO8
-[^15]: the myth of normal, page 100
-[^16]: https://www.britannica.com/science/repression-psychology
+- psychotic episode or psychosis
+  - collection of symptoms that affect the mind, where there has been some loss of contact with reality
+  - related: temper tantrum [1]
+
+
+
+[//]: # (references)
+[1]: https://www.youtube.com/channel/UCAm2Q5XaKAkHSK-SZStujVg 'stephanie lyn coaching youtube' 
+[2]: https://www.youtube.com/watch?v=UAsSWYpNy6s&t=2203s 'постнаука'
+[3]: https://ru.wikipedia.org/wiki/Выгода_от_болезни
+[4]: https://en.wikipedia.org/wiki/Primary_and_secondary_gain
+[5]: https://en.wikipedia.org/wiki/Psychophysics#Method_of_limits
+[6]: https://manuel-brenner.medium.com/
+[7]: https://pharmrev.aspetjournals.org/content/pharmrev/71/3/316.full.pdf
+[8]: https://www.youtube.com/watch?v=DMmK8nInkCI&list=PLf8iQozIdvKjrN720elAZrWya4GCVzjpB
+[9]: https://ru.wikipedia.org/wiki/Происхождение_языка:_Факты,_исследования,_гипотезы 'Светлана Бурлак «Происхождение языка», 2011'
+[10]: https://www.youtube.com/watch?v=kI2hhk77OwA&list=PLf8iQozIdvKjrN720elAZrWya4GCVzjpB&index=3
+[11]: https://youtu.be/Vx--JL4InJ4?t=687
+[12]: https://youtu.be/u91ctugBCsg?t=18
+[13]: https://www.youtube.com/watch?v=kMeehIpxH5k
+[14]: https://www.youtube.com/watch?v=o1G4JFuLlO8
+[15]: https://drgabormate.com/book/the-myth-of-normal/ 'the myth of normal, page 100'
+[16]: https://www.britannica.com/science/repression-psychology
+[17]: https://www.youtube.com/watch?v=rD0JM8JPC6Y

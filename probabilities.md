@@ -18,7 +18,7 @@
 - death in a car accident: over the course of a year, 1 in 7700
 - becoming a millionaire
   - americans older than 61 have a 1 in 7 chance of having a net worth exceeding $1 million
-  - millennials: 1 in 55
+  - american millennials: 1 in 55
 - identifying as lgbtq+: 4.5% of the population
 - dying in mass shooting: 1 in 11,125 over the course of live
 - low english literacy skills: 1 in 5 adults
