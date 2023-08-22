@@ -78,9 +78,7 @@
   - takes care of service discovery, allowing to expose
     - fixed ip
     - dns, in case if addon installed
-      - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a 
-        set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should
-        automatically be able to resolve services by their DNS name [^4]
+      - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should automatically be able to resolve services by their DNS name [^4]
   - pods can have labels and service can load-balance between pods using selector mechanism
   - when a pod is run on a node, the kubelet adds a set of environment variables for each active service
 
@@ -135,21 +133,39 @@
     > kubectl config current-context
 
 
-## databases
+## scheduling
 
-- etcd
-  - distrubuted key-value store 
-  - uses raft consensus algorithm to elect master node for writes
-  - can i use it for my apps somehow as well? should i deploy another etcd cluster?
-    - should likely go with zookeeper, like kafka did
+- is the process of assigning pods to nodes via automated placement
 
-- kubegres
-  - postgresql cluster operator
-  - manages fail-over 
-  - has a data backup option allowing to dump PostgreSql data regularly in a given volume
+- node name
+  - binding specific pod to specific node
+  - most predictable, but least flexible option
+  - not a best practice to use, only as an exception
+
+- node selector
+  - pod specifies a selector which defines which nodes it can run on
+
+- affinity and anti-affinity
+  - pod specifies condition for filtering nodes where it can run on
+  - effectively clusters together or separates out pods within the same node?
+
+- taint and tolerations
+  - essentially labels
+  - nodes are 'tainted' and pods have 'tolerations'
+  - similar to node selector, but it wont schedule pod unless there is a match
+
+- scheduler tuning
+
+- custom scheduler
 
 
 ## patterns
+
+- realization approaches
+  - imperative
+    - create a Kubernetes resource directly from the command line using the kubectl CLI
+  - declarative
+    - write a text file that describes the resource's configuration, execute the kubectl command against that file
 
 - sidecar
   - there are 2 containers in a single pod
@@ -157,11 +173,6 @@
     - sidecar
   - goal: augment functionality of main app in some way
 
-- realization approaches
-  - imperative
-    - create a Kubernetes resource directly from the command line using the kubectl CLI
-  - declarative
-    - write a text file that describes the resource's configuration, execute the kubectl command against that file
 
 ## typical scenarios
 
@@ -269,6 +280,7 @@
   - custom form of controllers
   - it takes human operational knowledge and encodes it into software that is more easily packaged and shared with consumers
   - watches over your k8 environment and uses its current state to make decisions in milliseconds
+  - written mostly in go, but can be any language 
 
 - operator framework https://operatorframework.io
   - set of developer tools and k8s components, that aid in operator development and central 
@@ -276,6 +288,12 @@
 
 - capability levels https://operatorframework.io/operator-capabilities/
 - registry https://operatorhub.io
+
+
+## high availability
+
+- replica set
+  - controller that creates and manages lifecycle of pods expected to run continuously
 
 
 ## scaling
@@ -293,7 +311,7 @@
       - can be based on cpu and memory (default)
       - can be based on metrics collected by prometheus
     - other approaches: knative, azure container apps, aws lambda
-      - 
+
 
 
 ## secrets
@@ -390,6 +408,20 @@
   - datree: cli tool to validate yaml for schema compliance and good-practice policies
   - gatekeeper open policy agent (opa)
   - kyverno
+
+
+## databases
+
+- etcd
+  - distrubuted key-value store 
+  - uses raft consensus algorithm to elect master node for writes
+  - can i use it for my apps somehow as well? should i deploy another etcd cluster?
+    - should likely go with zookeeper, like kafka did
+
+- kubegres
+  - postgresql cluster operator
+  - manages fail-over 
+  - has a data backup option allowing to dump PostgreSql data regularly in a given volume
 
 
 ## tutorials

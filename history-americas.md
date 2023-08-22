@@ -42,20 +42,32 @@
   - 1492 spanish explorer christopher columbus discovers the 'new world' of the americas on board his ship santa maria
 
 - colonization
+  - about 50-100 million of indigenous people lived there before first settlers arrived
   - central and south
     - 1580th spanish colonies
     - portugeese came about 100 years later?
   - north
     - about 1 million of indigenous people lived there before first settlers arrived
     - 16th century pirates feast on spanish cargo ships
+    
     - 17th century france, holland 
+
     - first permanent english colony
       - jamestown, virginia in 1607
       - puritans: english Protestants in the 16th and 17th centuries
-    - enslavement of black people was justified by christians as they've treated blacks as descendants of hamits
-      - the term was originally borrowed from the book of genesis, where it is used for the descendants of ham, son of noah
-
+    
+    - black enslavement (1720-1780)
+      - was justified by christians as they've treated blacks as descendants of hamits
+        - the term was originally borrowed from the book of genesis, where it is used for the descendants of ham, son of noah
+    
+    - семиле́тняя война́ (1756—1763)
+      - britain occupies french canadian territories
+      - спровоцировала американскую и французскую революции
+    
+- american revolutionary war (1775-1783)
+  - also known as: american war of independence
   - declaration of independence july 4, 1776
+  - 13 british colonies got independence
 
 - us vs uk war 1812-1815
 

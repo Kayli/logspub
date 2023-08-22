@@ -1,6 +1,6 @@
 # notes related to neuroscience
 
-## basics [^3]
+## basics [3]
 
 
 - study of the mind as an empirical epistemology
@@ -54,10 +54,10 @@
   - specific connections of each region may serve as a 'fingerpring' of that region across species
     - enables us to discover interspecies homologies
 
-- new neurons in the adult brain are created in hippocampus [^6]
+- new neurons in the adult brain are created in hippocampus [6]
 
 
-## brain anatomy [^2]
+## brain anatomy [2]
 
 - forebrain (передний мозг)
   - cerebrum (конечный мозг)
@@ -180,7 +180,8 @@
 
 - catecholamines
   - dopamine
-    - forces us to seek out social interactions of a certain kind
+    - motivation, craving, pursuite
+    - may force us to seek out social interactions
 
   - epinephrine (adrenaline), norepinephrene (noradrenaline)
     - may cause higher ventilation, higher heart rate, sweating
@@ -194,6 +195,11 @@
 
 - serotonin
   - satisfaction with what we have already
+  - biological function is complex and multifaceted
+    - modulating mood, cognition, reward, learning, memory
+    - numerous physiological processes such as vomiting and vasoconstriction
+  - approximately 90% of the serotonin the human body produces is in the gastrointestinal tract's enterochromaffin cells, where it regulates intestinal movements
+  - in macaques, dominance status and cerebrospinal fluid serotonin levels appear to be positively correlated [7] 
 
 - oxytocin
   - mother-child bonding, breast feeding
@@ -298,7 +304,7 @@
     - быстрое действие, покакзание после инсульта, травмы
 
 
-## glial cells [^1]
+## glial cells [1]
 
 - astrocytes
   - provide supportive structure
@@ -323,8 +329,8 @@
 ## artificial intelligence
 
 - important papers
-  - imagenet classification with deep convolutional neural networks (krizhevsky et al, 2017) [^4]
-  - deep face recognition (om parkhi et al, 2015) [^5]
+  - imagenet classification with deep convolutional neural networks (krizhevsky et al, 2017) [4]
+  - deep face recognition (om parkhi et al, 2015) [5]
 
 
 ## brain structure - triune model (obsolete)
@@ -382,11 +388,11 @@
 - interactive brain atlas https://neurotorium.org/tool/brain-atlas/
 
 
-## references
-
-[^1]: https://youtu.be/2jA-es793qo?t=2563
-[^2]: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
-[^3]: https://www.youtube.com/watch?v=ba-HMvDn_vU (mit 9.13 the human brain 2019)
-[^4]: https://dl.acm.org/doi/abs/10.1145/3065386
-[^5]: https://ora.ox.ac.uk/objects/uuid:a5f2e93f-2768-45bb-8508-74747f85cad1
-[^6]: https://youtu.be/ShIjh6pAIgk?t=699
+[//]: # (references)
+[1]: https://youtu.be/2jA-es793qo?t=2563
+[2]: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
+[3]: https://www.youtube.com/watch?v=ba-HMvDn_vU (mit 9.13 the human brain 2019)
+[4]: https://dl.acm.org/doi/abs/10.1145/3065386
+[5]: https://ora.ox.ac.uk/objects/uuid:a5f2e93f-2768-45bb-8508-74747f85cad1
+[6]: https://youtu.be/ShIjh6pAIgk?t=699
+[7]: # "as per McGuire, Michael, 2013"

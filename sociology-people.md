@@ -1,4 +1,11 @@
-# notes on famous sociologists [^1]
+# notes on famous sociologists [1]
+
+## richard florida 1957
+
+- concept of the creative class [2]
+  - разрушение сильных связей
+  - побег от общества в классическом понимании
+  - свобода одиночества, приватная жизнь
 
 
 ## pierre bourdieu 1930-2002
@@ -83,6 +90,12 @@
 - theory of class
   - status group (ger. stande)
     - people who claim special social esteem and status monopolies
+
+
+## georg simmel 1858-1918
+
+- sociological antipositivism, 
+- presenting pioneering analyses of social individuality and fragmentation
 
 
 ## sigmund freud 1856-1939
@@ -387,4 +400,5 @@
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=hd33BahdAjs&list=PLDF7B08FF8564D1FE&index=2
+[1]: https://www.youtube.com/watch?v=hd33BahdAjs&list=PLDF7B08FF8564D1FE&index=2
+[2]: https://youtu.be/Pqz-sqDbTmo?t=439

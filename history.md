@@ -28,6 +28,7 @@
 
 - is a system of chronological dating that classifies geological strata (stratigraphy) in time
   - eons divided into eras, then divided into periods, then epochs and ages
+
 - eons
   - hadean 4.6-4 ga
     - earth formed
@@ -113,6 +114,11 @@
 ## holocene
 
 - 11,700 years ago was the world's first historically verifiable revolution in agriculture
+
+- göbekli tepe 9500 bce
+  - earliest evidence for permanent human settlements in the world
+  - founded by hunter-gatherers
+
 - people live in cities for last 9k years
   - earliest known cities are
     - Çatalhöyük (lit. вилообразный холм)
@@ -279,6 +285,15 @@
 
 - ga: billion years ago
 - ma: million years ago
+
+
+## useful links
+
+- bushwacker
+  - неофициальный с полными записями https://vk.com/club180058315
+  - официальная группа вконтакте https://vk.com/club111751633
+  - пекач https://sc2tv.ru/bushwacker
+  - группа на фейсбуке: https://www.facebook.com/groups/812058052274650/
 
 
 ## references

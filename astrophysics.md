@@ -211,11 +211,23 @@
 
 ## lagrange points [^4] [^5]
 
-- there are 5 points, only 2 of which are stable
 - they are points in a special case solution of a particular 3 body problem
   - two bodies are usually a planet and its natural satelite
   - third body is usually an artificial satellite, obviously significantly lighter than other two bodies
     - this is how you may have a relatively stable solution
+
+- there are 5 points
+  - first 3 discovered by euler
+  - last 2 discovered by lagrange, are the most stable ones
+
+- sun-earth example
+  - l1: between earth and the sun, inside earth orbit
+  - l2: same distance from earth as l1, but outside its orbit
+    - shielded from the sun by earth
+    - this is where james web telescope operates
+  - l3: never seen directly from earth
+  - l4, l5: most stable, as small deviations from the orbit are self-corrected
+    - a bunch of asteroids hanging out there 
 
 
 ## solar system

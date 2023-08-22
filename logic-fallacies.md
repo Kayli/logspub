@@ -74,6 +74,10 @@
     - not forgiving will backfire on the unforgiving individual
     - lack of forgiveness shows a moral deficiency
 
+- rug pull
+  - a sudden revelation that completely contradicts the assumptions one has been led to believe
+  - name comes from the phrase to pull the rug out from under (someone), meaning to withdraw support unexpectedly
+
 
 ## woo-woo mindset
 
