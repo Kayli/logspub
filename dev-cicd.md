@@ -17,6 +17,35 @@
 
 ## gitlab
 
+- key entities
+  - configuration file
+    - used by GitLab Runner to manage your project’s jobs and stored in a YAML format
+    - filename: .gitlab-ci.yml
+
+  - runner: is an application (build agent) that works with GitLab CI/CD to run jobs in a pipeline
+
+  - jobs: are set of commands that stored in section script in a config file. GitLab Runner runs jobs in a host machine
+
+  - stage
+    - allows to group jobs, and jobs of the same stage are executed in parallel
+    - jobs of the next stage are run after the jobs from the previous stage complete successfully
+
+  - pipeline: is a group of jobs that get executed in stages (batches)
+
+  - artifact: is a list of files and directories which are attached to a job after it completes successfully
+  - environments: are like tags for your CI jobs, describing where code gets deployed
+
+  - executors
+    - GitLab Runner implements a number of executors that can be used to run your builds in different environments
+    - examples: ssh, shell, docker, kubernetes, etc.
+
+  - kubernetes executor [1]
+    - calls the Kubernetes cluster API and creates a pod for each GitLab CI job
+        - creates the Pod against the Kubernetes Cluster. This creates the containers required for the build and services to run
+        - clones, restores cache, and downloads artifacts from previous stages. This step runs on a special container as part of the pod
+        - runs user build
+        - creates cache, uploads artifacts to GitLab. This step also uses the special container as part of the pod
+
 - features
   - git hosting
   - issue tracker

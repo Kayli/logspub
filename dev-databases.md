@@ -139,14 +139,20 @@
     - sql server authentication
     - windows authentication
 
-  - get row count foe 
+  - get row counts for all tables in a database
     DECLARE @TableRowCounts TABLE ([TableName] VARCHAR(128), [RowCount] INT) ;
-    INSERT INTO @TableRowCounts ([TableName], [RowCount])
-    EXEC sp_MSforeachtable 'SELECT ''?'' [TableName], COUNT(*) [RowCount] FROM ?' ;
-    SELECT [TableName], [RowCount]
-    FROM @TableRowCounts
-    ORDER BY [RowCount] desc
+      INSERT INTO @TableRowCounts ([TableName], [RowCount])
+      EXEC sp_MSforeachtable 'SELECT ''?'' [TableName], COUNT(*) [RowCount] FROM ?' ;
+      SELECT [TableName], [RowCount]
+      FROM @TableRowCounts
+      ORDER BY [RowCount] desc
     GO
+  
+  - search for arbitrary string in stored procedures
+    SELECT name
+      FROM   sys.procedures
+      WHERE  Object_definition(object_id) LIKE '%my-search-string%'
+
 
 ## document dbs
 
@@ -253,6 +259,65 @@
 
 - "having" clause
   - used when filtering is needed for aggregate functions on grouped results
+
+
+## apache spark
+
+- is an open-source unified analytics engine for large-scale data processing
+- the most popular opensource platform for data science
+- sparksql: lets you query structured data inside Spark programs, using either SQL or a DataFrame API
+- graphx: used to query network/graph data
+- pyspark
+  - bindings/adapters for spark
+  - heavily influenced by pandas
+
+
+- spark cluster architecture
+  - driver program: provides context for user operation
+  - cluster manager: coordination of worker nodes based on user request
+  - worker nodes
+  - data sources
+    - hdfs, sql, nosql, etc.
+    - azure datalake gen1 gen2: emulate hdfs, but implement it more efficiently for the azure cloud
+
+- localhost deployment using kind and kubernetes
+  - Spark Operator, ArgoCD and Argo Workflows to create a Spark Application Workflow solution on Kubernetes and uses GitOps to propagate the changes
+  - is cloud-agnostic
+  - see article for more details: https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2
+  - spark k8s operator on gcp https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+
+
+## databricks
+
+- commercial product
+- was created by developers of apache spark and uses apache spark under the hood
+- complete development environment designed to get up and running quickly
+- designed for large size team collaboration
+- can't run on-premise, designed to run in the cloud
+
+- user interface
+  - notebooks ide interface (similar to jupiter notebooks)
+  - supports: python, r, scala, sql
+  - clusters maintanence
+  - sharing of clusters and notebooks
+  - custom libraries installation
+
+- workspace
+  - contains all compute resources needed to support databricks
+    - file storage
+    - vms to run databricks user interface
+    - some other stuff
+
+
+## apache hadoop
+
+- a set of big-data analytics applications, quite diverse
+- key components
+  - map-reduce
+  - yarn (yet another resource manager)
+  - hdfs (distributed filesystem)
+  - hive: allows to use sql to run scale-out queries using map-reduce underneath
+- spark now is a replacement for map-reduce amd hive components
 
 
 ## references

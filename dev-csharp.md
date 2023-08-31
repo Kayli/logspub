@@ -274,6 +274,9 @@
 - for asp.net applications the default stack size is only 256k, comparing to 1mb for desktop app
   - can be changed in the PE header
 
+- asp.net mvc
+  - Hsts is a security feature to force SSL
+
 
 ## web servers
 
@@ -339,6 +342,17 @@
     this.config = builder.Build();
   ```
 
+
+## web application
+
+- install react and angular app scaffolding templates
+  > dotnet new install Microsoft.DotNet.Web.Spa.ProjectTemplates
+
+
+## interesting links
+
+- map result of raw sql query to dto
+  - https://stackoverflow.com/questions/67971055/how-do-i-map-result-rows-of-complex-sql-query-into-custom-dto-with-entity-framew
 
 
 ## references

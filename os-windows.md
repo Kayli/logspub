@@ -49,6 +49,15 @@
   - solution: open same files from 'pictures' folder, should be fine
 
 
+## windows 10
+
+- virtual desktops 
+  - switching from one vd to another is visually glitchy (fixed as of aug 2023)
+  - wallpaper is the same for every vd, there is no way to set a different one
+
+- onedrive does not recognize @microsoft account, such a nonsense
+
+
 ## managed service account
 
 - managed service accounts are identified by ending in a dollar sign ($)
@@ -82,6 +91,16 @@
     > tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
   - extract into a folder
     > tar -xzvf database/LSMP.tar.gz -C C:projects/lsmp-git/compose/database
+
+- unblock executable file downloaded from internet
+  > Unblock-File -Path <filepath>
+
+- getting credentials interactively
+  ```powershell
+    $username="EU8I" //default user name
+    $cred=Get-Credential $username
+    $passwd=[Runtime.InteropServices.Marshal]::PtrToStringAuto([Runtime.InteropServices.Marshal]::SecureStringToBSTR( $cred.Password ))
+  ```
 
 
 ## related products

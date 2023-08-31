@@ -27,6 +27,8 @@
   - push local branch to remote for the first time
     > git push --set-upstream origin <name>
 
+  - clone recursively
+    > git clone --recurse-submodules <repository>
   - recursively update to latest version
     - will use submodule's parent repository to determine specific commit in a child
       > git pull --recurse-submodules
@@ -66,6 +68,12 @@
 
   - get repo size
     > git count-objects -vH | grep 'size-pack'
+
+  - add submodule
+    > git submodule add <repo>
+
+  - self-heal/check repository
+    > git fsck --full
 
 
 ## mercurial
@@ -109,3 +117,8 @@
   - release branches created from develop and hotfixes applied there
 - environment branches
   - its like gitflow, but with additional branhces for specific environments
+
+
+## references
+
+[1]: https://docs.gitlab.com/runner/executors/kubernetes.html

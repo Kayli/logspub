@@ -211,6 +211,7 @@
 
 ## lagrange points [^4] [^5]
 
+- there are 5 points, only 2 of which are stable
 - they are points in a special case solution of a particular 3 body problem
   - two bodies are usually a planet and its natural satelite
   - third body is usually an artificial satellite, obviously significantly lighter than other two bodies

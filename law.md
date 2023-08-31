@@ -129,11 +129,24 @@
 
 - to commence: start, begin
 
-- into someone's conduct 
+- into someone's conduct
   - an investigation or examination of a person's behavior or actions. 
-  - it implies a scrutiny of the way a person behaves, acts or conducts themselves in a particular situation or over a period of time.
+  - it implies a scrutiny of the way a person behaves, acts or conducts themselves in a particular situation or over a period of time
 
 - malfeasance: должностное преступление
+
+- litigation: trial, lawsuit, legal dispute
+- to litigate: to decide and settle in a court of law
+- defence counsel: lawyer, ensures that the rights of the accused are protected
+- pleadings: the formal presentation of claims and defenses by parties to a lawsuit
+- plaintiff: a person who brings a case against another in a court of law
+
+- situs (pronounced /ˈsaɪtəs/) 
+  - latin for position or site of property
+  - is where the property is treated as being located for legal purposes
+  - this may be important when determining which laws apply to the property
+    - since the situs of an object determines the 'lex situs', that is, the law applicable in the jurisdiction where the object is located
+    - which may differ from the 'lex fori', the law applicable in the jurisdiction where a legal action is brought
 
 
 ## references
