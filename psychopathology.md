@@ -66,7 +66,7 @@
   - describes the effect of all other conditions an individual patient might have other than the primary condition of interest
   - can be physiological or psychological
 
-- bipolar disorder [^3]
+- bipolar disorder [3]
   - previously known as manic depression
   - is a mood disorder
     - characterized by periods of depression and
@@ -74,7 +74,7 @@
     - if the elevated mood is severe or associated with psychosis, it is called mania
     - if it is less severe, it is called hypomania
 
-- dissociation [^4]
+- dissociation [4]
   - dissociative episode
     - may include different manifestations described below
   - dissociative amnesia: e.g. forgetting stressful episode or associated memories
@@ -98,7 +98,7 @@
 
 - chemical imbalance theory
   - used to be very common way to explain depressive states
-  - been disevowed recently by medical community [^5]
+  - been disevowed recently by medical community [5]
 
 - adhd and ad
   - being oblivious to time
@@ -143,6 +143,19 @@
     - depression and marital infidelity
 
 
+## sleep-related [7]
+
+- stress-induced insomnia
+  - excessive arousal mediated by presence of activating substances
+    - see bio-physiology.md 'sleep' section for details
+  - eventual accumulation of adenosine in cells leads to sleep
+    - but its phases are now distorted
+
+- desynchrinization of circadian rythms
+
+- sleep deprivation leads to non-specific reaction to stress
+  - often surfaced as internal organ problems/failures
+
 
 ## psychonorm
 
@@ -177,14 +190,15 @@
 
 ## psychedelics therapy
 
-- mdma therapy [^6]
+- mdma therapy [6]
   - there are studies in which ppl get good results for treating trauma
   - huberman informally reported 2 cases of worsening symptoms after therapy for addicts
 
 
 ## references
 
-[^3]: https://en.wikipedia.org/wiki/Bipolar_disorder
-[^4]: https://youtu.be/FFxFjSCoD1Y
-[^5]: https://youtu.be/-Nd40Uy6tbQ?t=5578
-[^6]: https://youtu.be/p3JLaF_4Tz8?t=5738
+[3]: https://en.wikipedia.org/wiki/Bipolar_disorder
+[4]: https://youtu.be/FFxFjSCoD1Y
+[5]: https://youtu.be/-Nd40Uy6tbQ?t=5578
+[6]: https://youtu.be/p3JLaF_4Tz8?t=5738
+[7]: https://postnauka.org/faq/155190

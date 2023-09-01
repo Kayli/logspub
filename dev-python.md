@@ -82,7 +82,7 @@
   - sort in reverse order 
     >>> arr.sort(reverse=True)
   - slicing syntax sugar
-    - takes elements from initial index (inclusive) to end index (non inclusive) using jump interval
+    - takes elements from initial index (inclusive) to end index (non inclusive) using jump interval, which selects every jump-th element
       >>> mylist[initial:end:jump]
     - all parameters are optional
       >>> mylist[:5]

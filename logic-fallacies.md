@@ -67,7 +67,7 @@
   - one gets a good rating for fighting a fire
   - if you do it right the first time, you are invisible
     - the result is visible, can be quantified, you satisfied the requirements, that is your job, boring
-  - mess it up, and correct is later, you become a hero [^2]
+  - mess it up, and correct it later - and you'll become a hero [^2]
 
 - extracting forgiveness [^3]
   - trying to convince a target that 
@@ -90,7 +90,6 @@
 
 - submission
   - happens in hierarchical structures
-  - explicit, 
 
 - conformity
 

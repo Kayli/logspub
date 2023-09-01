@@ -30,13 +30,18 @@
   - fight/flight/freeze reactions
 
 - types
-  - acute
-    - immediate, short term body response to threat
-  - chronic
-    - activation of the stress mechanisms over long periods of time 
-    - exposed to stressors that cannot be escaped because 
-      - we don't recognize them
-      - we have no control over them
+  - by effect
+    - eustress: constructive, leads to growth
+    - distress: difficult and has a negative impact
+  
+  - by action time
+    - acute
+      - immediate, short term body response to threat
+    - chronic
+      - activation of the stress mechanisms over long periods of time 
+      - exposed to stressors that cannot be escaped because 
+        - we don't recognize them
+        - we have no control over them
 
 - depression is the inability to construct a future (rollo may)
 
@@ -67,6 +72,10 @@
     - aggressive defences that block positive resolutions
   - genetically defined instincts based on what appears socially acceptable, not on what is right or true
     - fear of disapproval
+
+- cognitive bypassing
+  - survival strategy that people learn to avoid their feelings
+  - instead of experiencing feelings in the body they are thinking about their feeling
 
 
 ## grief [^17]
@@ -148,8 +157,7 @@
   - smallest change in stimuli that can be perceived
 
 - ascending method of limits [5]
-  - some property of the stimulus starts out at a level so low that the stimulus could not be detected,
-    then this level is gradually increased until the participant reports that they are aware of it
+  - some property of the stimulus starts out at a level so low that the stimulus could not be detected, then this level is gradually increased until the participant reports that they are aware of it
     - "low level" variants
       - sound volume
       - low probability level of signal recognition e.g. when phonetically similar signals are used

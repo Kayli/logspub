@@ -55,7 +55,7 @@
 
 ## artificial fertilization
 
-- two main types (see [^4] for more)
+- two main types (see [4] for more)
   - in vitro fertilisation
   - surrogacy 
 
@@ -91,7 +91,7 @@
 - mutation screening
   - allows detecting unwanted mutations by dna analysis of both partners
 
-- genomic imprinting [^3]
+- genomic imprinting [3]
   - is a form of epigenetic inheritance whereby the regulation of a gene or chromosomal region 
     is dependent on the sex of the transmitting parent
   - during gametogenesis, imprinted regions of DNA are differentially marked in accordance to the sex of the parent, 
@@ -119,6 +119,52 @@
   - 750 light years is enough to stop seeing light from a sun
 
 
+## sleep [5]
+
+- adenosine 
+  - part of atp molecule
+  - atp splits into adenosine and phosphoric acid
+  - accumulation of adenosine in cytoplasm of a neuron cells causes feeling of sleepiness
+
+- activating substances that prevent organism from sleeping
+  - norepinephrene (noradrenaline)
+  - acetylcholine
+  - serotonin
+  - glutamate
+  - orexin
+  - dopamine
+
+
+## stress
+
+- brain areas involved
+  - hypothalamus
+  - amygdala (миндалевидное тело, миндалина)
+
+- реакция на стрессор
+  - поведение может быть разнообразным
+  - перестройка в работе внутренних органов идет по одной и той же схеме
+    - усиление работы одних структур организма, обеспечение дополнительными ресурсами
+      - гормон: адреналин
+    - торможение других структур, снижение обеспечения до минимума
+      - гормон: кортизол
+
+- triphasic model by hans selye
+  - alarm phase
+  - resistance or adaptation
+  - exhaustion and death
+
+- cortisol
+  - suppresses the immune system
+  - aids in the metabolism of fat, protein, and carbohydrates
+  - decreases bone formation
+  - impacts gene expression
+  - decreases sensitivity of peripheral tissue to insulin
+    - thus preventing this tissue from taking the glucose from the blood
+  - promotes breakdown of muscle glycogen into glucose, which is then used by other tissues
+  - raised blood glucose concentration (through the action of cortisol) will stimulate insulin release. Insulin stimulates lipogenesis, so this is an indirect consequence of the raised cortisol concentration in the blood but it will only occur over a longer time scale
+
+
 ## history
 
 - humorism
@@ -139,5 +185,6 @@
 
 - https://en.wikipedia.org/wiki/Ovarian_follicle
 - постнаука, суррогатное материнство https://www.youtube.com/watch?v=_J1ugqbCDec
-[^3]: https://www.hindawi.com/journals/gri/2012/585024/
-[^4]: https://surrogacy.ca/intended-parents/types-of-surrogacy.html
+[3]: https://www.hindawi.com/journals/gri/2012/585024/
+[4]: https://surrogacy.ca/intended-parents/types-of-surrogacy.html
+[5]: https://postnauka.org/faq/155190

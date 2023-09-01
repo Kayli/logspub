@@ -2,10 +2,19 @@
 
 ## basics
 
-- database is a stateful application
-
 - time to glass
   - time between the moment when an event happens and the point when a platform issues an alert
+
+- datalake
+  - centralized repository
+  - designed to store, process, and secure large amounts of data 
+  - supports structured, semistructured, and unstructured data
+  - no transactional support
+
+- datamesh
+  - usually faster than datalake
+  - realtime data access
+  - gather data from many disconnected systems for instant processing
 
 
 ## some popular databases

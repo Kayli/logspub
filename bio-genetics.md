@@ -27,6 +27,7 @@ keywords: biology, bioinformatics, organic-chemistry, gene
       - rna-only
 
 - nucleoside
+  - nucleobase with a pentose (five-carbon) sugar component
   - variations
     - adenosine
     - thymidine

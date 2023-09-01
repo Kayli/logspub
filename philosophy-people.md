@@ -1045,6 +1045,7 @@
 
 - idea of unmoved mover
   - eternal, unchanging entity that is responsible for setting the universe in motion
+  - mnemonic: unmowed mower
 
 - quotes
   - the whole is greater than the sum of its parts
