@@ -127,6 +127,20 @@
     - k6.io
 
 
+## best practices and standards
+
+- best practices vs standards
+  - best practices are informal, standards are formalized and enforced via compliance checks
+  - all of them
+    - produce standardized solutions
+    - ensure stability and integrity of custom code
+    - improve performance
+    - reduce work and wasted effort
+    - save on maintenance
+    - promote security
+    - facilitate upgrades
+
+
 ## patterns
 
 - forbidden dependency test [^3]
