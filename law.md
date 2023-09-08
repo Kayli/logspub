@@ -148,6 +148,8 @@
     - since the situs of an object determines the 'lex situs', that is, the law applicable in the jurisdiction where the object is located
     - which may differ from the 'lex fori', the law applicable in the jurisdiction where a legal action is brought
 
+- adjudicator: someone who presides, judges, and arbitrates during a formal dispute or competition
+
 
 ## references
 

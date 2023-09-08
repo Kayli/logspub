@@ -75,6 +75,14 @@
     - has public no-argument constructor
     - implements Serializable
 
+- pom
+  - Project Object Model is the fundamental unit of work in Maven
+  - it is an XML file that contains information about the project and configuration details used by Maven to build the project
+
+- H2
+  - is a relational database management system written in java
+  - it can be embedded in java applications or run in client-server mode
+
 
 ## dependency injection
 
@@ -103,6 +111,8 @@
 
 - if you're starting a project today, go with either Quarkus or Micronaut and you can't get it wrong: they are modern, lightweight and easy to use... they use modern specifications and are pretty well thought out. Spring Boot may be in the same category but I think Spring is a little bit too bloated with its long history dating back to when application servers were king, though it's still probably the most popular framework by far going by what I've seen in most rankings - so if your concern is on getting people who already have experience on your tech stack, it may still be the preferred option.
 
+
+## 
 
 ## references
 
