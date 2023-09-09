@@ -89,6 +89,7 @@
 - ingress controller
   - a pod that is configured to interpret ingress rules
     - one of the most popular ingress controllers supported by kubernetes is nginx
+  - can be thought of as load-balancer abstraction
   - in terms of amazon, alb can be used as an ingress controller
 
 - deployment
@@ -105,8 +106,7 @@
   - make it easier to match existing volumes to the new Pods that replace any that have failed
   - provide you with [^3]
     - a predictable name
-      - you want to start your pods telling them where to find each other so they can form a cluster, elect a leader, etc. 
-        but you need to know their names in advance to do that. Normal pod names are random so you can't know them in advance
+      - you want to start your pods telling them where to find each other so they can form a cluster, elect a leader, etc. but you need to know their names in advance to do that. Normal pod names are random so you can't know them in advance
     - stable address/DNS name
       - if a normal pod restarts on another host it'll get a new name and a new IP address
     - persistent link between pod and its persistent volume

@@ -58,7 +58,7 @@
 
 ## migrations
 
-- relational database strategies [^3]
+- relational database strategies [3]
   - with downtime
     - run db up-migration script using automatic migrations framework
     - down-migration scripts are not that useful in practice
@@ -67,7 +67,7 @@
     - switch to new version of application
     - remove compatability artifacts of migration left after the first step
   
-- document database strategies [^4]
+- document database strategies [4]
   - with downtime: write an upgrade script
   - without downtime
     - incrementally update your documents as they are used
@@ -97,34 +97,16 @@
     - json types
       - PostgreSQL, SQLite as of version 3.9
       - supports JSON SQL operations
-      - allows nested selectors into json column [^2]
+      - allows nested selectors into json column [2]
 - dotnet
   - entity framework
   - nhibernate
 
 
-## relational dbs
+## relational
 
 - sqlite
   - gui tools: dbbrowser
-
-- object relational mappers (orms)
-  - python
-    - sqlalchemy
-      - allow returning data from disconnected entities (closed session)
-        - session.expire_on_commit = False
-      - sqlite+pysqlite does not support Decimal objects natively
-        - possible loss of data
-      - json types
-        - PostgreSQL, SQLite as of version 3.9
-        - supports JSON SQL operations
-        - allows nested selectors into json column [^2]
-  - dotnet
-    - entity framework
-    - nhibernate
-
-
-## relational
 
 - postgresql
   - binary data storage types
@@ -149,18 +131,44 @@
     - windows authentication
 
   - get row counts for all tables in a database
-    DECLARE @TableRowCounts TABLE ([TableName] VARCHAR(128), [RowCount] INT) ;
-      INSERT INTO @TableRowCounts ([TableName], [RowCount])
-      EXEC sp_MSforeachtable 'SELECT ''?'' [TableName], COUNT(*) [RowCount] FROM ?' ;
-      SELECT [TableName], [RowCount]
-      FROM @TableRowCounts
-      ORDER BY [RowCount] desc
-    GO
+    ```sql
+      DECLARE @TableRowCounts TABLE ([TableName] VARCHAR(128), [RowCount] INT) ;
+        INSERT INTO @TableRowCounts ([TableName], [RowCount])
+        EXEC sp_MSforeachtable 'SELECT ''?'' [TableName], COUNT(*) [RowCount] FROM ?' ;
+        SELECT [TableName], [RowCount]
+        FROM @TableRowCounts
+        ORDER BY [RowCount] desc
+      GO
+    ```
   
   - search for arbitrary string in stored procedures
-    SELECT name
-      FROM   sys.procedures
-      WHERE  Object_definition(object_id) LIKE '%my-search-string%'
+    ```sql
+      SELECT name
+        FROM   sys.procedures
+        WHERE  Object_definition(object_id) LIKE '%my-search-string%'
+    ```
+- snowflake
+- bigquery
+- redshift
+- synapse
+
+
+## object relational mappers (orms)
+
+- python
+  - sqlalchemy
+    - allow returning data from disconnected entities (closed session)
+      - session.expire_on_commit = False
+    - sqlite+pysqlite does not support Decimal objects natively
+      - possible loss of data
+    - json types
+      - PostgreSQL, SQLite as of version 3.9
+      - supports JSON SQL operations
+      - allows nested selectors into json column [2]
+
+- dotnet
+  - entity framework
+  - nhibernate
 
 
 ## document dbs
@@ -203,6 +211,7 @@
   - availability and partition tolerance (ap)
 
 - zookeeper
+
 - etcd
   - quite specific to k8
   - uses lmdb, a software library behind the scenes that provides an embedded 
@@ -231,10 +240,6 @@
 ## streamable data formats
 
 - motivation
-  - wiki articles on a topic suck for unknown reason :/
-    - phds were too busy to write that shit in an easily digestible manner ... as usual
-    - so i have to write that trivia that follows below
-
   - data is too large to be transmitted in a one go while partially transmitted data is usable on the receiver side
     - data may be a potentially infinite, e.g. sensor data or stream of digits for PI
 
@@ -261,7 +266,7 @@
     - real-time transport protocol (rtp) 
   - human readable
     - yaml
-        - "is intended to be read and written in streams" [^1]
+        - "is intended to be read and written in streams" [1]
 
 
 ## sql syntax
@@ -270,16 +275,16 @@
   - used when filtering is needed for aggregate functions on grouped results
 
 
-## apache spark
+## apache spark [6]
 
 - is an open-source unified analytics engine for large-scale data processing
 - the most popular opensource platform for data science
+- written in scala, has scala shell for interacting with data
 - sparksql: lets you query structured data inside Spark programs, using either SQL or a DataFrame API
 - graphx: used to query network/graph data
 - pyspark
   - bindings/adapters for spark
   - heavily influenced by pandas
-
 
 - spark cluster architecture
   - driver program: provides context for user operation
@@ -295,6 +300,17 @@
   - see article for more details: https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2
   - spark k8s operator on gcp https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
 
+- supports 'schema on read'
+  - allows to derive schema by sampling only small fraction of data
+
+- rdd (resilient distributed dataset)
+  - fault-tolerant collection of elements that can be operated on in parallel
+  - supports partitioning
+    - partitions by 128MB blocks of data by default
+    - slices and partitions are synonyms in the context of rdd
+  - support two types of operations
+    - transformations: create a new dataset from an existing one
+    - actions: return a value to the driver program after running a computation on the dataset
 
 ## databricks
 
@@ -326,13 +342,36 @@
   - yarn (yet another resource manager)
   - hdfs (distributed filesystem)
   - hive: allows to use sql to run scale-out queries using map-reduce underneath
+
+- hdfs (hadoop distributed file system)
+  - distributed file-system that stores data on commodity machines
+  - provides very high aggregate bandwidth across the cluster
+  - written in java
+  - stores large files (typically in the range of gigabytes to terabytes) across multiple machines
+  - achieves reliability by replicating the data across multiple hosts
+    - with the default replication factor 3 data is stored on three nodes
+      - two on the same rack, and one on a different rack
+  - designed for mostly immutable files 
+    - may not be suitable for systems requiring concurrent write operations
+  - supports cloud storages
+    - amazon s3
+    - windows azure storage blobs (wasb) file system
+
 - spark now is a replacement for map-reduce amd hive components
+
+
+## useful tools
+
+- dbeaver https://dbeaver.io
+  - free and opensource community edition
+  - supports many databases, on-premise and cloud, all in one interface
 
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/YAML
-[^2]: https://stackoverflow.com/questions/31197813/sqlalchemy-filtering-nested-json-data-in-postgresql-jsonb
-[^3]: https://www.youtube.com/watch?v=ka-PLyjV3AI
-[^4]: https://mongodb.github.io/mongo-csharp-driver/2.4/reference/bson/mapping/schema_changes/
-[^5]: https://youtu.be/QhfuzEkN3Ck?t=935
+[1]: https://en.wikipedia.org/wiki/YAML
+[2]: https://stackoverflow.com/questions/31197813/sqlalchemy-filtering-nested-json-data-in-postgresql-jsonb
+[3]: https://www.youtube.com/watch?v=ka-PLyjV3AI
+[4]: https://mongodb.github.io/mongo-csharp-driver/2.4/reference/bson/mapping/schema_changes/
+[5]: https://youtu.be/QhfuzEkN3Ck?t=935
+[6]: https://www.youtube.com/watch?v=ChISx0-cMpU&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp

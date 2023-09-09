@@ -370,6 +370,11 @@
 - supports automatic minification of js, css and html files
 
 
+## useful resources
+
+- 12 factor apps https://12factor.net/
+
+
 ## some techs to uncover
 
 - databases: cassandra
