@@ -108,7 +108,31 @@
       - we're not aware that behaviors that interfere with normal functioning are result of the loss
     - disenfranchised
       - can't be openly acknowledged, socially sanctioned or publically shared
-    
+
+
+## memory
+
+- types
+  - episodic
+    - memory of everyday events that can be explicitly stated or ideated
+    - по мере хранения проходит через процесс системной консолидации
+    - hippocampus coordinates memories before they undergo consolidation process
+    - autobiographical
+      - personal representation of general or specific events and personal facts
+      - also refers to the memory of a person's history
+  - working
+    - retention of a small amount of information in a readily accessible form
+    - facilitates planning, comprehension, reasoning, and problem-solving
+  - semantic
+    - involves the capacity to recall words, concepts, or numbers, which is essential for the use and understanding of language
+    - examples: names of colors, the sounds of letters, the capitals of countries and other basic facts acquired over a lifetime
+  - procedural
+    - encoding, storage, and retrieval of the procedures (rather than episodes) that underlie motor, visuospatial, or cognitive skills
+    - examples: ride a bike, drive a car, play the drums, solve a puzzle, how to walk
+  - prospective
+    - remembering to perform a planned action or recall a planned intention at some future point in time
+    - examples: remembering to take a medication, mail a birthday card, or turn off the stove after cooking
+
 
 ## psychoanalysis
 

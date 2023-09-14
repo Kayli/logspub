@@ -112,10 +112,25 @@
 - if you're starting a project today, go with either Quarkus or Micronaut and you can't get it wrong: they are modern, lightweight and easy to use... they use modern specifications and are pretty well thought out. Spring Boot may be in the same category but I think Spring is a little bit too bloated with its long history dating back to when application servers were king, though it's still probably the most popular framework by far going by what I've seen in most rankings - so if your concern is on getting people who already have experience on your tech stack, it may still be the preferred option.
 
 
-## 
+## gradle
+
+- may take several seconds to run a trivial command
+  - to speedup execution, enable daemon mode [^4]
+
+
+## useful info
+
+- solr: is an open-source enterprise-search platform, written in java
+- java streams vs linq comparison
+  - https://www.iodigital.com/en/history/foreach/java-and-net-comparing-streams-linq
+
+- dce vm: dynamic code evolution virtual machine
+  - uses dynamic code evolution java virtual machine to propagate changes to running app in dev mode
+
 
 ## references
 
 [^1]: https://www.spec-india.com/blog/jvm-languages
 [^2]: https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/
 [^3]: https://stackoverflow.com/questions/47236543/what-is-the-reason-to-use-openjdk
+[^4]: https://docs.gradle.org/current/userguide/gradle_daemon.html
