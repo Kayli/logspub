@@ -60,6 +60,14 @@
   - boeing 727, 747-400
 
 
+## airplanes
+
+- main flight control surfaces
+  - ailerons (рули крена, элероны): roll
+  - elevators (руль высоты́): pitch, horizontal axis
+  - rudder (руль направления): yaw, vertical axis
+
+
 ## space
 
 - canada

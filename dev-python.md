@@ -3,6 +3,7 @@
 
 ## basic stuff
 
+- 3.11.5 is the latest version as of september 2023
 - 2.7.18 was the last release of python 2 in april 20, 2020
 
 - cpython is a default state-of-the-art implementation of interpreter written in c
@@ -291,6 +292,7 @@
 - expecting exception in test
   >>> with pytest.raises(RuntimeError) as excinfo:
 
+
 ## automated testing
 
 - unittest: legacy native testing framework for python
@@ -419,6 +421,7 @@
 ## data visualization
 
 - progress bar https://github.com/tqdm/tqdm
+
 - matplotlib
   - popular plotting library 
   - repository url: https://github.com/matplotlib/matplotlib
@@ -450,6 +453,7 @@
 
 - building correlation matrix using pandas 
   - https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/
+
 - fourier transform
   - scipy’s fast fourier transform (fft) is preferable to other alternatives [^1] 
   - fft is an algorithm for computing the discrete fourier transform (dft)
@@ -657,6 +661,17 @@
 
 - restart vscode language server
   - issue command in vscode pallete 'python: restart language server'
+
+
+## binary data
+
+- memoryview and struct can be used to parse binary data
+  - https://www.fluentpython.com/extra/parsing-binary-struct/
+
+
+## books
+
+- fluent python https://www.fluentpython.com
 
 
 ## references

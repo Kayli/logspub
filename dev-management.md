@@ -17,7 +17,7 @@
 
 - having only non-technical software managers on a team is risky
   - software manager should be able to understand/help in solving technical problems
-    - otherwise its a 'box ticker' or 'taskmaster' antipattern [^1]
+    - otherwise its a 'box ticker' or 'taskmaster' antipattern [1]
     - may be fine if intention is to give a person prestigious job and to support them financially
   - problem becomes more severe when non-technical manager has an arrogant/assertive tendencies
     - but having such people of any tech level on a team is a problem
@@ -64,11 +64,11 @@
     - gives short term benefits (local extremum)
     - engineers need non-trivial extra effort to avoid it
 
-- managerial feudalism [^2]
+- managerial feudalism [2]
   - hunt for power for its own sake
 
-- putting employees through a sweeze [^7]
-- wearing a badge of exhaution, burnout and tiredness almost as if it shows our strong work ethic and moral fiber [^7]
+- putting employees through a sweeze [7]
+- wearing a badge of exhaution, burnout and tiredness almost as if it shows our strong work ethic and moral fiber [7]
 
 
 ## microagressions
@@ -79,7 +79,7 @@
 ## planning
 
 - agile
-- evidence-based scheduling by Joel Spolsky [^5]
+- evidence-based scheduling by Joel Spolsky [5]
 - cologne cathedral: 600 years planning horizon
 
 
@@ -97,12 +97,12 @@
   but there are also Common Law rights to “Due Notice”: time to find another job without loss of income.
   Just meeting the statutory requirements can result in a Wrongful Dismissal lawsuit, so it is best to 
   put together a package that you think the person will find acceptable from the outset rather than have 
-  them running to a lawyer [^3]
+  them running to a lawyer [3]
 
-- statutory vs. common law termination notice [^4]
+- statutory vs. common law termination notice [4]
 
 
-## common reasons for leaving [^6]
+## common reasons for leaving [6]
 
 - people report being constantly stressed out
   - too many hats to wear
@@ -110,7 +110,7 @@
 - primary reason why people leave companies
   - 12% because of their manager 
   - 28% because of leadership
-  - 52% development opportunities
+  - 52% better market opportunities
 
 
 ## jira
@@ -131,10 +131,10 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Bullshit_Jobs
-[^2]: https://www.youtube.com/watch?v=R07TlNqz9X4
-[^3]: https://www.infoq.com/articles/development-manager-role/
-[^4]: https://www.aflawyers.ca/termination-notice/
-[^5]: https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
-[^6]: https://youtu.be/Q_bJVokYLRI
-[^7]: https://www.youtube.com/watch?v=LY-ZyodLTGA
+[1]: https://en.wikipedia.org/wiki/Bullshit_Jobs
+[2]: https://www.youtube.com/watch?v=R07TlNqz9X4
+[3]: https://www.infoq.com/articles/development-manager-role/
+[4]: https://www.aflawyers.ca/termination-notice/
+[5]: https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/
+[6]: https://youtu.be/Q_bJVokYLRI
+[7]: https://www.youtube.com/watch?v=LY-ZyodLTGA
