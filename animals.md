@@ -51,10 +51,17 @@
   - pileated woodpecker (хохлатая желна)
 
 - ducks
-  - barrow's goldeneye (Bucephala islandica) is a medium-sized sea duck of the genus bucephala, the goldeneyes
+  - mallard
+  - barrow's goldeneye (bucephala islandica)
+    - a medium-sized sea duck of the genus bucephala, the goldeneyes
+  - teal (чиро́к)
+    - общее название небольших птиц из рода речных уток
 
 - geese
   - canada goose
+  - snow goose 
+    - species of goose native to North America
+    - both white and dark morphs exist, the latter often known as blue goose
 
 - parts of body/plumage
   - nape (затылок)
