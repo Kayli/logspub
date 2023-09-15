@@ -349,6 +349,12 @@
   > dotnet new install Microsoft.DotNet.Web.Spa.ProjectTemplates
 
 
+## notable language features timeline
+
+- 2010: C# 4.0 (.NET 4.5)
+  - introduced a new type called dynamic
+
+
 ## interesting links
 
 - map result of raw sql query to dto

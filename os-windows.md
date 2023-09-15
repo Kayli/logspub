@@ -107,3 +107,4 @@
 
 - outlook: selected tree menu item (left) is too pale and hard to see
 - onedrive does not recognize @microsoft account, such a nonsense
+- outlook and calendar in office 365 are snappier than old app at first glance

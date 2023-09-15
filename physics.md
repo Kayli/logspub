@@ -67,8 +67,8 @@
 ## major breakthroughs
 
 - discovery of an atom
-  - 1808 john dalton published his atomic theory
-  - early 1900s Ernest Rutherford with friends - discovery of the atomic nucleus and the proton
+  - 1808 john dalton published his atomic theory: billiard ball model
+  - 1911 ernest rutherford with friends - discovery of the atomic nucleus and the proton
 
 
 ## classical mechanics
@@ -84,7 +84,7 @@
 ## thermodynamics
 
 - entropy
-  - doesn’t really correspond to “disorder” in a well defined way
+  - doesn’t really correspond to "disorder" in a well defined way
     - disorder and complexity are very slippery and subjective notions, so better be avoided
 
 - gibbs free energy (also free enthalpy)

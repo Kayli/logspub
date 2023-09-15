@@ -18,3 +18,9 @@
   - 'project' is what's called 'solution' in .net
   - 'module' == 'project' in .net
   - 'package' == 'assembly' in .net
+
+
+## questions
+
+- is there an automatic citation plugin for copy when editing text/markdown files?
+  - scenario: i've copied something from the internet and want plugin to generate citation automatically
