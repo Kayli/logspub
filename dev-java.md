@@ -153,6 +153,7 @@
     - record patterns to deconstruct record values
     - virtual threads: lightweight threads that dramatically reduce the effort of writing, maintaining, and observing high-throughput concurrent applications
       - see Thread.Builder api
+    - string templates (preview)
 
 
 ## reflection
