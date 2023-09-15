@@ -6,6 +6,8 @@
   - for children who are a year or two away from kindergarten
   - usually ages three and four
 
+- kindergarten: years 5-6
+
 - elementary school or grade school
   - is a school for primary education of children who are four to eleven years of age
 

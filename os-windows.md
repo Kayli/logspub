@@ -103,6 +103,14 @@
   ```
 
 
+## wsl
+
+- security considerations
+  - WSL is as secure as any other program running in your Windows user account
+  - only the Windows security model matters
+    - running as root inside WSL doesn't actually give more permissions than running as a standard user the things that you can do from that perspective are 100% exactly the same (in either case) as the things that the user who ran the Windows wsl.exe program (or other WSL-launching command) could do
+
+
 ## related products
 
 - outlook: selected tree menu item (left) is too pale and hard to see

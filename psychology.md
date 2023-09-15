@@ -14,8 +14,11 @@
   - is an essential component of mature self-esteem and basic self-worth
   - narcissistic behaviors are a system of intrapersonal and interpersonal strategies devoted to protecting one's self-esteem
 
-- suppression: conscious inhubition of one's own emotional expressive behavior while emotionally aroused [15]
-- repression: thought to give rise to anxiety and to neurotic symptoms, which begin when a forbidden drive or impulse threatens to enter the conscious mind [16]
+- suppression: conscious inhibition of one's own emotional expressive behavior while emotionally aroused [15]
+
+- repression
+  - exclusion of distressing memories, thoughts, or feelings from the conscious mind
+  - gives rise to anxiety and to neurotic symptoms, which begin when a forbidden drive or impulse threatens to enter the conscious mind [16]
 
 
 ## stress
@@ -76,6 +79,28 @@
 - cognitive bypassing
   - survival strategy that people learn to avoid their feelings
   - instead of experiencing feelings in the body they are thinking about their feeling
+
+- spiritual bypassing
+  - resorting to spirituality to avoid difficult or painful emotions or challenges, tended to suppress aspects of their identity and needs and stall their emotional development
+
+- drama triangle, victim triangle
+  - introduced by stephen karpman
+  - demonstrates how people take on dysfunctional roles to address conflict
+  - roles
+    - hero
+      - poor you, let me take over
+    - villain
+      - who is to blame?
+      - its my/their fault
+      - THEY won't let us
+    - victim
+      - poor me
+      - don't have enough time
+      - there is nothing i can do
+
+- loving vs romanticizing
+  - loving is actionable
+  - romanticizing is conceptual, fantasizing
 
 
 ## grief [^17]
@@ -267,6 +292,11 @@
     - goal is to capture attention
     - doesn't have to be a lie
 
+- attentuation theory (anne treisman) [18]
+  - is a model of selective attention
+  - can be seen as a revision of donald broadbent's filter model
+  - when participants were presented with the message "you may now stop" in the unattended ear, a significant number do so
+
 
 ## rumination [14]
 
@@ -351,7 +381,26 @@
     - the changing place and value of children in society over time
     - how and why our views of child abuse and neglect have changed
 
-- what constitutes child abuse is a matter of objective fact, and that some of the practices which mainstream anthropologists apologize for (e.g., sacrificial rituals) may result in psychosis, dissociation and magical thinking
+  - what constitutes child abuse is a matter of objective fact, and that some of the practices which mainstream anthropologists apologize for (e.g., sacrificial rituals) may result in psychosis, dissociation and magical thinking
+
+
+## taxonomies of personality traits
+
+- big five
+  - openness to experience (inventive/curious vs. consistent/cautious)
+  - conscientiousness (efficient/organized vs. extravagant/careless)
+  - extraversion (outgoing/energetic vs. solitary/reserved)
+  - agreeableness (friendly/compassionate vs. critical/rational)
+  - neuroticism (sensitive/nervous vs. resilient/confident)
+
+- myers-briggs 
+  - cover four specific dichotomies, or scales
+    - introversion-extraversion (i or e)
+    - sensing-intuition         (s or n)
+    - thinking-feeling          (t or f)
+    - judging-perceiving        (j or p)
+
+- permutations give 16 personality types
 
 
 ## interesting facts
@@ -399,3 +448,4 @@
 [15]: https://drgabormate.com/book/the-myth-of-normal/ 'the myth of normal, page 100'
 [16]: https://www.britannica.com/science/repression-psychology
 [17]: https://www.youtube.com/watch?v=rD0JM8JPC6Y
+[18]: https://en.wikipedia.org/wiki/Attenuation_theory
