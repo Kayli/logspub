@@ -158,6 +158,7 @@
 
 - generator function
   - enables lazy evaluation
+  - can be used to model infinite sets
   - implemented using 'yield' keyword
   - create generator object and defer execution of a function until next(gen) is called
 
@@ -643,6 +644,43 @@
 
 - was inspired by 'abc' programming language [^10]
 - initially designed by guido van rossum
+- got funding by DARPA after proposal in August 1999
+  - computer programming for everybody (CP4E)
+- python attempts to be easily learnable and not too arcane in its syntax and semantics
+  - outreach to non-programmers is not an active concern (2007)
+
+
+## notable language features timeline
+
+- 1994, 1.0: lambda, map, filter and reduce
+- 1996, 1.4: complex numbers, data hiding via name mangling
+- 2000
+  - 1.6.1: gets new GPL-compatible license
+  - 2.0: cycle-detecting garbage collector, list comperhensions
+- 2001
+  - 2.1: nested scopes
+  - 2.2
+    - unification of python's types and classes into one hierarchy
+      - before that python had both types and classes
+        - types were built-in objects defined in c
+        - classes were what you built when using a class statement
+          - the two were named differently because you couldn't mix these
+      - classes could not extend types
+    - generators
+      - which were inspired by 'icon' programming language from 70s
+- 2006, 2.5
+  - 'with' statement and context manager (RAII-like behavior)
+- 2008, 3.0 - 3.6
+  - reduce feature duplication by removing old ways of doing things
+  - print as a built-in function, not a statement
+  - move reduce() into functools
+    - code that uses reduce is less readable than code that uses a for loop and accumulator variable
+  - introduction of integer division operator //
+  - str/unicode types, representing text
+  - introducing a separate immutable bytes type
+    - with corresponding mutable bytearray type, both of which represent arrays of bytes
+- 2018, 3.7
+  - 
 
 
 ## misc

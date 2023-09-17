@@ -101,9 +101,10 @@
 - loving vs romanticizing
   - loving is actionable
   - romanticizing is conceptual, fantasizing
+  - both can feel very similar in a body
 
 
-## grief [^17]
+## grief [17]
 
 - is a label assigned to emotion associated with any kind of loss
   - physical: things, abilities, freedoms
@@ -167,7 +168,7 @@
 - a clinical method for evaluating and treating pathologies in the psyche through dialogue 
   between a patient and a psychoanalyst
 
-- первичная и вторичная выгоды болезни [^2] [^3]
+- первичная и вторичная выгоды болезни [2] [3]
   — снижение уровня тревоги субъекта, за счёт возникновения патологического симптома
     - например, опредмечивание тревоги и возникновение фобии
   - решение конфликта с помощью психосоматического симптома
@@ -177,10 +178,10 @@
     - поэтому используется термин вторичная выгода, secondary morbid gain
 
 - tertiary morbid gain [4]
-  - a less well-studied process, is the benefit that a third party receives from the patient's symptoms
+  - a less well-studied process
+  - is the benefit that a third party receives from the patient's symptoms
   - it includes gaslighting
-    - in which a family member or healthcare worker, for financial or other reasons, manipulates a patient 
-      into believing he or she is mentally ill
+    - in which a family member or healthcare worker, for financial or other reasons, manipulates a patient into believing he or she is mentally ill
 
 
 ## conflict resolution
@@ -296,6 +297,12 @@
   - is a model of selective attention
   - can be seen as a revision of donald broadbent's filter model
   - when participants were presented with the message "you may now stop" in the unattended ear, a significant number do so
+
+- role play framing
+  - intentionally imposes certain kinds of fragmentation through metafor/analogy
+  - can help to better understand/model psychodynamics of self or of other individuals
+  - examples
+    - inner parent vs inner child (see heidi preiebe videos)
 
 
 ## rumination [14]

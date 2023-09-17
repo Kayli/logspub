@@ -34,6 +34,11 @@
   - technical leader: leading a team with technical decisions
   - engineering manager: leading in both technical decisions and people management
 
+- master contract, master agreement
+  - often provide for local terms to be negotiated
+  - is a collective bargaining agreement
+  - covers all unionized worksites in an industry, market or company
+  - establishes the terms and conditions of employment common to all workers in the industry, market or company
 
 ## communication
 
@@ -69,6 +74,7 @@
 
 - putting employees through a sweeze [7]
 - wearing a badge of exhaution, burnout and tiredness almost as if it shows our strong work ethic and moral fiber [7]
+
 
 
 ## microagressions
@@ -107,6 +113,7 @@
 - people report being constantly stressed out
   - too many hats to wear
   - too many responsibilities and they cant be the best in any one of them
+
 - primary reason why people leave companies
   - 12% because of their manager 
   - 28% because of leadership

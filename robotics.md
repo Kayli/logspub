@@ -45,7 +45,6 @@
 - open-rmf
 
 
-
 ## quadruped robots
 
 - mit cheetah 3 mechanics paper
@@ -77,23 +76,42 @@
   - ros2 compatible
 
 
-## top robotic companies
+## top robotic companies [10]
 
-- kuka
-  - german company, owned by the Chinese company Midea Group since 2016
+- industrial
+  - kuka
+    - german company, owned by the chinese company midea group since 2016
 
-- hyundai
-  - because aquired boston dynamics
-  - boston dynamics robots look impressive
+  - fanuc (Fuji Automatic NUmerical Control)
+    - japanese group of companies
+    - largest maker of industrial robots in the world
+    - automation products and services such as robotics and computer numerical control wireless systems
+
+  - abb
+
+  - yaskawa electric
+
+  - epson robotics
+    - japanese company
+    - design and construction of robotics for factory automation
+
+  - rocketwell automation
+
+- retail
+  - zebra technologies
+
+- zoomorphic/humanoid
+  - hyundai boston dynamics
 
 
-## interesting robotic companies
+## other robotic companies
 
 - agility robotics
   - recently released a biped robot "digit"
 
 - misorobotics
-  - automated cooking? antropomorphic hand is there ... not sure why
+  - automated cooking
+  - using antropomorphic hand and off-the-shelve kitchen appliances
 
 - dronedeploy
   - their product 'rocos' was used by nasa to drive some robots on international space station (iss)
@@ -112,11 +130,12 @@
       as long as the motor is correctly sized to the application in respect to torque and speed
 
 - servo motor
+  - has a feedback circuit with potentiometer
 
 
 ## solvers
 
-- discrete vs continuous solvers [^8]
+- discrete vs continuous solvers [8]
   - simulators are able to produce continuosly evolving states e.g. line/spline trajectory, which can be infinitely divided
     - such continuous simulation data can provide more information to the solver in order for it to come up with more accurate solution, comparing to discrete simulation
     - in contrast, realtime mode is always discrete
@@ -224,7 +243,7 @@
   - is a high-fidelity physics simulator that is designed specifically for robotics applications
   - allows users to create realistic simulations of robots and their environments
   - integrates with ROS through a set of plugins
-  - most popular simulator according to a survey [^9]
+  - most popular simulator according to a survey [9]
 
 - coppeliasim (formerly v-rep)
   - is a multi-purpose robotics simulation software that can be used to simulate robots, sensors, and environments. 
@@ -288,10 +307,10 @@
 
 - scene graph
 
-- octree [^6]
+- octree [6]
   - tree data structure in which each internal node has exactly eight children
   - often used to partition a three-dimensional space by recursively subdividing it into eight octants
-  - python bindings [^7] 
+  - python bindings [7] 
 
 - final state machine (fsm)
 
@@ -382,8 +401,9 @@
 
 ## references
 
-[^5]: https://octomap.github.io
-[^6]: https://en.wikipedia.org/wiki/Octree
-[^7]: https://github.com/wkentaro/octomap-python
-[^8]: https://robotics.stackexchange.com/questions/2148/continuous-or-discrete
-[^9]: https://arxiv.org/pdf/1402.7050.pdf
+[5]: https://octomap.github.io
+[6]: https://en.wikipedia.org/wiki/Octree
+[7]: https://github.com/wkentaro/octomap-python
+[8]: https://robotics.stackexchange.com/questions/2148/continuous-or-discrete
+[9]: https://arxiv.org/pdf/1402.7050.pdf
+[10]: https://www.onlinerobotics.com/news-blog/comparing-top-industrial-robotics-brands

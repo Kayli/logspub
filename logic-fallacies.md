@@ -26,11 +26,13 @@
   - 9.99 can be simulteneously percieved as 
     - big number (lots of nines)
     - smaller number than the real price (oh, its just 9 bucks)
-  - slaps you twice
+    - so it slaps you twice
+  - goals: shut down prefrontal areas by artificially creating confusion
+    - which makes buying decisions more emotional than logical
   - when chance of seeing such price is above random threshold 
     - it is indicative of dishonest/unethical market pricing strategies that company engaged in
 
-- begging the question [^1]
+- begging the question [1]
   - occurs when an argument's premises assume the truth of the conclusion, instead of supporting it
   - example: happiness is the highest good for a human being, since all other values are inferior to it
 
@@ -67,9 +69,9 @@
   - one gets a good rating for fighting a fire
   - if you do it right the first time, you are invisible
     - the result is visible, can be quantified, you satisfied the requirements, that is your job, boring
-  - mess it up, and correct it later - and you'll become a hero [^2]
+  - mess it up, and correct it later - and you'll become a hero [2]
 
-- extracting forgiveness [^3]
+- extracting forgiveness [3]
   - trying to convince a target that 
     - not forgiving will backfire on the unforgiving individual
     - lack of forgiveness shows a moral deficiency
@@ -84,6 +86,9 @@
 - free will is an illusion
 - ego is an illusion
 - we don't know what anything is ... there is irreducible mysteriousness to everything
+- synchronicities
+  - рояль в кустах
+  - deus ex machina
 
 
 ## authority
@@ -94,16 +99,62 @@
 - conformity
 
 
+## negotiation manipulative tactics
+
+- inspired by a bunch of half-truths and misconceptions written at [4]
+
+- negotiation tactic
+  - is a single maneuver to be employed in the heat of battle (as compared to a negotiation strategy)
+    - why 'battle'??
+      - aren't we cooperating towards a common goal?
+      - isn't universe abundant to provide best conditions for every human being involved?
+        - oh, you can't fly too far, i'm wondering why .... :_(
+        - and you also creating life and throwing it out to rot on the asphalt of your sink cities
+  
+  - a move, countermove or adjustment
+    - employed as you work to gain the best possible outcome at any given moment
+
+  - manipulative use
+    - to move you from a position of safety to a place where you are more vulnerable to attack
+    - as a negotiator, you must be prepared for such tactics at every turn
+
+- tactics
+  - pressure
+    - deadlines
+      - person setting deadline is counting on the fact that it’s slave nature to believe deadlines are real, slaveowner bs heritage
+      - the very framing of the problem is already broken and terminology is poisoned
+      - instead of inspiring people to enjoy their work, slaveowners try to brainwash them using a bunch of manipulative rethorical tricks
+
+    - competition
+      - is healthy in a market economy and should be respected, not neutralized
+        - not to be confused with pathological dog-eats-dog competition inside company
+          - instead, people should collaborate, help, inspire each other
+      - legal abstractions should be involved in competition (as they can't suffer, see harrari's works)
+        - while people should be involved in cooperation and learn to be detached from legal abstractions, without compromising their (personal) dignity/security
+      - overall, potential distructive effects on people involved have to be forseen and avoided/minimized
+
+    - delaying
+      - to take advantage of a stronger negotiating position at a later time
+      - to construct belief in higher source of power via exploiting sunk cost fallacy
+
+  - tbd
+    - manipulative
+    - power (one-up)
+    - collaborative
+
+
 ## interesting resources online
 
 - https://en.wikipedia.org/wiki/List_of_fallacies
 - https://en.wikipedia.org/wiki/List_of_cognitive_biases
 - https://thethinkingshop.org/
-- master list of fallacies from owen williamson https://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm
+- master list of fallacies from owen williamson 
+  - https://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm
 
 
 ## references
 
-[^1]: https://www.txstate.edu/philosophy/resources/fallacy-definitions/Begging-the-Question.html
-[^2]: https://www.qualitygurus.com/edwards-deming-quotes/#:~:text=One%20gets%20a%20good%20rating,first%20time%2C%20you%20are%20invisible.
-[^3]: https://youtu.be/YIQocoxv5tg?t=942
+[1]: https://www.txstate.edu/philosophy/resources/fallacy-definitions/Begging-the-Question.html
+[2]: https://www.qualitygurus.com/edwards-deming-quotes/#:~:text=One%20gets%20a%20good%20rating,first%20time%2C%20you%20are%20invisible.
+[3]: https://youtu.be/YIQocoxv5tg?t=942
+[4]: https://www.bakercommunications.com/archive/apr13/negotiation040113.html

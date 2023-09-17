@@ -7,13 +7,13 @@
   - Max Weber 1864–1920
   - Karl Marx 1818–1883
 
-- социология задает вопросы о том что происходит и что за этим кроется [^7]
+- социология задает вопросы о том что происходит и что за этим кроется [7]
   - по контрасту с этикой, которая пытается определить как должно быть
 
-- ставит исследовательские проблемы в текстах и ищет ответы на них в эмпирических данных\мире [^11]
+- ставит исследовательские проблемы в текстах и ищет ответы на них в эмпирических данных\мире [11]
   - комбинация философии, этнографии и математики
 
-- milgram social psychology experiments [^1]
+- milgram social psychology experiments [1]
   - study obedience to authority figures
   - participants were asked 
     - to give a simple task to another participant (an actor)
@@ -21,7 +21,7 @@
   - experiment found
     - very high proportion of subjects would fully obey the instructions
 
-- stanford prison experiment [^2]
+- stanford prison experiment [2]
   - was designed to examine the effects of situational variables on participant's
     reactions and behaviors in a two-week simulation of a prison environment
   - experiment found
@@ -129,8 +129,8 @@
 
 ## suicide
 
-- durkheim observed that suicide rates jump 5-6 times when countries become industrialized [^4]
-  - indicated 5 main reasons:
+- durkheim observed that suicide rates jump 5-6 times when countries become industrialized [4]
+  - indicated 5 main reasons
     - individualism: more personal responsibilities for a failure
     - excessive hope
     - too much freedom: 'whatever works for you'
@@ -142,7 +142,7 @@
 - marx and weber are conflict theorists
   - try to explain what breaks up society
 
-- evolutionary game theory [^6]
+- evolutionary game theory [6]
   - R. A. Fisher: The Genetic Theory of Natural Selection (1930)
   - Maynard Smith: Evolution and the Theory of Games (1982)
   - introduced the concept of an evolutionarily stable strategy (hereafter ESS)
@@ -162,12 +162,12 @@
 
 ## language
 
-- язык социологии [^8]
+- язык социологии [8]
   - мы часто лишены возможности изучать объект на его собственном языке
   - для этого социология изобретает свой язык, как систему различений, концептуализаций
 
 
-## other
+## other [12]
 
 - индустриальное
   - определяющей являлась промышленность, главные структуры — корпорация, фирма
@@ -175,25 +175,42 @@
   - определяющим являются теоретические знания
   - главная структура — университет, как место производства и накопления знаний
 
-- идея неестественной социальности (город как протез) [^9]
+- идея неестественной социальности (город как протез) [9]
   - компенсирует человеческую непреспособленность к новому миру (индустриальному, постиндустриальному)
   - идея немецкой философской антропологической школы (Шелер, Плеснер, Гелен)
 
-- проблема категории "смысла" в социологии [^10]
+- проблема категории "смысла" в социологии [10]
   - это содержание сознания, психологическая категория, затрудняет объективную оценку
   - но невозможно полностью понять что люди делают, если не анализировать то что они в свои действия вкладывают
 
+- moral panic
+  - виды
+    - orchestrated vs naturally emergent
+    - снизу, сверху, полиагентная (власти превращают зарождающиеся паники снизу в политический капитал)
+  - role of 'deviant'
+  - examples
+    - war on terror via terrorism and islamic extremism
+    - dangerous dogs: pitbuls and rottweilers
+    - lgbt grooming
+    - компания по поиску вредителей на заводах
+    - синие киты: массовые суицид подростков
+    - вакцина от ковида с жидким чипом
+      - игра слов: жидкий, жид, жидкий кристалл
+      - цель: информационная вакцина для минимизации отторжения цифровых сми
+        - людей садят в международную коммуникационную сеть и это нормально
+      
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Milgram_experiment
-[^2]: https://en.wikipedia.org/wiki/Stanford_prison_experiment
-[^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
-[^4]: https://youtu.be/z9W0GQvONKc?t=82
-[^5]: https://en.wikipedia.org/wiki/Disenchantment
-[^6]: https://plato.stanford.edu/entries/game-evolutionary/
-[^7]: https://youtu.be/KgF7Oo9xsWM?t=3021
-[^8]: https://www.youtube.com/watch?v=xhACtN3w6ro
-[^9]: https://youtu.be/h0MKHZ03xkk?t=2454
-[^10]: https://youtu.be/-p8pIhXCVmg?t=2150
-[^11]: https://youtu.be/Lr-rUkFS-FA?t=96
+[1]: https://en.wikipedia.org/wiki/Milgram_experiment
+[2]: https://en.wikipedia.org/wiki/Stanford_prison_experiment
+[3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
+[4]: https://youtu.be/z9W0GQvONKc?t=82
+[5]: https://en.wikipedia.org/wiki/Disenchantment
+[6]: https://plato.stanford.edu/entries/game-evolutionary/
+[7]: https://youtu.be/KgF7Oo9xsWM?t=3021
+[8]: https://www.youtube.com/watch?v=xhACtN3w6ro
+[9]: https://youtu.be/h0MKHZ03xkk?t=2454
+[10]: https://youtu.be/-p8pIhXCVmg?t=2150
+[11]: https://youtu.be/Lr-rUkFS-FA?t=96
+[12]: https://www.youtube.com/watch?v=reKjvK2ldmg

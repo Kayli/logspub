@@ -1,11 +1,41 @@
-# topics related to logic
+# notes on topics related to logic
 
-## basics [^1]
+## basics
 
-- truth-functional propositional logic
-  - formulas are interpreted as having precisely one of two possible truth values, 
-    the truth value of true l the truth value of false
-  - principle of bivalence and the law of excluded middle are upheld
+- logic
+  - is the study of correct reasoning
+
+- types
+  - formal logic
+    - is the science of deductively valid inferences or logical truths
+    - uses formal language
+    - studies how conclusions follow from premises due to the structure of arguments alone, independent of their topic and content
+    - examples: algebraic logic, boolean logic
+
+  - informal logic
+    - examines arguments expressed in natural language
+    - associated with informal fallacies, critical thinking, and argumentation theory
+    - wikipedia says that bayesian logic is informal (but why???) 
+    - approaches
+      - pragmatic or dialogical approach
+        - composed of arguments as speech acts occuring in a context which affects the standards of right and wrong arguments
+        - dialogues are games of persuasion
+          - each player has the goal of convincing the opponent of their own conclusion
+          - arguments are the moves of the game
+          - winning move 
+            - is a successful argument 
+              - that takes the opponent's commitments as premises
+              - and shows how one's own conclusion follows from them
+          - fallacy
+            - is a violation of the standards of proper argumentative rules
+
+
+## propositional logic, boolean algebra
+
+- is a truth-functional propositional logic
+- formulas are interpreted as having precisely one of two possible truth values, 
+  the truth value of true l the truth value of false
+- principle of bivalence and the law of excluded middle are upheld
 
 - inferences: are steps in reasoning, moving from premises to logical consequences
 
@@ -37,15 +67,17 @@
   - sometimes known as the material biconditional, is the logical connective used to conjoin two
     statements P and Q to form the statement "P if and only if Q"
 
-- iff vs equivalence [^3]
-  - P ↔ Q is statement that could be either true or false, but P ≡ Q means that P ↔ Q is always a true biconditional
+- iff vs equivalence [3]
+  - P ↔ Q (iff) is statement that could be either true or false
+  - but P ≡ Q means that P ↔ Q is always a true biconditional
+    - meaning that P and Q have the same value no matter what
 
 - syllogism ‘with’ + ‘to reason’
 
 
 ## rules of inference
 
-- transformatiion rules [^2]
+- transformatiion rules [2]
   - carnap brings [axioms and rules of inference] under the common term "transformatiion rules", 
     by considering the axioms as the result of transformation from zero premises 
 
@@ -82,20 +114,10 @@
 
 ## truth
 
-- how we detect lies?
-  - absence of expected evidence
-  - presence of conflicting evidence
-
-- blind faith demands that we disregard
-  - absence of expected evidence
-  - presence of conflicting evidence
-
-- robert oppenheimer quote
-  - 'we know that the only way to avoid error is to detect it and the only way to detect it is to be free to inquire'
+- see 'theories of truth' in philosophy.md
 
 
 ## references
 
-[^1]: wikipedia
-[^2]: https://math.stackexchange.com/questions/1201492/is-the-modus-ponens-is-an-axiom-in-formal-logic
-[^3]: https://math.stackexchange.com/questions/2432462/whats-the-difference-between-biconditional-iff-and-logical-equivalence/
+[2]: https://math.stackexchange.com/questions/1201492/is-the-modus-ponens-is-an-axiom-in-formal-logic
+[3]: https://math.stackexchange.com/questions/2432462/whats-the-difference-between-biconditional-iff-and-logical-equivalence/

@@ -179,6 +179,17 @@
     - theorems define truth statements derived from axioms and other proven theorems (recursive definition)
     - most relevant in formal sciences
 
+- how we detect lies?
+  - absence of expected evidence
+  - presence of conflicting evidence
+
+- blind faith demands that we disregard
+  - absence of expected evidence
+  - presence of conflicting evidence
+
+- robert oppenheimer quote
+  - 'we know that the only way to avoid error is to detect it and the only way to detect it is to be free to inquire'
+
 
 ## relativism, antirealism
 
