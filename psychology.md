@@ -405,6 +405,11 @@
   - some things can be fixed
   - there is always hope for change
 
+- healthy daydreaming
+  - helps you identify things missing in your life
+  - it is important to integrate healthy dreams into reality
+  - in contrast with maladaptive daydreaming, see psychopathology.md
+
 
 ## self-sabotage
 
@@ -443,6 +448,12 @@
   - in order to enforce a boundary it has to be in your control
   - is a decision about your own behavior
   - in contrast with expectations, when its about their behavior
+
+- stages of attachment healing
+  - unconscious incompetence (ignorance)
+    - unclear about problems that we have
+    - unclear about results that we want
+  - 
 
 
 ## iq

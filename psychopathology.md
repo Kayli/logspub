@@ -59,19 +59,29 @@
   - describes the effect of all other conditions an individual patient might have other than the primary condition of interest
   - can be physiological or psychological
 
-- dissociation [4]
+
+- dissociation [4]  
   - dissociative episode
     - may include different manifestations described below
+  
   - dissociative amnesia: e.g. forgetting stressful episode or associated memories
+
   - maladaptive daydreaming
     - having more fun with your imagination than with real life
     - to be maladaptive it should have bad consequences for the one who disengages
+    - in contrast with healthy daydreaming
+      - which helps you identify things missing in your life
+      - it is important to integrate healthy dreams into reality
+  
   - depersonalization
     - disconnection from our own thoughts, feelings, sensations, body or actions
+
   - derealization
     - feeling like everything is a fake, living in a movie
+
   - dissociative identity disorder
     - multiple personality disorder
+
   - types
     - left brain dissociation
       - trivialization by overfocusing on superficial external concerns to distract themselves from upsetting inner experience
