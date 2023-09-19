@@ -67,6 +67,14 @@
   - elevators (руль высоты́): pitch, horizontal axis
   - rudder (руль направления): yaw, vertical axis
 
+- route planning software companies
+  - amadeus
+  - sabre
+  - travelport
+  - atpco
+    - airline tariff publishing company
+    - privately held corporation that engages in the collection and distribution of fare and fare-related data for the airline and travel industry
+
 
 ## space
 

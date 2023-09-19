@@ -1,8 +1,23 @@
-# psychopathology
+# notes on psychopathology
+
+## basics
+
+- types of specialist
+  - psychotherapist (психотерапевт)
+  - clinical psychologist (клинический психолог)
+    - master's or doctorate in clinical psychology
+  - psychiatrist (психиатр)
 
 - dsm
   - diagnostic and statistical manual of mental disorders
   - last revision is dsm-5 published in 2013
+
+- chemical imbalance theory
+  - used to be very common way to explain depressive states
+  - been disevowed recently by medical community [5]
+
+
+## symptoms
 
 - pseudohallucination
   - involuntary sensory experience vivid enough to be regarded as a hallucination, 
@@ -34,45 +49,15 @@
   - movement disorder referring to decreased bodily movement
   - characterized by a partial or complete loss of muscle movement due to a disruption in the basal ganglia
 
-- cotard's syndrome
-  - is a rare neuropsychiatric condition
-  - patient denies existence of one's own body to the extent of delusions of immortality
-  - one of the consequences of Cotard's syndrome is self-starvation because of negation of existence of self
-
-- neurosis
-  - is a class of functional mental disorders involving chronic distress, but neither delusions nor hallucinations
-
 - psychosis
   - abnormal condition of the mind that results in difficulties determining what is real and what is not real
   - psychotic episode - обострение
   - ?раптус "raptus melancholicus" на фоне депрессивных, меланхолических состояний?
 
-- kandinsky–clérambault syndrome (syndrome of the psychic automatism)
-  - considered to be a typical feature of paranoid schizophrenia
-  - characterized by
-    - pseudohallucinations
-    - delusions of control
-    - telepathy, thought broadcasting and thought insertion by an external force
-    - delusion of being controlled by a source outside himself
-
-- imbecile
-  - category of people with 
-    - moderate to severe intellectual disability
-    - as well as a type of criminal (попался - провалил iq тест)
-  - synonyms: moron, cretin, retard, idiot
-
 - comorbidity
   - presence of one or more additional conditions often co-occurring (that is, concomitant or concurrent) with a primary condition
   - describes the effect of all other conditions an individual patient might have other than the primary condition of interest
   - can be physiological or psychological
-
-- bipolar disorder [3]
-  - previously known as manic depression
-  - is a mood disorder
-    - characterized by periods of depression and
-    - periods of abnormally-elevated mood that last from days to weeks each
-    - if the elevated mood is severe or associated with psychosis, it is called mania
-    - if it is less severe, it is called hypomania
 
 - dissociation [4]
   - dissociative episode
@@ -96,9 +81,47 @@
         - non-relevant political events
         - world news
 
-- chemical imbalance theory
-  - used to be very common way to explain depressive states
-  - been disevowed recently by medical community [5]
+- substance abuse/addiction
+  - research indicates that more than half of the people with mental health concerns also misuse drugs or alcohol
+
+- childhood trauma [1]
+  - root causes: repeated emotional abuse
+  - chronic stress can exacerbate the dysregulation of this stress system. 
+    - the HPA axis becomes chronically activated, leading to elevated stress hormones and accompanying hyperarousal (Nakazawa, 2015)
+    - children who endure prolonged trauma may experience continuous arousal, anxiety, hypervigilance, and alertness (De Bellis & Zisk, 2014)
+
+
+## disorders / diagnoses
+
+- neurosis
+  - is a class of functional mental disorders involving chronic distress, but neither delusions nor hallucinations
+
+- cotard's syndrome
+  - is a rare neuropsychiatric condition
+  - patient denies existence of one's own body to the extent of delusions of immortality
+  - one of the consequences of Cotard's syndrome is self-starvation because of negation of existence of self
+
+- kandinsky–clérambault syndrome (syndrome of the psychic automatism)
+  - considered to be a typical feature of paranoid schizophrenia
+  - characterized by
+    - pseudohallucinations
+    - delusions of control
+    - telepathy, thought broadcasting and thought insertion by an external force
+    - delusion of being controlled by a source outside himself
+
+- imbecile
+  - category of people with 
+    - moderate to severe intellectual disability
+    - as well as a type of criminal (попался - провалил iq тест)
+  - synonyms: moron, cretin, retard, idiot
+
+- bipolar disorder [3]
+  - previously known as manic depression
+  - is a mood disorder
+    - characterized by periods of depression and
+    - periods of abnormally-elevated mood that last from days to weeks each
+    - if the elevated mood is severe or associated with psychosis, it is called mania
+    - if it is less severe, it is called hypomania
 
 - adhd and ad
   - being oblivious to time
@@ -122,6 +145,31 @@
 
 - alexithymia 
   - impaired ability to be aware of, explicitly identify, and describe one's feelings
+
+- depression
+  - possibly caused by
+    - когда человек чувствует тяжелое эмоциональное состояние, у него возникает неосознанная потребность обосновать это состояние когнитивно -> думать о плохом. как следствие идет наработка мало?адаптивных когнитивных автоматизмов
+    - генетическая программа адаптации в группе
+
+- schizofrenia
+  - drugs: xanomeline-trospium
+
+- narcissistic personality disorder
+  - дезадаптация: человек уже не может приспособиться к гибким, постоянно меняющимся условиям социума
+  - типы по миллону
+    - амурные
+      - имеют истерические черты
+      - для таких людей важны внешние атрибуты соблазнения, заигрывания, флирта, блеска. 
+      - потакают своим телесным желаниям, завораживают, а также склонны к мошенничеству (брачные аферисты)
+    - элитарные
+      - жаждут чувствовать себя привилегированными и свой статус поддерживают ложными достижениями
+      - фальшивый фасад, на который наклеены ярлыки
+      - могут получать воинские звания, научные степени, быть академиками трех академий, на самом деле ничего не представляя собой
+    - компенсаторные
+      - которые чувствуют свою неполноценность
+      - низкая самооценка, и, стремясь ее повысить, они выстраивают свое поведение так, чтобы оказываться в центре внимания и быть предметом восхищения
+  - not capable of a reciprocal attachment or relationship
+    - will function either through putting others down in a negative way or in raising themselves up at the expense of those around them
 
 
 ## addictions
@@ -170,7 +218,12 @@
 
 - healthy narcissism and healthy codependency
   - expressed when two conversing people move fluidly and interchangeably between speaking and listening
-
+  - is a positive sense of self that is in alignment with the greater good
+  - continuum
+    - deficient: results in a loss of confidence, low self-esteem, hopelessness, and depression
+    - healthy
+    - pathological: pits the individual against all others, destructive
+  
 
 ## pharmaceutics
 
@@ -192,11 +245,12 @@
 
 - mdma therapy [6]
   - there are studies in which ppl get good results for treating trauma
-  - huberman informally reported 2 cases of worsening symptoms after therapy for addicts
+  - huberman informally spoke about 2 cases of worsening symptoms after therapy for addicts
 
 
 ## references
 
+[1]: https://www.psychologytoday.com/us/blog/understanding-addiction/202109/why-trauma-can-lead-to-addiction
 [3]: https://en.wikipedia.org/wiki/Bipolar_disorder
 [4]: https://youtu.be/FFxFjSCoD1Y
 [5]: https://youtu.be/-Nd40Uy6tbQ?t=5578

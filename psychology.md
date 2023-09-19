@@ -103,6 +103,15 @@
   - romanticizing is conceptual, fantasizing
   - both can feel very similar in a body
 
+- limerence
+  - is a mixture of the highs of being in love and the lows of depression
+  - often associated with shallow relationship style
+  - many people may even laugh at someone going through limerence because it sounds a lot like a "crush"
+  - the main difference between a crush and limerence is that a crush ends, while limerence seems never-ending
+
+- coregulation: managing our emotional or physiological state through connection with another person
+- self-regulation: managing our emotional or physiological state without input from another person
+
 
 ## grief [17]
 
@@ -197,13 +206,26 @@
 
 - applying simplistic emotional shortcuts to complex situations can leave people locked in pain and ignorance
 
+- empowerment dynamic approach
+  
+  - drama triangle roles: victim, persecutor, hero
+  - alternative roles: creator, challenger, coach
+
+  - rewrite how you take part in your relationships
+    - examine how you may adopt any of these roles
+
+  - set boundaries
+    - in conflict, we naturally tend to act on the first thought that crosses our minds
+    - choose an idea that considers the best long-term outcome
+      - it is more beneficial than one that satisfies the short-term and can produce a negative result
+
 
 ## psychophysiology
 
 - fechner scale
   - intensity of our sensation increases as the logarithm of an increase in energy
 
-- just-noticeable difference (JND) 
+- just-noticeable difference (jnd)
   - smallest change in stimuli that can be perceived
 
 - ascending method of limits [5]
@@ -226,7 +248,7 @@
   - light up our brain with feeling of contact with an unknown reality
 
 
-## behavior
+## disciplines
 
 - ethology
   - scientific study of animal behaviour
@@ -304,6 +326,19 @@
   - examples
     - inner parent vs inner child (see heidi preiebe videos)
 
+- neuro-linguistic programming (nlp)
+  - pseudoscientific set of techniques 
+    - which may work on some people
+    - or help to identify/tag a manipulative person
+  - supposed to allow establishing rapport between the practitioner and the client 
+    - which is achieved through pacing and leading the verbal and non-verbal behavior of the client
+  - techniques and interventions
+    - sensory predicates and keywords
+      - examples
+        - saying 'while i have you' with emphasis in the context of a phone call
+    - matching and mirroring non-verbal behavior
+    - responding to eye movements
+
 
 ## rumination [14]
 
@@ -369,6 +404,45 @@
 - letting go of fantasies (forms of denial) that
   - some things can be fixed
   - there is always hope for change
+
+
+## self-sabotage
+
+- abandonment of piece of ourselves that knows it is important for a vitality
+
+- examples of abandonment
+  - need for comfort
+  - need for authenticity
+  - survival needs to be met
+
+- signs
+  - resisting tension in our bodies
+  - distracting ourselves by venting, alcohol, eating unhealthily
+
+
+## relationships [19]
+
+- 3 levels of interaction
+  - informational
+  - personal
+  - relational: true intimacy
+
+- avoidant personality
+  - regular avoidance
+    - situationally appropriate
+    - avoiding people you don't like
+    - avoiding people you don't want relationships with
+    - avoiding because you going through difficult times
+  - attachment avoidance
+    - because you fell in love with them
+    - you see a future with them
+    - but you don't want to commit to them forever
+    - so its intimacy triggering your alarm bells
+
+- boundaries
+  - in order to enforce a boundary it has to be in your control
+  - is a decision about your own behavior
+  - in contrast with expectations, when its about their behavior
 
 
 ## iq
@@ -456,3 +530,4 @@
 [16]: https://www.britannica.com/science/repression-psychology
 [17]: https://www.youtube.com/watch?v=rD0JM8JPC6Y
 [18]: https://en.wikipedia.org/wiki/Attenuation_theory
+[19]: https://www.youtube.com/@heidipriebe1
