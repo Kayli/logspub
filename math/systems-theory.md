@@ -5,7 +5,6 @@
 - systems theory
   - interdisciplinary study of systems
 
-
 - system
   - cohesive group of interrelated, interdependent components that 
   - a group of interacting, interdependent parts that form a complex whole
