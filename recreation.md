@@ -23,7 +23,15 @@
     - boots
     - waterproof socks
 
+- spots and trails
+  - grouse mountain
+    - grouse grind
+    - bcmc
+  - deep cove
+    - quarry rock
+
 
 ## biking
 
 - nice site with bike trails and related videos https://www.trailforks.com/trails/bobsled/
+

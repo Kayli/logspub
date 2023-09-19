@@ -2,9 +2,9 @@
 
 ## basics
 
-- dependency
-  - focuses on the scenario in which the nodes in one network require support from nodes in another network
-  - allows to identify/avoid cascading failures
+- systems theory
+  - interdisciplinary study of systems
+
 
 - system
   - cohesive group of interrelated, interdependent components that 
@@ -14,8 +14,9 @@
   - can exhibit properties that produce behaviors which are distinct from the properties and behaviors of its parts
   - parts of the system can be natural or human-made
 
-- systems theory
-  - interdisciplinary study of systems
+- dependency
+  - scenario in which the nodes in one network require support from nodes in another network
+  - allows to identify/avoid cascading failures
 
 
 ## networks
@@ -33,10 +34,10 @@
   - focused on patterns and deterministic laws of dynamical systems that are highly sensitive to initial conditions
 
 - simplest chaotic systems
-  - logistic map 
+  - logistic map
     - is a polynomial mapping (quadratic)
     - is a recurrence relation
     - chaotic at r ≈ 3.56995
 
   - double-rod pendulum (double pendulum, chaos pendulum)
-    - mechanical
+    - illustrates a simple mechanical system with short prediction horizon
