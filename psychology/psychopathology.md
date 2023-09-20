@@ -92,13 +92,14 @@
         - world news
 
 - substance abuse/addiction
-  - research indicates that more than half of the people with mental health concerns also misuse drugs or alcohol
+
 
 - childhood trauma [1]
   - root causes: repeated emotional abuse
   - chronic stress can exacerbate the dysregulation of this stress system. 
     - the HPA axis becomes chronically activated, leading to elevated stress hormones and accompanying hyperarousal (Nakazawa, 2015)
     - children who endure prolonged trauma may experience continuous arousal, anxiety, hypervigilance, and alertness (De Bellis & Zisk, 2014)
+  - unresolved trauma can be viewed as an incomplete learning
 
 
 ## disorders / diagnoses
@@ -183,6 +184,11 @@
 
 
 ## addictions
+
+- to drugs or alcohol
+  - more than half of the people with mental health concerns also misuse drugs or alcohol
+  - support organizations
+    - adult children of alcoholics & dysfunctional families https://adultchildren.org/
 
 - to therapy
   - happens when it serves only for offloading emotions without doing a deeper work

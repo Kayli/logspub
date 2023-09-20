@@ -15,20 +15,8 @@
   - informal logic
     - examines arguments expressed in natural language
     - associated with informal fallacies, critical thinking, and argumentation theory
-    - wikipedia says that bayesian logic is informal (but why???) 
-    - approaches
-      - pragmatic or dialogical approach
-        - composed of arguments as speech acts occuring in a context which affects the standards of right and wrong arguments
-        - dialogues are games of persuasion
-          - each player has the goal of convincing the opponent of their own conclusion
-          - arguments are the moves of the game
-          - winning move 
-            - is a successful argument 
-              - that takes the opponent's commitments as premises
-              - and shows how one's own conclusion follows from them
-          - fallacy
-            - is a violation of the standards of proper argumentative rules
-
+    - see psychology/logic-informal.md for more details
+    
 
 ## propositional logic, boolean algebra
 
@@ -115,6 +103,12 @@
 ## truth
 
 - see 'theories of truth' in philosophy.md
+
+- semantic (tarski) theory of truth
+  - idea has to conform to a statement (sentense) expressed in some fixed language
+  - axioms define initial truth statements 
+  - theorems define truth statements derived from axioms and other proven theorems (recursive definition)
+  - most relevant in formal sciences
 
 
 ## references

@@ -10,7 +10,7 @@
   - a class of functional mental disorders involving chronic distress, 
     but neither delusions nor hallucinations
 
-- healthy narcissism 
+- healthy narcissism
   - is an essential component of mature self-esteem and basic self-worth
   - narcissistic behaviors are a system of intrapersonal and interpersonal strategies devoted to protecting one's self-esteem
 
@@ -19,6 +19,11 @@
 - repression
   - exclusion of distressing memories, thoughts, or feelings from the conscious mind
   - gives rise to anxiety and to neurotic symptoms, which begin when a forbidden drive or impulse threatens to enter the conscious mind [16]
+
+- trauma [20]
+  - physiologically overwhelming event 
+    - that wasn't properly contextualized or integrated into rest of our understanding
+  - can be framed as an incomplete learning
 
 
 ## stress
@@ -75,6 +80,11 @@
     - aggressive defences that block positive resolutions
   - genetically defined instincts based on what appears socially acceptable, not on what is right or true
     - fear of disapproval
+  - healthy shame
+    - appears when we're acting out of integrity with ourselves
+    - when violating our own or someone else's boundaries
+  - toxic shame
+    - belief that something about us is corrupt, rotten, broken, dirty, wrong at our core
 
 - cognitive bypassing
   - survival strategy that people learn to avoid their feelings
@@ -451,9 +461,24 @@
 
 - stages of attachment healing
   - unconscious incompetence (ignorance)
-    - unclear about problems that we have
-    - unclear about results that we want
-  - 
+    - symptoms
+      - unclear about problems that we have
+      - unclear about results that we want
+    - possible solutions
+      - developing your own emotional awareness
+      - taking your own and other people emotions seriously
+      - learning self-regulation skills
+        - as we have a problem that is not going to be solved by someone else changing
+  - conscious incompetence (awareness)
+    - observe yourself
+      - learn where you need to do healing work
+      - notice when are we getting triggered or disregulated
+        - bad behavior, disproportionate reactions
+      - learn when you need to treat people compassionate and rational
+  - conscious competence (learning)
+    - once triggered, learning to implement a different response
+  - unconscious competence (mastery)
+    - healthy responses become automatic, the one you employ by default
 
 
 ## iq
@@ -542,3 +567,4 @@
 [17]: https://www.youtube.com/watch?v=rD0JM8JPC6Y
 [18]: https://en.wikipedia.org/wiki/Attenuation_theory
 [19]: https://www.youtube.com/@heidipriebe1
+[20]: https://www.youtube.com/watch?v=lzuG82n5ICQ

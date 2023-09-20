@@ -117,7 +117,9 @@
 
 - 2018
   - java 10: var keyword
-  - java 11 (lts): flight recorder: low-overhead data collection framework (low-level, for debugging?)
+  - java 11 (lts)
+    - launch single-file source code programs (jep-330)
+    - flight recorder: low-overhead data collection framework (low-level, for debugging?)
 
 - 2019
   - java 12: switch expressions

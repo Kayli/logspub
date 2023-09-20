@@ -2,7 +2,6 @@
 
 ## basics [3]
 
-
 - study of the mind as an empirical epistemology
   - helps to understand the origins and limitations of human knowledge
 
@@ -55,6 +54,8 @@
     - enables us to discover interspecies homologies
 
 - new neurons in the adult brain are created in hippocampus [6]
+
+- single neuron can form up to 20k connections
 
 
 ## brain anatomy [2]
