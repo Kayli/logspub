@@ -25,8 +25,8 @@
   - level 3 or higher: carnivores
   - level 4 or 5: apex predators
 
-- 5.95 * 10^39 bacteria that ever lived [^4]
-- for comparison: 1.33 * 10^50 number of atoms comprising all of planet earth [^4]
+- 5.95 * 10^39 bacteria that ever lived [4]
+- for comparison: 1.33 * 10^50 number of atoms comprising all of planet earth [4]
 
 - endosymbiosis
   - any organism that lives within the body or cells of another organism
@@ -34,7 +34,7 @@
   - example: mitochondria is a result of a cell aquiring bacterial endosymbiont
 
 
-## cells  [^2]
+## cells  [2]
 
 - cell: basic structural and functional unit of life form
 - mostly composed of proteins
@@ -172,7 +172,7 @@
     - this brings into focus the question of the possible survival value of consciousness
 
 
-## domestication syndrome [^3]
+## domestication syndrome [3]
 
 - associated with a list of typical traits which are characteristical of domesticated species
 - mammalian domestication syndrome
@@ -195,7 +195,7 @@
 
 ## references 
 
-[^1]: https://en.wikipedia.org/wiki/Symbiosis
-[^2]: https://www.youtube.com/playlist?list=PLZVQqcKxEn_4vjM5OgDpRSLlsoIVu7s6n
-[^3]: https://academic.oup.com/genetics/article/197/3/795/5935921
-[^4]: https://biology.stackexchange.com/questions/6937/how-many-organisms-have-ever-lived-on-earth
+[1]: https://en.wikipedia.org/wiki/Symbiosis
+[2]: https://www.youtube.com/playlist?list=PLZVQqcKxEn_4vjM5OgDpRSLlsoIVu7s6n
+[3]: https://academic.oup.com/genetics/article/197/3/795/5935921
+[4]: https://biology.stackexchange.com/questions/6937/how-many-organisms-have-ever-lived-on-earth

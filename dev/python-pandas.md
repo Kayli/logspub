@@ -11,13 +11,13 @@
 
 ## useful objects
 
-- dataframe object [^1]
+- dataframe object [1]
   - is similar to dictionary of columns (arrays)
   - dictionary records are named columns of the loaded data
   - dictionary record values are like arrays of typed data
   - columns data modelled as Series object, which is 1d array
 
-- dataframe index [^3]
+- dataframe index [3]
   - there are two kinds of indexes
     - integer index
       - provides a numeric index to retrieve specific rows and columns
@@ -41,14 +41,14 @@
       - it’s possible to use multiple columns as an index
 
 
-## common operations [^2]
+## common operations [2]
 
 - brief information about dataset
   - df.shape, df.info(), df.head()
 
 - show averages: df.mean()
 - show standard deviation: df.std(ddof=0)
-  - ddof parameter is to turn off bessel's correction [^4]
+  - ddof parameter is to turn off bessel's correction [4]
 
 - select column by name: df.loc[:, 'mycolname']
 - select row by label: df.loc['rowlabel', :]
@@ -66,7 +66,7 @@
 
 ## references
 
-[^1]: pandas tutorial https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
-[^2]: https://e2eml.school/dataframe_indexing.html
-[^3]: https://www.sharpsightlabs.com/blog/pandas-index/
-[^4]: https://en.wikipedia.org/wiki/Bessel%27s_correction
+[1]: pandas tutorial https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+[2]: https://e2eml.school/dataframe_indexing.html
+[3]: https://www.sharpsightlabs.com/blog/pandas-index/
+[4]: https://en.wikipedia.org/wiki/Bessel%27s_correction

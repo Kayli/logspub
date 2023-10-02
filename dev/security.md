@@ -41,17 +41,17 @@
 - soft tokens: pieces of software, used also grant access to digital assets
 
 
-## penetration testing [^2]
+## penetration testing [2]
 
 - basics
   - legal side of things is important, so learn more about that 
-    - rules of engagement (RoE) document defines what is allowed during testing [^1]
+    - rules of engagement (RoE) document defines what is allowed during testing [1]
 
   - typical stages
     - planning, discovery, attack, reporting
     - incident response: containment, eradication & recovery
 
-- attack methods [^3]
+- attack methods [3]
   - ransomware: victim’s system is held hostage until they agree to pay a ransom to the attacker
   - web attacks
     - dos and ddos
@@ -95,6 +95,6 @@
 
 ## references
 
-[^1]: https://hub.packtpub.com/penetration-testing-rules-of-engagement/
-[^2]: https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics
-[^3]: https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
+[1]: https://hub.packtpub.com/penetration-testing-rules-of-engagement/
+[2]: https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics
+[3]: https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks

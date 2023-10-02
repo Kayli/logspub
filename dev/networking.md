@@ -114,5 +114,5 @@
 
 ## references
 
-[^1]: https://avinetworks.com/glossary/l4-l7-network-services/
-[^2]: https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/
+[1]: https://avinetworks.com/glossary/l4-l7-network-services/
+[2]: https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/

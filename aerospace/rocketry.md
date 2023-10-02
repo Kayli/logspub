@@ -18,9 +18,9 @@
       - lowest cost fuel
 
 - heatshields
-  - help with decelleration while entering the atmosphere [^1]
+  - help with decelleration while entering the atmosphere [1]
 
-- retrorocket [^2]
+- retrorocket [2]
   - is a rocket engine providing thrust opposing the motion of a vehicle, thereby causing it to decelerate
   - short for retrograde rocket
 
@@ -48,13 +48,13 @@
 
 - delivery costs to
   - orbit or space: $2,720 per kilogram (since falcon 9 rocket)
-    - iss: $80,000 per kilogram (dragon capsule) [^5]
+    - iss: $80,000 per kilogram (dragon capsule) [5]
   - moon:
     - orbit $300,000/kg
     - lunar surface $1,200,000/kg
-    - deploying a rover $2,000,000/kg [^6] (2018) 
-    - $80,000 per kilogram [^4]
-  - mars: about 1 billion dollars per ton, $1m per kg [^3]
+    - deploying a rover $2,000,000/kg [6] (2018) 
+    - $80,000 per kilogram [4]
+  - mars: about 1 billion dollars per ton, $1m per kg [3]
 
 As of 2018, payload delivery to lunar orbit is 
 
@@ -103,9 +103,9 @@ As of 2018, payload delivery to lunar orbit is
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=aM0_S7rfKa8
-[^2]: https://en.wikipedia.org/wiki/Retrorocket "wikipedia"
-[^3]: https://youtu.be/DxREm3s1scA?t=2035
-[^4]: https://www.reddit.com/r/spaceflight/comments/6gkxas/cost_to_bring_one_1k_to_the_moon_timeframe/
-[^5]: https://space.stackexchange.com/questions/2494/price-per-kg-of-cargo-delivery-to-iss
-[^6]: https://en.wikipedia.org/wiki/Astrobotic_Technology#cite_note-Peregrine_Payload_User_Guide_2018-28
+[1]: https://www.youtube.com/watch?v=aM0_S7rfKa8
+[2]: https://en.wikipedia.org/wiki/Retrorocket "wikipedia"
+[3]: https://youtu.be/DxREm3s1scA?t=2035
+[4]: https://www.reddit.com/r/spaceflight/comments/6gkxas/cost_to_bring_one_1k_to_the_moon_timeframe/
+[5]: https://space.stackexchange.com/questions/2494/price-per-kg-of-cargo-delivery-to-iss
+[6]: https://en.wikipedia.org/wiki/Astrobotic_Technology#cite_note-Peregrine_Payload_User_Guide_2018-28

@@ -38,7 +38,7 @@
       - support social orders and hierarchies, which are inevitable, natural, normal, or desirable
       - defend this position on the basis of natural law, economics, or tradition
 
-- rejection of some evolutionary principles [^7]
+- rejection of some evolutionary principles [7]
   - the world that built us is the one we reject in some sense when we construct human societies
   - all man created equal principle
 
@@ -62,9 +62,9 @@
 
 ## political language
 
-- is a language of non-accountability [^6]
+- is a language of non-accountability [6]
 
-- problems [^1]
+- problems [1]
   - circus of unnecessarily complex words 
     - which are completely devoid of imagery 
     - in an attempt to fane sophistication
@@ -79,7 +79,7 @@
 
 ## manipulative strategies
 
-- abusing emotional, cultural, tribal cues [^2]
+- abusing emotional, cultural, tribal cues [2]
   - opposed to making rational, competence-based appeal
 
 - create illusion of fairness (veneer democracy) and control
@@ -87,10 +87,10 @@
   - in order to divert it from problems that average joe cares about
 
 - divide and conquer
-  - prevent people from trusting each other [^3]
+  - prevent people from trusting each other [3]
 
 
-## propaganda [^5]
+## propaganda [5]
 
 - может содержать ложь, но
   - может содержать только истинные факты, но они будут подобраны и поданы таким образом, чтобы
@@ -165,7 +165,7 @@
   - in many political structures, power within the ruling class accumulates with age, making the oldest 
     the holders of the most power
 
-- weed pm justin trudeau [^4]
+- weed pm justin trudeau [4]
   - considered one by some, as he won election because of mj legalization program support
 
 - ernest becker, the birth and death of meaning
@@ -193,10 +193,10 @@
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=whPnobbck9s
-[^2]: https://youtu.be/jvFgOdEVf98?t=2291
-[^3]: https://youtu.be/lGGBEG35b_M?t=1846
-[^4]: https://youtu.be/yZKDBRtpxOE?t=1664
-[^5]: https://youtu.be/X3dLkGclWbg?t=138
-[^6]: https://youtu.be/FL1reDn9pJU?t=2580
-[^7]: lex fridman podcast #325 39:50
+[1]: https://www.youtube.com/watch?v=whPnobbck9s
+[2]: https://youtu.be/jvFgOdEVf98?t=2291
+[3]: https://youtu.be/lGGBEG35b_M?t=1846
+[4]: https://youtu.be/yZKDBRtpxOE?t=1664
+[5]: https://youtu.be/X3dLkGclWbg?t=138
+[6]: https://youtu.be/FL1reDn9pJU?t=2580
+[7]: lex fridman podcast #325 39:50

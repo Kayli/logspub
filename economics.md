@@ -66,7 +66,7 @@
     - small number of firms control a significant share of the market for a particular product or service
     - unlike a monopoly, there are multiple firms in an oligopoly, but the market is still dominated by a few large players
 
-  - quasi monopoly [^1]
+  - quasi monopoly [1]
     - there are competitors but one supplier holds the majority of the marketplace
     - example: google in search engines space in america
 
@@ -102,7 +102,7 @@
 
 ## global
 
-- wallerstein's world system theory model countries classification [^4]
+- wallerstein's world system theory model countries classification [4]
   - core: high profit consumption goods
   - semi-periphery
   - periphery: cheap labor and raw materials (ресурсное государство)
@@ -110,7 +110,7 @@
 
 ## prices
 
-- the price of oil influences about 65% of food prices [^2]
+- the price of oil influences about 65% of food prices [2]
 
 
 ## capitalism
@@ -143,6 +143,6 @@
 
 ## references
 
-[^1] https://www.quora.com/What-is-the-difference-between-a-monopoly-and-a-quasi-monopoly
-[^4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
-[^2]: https://www.visualcapitalist.com/inflation-rising-food-energy-prices-impact-economy/
+[1] https://www.quora.com/What-is-the-difference-between-a-monopoly-and-a-quasi-monopoly
+[4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
+[2]: https://www.visualcapitalist.com/inflation-rising-food-energy-prices-impact-economy/

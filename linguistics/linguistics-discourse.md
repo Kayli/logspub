@@ -1,16 +1,16 @@
 # notes about topics related to discourse analyis
 
-## definition [^2]
+## definition [2]
 
 - discourse analysis (DA)
   - sometimes called discourse studies
   - is an approach to the analysis of written, vocal, or sign language use, or any significant semiotic event
 
 
-## теория речевых актов [^3]
+## теория речевых актов [3]
 
 - originated by john austin
-  - we use language to do things as well as to assert things [^4]
+  - we use language to do things as well as to assert things [4]
 
   - defines 3 key modalities
     - locution 
@@ -40,7 +40,7 @@
     - and has also been called "grooming talking"
 
 
-## hate speech [^1]
+## hate speech [1]
 
 - типичный фрейминг явления
   - садизм, психопатия, конфликтный тип
@@ -80,7 +80,7 @@
 
 ## doublespeak
 
-- doublespeak [^8]
+- doublespeak [8]
   - way of speaking used to deceive to mislead
   - language of non-responsibility, carefully constructed to appear to communicate when it fact it doesn't
   - can be abused and become a pollutant of our semantic environment 
@@ -109,7 +109,7 @@
     - gives air of importance to people, situations, or things that would not normally be considered important
 
   - doublespeak of government and politics
-    - doublespeak of war [^5]
+    - doublespeak of war [5]
       - euphemisms
       - question begging
       - cloudy vagueness
@@ -125,7 +125,7 @@
       - a phrase, saying or sentence that can be interpreted in two different ways, one of which is usually dirty
     - double listening
       - when you listen to a person, or group, and hear a double meaning in their speech, yet it seems to defy clear definition
-    - triplespeak [^4]
+    - triplespeak [4]
       - if the person speaking knows they are causing double listening appearance of double meaning, they are triple speaking
     - show speak
       - when those who speak don't realize they are revealing something about themselves
@@ -154,7 +154,7 @@
 
 ## other interesting stuff
 
-- политото [^6]
+- политото [6]
   - силовой язык: смесь канцелярита и уголовного арго
   - бюрократический язык 
 	- наматывание бессмысленных конструкций
@@ -177,15 +177,15 @@
       - to produce/communicate hard to fake fitness signal (works of art?)
 
 - in dante's hell, the worst sinners are the fradulent, those who misuse language to mislead and decieve, and 
-  those who use language not to render a concrete and useful reality but to frustrate the virtuous use of intellect [^5]
+  those who use language not to render a concrete and useful reality but to frustrate the virtuous use of intellect [5]
 
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=gYrXYCIjS90
-[^2]: https://en.wikipedia.org/wiki/Discourse_analysis 
-[^3]: https://en.wikipedia.org/wiki/Speech_act
-[^4]: https://en.wikipedia.org/wiki/J._L._Austin
-[^5]: https://www.amazon.ca/Doublespeak-William-Lutz/dp/1632460173
-[^6]: interviews with katya shulman
-[^8]: https://www.urbandictionary.com/define.php
+[1]: https://www.youtube.com/watch?v=gYrXYCIjS90
+[2]: https://en.wikipedia.org/wiki/Discourse_analysis 
+[3]: https://en.wikipedia.org/wiki/Speech_act
+[4]: https://en.wikipedia.org/wiki/J._L._Austin
+[5]: https://www.amazon.ca/Doublespeak-William-Lutz/dp/1632460173
+[6]: interviews with katya shulman
+[8]: https://www.urbandictionary.com/define.php

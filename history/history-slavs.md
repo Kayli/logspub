@@ -1,4 +1,4 @@
-# history of slavs [^1]
+# history of slavs [1]
 
 ## basics
 
@@ -99,7 +99,7 @@
 
 - киев
   - название города происходит 
-    - киев "koenugarðr" "женщина сад" в переводе со скандинавских (icelandic) [^2]
+    - киев "koenugarðr" "женщина сад" в переводе со скандинавских (icelandic) [2]
     - либо от имени Кия — самого старшего из трёх братьев-основателей города
       - имя Кий («палка, дубина») с суффиксом -ев в значении «Киев город»
     - либо от топографического термина, как в украинском языке: куява — «крутой холм», куеви — «вершина горы»
@@ -172,5 +172,5 @@
 
 ## references
 
-[^1]: https://www.youtube.com/playlist?list=PLk7JM19SQtzDBkM_hGPzNGT_5cCrK7F6O
-[^2]: https://uk.wikipedia.org/wiki/Київ#Етимологія
+[1]: https://www.youtube.com/playlist?list=PLk7JM19SQtzDBkM_hGPzNGT_5cCrK7F6O
+[2]: https://uk.wikipedia.org/wiki/Київ#Етимологія

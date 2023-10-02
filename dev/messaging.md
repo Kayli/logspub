@@ -1,4 +1,4 @@
-# notes about messaging in distributed systems and related information [^1]
+# notes about messaging in distributed systems and related information [1]
 
 ## basics
 
@@ -98,7 +98,7 @@
     - aggregator
     - message filter
     - ordering
-      - message group [^2]
+      - message group [2]
         - local message order: order is preserved within a group of messages
         - global message order: order is preserved for all messages in a channel
       - resequencer: sorts out of order messages 
@@ -160,7 +160,7 @@
   - in newer versions zookeeper will be swapped by quorum controller
     - this allows cluster to be composed only of kafka nodes
 
-- exactly once delivery semantics [^3] [^4]
+- exactly once delivery semantics [3] [4]
   - the producer send operation is now idempotent (set “enable.idempotence=true”)
   - atomic writes across multiple partitions through the new transactions api
     - this helps when publishing a message into multiple topic which are hosted on different cluster nodes
@@ -182,7 +182,7 @@
 
 ## references
 
-[^1]: https://www.enterpriseintegrationpatterns.com
-[^2]: https://youtu.be/QhfuzEkN3Ck?t=1806
-[^3]: https://kafka.apache.org/documentation/#semantics
-[^4]: https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/
+[1]: https://www.enterpriseintegrationpatterns.com
+[2]: https://youtu.be/QhfuzEkN3Ck?t=1806
+[3]: https://kafka.apache.org/documentation/#semantics
+[4]: https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/

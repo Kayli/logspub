@@ -37,7 +37,7 @@
 
 - for a set of values defines how far values diverge from their mean
 
-- mean absolute deviation (MAD), mean absolute error (MAE) [^4]
+- mean absolute deviation (MAD), mean absolute error (MAE) [4]
   - it corresponds to "real life" much better than sd
   - is more accurate in sample measurements
   - less volatile than STD since it is a natural weight whereas standard deviation uses the observation itself as its own weight, imparting large weights to large observations, thus overweighing tail events
@@ -50,7 +50,7 @@
 - variance
   - alternative names: sigma^2, дисперсия
   - variance = 1/N * sum((x - mean)^2)
-  - has the additive property when dealing with random variables [^6]
+  - has the additive property when dealing with random variables [6]
   
 
 ## interpretations
@@ -75,4 +75,4 @@
 - https://en.wikipedia.org/wiki/Probability_interpretations
 - https://www.coursera.org/learn/probability-theory-statistics
 - https://en.wikipedia.org/wiki/Sunrise_problem
-[^4]: https://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia?rq=1
+[4]: https://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia?rq=1

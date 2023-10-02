@@ -289,5 +289,5 @@
 
 ## references 
 
-[^1]: https://www.interviewkickstart.com/learn
-[^2]: https://www.happycoders.eu/algorithms
+[1]: https://www.interviewkickstart.com/learn
+[2]: https://www.happycoders.eu/algorithms

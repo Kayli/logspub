@@ -19,7 +19,7 @@
 
 - spa for managing azure cloud resources
 
-- user interface elements [^3]
+- user interface elements [3]
 
   - page header: top line of controls
     - portal menu: where all services are listed
@@ -35,7 +35,7 @@
     - command bar. These controls are contextual to your current focus.
 
   - all resources pane (sometimes shown on the left side)
-    - is undocumented, see [^3]
+    - is undocumented, see [3]
     - shows up when you select 'all resources' azure services on home screen
 
 
@@ -56,7 +56,7 @@
 
 - sql managed instance
 
-- analysis services [^2]
+- analysis services [2]
   - tabular data model: in-memory table, highly compressed
 
 - synapse
@@ -133,8 +133,8 @@
   - or you can use kafka instance locally
     - but make sure your code is using kafka client apis
 
-- pricing and tiers (basic, standard, premium, dedicated) [^1]
-  - number of namespaces per subscription: 1k for all plans [^2]
+- pricing and tiers (basic, standard, premium, dedicated) [1]
+  - number of namespaces per subscription: 1k for all plans [2]
   - partitions per event hub: 32, 32, 100, 1024
   - event hubs per namespace:	10, 10, 100, 1k
   - throughput per unit: 1 MB/s or 1000 events per second
@@ -175,7 +175,7 @@
   - https://learn.microsoft.com/en-us/azure/azure-functions/event-driven-scaling
 
 
-## gateways / load balancers [^4]
+## gateways / load balancers [4]
 
 - app gateway
   - distributes traffic within a single region across multiple availability zones (datacenters)
@@ -238,7 +238,7 @@
   - you will be charged arm and leg even on your dev environments for provisioning additional resources generating minimal amounts of traffic
   - eventhub namespaces charged hourly based on throuput units specified at the namespace level
     - so if you created an eventhub namespace and it just sits there without getting any traffic - you're still paying for it
-  - app gateway v2 standard: 180 usd/month for provisioning  [^5]
+  - app gateway v2 standard: 180 usd/month for provisioning  [5]
   
 - not all resources are made equal
   - event hub instances are not displayed in the list of resources when queried via 'az resource list' command
@@ -251,9 +251,9 @@
 
 ## references
 
-[^1]: https://learn.microsoft.com/en-us/azure/event-hubs/compare-tiers
-[^2]: https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas
-[^3]: https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
-[^4]: https://www.youtube.com/watch?v=B3O6bXu-NbM
-[^5]: https://azure.microsoft.com/en-ca/pricing/details/application-gateway/
-[^6]: https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq
+[1]: https://learn.microsoft.com/en-us/azure/event-hubs/compare-tiers
+[2]: https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas
+[3]: https://learn.microsoft.com/en-us/azure/azure-portal/azure-portal-overview
+[4]: https://www.youtube.com/watch?v=B3O6bXu-NbM
+[5]: https://azure.microsoft.com/en-ca/pricing/details/application-gateway/
+[6]: https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq

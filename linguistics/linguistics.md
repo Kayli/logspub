@@ -100,7 +100,7 @@
     - examples: because, since, as, although, though, while, and whereas
 
 
-## proto-languages  [^1] 
+## proto-languages  [1] 
 
 - proto-language
   - uses tree-structure model to represent evolution of languages
@@ -272,7 +272,7 @@
   - from proto-indo-european *swé (“self”)
 
 - нет независимой реальности языка 
-  - а есть социальные отношения которые кристаллизовались в языковых формах [^2]
+  - а есть социальные отношения которые кристаллизовались в языковых формах [2]
 
 
 ## phonetic similarities
@@ -286,5 +286,5 @@
 
 ## references
 
-[^1]: https://www.thegreatcourses.com/courses/myths-lies-and-half-truths-of-language-usage
-[^2]: https://www.youtube.com/watch?v=IDB5_afOpCE
+[1]: https://www.thegreatcourses.com/courses/myths-lies-and-half-truths-of-language-usage
+[2]: https://www.youtube.com/watch?v=IDB5_afOpCE

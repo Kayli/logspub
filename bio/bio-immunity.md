@@ -168,7 +168,7 @@
         - from the CARES Act (Coronavirus Aid, Relief, and Economic Security) 
         - passed by the United States Congress on March 27, 2020
 
-- rna vaccines [^7]
+- rna vaccines [7]
   - vaccine transfects molecules of synthetic RNA into immunity cells, where the vaccine functions as mRNA
   - causing the cells to build foreign protein 
     - that would normally be produced by a pathogen (such as a virus) or by a cancer cell
@@ -186,7 +186,7 @@
   - four protein subunit vaccines (Abdala, EpiVacCorona, MVC-COV1901, Soberana 02, and ZF2001)
   - use pseudouridine instead of uridine (nucloside containing urocil attached to a ribose ring)
 
-- risks [^8]
+- risks [8]
   - 1 in 10k to 1 in 100k will cause negative health effects
   - stats established based on correlation, causation hasn't been proved 
 
@@ -214,5 +214,5 @@ https://en.wikipedia.org/wiki/Nervous_system
 https://en.wikipedia.org/wiki/Neurotransmitter
 https://en.wikipedia.org/wiki/Immune_system
 https://en.wikipedia.org/wiki/Endocrine_system
-[^7]: https://en.wikipedia.org/wiki/RNA_vaccine
-[^8]: https://www.thegreatcourses.com/player/Video/1924
+[7]: https://en.wikipedia.org/wiki/RNA_vaccine
+[8]: https://www.thegreatcourses.com/player/Video/1924

@@ -154,7 +154,7 @@
     - variance = 1/N * sum((x - mean)^2)
   - variance 
     - alternative names: sigma^2, дисперсия
-    - has the additive property when dealing with random variables [^6]
+    - has the additive property when dealing with random variables [6]
         
 - bell shaped distribution
   - empirical rules
@@ -233,14 +233,14 @@
   - spectral and harmonic analysis
   
 
-## causality analysis [^8]
+## causality analysis [8]
 
 - most lectures focus on
   - applications to healthcare and related studies
   - exposure to a treatment is a common main scenario considered
   - predicting contrafactual (potential) outcomes, considering alternative exposures
 
-- meta-learning [^7]
+- meta-learning [7]
   - learn the learning (or inference/estimation) procedure itself, directly from data
 - causal bayesian network
 - structural equation modelling
@@ -257,6 +257,6 @@
 - https://linkedin.github.io/greykite/
 - https://facebook.github.io/prophet/
 - https://stackabuse.com/getting-started-with-pythons-wikipedia-api/
-[^6]: https://mathoverflow.net/questions/1048
-[^7]: https://arxiv.org/abs/1901.08162
-[^8]: https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f
+[6]: https://mathoverflow.net/questions/1048
+[7]: https://arxiv.org/abs/1901.08162
+[8]: https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f

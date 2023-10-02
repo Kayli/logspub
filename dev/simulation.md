@@ -6,7 +6,7 @@
   - creates still or animated visual content with computer software
 
 - voxel
-  - represents a value on a regular grid in three-dimensional space [^1]
+  - represents a value on a regular grid in three-dimensional space [1]
   - typically don't encode their position (i.e. coordinates) explicitly with their values
   - rendering systems infer the position of a voxel based upon its position relative to other voxels
 
@@ -32,7 +32,7 @@
 - simulating ant colony using compute shaders https://www.youtube.com/watch?v=X-iSQQgOd1A
 
 
-## generic compute [^2]
+## generic compute [2]
 
 - computesharp https://github.com/Sergio0694/ComputeSharp
   - only works on windows 10
@@ -70,5 +70,5 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Voxel
-[^2]: https://news.ycombinator.com/item?id=26237968
+[1]: https://en.wikipedia.org/wiki/Voxel
+[2]: https://news.ycombinator.com/item?id=26237968

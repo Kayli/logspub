@@ -43,7 +43,7 @@
 - states that it is impossible to measure position and momentum simultaneously with infinite precision
   - measure one well and the other will be measured poorly
 
-- it is impossible to determine the position of an object to a precision smaller than the planck length [^1]
+- it is impossible to determine the position of an object to a precision smaller than the planck length [1]
   - shown in 1964 by alden mead, used the uncertainty principle and the gravitational effect of the photon 
 
 - analogous examples in macro-world
@@ -86,4 +86,4 @@
 
 ## references
 
-[^1]: https://www.fnal.gov/pub/today/archive/archive_2013/today13-11-01_NutshellReadMore.html
+[1]: https://www.fnal.gov/pub/today/archive/archive_2013/today13-11-01_NutshellReadMore.html

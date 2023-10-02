@@ -57,15 +57,15 @@
 
 ## interesting devices to consider
 
-- zynthian [^1]
+- zynthian [1]
   - raspberrypi-based opensource synthesizer
-- dart one [^2]
+- dart one [2]
   - arduino-based opensource midi controller
-  - there are nice demos on youtube [^3]
+  - there are nice demos on youtube [3]
 
 
 ## references
 
-[^1]: https://zynthian.org
-[^2]: https://dartmobo.com 
-[^3]: https://www.youtube.com/watch?v=xdUC7AnDaSQ
+[1]: https://zynthian.org
+[2]: https://dartmobo.com 
+[3]: https://www.youtube.com/watch?v=xdUC7AnDaSQ

@@ -26,7 +26,7 @@
     - neutrinos 10%, photons 15%, atoms 12%, dark matter 63%
   - dark energy has been present for at least 9 billion years and during the period preceding cosmic acceleration
   - started accelerated expansion only about 6 bill years ago
-  - 98% of all atoms in the universe are hydrogen and helium [^7]
+  - 98% of all atoms in the universe are hydrogen and helium [7]
 
 - size
   - most likely infinite
@@ -209,7 +209,7 @@
     - meteoroid that hits Earth without burning up in the atmosphere
   
 
-## lagrange points [^4] [^5]
+## lagrange points [4] [5]
 
 - there are 5 points, only 2 of which are stable
 - they are points in a special case solution of a particular 3 body problem
@@ -365,7 +365,7 @@
   - defines how many alien societies exist, and are detectable
   - second? most-famous equation in science
 
-- oxygen can start to accumulate in the atmosphere of a planet by the action of ultraviolet light [^6]
+- oxygen can start to accumulate in the atmosphere of a planet by the action of ultraviolet light [6]
   - uv divides the co2 in the atmosphere into co and o2
   - hydrogen escapes into space, because it is lighter, leaving oxygen behind
   - this means that carbon life is not the only way to produce oxygen
@@ -420,7 +420,7 @@
     - solar system https://www.youtube.com/watch?v=jHgSBeGrQo8
     - mars https://www.youtube.com/watch?v=ax729BABw9w
 - anton petrov youtube channel https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ
-[^4]: https://en.wikipedia.org/wiki/Lagrange_point
-[^5]: https://www.youtube.com/watch?v=bGcYp_npJb8
-[^6]: https://science.sciencemag.org/content/346/6205/61
-[^7]: https://youtu.be/SqX70ypN7bA?t=784
+[4]: https://en.wikipedia.org/wiki/Lagrange_point
+[5]: https://www.youtube.com/watch?v=bGcYp_npJb8
+[6]: https://science.sciencemag.org/content/346/6205/61
+[7]: https://youtu.be/SqX70ypN7bA?t=784

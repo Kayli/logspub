@@ -10,7 +10,7 @@
   - source code availability 
     - open source: linux, freebsd
     - closed source: windows, macos
-  - system resources sharing approach [^1]
+  - system resources sharing approach [1]
     - realtime
       - are usually event-driven
       - switch between tasks based on their priorities
@@ -72,4 +72,4 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Real-time_operating_system
+[1]: https://en.wikipedia.org/wiki/Real-time_operating_system

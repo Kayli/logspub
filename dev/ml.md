@@ -172,11 +172,11 @@
 
 ## fun
 
-- modern ml models as [^1]
+- modern ml models as [1]
   - stochastic parrots/chameleons
   - analogous to biological mimicry
 
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=fhn6ZtD6XeE&t=186s
+[1]: https://www.youtube.com/watch?v=fhn6ZtD6XeE&t=186s

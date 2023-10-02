@@ -42,7 +42,7 @@
 
 ## europe
 
-- nitherlands, holland,  [^2]
+- nitherlands, holland,  [2]
   - capital: amsterdam
   - languages: dutch (нидерла́ндский или голландский язык)
   - country located in Western Europe with overseas territories in the caribbean
@@ -69,7 +69,7 @@
 
 ## asia
 
-- киргизия [^1]
+- киргизия [1]
   - государство в средней азии, расположенное в западной и центральной части горной системы тянь-шань и на памиро-алае
   - на граничит с казахстаном, узбекистаном, таджикистаном, китаем
   - население
@@ -101,5 +101,5 @@
 
 ## references 
 
-[^1]: https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F
-[^2]: https://en.wikipedia.org/wiki/Netherlands
+[1]: https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D1%8F
+[2]: https://en.wikipedia.org/wiki/Netherlands

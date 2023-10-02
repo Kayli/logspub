@@ -19,7 +19,7 @@
 
 - key entities
   - configuration file
-    - used by GitLab Runner to manage your project’s jobs and stored in a YAML format
+    - used by GitLab Runner to manage your projectï¿½s jobs and stored in a YAML format
     - filename: .gitlab-ci.yml
 
   - runner: is an application (build agent) that works with GitLab CI/CD to run jobs in a pipeline
@@ -55,7 +55,7 @@
     - terraform modules registry
     - packages with app binaries (structured zip file)
   - feature flags
-    - integration with unleash [^1]
+    - integration with unleash [1]
   - infrastructure as code with terraform
   - k8 provisioning using terraform
     - supports eks (elastic k8 service) or gke (google k8 engine)
@@ -83,7 +83,7 @@
 - cons
   - plugins are not always up to date or well supported
   - a bit archaic and glitchy interface (as of 2019)
-  - lack of analytics for overall tracking of pipelines [^2]
+  - lack of analytics for overall tracking of pipelines [2]
 
 
 ## azure devops (azdo)
@@ -162,5 +162,5 @@
 
 ## reference
 
-[^1]: https://docs.gitlab.com/ee/operations/feature_flags.html#choose-a-client-library
-[^2]: https://www.lambdatest.com/blog/jenkins-vs-gitlab-ci-battle-of-ci-cd-tools/
+[1]: https://docs.gitlab.com/ee/operations/feature_flags.html#choose-a-client-library
+[2]: https://www.lambdatest.com/blog/jenkins-vs-gitlab-ci-battle-of-ci-cd-tools/

@@ -78,7 +78,7 @@
   - takes care of service discovery, allowing to expose
     - fixed ip
     - dns, in case if addon installed
-      - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should automatically be able to resolve services by their DNS name [^4]
+      - cluster-aware DNS server, such as CoreDNS, watches the Kubernetes API for new Services and creates a set of DNS records for each one. If DNS has been enabled throughout your cluster then all Pods should automatically be able to resolve services by their DNS name [4]
   - pods can have labels and service can load-balance between pods using selector mechanism
   - when a pod is run on a node, the kubelet adds a set of environment variables for each active service
 
@@ -96,7 +96,7 @@
   - defines/configures pods and replica sets via deployment controller
     - replica set defines how many pod instances we need across cluster
   - abstraction on top of pods
-  - may be described as yaml with desired state [^1]
+  - may be described as yaml with desired state [1]
     > kubectl apply -f <myconfig.yaml>
   - or created using direct cli command
     > kubectl create deployment <name> --image=<image-name>
@@ -104,7 +104,7 @@
 - stateful set
   - like a deployment, a statefulset manages pods that are based on an identical container spec
   - make it easier to match existing volumes to the new Pods that replace any that have failed
-  - provide you with [^3]
+  - provide you with [3]
     - a predictable name
       - you want to start your pods telling them where to find each other so they can form a cluster, elect a leader, etc. but you need to know their names in advance to do that. Normal pod names are random so you can't know them in advance
     - stable address/DNS name
@@ -254,7 +254,7 @@
       > kubectl get secret <secret-name> -o jsonpath={.data.token} | base64 -d
     - create kubeconfig file
       > kubectl config view > kubeconfig
-    - add 'token' field for the user with decoded token as a value [^2]
+    - add 'token' field for the user with decoded token as a value [2]
   - etcd https://artifacthub.io/packages/helm/bitnami/etcd
 
 - registry
@@ -360,14 +360,14 @@
 ## gitops or infrastructure as code (iac)
 
 - gitlab via
-  - gitops workflow [^6]
+  - gitops workflow [6]
     - uses gitlab agent installed on k8 cluster, automatic polling approach
-  - ci/cd workflow [^6]
+  - ci/cd workflow [6]
     - uses k8 api to manage cluster, proactive push approach
   - terraform integration
     - so that manifest files can be written as a terraform script and applied automatically
 
-- portainer [^5]
+- portainer [5]
   - allows to monitor changes to manifest files stored in git and automatically apply them
 
 - argo, flux
@@ -386,7 +386,7 @@
 
 ## tools to consider
 
-- k3s [^7]
+- k3s [7]
   - a lightweight k8 orchestrator
   - 40mb ram footprint, can run on raspberry pi
   - simple to setup
@@ -448,10 +448,10 @@
 
 ## references
 
-[^1]: https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
-[^2]: https://stackoverflow.com/questions/70287656/kubernetes-dashboard-internal-error-500-not-enough-data-to-create-auth-info
-[^3]: https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-volumes
-[^4]: https://kubernetes.io/docs/concepts/services-networking/service/#dns
-[^5]: https://youtu.be/FC8pABzxZVU?t=1660
-[^6]: https://docs.gitlab.com/ee/user/clusters/agent/
-[^7]: https://youtu.be/ePyFJ7Hd57Q?t=967
+[1]: https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
+[2]: https://stackoverflow.com/questions/70287656/kubernetes-dashboard-internal-error-500-not-enough-data-to-create-auth-info
+[3]: https://stackoverflow.com/questions/41732819/why-statefulsets-cant-a-stateless-pod-use-persistent-volumes
+[4]: https://kubernetes.io/docs/concepts/services-networking/service/#dns
+[5]: https://youtu.be/FC8pABzxZVU?t=1660
+[6]: https://docs.gitlab.com/ee/user/clusters/agent/
+[7]: https://youtu.be/ePyFJ7Hd57Q?t=967

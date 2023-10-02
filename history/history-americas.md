@@ -2,7 +2,7 @@
 
 ## paleocanada
 
-- burgess shale fossils [^1]
+- burgess shale fossils [1]
   - mountains of yoho and kootenay national park
   - the oldest evidence of complex life on earth
 
@@ -90,4 +90,4 @@
 
 ## references
 
-[^1]: https://www.pc.gc.ca/en/pn-np/bc/yoho/activ/burgess
+[1]: https://www.pc.gc.ca/en/pn-np/bc/yoho/activ/burgess

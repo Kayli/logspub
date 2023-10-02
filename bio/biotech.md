@@ -196,7 +196,7 @@
 
 ## environment
 
-- clostridium autoethanogenum [^1]
+- clostridium autoethanogenum [1]
   - кишечная бактерия, способна преобразовывать угарный газ в этиловый спирт
 
 - ideonella sakaiensis 
@@ -206,4 +206,4 @@
 
 ## references
 
-[^1]: https://korrespondent.net/tech/science/4450037-uchenye-syntezyrovaly-bakteryy-prevraschauischye-uhlekyslyi-haz-v-spyrt
+[1]: https://korrespondent.net/tech/science/4450037-uchenye-syntezyrovaly-bakteryy-prevraschauischye-uhlekyslyi-haz-v-spyrt

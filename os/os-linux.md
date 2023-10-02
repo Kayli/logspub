@@ -50,7 +50,7 @@
 ## shell
 
 - if you have (accidentally) pressed Ctrl+V immediately before pasting (or before pressing a special key), 
-  it will cause ^[[200~ characters to appear [^9]
+  it will cause ^[[200~ characters to appear [9]
 
 
 ## terminal multiplexer (tmux)
@@ -105,7 +105,7 @@
 - systemd-journald
   - view logs for specific service journalctl -u <servicename>
 
-- system services  [^3]
+- system services  [3]
   - basic commands
     > sudo systemctl stop <servicename>
     > sudo systemctl start <servicename>
@@ -113,7 +113,7 @@
     > sudo service <servicename> start
     ​> sudo service <servicename> stop
     ​> sudo service <servicename> restart
-  - creating your own service [^4]
+  - creating your own service [4]
 
 - flashing images
   - list partitions for the devices matched by a pattern sdi*
@@ -194,7 +194,7 @@
   - flatten files in a folder hierarchy command
       > find /dir1 -mindepth 2 -type f -exec mv -t /dir1 -i '{}' +
 
-  - watch changes in fs [^1]
+  - watch changes in fs [1]
     - inotify
       - creates a kernel object for every watched file
         - therefore not usable to monitor all changes happening in fs
@@ -277,7 +277,7 @@
       > sudo pacman -S pamac kitty 
 
 - popos specific
-  - install touche from popshop to invert touchpad 4-finger gestures [^6]
+  - install touche from popshop to invert touchpad 4-finger gestures [6]
   - disable trackpoint at startup
     > xinput set-prop "PS/2 Generic Mouse" "Device Enabled" 0
   - run shell as root
@@ -287,7 +287,7 @@
 - xfce specific
   - windows resize
     - alt + right mouse button
-    - incasing the size of resize border area by editing ~/.gtkrc-2.0 [^2]
+    - incasing the size of resize border area by editing ~/.gtkrc-2.0 [2]
     - hotkeys + mouse
       - alt + space to invoke a window's menu then R to run resize 
       - then Left Right Top or Bottom Arrow Key to chose direction
@@ -297,14 +297,14 @@
 ## standard folders
 
 - local user folders
-  - according to xdg base directory specification [^8]
+  - according to xdg base directory specification [8]
   - $XDG_CONFIG_HOME or defaults to $HOME/.config
   - $XDG_STATE_HOME or defaults to $HOME/.local/state
 
 
 ## embedded development
 
-- gpio drivers (recommended), sysfs interface (deprecated) [^7]
+- gpio drivers (recommended), sysfs interface (deprecated) [7]
 
 
 ## file managers
@@ -329,12 +329,12 @@
 
 ## references
 
-[^1]: https://superuser.com/questions/118642/recursive-filesystem-notifications-inotify-for-ubuntu-karmic-koala
-[^2]: https://unix.stackexchange.com/questions/156435/how-can-i-make-windows-easier-to-resize-in-xfce
-[^3]: https://www.techrepublic.com/article/how-to-start-stop-and-restart-services-in-linux/
-[^4]: https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267
-[^5]: https://askubuntu.com/questions/448836/how-do-i-with-ufw-deny-all-outgoing-ports-excepting-the-ones-i-need
-[^6]: https://www.reddit.com/r/pop_os/comments/oin0ev/invert_workspace_touchpad_gestures/h4wjyz0/
-[^7]: https://www.youtube.com/watch?v=QIO2pJqMxjE
-[^8]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
-[^9]: https://superuser.com/questions/1532688/pasting-required-text-into-terminal-emulator-results-in-200required-text
+[1]: https://superuser.com/questions/118642/recursive-filesystem-notifications-inotify-for-ubuntu-karmic-koala
+[2]: https://unix.stackexchange.com/questions/156435/how-can-i-make-windows-easier-to-resize-in-xfce
+[3]: https://www.techrepublic.com/article/how-to-start-stop-and-restart-services-in-linux/
+[4]: https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267
+[5]: https://askubuntu.com/questions/448836/how-do-i-with-ufw-deny-all-outgoing-ports-excepting-the-ones-i-need
+[6]: https://www.reddit.com/r/pop_os/comments/oin0ev/invert_workspace_touchpad_gestures/h4wjyz0/
+[7]: https://www.youtube.com/watch?v=QIO2pJqMxjE
+[8]: https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html
+[9]: https://superuser.com/questions/1532688/pasting-required-text-into-terminal-emulator-results-in-200required-text

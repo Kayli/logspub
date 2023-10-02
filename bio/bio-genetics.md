@@ -252,7 +252,7 @@ keywords: biology, bioinformatics, organic-chemistry, gene
 ## evolutionary models
 
 - fisher's fundamental theorem of natural selection
-  - later in 2017 Basener and Sanford showed that [^3]
+  - later in 2017 Basener and Sanford showed that [3]
     - with a more realistic distribution of mutations the population often undergoes perpetual fitness decline
       - this aligns well with observations, where practically all biological populations are finite
     - see simulation at https://people.rit.edu/wfbsma/evolutionary%20dynamics/EvolutionaryModel.html
@@ -307,6 +307,6 @@ keywords: biology, bioinformatics, organic-chemistry, gene
 
 ## references
 
-[^1]: https://www.britannica.com/science/nucleic-acid
-[^2]: https://www.stxnext.com/blog/most-popular-python-scientific-libraries/
-[^3]: https://link.springer.com/article/10.1007/s00285-017-1190-x
+[1]: https://www.britannica.com/science/nucleic-acid
+[2]: https://www.stxnext.com/blog/most-popular-python-scientific-libraries/
+[3]: https://link.springer.com/article/10.1007/s00285-017-1190-x

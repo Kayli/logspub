@@ -150,7 +150,7 @@
 - indus valley (harappan culture, modern pakistan)
 
 
-## mediterranean region [^1]
+## mediterranean region [1]
 
 - greece
   - minoan and mycenaen civilization (proto greeks) 2000-1250bce
@@ -253,7 +253,7 @@
     - example: venice, florence, genoa (генуя) united as italy
   - nations invent their history, reframing and often twisting past historical events
 
-- wallerstein's world system theory model countries classification [^4]
+- wallerstein's world system theory model countries classification [4]
   - core: high profit consumption goods
   - periphery: cheap labor and raw materials
   - semi-periphery: transitional
@@ -262,7 +262,7 @@
 ## useful apps
 
 - interactive world history atlas since 3000 bc http://geacron.com/ 
-- share of world gdp through history interactive chart [^2]
+- share of world gdp through history interactive chart [2]
 
 
 ## terminology
@@ -298,7 +298,7 @@
 
 ## references
 
-[^1]: https://www.youtube.com/channel/UCGzfpg1YiBIlgcODQI4lDvQ
-[^2]: https://infogram.com/share-of-world-gdp-throughout-history-1gjk92e6yjwqm16
-[^3]: https://www.youtube.com/watch?v=HvVFxUtNEDQ&t=5188s
-[^4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
+[1]: https://www.youtube.com/channel/UCGzfpg1YiBIlgcODQI4lDvQ
+[2]: https://infogram.com/share-of-world-gdp-throughout-history-1gjk92e6yjwqm16
+[3]: https://www.youtube.com/watch?v=HvVFxUtNEDQ&t=5188s
+[4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s

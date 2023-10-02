@@ -17,7 +17,7 @@
 - state is not preserved after restarting container by default
   - unless you're using a docker volume
 
-- container runtimes [^6]
+- container runtimes [6]
   - containerd (most popular)
   - cri-o (built specificatlly for k8s)
 
@@ -51,19 +51,19 @@
 - run ubuntu with bash
   > docker run -it ubuntu bash
 
-- running container overriding default [^1] entrypoint 
+- running container overriding default [1] entrypoint 
   > docker run -it --entrypoint=/bin/bash <image>
 
 - run container from image, removing all existing containers created from that image
   > docker run --rm -it <image> <process>
 
-- running x-server application within a container using x11docker [^2]
+- running x-server application within a container using x11docker [2]
 
 - copy file from inside of the running docker container
   > docker ps -alq # get last container id
   > docker cp <containerId>:/file/path/within/container /host/path/target
 
-- risks of executing more than one process per container [^5]
+- risks of executing more than one process per container [5]
   - the process that forked and went background is not monitored and may stop without you knowing it
  
  - start container in a detached mode saving its id
@@ -105,13 +105,13 @@
 - USER <username>
   - sets the user name or UID to use when running the image and for any following RUN directives
 
-- HEALTHCHECK <instruction> [^7]
+- HEALTHCHECK <instruction> [7]
   - initial state will be starting, and will become healthy after the HEALTHCHECK instruction is checked successfully. If it fails for a certain number of times, it will become unhealthy
   - default interval between checks is 30 seconds
 
 - optimization
   - in older versions of Docker, it was important that you minimized the number of layers in your images to ensure they were performant
-    - it seems that it is no longer the case? [^3]
+    - it seems that it is no longer the case? [3]
   - happens by default?
     - if you do not want to use the cache at all, you can use the --no-cache=true option on the docker build command
 
@@ -238,11 +238,11 @@
 
 ## references
 
-[^1]: https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image
-[^2]: https://github.com/mviereck/x11docker
-[^3]: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
-[^5]: https://www.kubegres.io/doc/getting-started.html
-[^4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
-[^5]: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container
-[^6]: https://earthly.dev/blog/containerd-vs-docker/
-[^7]: https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck.html
+[1]: https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image
+[2]: https://github.com/mviereck/x11docker
+[3]: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+[5]: https://www.kubegres.io/doc/getting-started.html
+[4]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
+[5]: https://stackoverflow.com/questions/37458287/how-to-run-a-cron-job-inside-a-docker-container
+[6]: https://earthly.dev/blog/containerd-vs-docker/
+[7]: https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck.html

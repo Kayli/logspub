@@ -109,7 +109,7 @@
 - interface static constructors and members
 
 
-## new language features [^1][^2]
+## new language features [1][2]
 
 - csharp 10 and earlier
 
@@ -163,7 +163,7 @@
   - reduced nesting of a namespace if its the only namespace statement
 
   - index from end operator ^
-    - var lastItem = array[^1]; 
+    - var lastItem = array[1]; 
 
   - init-only setters: optional parameters that can be set via initializer during object construction
     > var note = new Note(required1, required2) { Optional1 = 5, Optional2 = "s" }
@@ -255,7 +255,7 @@
 ## dependency injection
 
 - application builder simplifies registration of typical components like controllers
-- .NET provides a built-in service container, IServiceProvider [^4]
+- .NET provides a built-in service container, IServiceProvider [4]
   - services are typically registered at the app's start-up and appended to an IServiceCollection
   - once all services are added, you use BuildServiceProvider to create the service container
 
@@ -363,7 +363,7 @@
 
 ## references
 
-[^1]: https://www.youtube.com/c/Elfocrash
-[^2]: https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10
-[^3]: https://docs.microsoft.com/en-us/dotnet/core/deploying/trimming/trim-self-contained
-[^4]: https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection
+[1]: https://www.youtube.com/c/Elfocrash
+[2]: https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10
+[3]: https://docs.microsoft.com/en-us/dotnet/core/deploying/trimming/trim-self-contained
+[4]: https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection

@@ -41,7 +41,7 @@
   - more than 3300 operational artificial satellites flying around the earth
   - experience slow orbital decay, need to be boosted to avoid burning in atmosphere
     - its a necessary process required to get rid of space junk
-  - iss[^1] has to make regular maneuvers to avoid space junk
+  - iss[1] has to make regular maneuvers to avoid space junk
 
 - space junk
   - 10k of objects large enough to be tracked by a radar
@@ -57,7 +57,7 @@
 - oxygination of atmosphere: 2.5 ga, proterozoic eon
 
 
-## geology [^2]
+## geology [2]
 
 - gravel: grain size > 2mm diameter
 - sand: grain size 1/16 - 2 mm diameter
@@ -87,7 +87,7 @@
 - seismic sea waves have a period of about 20 minutes, and speeds of 760 km/h
 
 
-### dating [^3]
+### dating [3]
 
 - relative
 - absolute
@@ -101,6 +101,6 @@
 
 ## terms and abbriviatures used
 
-[^1]: iss https://en.wikipedia.org/wiki/International_Space_Station 
-[^2]: https://www.youtube.com/watch?v=csEdTdwhmVI&t=53s
-[^3]: https://www.youtube.com/watch?v=suUX9-JAwNM
+[1]: iss https://en.wikipedia.org/wiki/International_Space_Station 
+[2]: https://www.youtube.com/watch?v=csEdTdwhmVI&t=53s
+[3]: https://www.youtube.com/watch?v=suUX9-JAwNM

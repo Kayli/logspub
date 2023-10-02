@@ -6,7 +6,7 @@
 - alternative function declaration syntax with auto and -> (arrow)
 
 
-## version 20  [^1]
+## version 20  [1]
 
 - so now you should write all your module code in .mpp file
   - and you can simply import mymodule.mpp from your main.cpp
@@ -57,5 +57,5 @@
 
 ## reference
 
-[^1]: https://youtu.be/szHV6RdQdg8?t=1088
-[^2]: https://stackoverflow.com/questions/22514855/arrow-operator-in-function-heading
+[1]: https://youtu.be/szHV6RdQdg8?t=1088
+[2]: https://stackoverflow.com/questions/22514855/arrow-operator-in-function-heading

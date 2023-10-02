@@ -128,5 +128,5 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/OpenShift
-[^2]: https://www.youtube.com/watch?v=R7k4qJ120dY
+[1]: https://en.wikipedia.org/wiki/OpenShift
+[2]: https://www.youtube.com/watch?v=R7k4qJ120dY

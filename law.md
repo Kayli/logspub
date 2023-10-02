@@ -3,7 +3,7 @@
 
 ## basics
 
-- canada's legal system is based on the english and french systems [^1]
+- canada's legal system is based on the english and french systems [1]
   - which is a combination of 
     - common law
       - is not written down as legislation
@@ -41,7 +41,7 @@
 ## bc police encounters
 
 - police may stop and question a person on the street, that person has the right
-  - to walk away unless they are under arrest [^2] 
+  - to walk away unless they are under arrest [2] 
   - not to provide police with their identification unless they are under arrest or being ticketed
   - if there is significant physical or psychological restraint
     - a street check may transform into what is known as an “investigative detention”
@@ -74,7 +74,7 @@
 - in canada
   - official government domains: gc.ca, canada.ca
   - canadian charter of rights and freedoms
-    - is one part of the canadian constitution [^4]
+    - is one part of the canadian constitution [4]
     - freedoms are set out in the charter to ensure that canadians are free to create 
       and express their ideas, gather to discuss them and communicate them widely to other people
     - such activities are basic forms of individual liberty
@@ -100,7 +100,7 @@
 
 ## english common law
 
-- there is no single document defining constitution [^3]
+- there is no single document defining constitution [3]
 - "magna carta" is an important document that contributed to common law around 13th century ad
   - literally means "great regulations"
 
@@ -112,7 +112,7 @@
 
 ## modern approaches
 
-- norwegian government [^5]
+- norwegian government [5]
   - observability for legal system when specific laws are bound to a code to some extent
     - enables automated quantitative analysis of effectiveness
     - detects redundancies
@@ -153,8 +153,8 @@
 
 ## references
 
-[^1]: https://www.justice.gc.ca/eng/csj-sjc/just/03.html
-[^2]: https://bccla.org/2018/09/what-is-a-street-check/#_ftn10 (refers to Grant, para. 21)
-[^3]: https://www.coursera.org/learn/intro-common-law/lecture/V60DU/key-features-of-english-law
-[^4]: https://laws-lois.justice.gc.ca/eng/Const/FullText.html
-[^5]: https://youtu.be/oTeKCAhXQbo?t=2169
+[1]: https://www.justice.gc.ca/eng/csj-sjc/just/03.html
+[2]: https://bccla.org/2018/09/what-is-a-street-check/#_ftn10 (refers to Grant, para. 21)
+[3]: https://www.coursera.org/learn/intro-common-law/lecture/V60DU/key-features-of-english-law
+[4]: https://laws-lois.justice.gc.ca/eng/Const/FullText.html
+[5]: https://youtu.be/oTeKCAhXQbo?t=2169

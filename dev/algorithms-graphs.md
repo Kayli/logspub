@@ -119,7 +119,7 @@
   - replacing stack with a queue in iterative implementation of dfs leads to bfs
   - needs an extra loop for handling disconnected subgraphs
 
-- dijkstra shortest path [^3]
+- dijkstra shortest path [3]
   - shortest-path tree from a specified source to all possible goals
   - doesn't work on graphs with negative weights
 
@@ -136,7 +136,7 @@
 - c++
   - boost graph library (bgl)
 
-- python [^1] [^2]
+- python [1] [2]
   - graph-tool (bgl-based)
   - NetworkX
   - python-igraph
@@ -146,6 +146,6 @@
 
 ## references
 
-[^1]: https://stackoverflow.com/questions/606516/python-graph-library
-[^2]: https://wiki.python.org/moin/PythonGraphLibraries
-[^3]: https://www.youtube.com/watch?v=pVfj6mxhdMw
+[1]: https://stackoverflow.com/questions/606516/python-graph-library
+[2]: https://wiki.python.org/moin/PythonGraphLibraries
+[3]: https://www.youtube.com/watch?v=pVfj6mxhdMw

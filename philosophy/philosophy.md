@@ -238,7 +238,7 @@
   - in medicine: double-blind, randomized, placebo-controlled trial
   - no causation without manipulation (paul holland)
     - to find out what happens when you change something, it is necessary to change it
-    - there are things you learn from perturbing a system that you'll never find out from any amount of passive observation. [^5]
+    - there are things you learn from perturbing a system that you'll never find out from any amount of passive observation. [5]
 
 
 ## space and time
@@ -268,9 +268,9 @@
 ## interesting ideas
 
 - "consciousness is always present for itself" thomas w. clark 
-- reincarnation is just a poetic expression of what collective memory is [^2]
-- embracing anxiety as a natural emotion that animates body [^3]
-- бытие определяет сознание ... еще это назвают проф деформацией [^4]
+- reincarnation is just a poetic expression of what collective memory is [2]
+- embracing anxiety as a natural emotion that animates body [3]
+- бытие определяет сознание ... еще это назвают проф деформацией [4]
 
 
 ## unsorted
@@ -357,8 +357,8 @@
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=EEVFrdVnhfI
-[^2]: https://youtu.be/Wztf9aM0c5g?t=1410
-[^3]: https://www.youtube.com/watch?v=0PwRH5-TiIc
-[^4]: https://habr.com/ru/company/itsumma/blog/688932/
-[^5]: https://stats.stackexchange.com/questions/2245/statistics-and-causal-inference
+[1]: https://www.youtube.com/watch?v=EEVFrdVnhfI
+[2]: https://youtu.be/Wztf9aM0c5g?t=1410
+[3]: https://www.youtube.com/watch?v=0PwRH5-TiIc
+[4]: https://habr.com/ru/company/itsumma/blog/688932/
+[5]: https://stats.stackexchange.com/questions/2245/statistics-and-causal-inference

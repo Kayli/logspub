@@ -73,7 +73,7 @@
 
 ## classical mechanics
 
-- forces [^3]
+- forces [3]
   - inertial: acceleration?, centrifugal
   - distance: gravity, electromagnetism
   - contact: pressure, traction, torsion, deformation, friction
@@ -295,7 +295,7 @@
       - see for more details https://en.wikipedia.org/wiki/Vacuum_permeability
 
 
-## fluid simulation [^4][^5]
+## fluid simulation [4][5]
 
 - important guiding principles
   - deriving probablistic perspective of the phenomena
@@ -365,8 +365,8 @@
 
 ## references
 
-[^1]: brief overview of oscillator models and applications https://www.youtube.com/watch?v=QPAxzr6ihu8
-[^2]: speed of light from maxwell equations https://www.wikihow.com/Derive-the-Speed-of-Light-from-Maxwell%27s-Equations
-[^3]: https://www.youtube.com/watch?v=YRgBLVI3suM
-[^4]: https://www.youtube.com/watch?v=MXs_vkc8hpY
-[^5]: https://www.youtube.com/watch?v=4b80sR-joNY
+[1]: brief overview of oscillator models and applications https://www.youtube.com/watch?v=QPAxzr6ihu8
+[2]: speed of light from maxwell equations https://www.wikihow.com/Derive-the-Speed-of-Light-from-Maxwell%27s-Equations
+[3]: https://www.youtube.com/watch?v=YRgBLVI3suM
+[4]: https://www.youtube.com/watch?v=MXs_vkc8hpY
+[5]: https://www.youtube.com/watch?v=4b80sR-joNY

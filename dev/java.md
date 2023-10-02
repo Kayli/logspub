@@ -13,7 +13,7 @@
   - main distributions
     - oracleJDK 
       - proprietary implementation
-    - openJDK [^3] 
+    - openJDK [3] 
       - opensource https://github.com/openjdk/
       - oracle does not provide support for OpenJDK Java builds
       - support is available from many 3rd parties
@@ -34,7 +34,7 @@
   - is integrated set of development tools and application servers that you use to deploy Web applications that support high-volume traffic, dynamic content, and intensive online transaction processing
 
 - top jre languages: java, kotlin, scala, groovy
-  - gosu is not even in top 14 [^1]
+  - gosu is not even in top 14 [1]
 
 - webservers
   - spring boot embedded
@@ -185,7 +185,7 @@
 - streams guide https://stackify.com/streams-guide-java-8/
 
 
-## historical perspective [^2]
+## historical perspective [2]
 
 - JBoss Wildfly and Wesphere Liberty are the old enterprise application servers of a previous era (Tomcat may also fit in that, I worked similarly using Tomcat to deploy java web apps back in 2010). You would deploy all your Java applications (there could be many) on the application server, and that would take care of monitoring, logging, providing secrets and other services like JMS and JNDI, re-deploying applications etc... the stuff you might have been doing more recently using k8s/OpenShift/AWS if you're into microservices and not an older enterprise Java shop.
 ... The whole thing was designed to run on a big server (or a few) that your company maintained and everybody thought deploying to the cloud was a crazy idea that would never catch on
@@ -198,10 +198,10 @@
 ## gradle
 
 - may take several seconds to run a trivial command
-  - to speedup execution, enable daemon mode [^4]
+  - to speedup execution, enable daemon mode [4]
 
 
-## desktop apps development [^5]
+## desktop apps development [5]
 
 - awt
   - is an abstract window toolkit that provides various component classes like Label, Button, TextField, etc., to show window components on the screen
@@ -236,8 +236,8 @@
 
 ## references
 
-[^1]: https://www.spec-india.com/blog/jvm-languages
-[^2]: https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/
-[^3]: https://stackoverflow.com/questions/47236543/what-is-the-reason-to-use-openjdk
-[^4]: https://docs.gradle.org/current/userguide/gradle_daemon.html
-[^5]: https://stackoverflow.com/questions/408820/what-is-the-difference-between-swing-and-awt
+[1]: https://www.spec-india.com/blog/jvm-languages
+[2]: https://www.reddit.com/r/java/comments/wifvo5/choose_the_right_java_runtime_for_the_job_2020/
+[3]: https://stackoverflow.com/questions/47236543/what-is-the-reason-to-use-openjdk
+[4]: https://docs.gradle.org/current/userguide/gradle_daemon.html
+[5]: https://stackoverflow.com/questions/408820/what-is-the-difference-between-swing-and-awt

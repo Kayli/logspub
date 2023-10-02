@@ -1,4 +1,4 @@
-# notes about philosophers [^1]
+# notes about philosophers [1]
 
 
 ## donald david hoffman 1955
@@ -35,7 +35,7 @@
 - reason itself is a male construction based on a political need to maintain power in male hands
 
 
-## jaques derrida 1930-2004 [^3]
+## jaques derrida 1930-2004 [3]
 
 - extends structuralist's notion of signs
   - synchronic (relational) structural dimension
@@ -115,14 +115,14 @@
   - action: public speech, politics
 
 
-## emmanuel levinas 1906-1995 [^3]
+## emmanuel levinas 1906-1995 [3]
 
 - french philosopher of lithuanian jewish ancestry who is known for his work within 
   jewish philosophy, existentialism, and phenomenology, focusing on the relationship 
-  of ethics to metaphysics and ontology [^2]
+  of ethics to metaphysics and ontology [2]
 
 
-## theodor adorno 1903-1969 [^3]
+## theodor adorno 1903-1969 [3]
 
 - german philosopher, sociologist, psychologist, musicologist, and composer 
 - known for his critical theory of society, capitalism, enlightenment, progress
@@ -132,7 +132,7 @@
   - nazi reality is so miserable that it does not deserve to be called 'true'
 
 
-## heidegger martin 1889-1976 [^1]
+## heidegger martin 1889-1976 [1]
 
 - phenomenologist, atheist
 - rejects transcendental ego concept introduced by husserl
@@ -160,14 +160,14 @@
 
 - inspired 20th century existentialists
 
-- оппозиция близкого и далекого [^5]
+- оппозиция близкого и далекого [5]
   - далекое удалено от нас не только пространственно но и экзистенциально
   - техника подрывает онтологические основания человеческого существования
     - она убивает даль, но без дали нет близости
     - оппозиция спекается и мир становится неразличимым недалеким единством
 
 
-## john dewey 1859-1952 [^1]
+## john dewey 1859-1952 [1]
 
 - one of the founders of pragmatism (philosophical tradition)
 - process philosopher
@@ -191,7 +191,7 @@
   - we failed to apply modern scientific method to social and political problems
 
 
-## whitehead alfred north 1861–1947 [^1]
+## whitehead alfred north 1861–1947 [1]
 
 - process philosopher
 - tried to create metaphysical system that was consistent with physics and explained the place of mind, 
@@ -207,7 +207,7 @@
 ## edith stein 1891–1942
 
 - known philosophically primarily for her phenomenological work on empathy and affectivity, 
-  her contributions as research assistant to husserl, and her philosophical anthropology [^2]
+  her contributions as research assistant to husserl, and her philosophical anthropology [2]
 
 
 ## henri bergson 1859-1941
@@ -1191,8 +1191,8 @@
 
 ## references
 
-[^1]: https://www.thegreatcourses.com/courses/modern-intellectual-tradition-from-descartes-to-derrida
-[^2]: https://plato.stanford.edu/
-[^3]: https://www.overthinkpodcast.com
-[^4]: https://www.philosophizethis.org/podcasts (by stephen west)
-[^5]: https://youtu.be/Lr-rUkFS-FA?t=1996
+[1]: https://www.thegreatcourses.com/courses/modern-intellectual-tradition-from-descartes-to-derrida
+[2]: https://plato.stanford.edu/
+[3]: https://www.overthinkpodcast.com
+[4]: https://www.philosophizethis.org/podcasts (by stephen west)
+[5]: https://youtu.be/Lr-rUkFS-FA?t=1996

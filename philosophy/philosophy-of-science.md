@@ -206,7 +206,7 @@
 ## keeping references to original works
 
 - stems from biblical tradition of hyperlinked text?
-  - bible as a first hyperlinked text [^1]
+  - bible as a first hyperlinked text [1]
 
 
 ## random thoughts
@@ -227,4 +227,4 @@
   - professor michela massimi (looks like jernej's relative)
 - wiki on falsifiability https://en.wikipedia.org/wiki/Falsifiability
 - anjan chakravartty on scientific realism https://plato.stanford.edu/entries/scientific-realism/
-[^1]: https://youtu.be/HPO1cUXZ8Dk
+[1]: https://youtu.be/HPO1cUXZ8Dk

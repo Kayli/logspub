@@ -38,7 +38,7 @@
     - hybridization may have been ongoing until as recently as 4 million years ago (pliocene)
 
 
-- hominid timeline [^6]
+- hominid timeline [6]
   - 55 mya first primitive primates
   - 18-15 mya proconsul
     - it is ancestral to the chimpanzee
@@ -92,10 +92,10 @@
   - 50 kya people begin burying their dead ritually
     - create clothes from animal hides and develop complex hunting techniques, such as pit-traps
     - reached australia
-  - 40 kya neanderthal extinction [^5]
+  - 40 kya neanderthal extinction [5]
   - 33 kya oldest cave art
   - 12 kya modern people reach the Americas
-  - 12 kya red deer cave people extinction [^5]
+  - 12 kya red deer cave people extinction [5]
   - 10 kya agriculture develops and spread, first villages, possible domestication of dogs
   - 5,5 kya bronze age (stone age ends) humans begin to smelt and work copper and tin
   - 5 kya earliest known writing
@@ -139,7 +139,7 @@
     - avoiding stress but receiving some of the benefits of moderate rank
 
 
-## dating methods [^7]
+## dating methods [7]
 
 - can be
   - relative
@@ -169,18 +169,18 @@
 
 ## other
 
-- juvenile traits of chimps resemble human traits [^8]
-- first forms of cave art 40k years ago [^9]
+- juvenile traits of chimps resemble human traits [8]
+- first forms of cave art 40k years ago [9]
 
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Hybrid_(biology)
-[^2]: https://www.youtube.com/watch?v=T32AfUd0_o4 "Дробышевский Ст. Социальные Структуры Приматов и Древних Людей"  
-[^3]: https://en.wikipedia.org/wiki/Chimpanzee–human_last_common_ancestor
-[^4]: https://en.wikipedia.org/wiki/Genus
-[^5]: https://en.wikipedia.org/wiki/Homo
-[^6]: https://www.newscientist.com/article/dn9989-timeline-human-evolution/
-[^7]: https://www.youtube.com/watch?v=bxtoU_-WwS4
-[^8]: https://youtu.be/Ajh1y5a2l3M?t=3138
-[^9]: https://youtu.be/4z_zvi9nr98?t=3315
+[1]: https://en.wikipedia.org/wiki/Hybrid_(biology)
+[2]: https://www.youtube.com/watch?v=T32AfUd0_o4 "Дробышевский Ст. Социальные Структуры Приматов и Древних Людей"  
+[3]: https://en.wikipedia.org/wiki/Chimpanzee–human_last_common_ancestor
+[4]: https://en.wikipedia.org/wiki/Genus
+[5]: https://en.wikipedia.org/wiki/Homo
+[6]: https://www.newscientist.com/article/dn9989-timeline-human-evolution/
+[7]: https://www.youtube.com/watch?v=bxtoU_-WwS4
+[8]: https://youtu.be/Ajh1y5a2l3M?t=3138
+[9]: https://youtu.be/4z_zvi9nr98?t=3315

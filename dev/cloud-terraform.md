@@ -27,7 +27,7 @@
 ## custom scripts
 
 - running custom scripts is possible by using external provider
-  - as described in "Querying external data with Terraform" article [^1]
+  - as described in "Querying external data with Terraform" article [1]
 
 - such scripts can be any executable files
   - such files will be expected to take arguments in the form of json object and returning results in json form as well
@@ -61,7 +61,7 @@
 
 ## alternatives
 
-- terraform vs pulumi vs crossplane [^2]
+- terraform vs pulumi vs crossplane [2]
   - crossplane
     - yaml definitions similar to k8s
       - this allows to store definitions together with other k8s resources
@@ -79,5 +79,5 @@
 
 ## references
 
-[^1]: https://subscription.packtpub.com/book/cloud-and-networking/9781800207554/2/ch02lvl1sec18/querying-external-data-with-terraform
-[^2]: https://www.youtube.com/watch?v=RaoKcJGchKM
+[1]: https://subscription.packtpub.com/book/cloud-and-networking/9781800207554/2/ch02lvl1sec18/querying-external-data-with-terraform
+[2]: https://www.youtube.com/watch?v=RaoKcJGchKM

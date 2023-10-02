@@ -23,7 +23,7 @@
       - modern nlp frameworks
         - to provide assistance in raw documents parsing, like detecting/normalizing morphological invariants
 
-- provisions [^4]
+- provisions [4]
   - parametrized fragments of a regulation
   - can be described according to a metadata scheme which consists of provision types and their arguments
   - provision metadata elements can be grounded into some standard ontology framework
@@ -116,7 +116,7 @@
 
 ## useful pieces
 
-- [^4] The legal system usually suffers from scarce transparency which is caused by a non-systematic organization of the legal order ...
+- [4] The legal system usually suffers from scarce transparency which is caused by a non-systematic organization of the legal order ...
   ... hence the inability to obtain an analytical/systematic vision of a legal order itself, allowing to query
   a legal information system according to the content of each norm ... difficulties in norm accessing by both citizens and legal expert 
 
@@ -126,4 +126,4 @@
 - https://en.wikipedia.org/wiki/Document_automation
 - https://blog.clause.io/from-document-assembly-to-computable-documents/
 - https://accordproject.org/
-[^4]: https://www.researchgate.net/publication/221539373_Automatic_semantics_extraction_in_law_documents
+[4]: https://www.researchgate.net/publication/221539373_Automatic_semantics_extraction_in_law_documents

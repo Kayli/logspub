@@ -1,6 +1,6 @@
 # notes related to pony programming language
 
-## basics [^1]
+## basics [1]
 
 - type-safe
 - object-oriented
@@ -70,7 +70,7 @@
   - has its own heap
 
 
-## debugging [^2]
+## debugging [2]
 
 - uses llvm toolchain
 - lldb for debugging
@@ -94,5 +94,5 @@
 
 ## references
 
-[^1]: https://tutorial.ponylang.io
-[^2]: https://www.ponylang.io/reference/#debugging
+[1]: https://tutorial.ponylang.io
+[2]: https://www.ponylang.io/reference/#debugging

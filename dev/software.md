@@ -27,14 +27,14 @@
   - gitlab mirror: https://gitlab.com/mi-mi-mirrors/rockbox
 - openwrt https://openwrt.org
 - shinobi https://shinobi.video
-- music production [^1]
+- music production [1]
   - lmms https://lmms.io
   - ardour https://ardour.org
   - vital: spectral warping table synth plugin https://vital.audio
   - zynaddsubfx: musical software synthesizer https://github.com/zynaddsubfx/zynaddsubfx 
   - drums plugin: https://drumgizmo.org/
   - noise repellent https://github.com/lucianodato/noise-repellent
-  - and more, see [^1]
+  - and more, see [1]
 - security
   - bitwarden
     - Donyelle Werner, Attorney Bitwarden Inc. 1 North Calle Cesar Chavez, Suite 102 Santa Barbara, California 93103
@@ -97,4 +97,4 @@
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=qistxioVgMw
+[1]: https://www.youtube.com/watch?v=qistxioVgMw

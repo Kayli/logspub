@@ -5,19 +5,19 @@
 - cognitive science
   - discipline studying thinking processes of animals, humans and beyond
 
-- intelligence is ability to solve problems, while consciousness is ability to suffer [^6]
+- intelligence is ability to solve problems, while consciousness is ability to suffer [6]
 
 
 ## theories of consciousness 
 
-- global workspace theory [^4]
+- global workspace theory [4]
   - theatre metaphor
     - consciousness: bright spot of light that reveals the contents 
     - unconscious 
       - audience, not lit up, in the dark 
       - watching the play
 
-- dehaene-changeux model (dcm) [^3]
+- dehaene-changeux model (dcm) [3]
   - also known as the global neuronal workspace or the global cognitive workspace model
   - was developed by cognitive neuroscientists stanislas dehaene and jean-pierre changeux beginning in 1986
   - demonstrates that consciousness is not an illusion and has adaptive utility in darwinian context
@@ -38,14 +38,14 @@
 - 'theory of mind' term is used in psychology when referring to model of psyche of others
   - however, likely similar mechanisms are used to build a model of self
 
-- sciousness by william james [^4]
+- sciousness by william james [4]
   - 'con' means 'with', 'consciousness' literally means 'knowing with'
   - takes a form of a process
     - its what now means 'stream of consciousness', but william james just calls it sciousness
     - to get rid of the idea that its internally dual
 
 
-## thinking [^1]
+## thinking [1]
 
 - высшая ступень психического отражения действительности
 - является опосредованным и обобщённым способом отражения действительности с точки зрения марксизма
@@ -66,7 +66,7 @@
   - наглядно действенное
   - образное
   - отвлеченно-вербально-логическое-абстрактно-понятийное ))
-  - творческое [^7]
+  - творческое [7]
     - дивергентное: способность создавать много разных решений для заданной креативной задачи
     - конвергентное: способность из всех решений, которые были созданы во время дивергентного мышления, выбрать наиболее творческое и интересное 
 
@@ -122,10 +122,10 @@
 
 ## referernces
 
-[^1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
-[^2]: https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
-[^3]: https://www.youtube.com/watch?v=IvqJpeXw2ww&list=PL2VCCjshTuUNjwf2NR52z3wgtMisDnOcJ&index=2
-[^4]: overthink podcasrt 61 self-knowledge
-[^5]: john vervaeke ep10 awakening from the meaning crisis 9:13
-[^6]: https://www.youtube.com/watch?v=1rtS2OEV6bM
-[^7]: https://postnauka.org/video/154989
+[1]: https://www.youtube.com/watch?v=o2AeTbP9szY "центр архэ: зорина, наука в поисках разума животных"
+[2]: https://ru.wikipedia.org/wiki/%D0%9C%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
+[3]: https://www.youtube.com/watch?v=IvqJpeXw2ww&list=PL2VCCjshTuUNjwf2NR52z3wgtMisDnOcJ&index=2
+[4]: overthink podcasrt 61 self-knowledge
+[5]: john vervaeke ep10 awakening from the meaning crisis 9:13
+[6]: https://www.youtube.com/watch?v=1rtS2OEV6bM
+[7]: https://postnauka.org/video/154989

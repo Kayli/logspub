@@ -1,4 +1,4 @@
-# abstract algebra self-learning course notes [^1]
+# abstract algebra self-learning course notes [1]
 
 ## basics
 
@@ -20,7 +20,7 @@
   - structure-preserving function
   - maps one mathematical object (such as a group, a ring, a vector space, or a topological space) to another
 
-- isomorphism [^2]
+- isomorphism [2]
   - inverse function exists between two mathematical objects
   - types
     - bijections: between sets
@@ -34,7 +34,7 @@
   - map between categories that preserves the structure of the categories
 
 
-## useful analogies [^2]
+## useful analogies [2]
 
 - in set theory: functions with domains and codomains tell us how sets interact with each other
 - in group theory: group homomorphisms tell us how groups interact with each other
@@ -93,5 +93,5 @@
 
 ## references
 
-[^1]: socratica youtube channel, playlist "abstract algebra"
-[^2]: https://youtu.be/igf04k13jZk
+[1]: socratica youtube channel, playlist "abstract algebra"
+[2]: https://youtu.be/igf04k13jZk

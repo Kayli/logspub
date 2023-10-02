@@ -1,6 +1,6 @@
 # notes on literature that i happened to read or read about
 
-## basics [^1]
+## basics [1]
 
 - stages of development: oral,  written, coded
 - types
@@ -105,4 +105,4 @@ https://thedifference.ru/chem-otlichaetsya-folklor-ot-literatury/
 
 ## references
 
-[^1]: wikipedia + improvisation
+[1]: wikipedia + improvisation

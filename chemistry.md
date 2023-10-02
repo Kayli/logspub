@@ -278,13 +278,13 @@
     - burning of fossil fuels
     - fermentation
   - taken in by plants through the process of photosynthesis
-  - concentration: 412.5 ppm (parts per million) [^7]
+  - concentration: 412.5 ppm (parts per million) [7]
     - for most of the mesozoic era CO2 levels were high 1k-2k ppm
       - with transient excursions to even higher CO2 >2k ppm concentrations
 
 - carbon monoxide (CO)
   - colourless and odourless gas at room temperature, not naturally present in the atmosphere
-  - concentration: in earth's troposphere is around 0.1 ppm which is about 400 Tg [^8]
+  - concentration: in earth's troposphere is around 0.1 ppm which is about 400 Tg [8]
     - average lifetime is about 2 months in the atmosphere
     - is removed from atmosphere by reactions with OH radicals 85%, by soils 10%
 
@@ -413,5 +413,5 @@
 [double helix shape](https://www.thoughtco.com/double-helix-373302)
 [hydrogen bonds](https://www.thoughtco.com/definition-of-hydrogen-bond-605872)
 [chart of nuclides](https://www-nds.iaea.org/relnsd/vcharthtml/VChartHTML.html)
-[^7]: https://pubmed.ncbi.nlm.nih.gov/11357126/
-[^8]: https://www.sciencedirect.com/science/article/abs/pii/004565359090098E
+[7]: https://pubmed.ncbi.nlm.nih.gov/11357126/
+[8]: https://www.sciencedirect.com/science/article/abs/pii/004565359090098E

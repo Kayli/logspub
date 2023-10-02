@@ -1,4 +1,4 @@
-# anatomy [^1]
+# anatomy [1]
 
 ## basics
 
@@ -123,7 +123,7 @@
 - veins: carry blood towards the heart
 - arteias: carry blood away from heart
 
-- blood vessels [^2]
+- blood vessels [2]
   - oxygenated (течет артериальная кровь)
   - deoxyginated (течет венозная кровь)
 
@@ -202,5 +202,5 @@
 
 ## references
 
-[^1]: https://www.youtube.com/playlist?list=PLcsjsqLLSfNDHFikQVZd2XOqF5FK56L3D
-[^2]: https://upload.wikimedia.org/wikipedia/commons/f/f2/2101_Blood_Flow_Through_the_Heart.jpg
+[1]: https://www.youtube.com/playlist?list=PLcsjsqLLSfNDHFikQVZd2XOqF5FK56L3D
+[2]: https://upload.wikimedia.org/wikipedia/commons/f/f2/2101_Blood_Flow_Through_the_Heart.jpg

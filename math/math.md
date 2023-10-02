@@ -39,8 +39,8 @@
   - zfc is zf with has axiom of choice (ac) included
 
 - implementations
-  - zfc++ [^3]
-  - zfc in coq [^4]
+  - zfc++ [3]
+  - zfc in coq [4]
 
 
 ## random notes
@@ -51,7 +51,7 @@
 - complex numbers
   - common representation: z = x + iy
 
-- duality [^1]
+- duality [1]
   - translates 
     - concepts, theorems or mathematical structures 
     - into other concepts, theorems or structures in a one-to-one fashion
@@ -115,7 +115,7 @@
     - false value represented as function that always returns y
 
 
-## proofs [^2]
+## proofs [2]
 
 - axiomatic proof
   - deductive derivations of propositions from primitive premisses that are true in some sense of ‘true’
@@ -151,11 +151,11 @@
 ## theorem provers
 
 - automatic theorem provers
-  - in general, finding a proof for a given statement is undecidable [^14]
+  - in general, finding a proof for a given statement is undecidable [14]
 
 - components of a typical prover
   - theorem: thing we want to prove
-  - logic, which is a type theory, e.g. calculus of constructions [^5]
+  - logic, which is a type theory, e.g. calculus of constructions [5]
   - validity checker
   - language
   - proof assistaint (just a debugger??)
@@ -180,12 +180,12 @@
   - z3 (smt)
     - most popular, backed by microsoft
     - provides bindings to many languages, including python
-    - implements algorithms [^8]
+    - implements algorithms [8]
       - dppl
         - complete, backtracking-based search algorithm 
         - used for deciding sat of propositional logic formulae in conjunctive normal form
       - simplex: a popular algorithm for linear programming
-      - rewriting: methods of replacing subterms of a formula with other terms [^9]
+      - rewriting: methods of replacing subterms of a formula with other terms [9]
       - superposition: how to combine different algorithms inside one solver
       - congruence closure
         - operation that determines which terms are equal under substitutivity of equality and a given set of equalities
@@ -195,14 +195,14 @@
       - quantifiers elimination
       - euclidian solver: way to find the greatest common divisor of two positive integers, a and b
 
-  - dreal (smt) [^6][^7]
+  - dreal (smt) [6][7]
     - supports a wide range of nonlinear functions
       - including transcendental functions and solutions of lipschitz-continuous ODEs
 
   - coq (interactive theorem prover, assistaint)  
     
-  - isabelle/hol (generic proof assistant) [^10]
-    - uses hol syntax (typed lambda calculus) [^11]
+  - isabelle/hol (generic proof assistant) [10]
+    - uses hol syntax (typed lambda calculus) [11]
     - written in standard ml and scala
 
   - lean
@@ -229,7 +229,7 @@
     - according to Andrew Ng, in his 'How to Build Your AI Career' book
 
 
-## recursion [^13]
+## recursion [13]
 
 - structural
   - a recursive call is made on a subset of the original input data
@@ -271,17 +271,17 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Duality_(mathematics)
-[^2]: https://www.researchgate.net/publication/225203043
-[^3]: https://esolangs.org/wiki/ZFC%2B%2B
-[^4]: https://github.com/coq-contribs/zfc
-[^5]: https://en.wikipedia.org/wiki/Calculus_of_constructions
-[^6]: http://dreal.github.io
-[^7]: https://stackoverflow.com/questions/51433210/support-of-trigonometric-functions-e-g-cos-tan-in-z3
-[^8]: https://www.youtube.com/watch?v=unXzJEc3Pvk
-[^9]: https://en.wikipedia.org/wiki/Rewriting
-[^10]: https://isabelle.in.tum.de
-[^11]: https://www.cl.cam.ac.uk/research/hvg/old/HOL/documentation/hol90.7/syntax.html
-[^12]: https://math.stackexchange.com/questions/463362/whats-the-difference-between-theorem-lemma-and-corollary/463365#463365
-[^13]: https://stackoverflow.com/questions/14268749/how-does-structural-recursion-differ-from-generative-recursion
-[^14]: https://youtu.be/Uav5jWHNghY?t=308
+[1]: https://en.wikipedia.org/wiki/Duality_(mathematics)
+[2]: https://www.researchgate.net/publication/225203043
+[3]: https://esolangs.org/wiki/ZFC%2B%2B
+[4]: https://github.com/coq-contribs/zfc
+[5]: https://en.wikipedia.org/wiki/Calculus_of_constructions
+[6]: http://dreal.github.io
+[7]: https://stackoverflow.com/questions/51433210/support-of-trigonometric-functions-e-g-cos-tan-in-z3
+[8]: https://www.youtube.com/watch?v=unXzJEc3Pvk
+[9]: https://en.wikipedia.org/wiki/Rewriting
+[10]: https://isabelle.in.tum.de
+[11]: https://www.cl.cam.ac.uk/research/hvg/old/HOL/documentation/hol90.7/syntax.html
+[12]: https://math.stackexchange.com/questions/463362/whats-the-difference-between-theorem-lemma-and-corollary/463365#463365
+[13]: https://stackoverflow.com/questions/14268749/how-does-structural-recursion-differ-from-generative-recursion
+[14]: https://youtu.be/Uav5jWHNghY?t=308

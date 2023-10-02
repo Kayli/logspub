@@ -1,6 +1,6 @@
 # some religions and relevant info
 
-## basics [^3]
+## basics [3]
 
 - etymology
   - religio (respect for what is sacred)
@@ -19,7 +19,7 @@
     - богатство, bogatъ, ubogъ
     - доля, делить, получать долю, наделять
 
-- what is religion [^3]
+- what is religion [3]
   - things that surpass the limits of our knowledge (durkheim)
   - a sigh of the oppressed creature, the heart of a heartless world, and the soul of 
     soulless conditions. It is the opium of the people (marx)
@@ -63,7 +63,7 @@
   - atheistic
     - practices of dialectical materialism in ussr
 
-- religion as an ecology of psychotechnologies [^4]
+- religion as an ecology of psychotechnologies [4]
   - god is a one of the artifacts of such psychotechnologies
   - squeaking rats outside of my apartment are another one ;)
 
@@ -79,7 +79,7 @@
 
 - secularism: separation of church and state
 
-- disenchantment [^5]
+- disenchantment [5]
   - is the cultural rationalization and devaluation of religion apparent in modern society
   - in traditional society the world remains a great enchanted garden
   - in western society 
@@ -255,7 +255,7 @@
   - carried the same sense as the roman term "barbarian" to describe пermanic tribes
 
 
-### charvaka (lokayata) [^1]
+### charvaka (lokayata) [1]
 
 - forms around 600 bce
 - ancient school of indian materialism and hedonism
@@ -264,7 +264,7 @@
 - rejects ritualism and supernaturalism
 
 
-### rastafari (rastafarianism) [^2]
+### rastafari (rastafarianism) [2]
 
 - developed in Jamaica during the 1930s
   - haile selassie, the emperor of Ethiopia between 1930 and 1974
@@ -295,7 +295,7 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Charvaka
-[^2]: https://en.wikipedia.org/wiki/Rastafari
-[^3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
-[^4]: https://youtu.be/yImlXr5Tr8g?t=5435
+[1]: https://en.wikipedia.org/wiki/Charvaka
+[2]: https://en.wikipedia.org/wiki/Rastafari
+[3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
+[4]: https://youtu.be/yImlXr5Tr8g?t=5435

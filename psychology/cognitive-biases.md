@@ -1,4 +1,4 @@
-# cognitive biases and releated information [^1]
+# cognitive biases and releated information [1]
 
 - additive bias
   - e.g. individuals could add or subtract items on a travel itinerary for the optimal experience
@@ -58,7 +58,7 @@
   - may lead to problems with sleeping
     - solution: create a plan to complete the task without implementing it
 
-- peak-end rule [^3]
+- peak-end rule [3]
   - psychological heuristic that changes the way we recall past events
   - we remember a memory or judge an experience based on how they felt at the peak moments, as well as how they felt at the end
 
@@ -66,11 +66,11 @@
 ## random stuff
 
 - bless yourself with holy water, have masses said, and so on; by simple and natural process this will make you believe
-  - this will dull you, quiet your critical intellect [^2]
+  - this will dull you, quiet your critical intellect [2]
 
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/List_of_cognitive_biases
-[^2]: https://www.youtube.com/watch?v=fZpJ7yUPwdU
-[^3]: https://thedecisionlab.com/biases
+[1]: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+[2]: https://www.youtube.com/watch?v=fZpJ7yUPwdU
+[3]: https://thedecisionlab.com/biases

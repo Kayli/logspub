@@ -56,7 +56,7 @@
   - consider reversing dependency using events
 
 
-## patterns [^2]
+## patterns [2]
 
 - event notification
   - pubsub using events
@@ -88,15 +88,15 @@
   - buses should be trivial to use, in that sense they should be 'dumb'
   - if some optimization is possible - thats okay, but pipes should not dictate much
 
-- transactional outbox [^4]
+- transactional outbox [4]
   - safely save messages into a database before sending them asynchronously
   - sending is usually done by some other service
 
-- end-to-end ownership of a service [^3]
+- end-to-end ownership of a service [3]
   - closed loop: architect -> design -> develop -> review -> test -> deploy -> run -> support -> architect ...
   - teams are loosely coupled, each iterating their own process
 
-- micro frontend [^8]
+- micro frontend [8]
   - react: 'module federation plugin'
 
 - api gateway
@@ -147,8 +147,8 @@
   - this will allow to verify that extracted service works the same way 
 
 - typical reasons 
-  - parts of the system need to be deployed independently of others [^11]
-  - monolithic release is too slow, too complicated [^11]
+  - parts of the system need to be deployed independently of others [11]
+  - monolithic release is too slow, too complicated [11]
   - reducing risks of evolving/rewriting application when its time
 
 - residual monolith
@@ -167,7 +167,7 @@
 
 - must have layer to decouple from specific vendors
 
-- dapr (distributed application runtime) [^1]
+- dapr (distributed application runtime) [1]
   - unified wrapper for typical cloud services
   - rpc, configuration, instrumentation
   - pubsub
@@ -185,7 +185,7 @@
   - introspection
   - observability
 
-- load balancing [^6]
+- load balancing [6]
   - client-side
   - server-side/proxy: dns, nginx, haproxy, consul, envoy
 
@@ -197,7 +197,7 @@
   - graphql
     - queryable apis
     - reduces amount of work required on server side, when you need richer queries support
-    - provides introspection over its schema [^5]
+    - provides introspection over its schema [5]
 
   - grpc
     - provides unified way of communication between services
@@ -251,9 +251,9 @@
     - similar to sns, but provides more service integrations out of the box
   - msk: managed service for kafka
     - you need to only manage scaling manually
-  - kinesis: simpler to manage and lower costs than kafka [^9]
+  - kinesis: simpler to manage and lower costs than kafka [9]
 
-- microsoft [^7]
+- microsoft [7]
   - azure 
     - event hub
       - can maintain the order of the events in the same partition
@@ -325,7 +325,7 @@
 - consistent hashing ring algorithm
   - minimizes number of keys need to be remapped when hash table is resized
 
-- 3 and 5 node clusters make most practical sense [^12]
+- 3 and 5 node clusters make most practical sense [12]
   - they shouldn't be 
     - too far away from each other: cluster performance may degrade
     - too close to each other: so that disaster is likely to influence only one
@@ -441,15 +441,15 @@
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
-[^2]: https://www.youtube.com/watch?v=STKCRSUsyP0 (martin fowler goto 2017)
-[^3]: https://www.youtube.com/watch?v=57UK46qfBLY
-[^4]: https://microservices.io/patterns/data/transactional-outbox.html
-[^5]: https://spec.graphql.org/June2018/#sec-Introspection
-[^6]: https://medium.com/swlh/scaling-microservices-with-grpc-and-envoy-proxy-part-2-148f589b2a83
-[^7]: https://stackoverflow.com/questions/57740782/message-bus-vs-service-bus-vs-event-hub-vs-event-grid
-[^8]: https://micro-frontends.org
-[^9]: https://www.youtube.com/watch?v=TJS19EuzH2k
-[^10]: https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3?p2df
-[^11]: https://www.youtube.com/watch?v=9vS7TbgirgY
-[^12]: https://www.youtube.com/watch?v=PRsB6HzQ_ss
+[1]: https://www.youtube.com/watch?v=-4sHUvfk2Eg
+[2]: https://www.youtube.com/watch?v=STKCRSUsyP0 (martin fowler goto 2017)
+[3]: https://www.youtube.com/watch?v=57UK46qfBLY
+[4]: https://microservices.io/patterns/data/transactional-outbox.html
+[5]: https://spec.graphql.org/June2018/#sec-Introspection
+[6]: https://medium.com/swlh/scaling-microservices-with-grpc-and-envoy-proxy-part-2-148f589b2a83
+[7]: https://stackoverflow.com/questions/57740782/message-bus-vs-service-bus-vs-event-hub-vs-event-grid
+[8]: https://micro-frontends.org
+[9]: https://www.youtube.com/watch?v=TJS19EuzH2k
+[10]: https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3?p2df
+[11]: https://www.youtube.com/watch?v=9vS7TbgirgY
+[12]: https://www.youtube.com/watch?v=PRsB6HzQ_ss

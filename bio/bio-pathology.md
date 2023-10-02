@@ -128,7 +128,7 @@
 - interesting studies
   - the first hint of a link between dogs and Williams syndrome came in 2010
     - when evolutionary biologist bridgett vonHoldt and her colleagues examined DNA from 225 wolves and 912 dogs from 85 breeds
-    - they were looking for parts of the genome that have been shaped by selection since dogs diverged from wolves [^1]
+    - they were looking for parts of the genome that have been shaped by selection since dogs diverged from wolves [1]
     
   - to understand the process of dog diversification better
     - scientists conducted an extensive genome-wide survey of more than 48,000 single nucleotide polymorphisms in dogs and their wild progenitor, the grey wolf
@@ -150,11 +150,11 @@
 - type 2 
   - chronic metabolic disorder characterized by high levels of glucose in the blood
   - the most common form of diabetes, accounting for around 90-95% of all diabetes cases
-  - drugs: semaglutide (older), tirzepatide (newer) [^3]
+  - drugs: semaglutide (older), tirzepatide (newer) [3]
 
 
 ## references
 
-[^1]: https://www.insidescience.org/news/rare-human-syndrome-may-explain-why-dogs-are-so-friendly
-[^2]: https://www.nature.com/articles/nature08837
-[^3]: https://www.youtube.com/watch?v=v2LbvjZbpiA
+[1]: https://www.insidescience.org/news/rare-human-syndrome-may-explain-why-dogs-are-so-friendly
+[2]: https://www.nature.com/articles/nature08837
+[3]: https://www.youtube.com/watch?v=v2LbvjZbpiA

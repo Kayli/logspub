@@ -1,4 +1,4 @@
-# notes related to history of china [^1]
+# notes related to history of china [1]
 
 # basic facts
 
@@ -38,7 +38,7 @@
 - 9-10 dynasties in-between ...
   - northern and southern dynasties 420–589
     - daosism and buddhism cross-polination/integration
-      - bushwacker's pelevenisms [^3] 
+      - bushwacker's pelevenisms [3] 
 - qing 1636-1912 ce
   - phonetic: shin
   - 1850-1864 taiping rebellion
@@ -85,4 +85,4 @@
 
 ## references
 
-[^1]: https://www.youtube.com/playlist?list=PLk7JM19SQtzAfxnVYq3sQ3p0KLbTPfjwr
+[1]: https://www.youtube.com/playlist?list=PLk7JM19SQtzAfxnVYq3sQ3p0KLbTPfjwr

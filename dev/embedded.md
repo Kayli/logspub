@@ -2,7 +2,7 @@
 
 ## basics
 
-- bit vs baud [^2]
+- bit vs baud [2]
   - bit means logical level
   - baud means symbol on a physical level
     - e.g, physical signals that is transferred over the physical medium to convey the data bits
@@ -44,7 +44,7 @@
 - shift register: fundamental method of conversion between serial and parallel forms
 
 
-## linux kernel embedded drivers [^1]
+## linux kernel embedded drivers [1]
 
 - gpio drivers and library allow not to write kernel drivers in most cases
   - allows you to control general-purpose io interfaces, e.g. sending 1 or 0 to dedicated pin
@@ -66,5 +66,5 @@
 
 ## references
 
-[^1]: https://www.youtube.com/watch?v=QIO2pJqMxjE
-[^2]: https://stackoverflow.com/questions/20534417/what-is-the-difference-between-baud-rate-and-bit-rate
+[1]: https://www.youtube.com/watch?v=QIO2pJqMxjE
+[2]: https://stackoverflow.com/questions/20534417/what-is-the-difference-between-baud-rate-and-bit-rate

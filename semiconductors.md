@@ -37,7 +37,7 @@
 
 ## market 
 
-- major players as of 2022 [^5]
+- major players as of 2022 [5]
   -	NVIDIA $485.94B USA
   -	TSMC $483.78B	Taiwan
   -	Samsung $363.47B	S. Korea
@@ -62,11 +62,11 @@
   - Microfab Technologies
   
 
-- semiconductors export as of 2016 [^4]
+- semiconductors export as of 2016 [4]
   - china 25%, malaysia 10%, taiwan 9%, japan 9%, singapore 6%, usa 5%, germany 5%,
     south korea 5%, phillipines 3%, tailand 2%, vietnam 1%, mexico 1%, netherlands 1%
 
-- integrated circuits export as of 2016 [^4]
+- integrated circuits export as of 2016 [4]
   - taiwan 23%, south korea 11%, singapore 11%, china 10%, malasiya 9%, japan 5%, usa 5%
 
 
@@ -97,7 +97,7 @@
 
 ## references
 
-[^2]: https://anysilicon.com/semiconductor-supply-chain-overview/
-[^3]: https://www.sciencedirect.com/topics/materials-science/silicon-wafer
-[^4]: https://en.wikipedia.org/wiki/Semiconductor_industry
-[^5]: https://companiesmarketcap.com/semiconductors/largest-semiconductor-companies-by-market-cap/
+[2]: https://anysilicon.com/semiconductor-supply-chain-overview/
+[3]: https://www.sciencedirect.com/topics/materials-science/silicon-wafer
+[4]: https://en.wikipedia.org/wiki/Semiconductor_industry
+[5]: https://companiesmarketcap.com/semiconductors/largest-semiconductor-companies-by-market-cap/

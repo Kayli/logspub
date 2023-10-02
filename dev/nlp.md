@@ -1,6 +1,6 @@
 # natural language processing
 
-## basics [^1]
+## basics [1]
 
 - translation studies
   - ademic interdiscipline 
@@ -83,4 +83,4 @@
 
 ## references
 
-[^1]: https://en.wikipedia.org/wiki/Parallel_text
+[1]: https://en.wikipedia.org/wiki/Parallel_text

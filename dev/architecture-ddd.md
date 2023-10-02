@@ -3,7 +3,7 @@
 ## basics
 
 - domain
-- subdomain [^1]
+- subdomain [1]
   - core: provides competitive advantage for a company, has to be developed in-house
   - generic: no competitive advantage and high entry barrier, can reuse existing third-party solution
   - supporting: no competitive advantage and low entry barrier, can be outsourced
@@ -22,7 +22,7 @@
   - helps to facilitate the collaboration between domain experts and engineers
 
 
-## examples of subdomains [^1]
+## examples of subdomains [1]
 
 - ticket sales and distribution company
   - core
@@ -60,4 +60,4 @@
 
 ## references
 
-[^1]: https://www.amazon.ca/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131
+[1]: https://www.amazon.ca/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131

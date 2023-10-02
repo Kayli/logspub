@@ -28,7 +28,7 @@
   - express (ui, api)
 - gatsby (ui)
   - webpack + graphql + react
-  - integration with cms plugins like strapi, graphcms and many others [^1]
+  - integration with cms plugins like strapi, graphcms and many others [1]
   - deferred static generation
   - server-side rendering 
 
@@ -36,7 +36,7 @@
   - allows to do server-side render in order to
     - be seo friendly
     - load site faster very first time
-  - useful techniques: server side includes [^3]
+  - useful techniques: server side includes [3]
   - frameworks
     - asp.net blazor
     - meteor
@@ -85,7 +85,7 @@
 - graphql
   - queryable apis
   - reduces amount of work required on server side, when you need richer queries support
-  - provides introspection over its schema [^5]
+  - provides introspection over its schema [5]
 
 
 ## single sign-on (sso)
@@ -118,7 +118,7 @@
   - compiles to webassembly by default
 
 
-## atomic design [^2]
+## atomic design [2]
 
 - atoms: button, label, image
 - molecules: label input, form
@@ -157,6 +157,6 @@
 
 ## references
 
-[^1]: https://www.gatsbyjs.com/plugins/#cms
-[^2]: https://bradfrost.com/blog/post/atomic-web-design/
-[^3]: https://en.wikipedia.org/wiki/Server_Side_Includes
+[1]: https://www.gatsbyjs.com/plugins/#cms
+[2]: https://bradfrost.com/blog/post/atomic-web-design/
+[3]: https://en.wikipedia.org/wiki/Server_Side_Includes
