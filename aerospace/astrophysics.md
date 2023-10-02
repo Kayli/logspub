@@ -377,6 +377,18 @@
   - then what is 'waving' there, if time suppose to stop at the speed of light?
 
 
+## orbital mechanics / astrodynamics
+
+- application of ballistics and celestial mechanics to the practical problems concerning the motion of rockets, satellites, and other spacecraft
+
+- apoapsis
+  - the point farthest from a celestial body reached by an object orbiting it 
+  - apogee for earth, apolune for moon, aphelion for sun
+- paeriapsis
+  - the point nearest to a celestial body reached by an object orbiting it
+  - perigee for earth, perilune for moon, perihelion for sun
+
+
 ## modelling
 
 - популяционный синтез

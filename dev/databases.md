@@ -2,9 +2,6 @@
 
 ## basics
 
-- time to glass
-  - time between the moment when an event happens and the point when a platform issues an alert
-
 - datalake
   - centralized repository
   - designed to store, process, and secure large amounts of data 
@@ -25,7 +22,7 @@
     - document: mongodb, raven, couch
     - key-value: riak, redis, etcd
   - graph: neo4j, dgraph
-  - column: cassandra, hbase
+  - column: cassandra, hbase, duckdb, kudu
   - full-text search engines
     - apache lucene based: solr and elastic search
     - algolia, meilisearch
@@ -220,6 +217,12 @@
 
 ## column stores
 
+- benefits of columnar representation
+  - multiple values of the same type (columns) are clustered together
+    - enables a better querying performance
+      - as we're requesting a subset of the columns more often
+
+
 - cassandra
   - flexible schemas
   - async replication only
@@ -269,6 +272,51 @@
         - "is intended to be read and written in streams" [1]
 
 
+## open formats
+
+- apache parquet
+  - on-disk storage format
+  - columnar
+  - enables optimizations
+    - if you know max value, you can use fewer bits to represent it (not just 16, 32, 64)?
+  
+- apache arrow
+  - in-memory storage format
+  - columnar
+  - language-agnostic in-memory representation
+  - optimized for
+    - nested data structures
+    - pipelining, simd, cache locality
+  - arrow flight framework: wrapper around grpc to make serialization more efficient with arrow
+  - good for working with parquet-stored data
+  - deeper pandas integrations are on the roadmap
+  - supports .arrow file format which then can be used to memory-map using os mechanisms
+    - os often maps file in a lazy-load manner, significantly speeding up access
+
+- apache orc: free and open-source column-oriented data storage format
+- apache avro: row-based storage format
+- rcfile: mix of row-store and column-store approaches
+
+
+## relational algebra 
+
+- bag (multiset)
+  - is like a set, but an element may appear more than once
+
+- define operators
+  - that transform one or more input relations into an output relation
+  - accept relations as input and produce relations as output
+
+- fundamental operators
+  - selection(σ): analogous to selecting rows filtered by predicate
+  - projection(π): analogous to selecting rows with data from only specified columns
+  - union(u)
+  - set difference(-)
+  - set intersection(∩)
+  - rename(ρ)
+  - cartesian product(x)
+
+
 ## sql syntax
 
 - "having" clause
@@ -280,6 +328,33 @@
 - dbeaver https://dbeaver.io
   - free and opensource community edition
   - supports many databases, on-premise and cloud, all in one interface
+
+
+## terminology
+
+- time to glass
+  - time between the moment when an event happens and the point when a platform issues an alert
+
+- dataframe
+  - generic term, not a specific implementation
+  - a data structure representing a chunk of data
+  - also an api for interacting with that data
+    - use imperative/procedural constructs
+    - offer access to internal structure
+    - expose operations outside of traditional relational algebra
+    - have stateful semantics
+  - examples
+    - in r dataframe is a part of the language
+    - in python its a library like pandas
+
+- predicate pushdown
+  - using predicates to read only required data
+  - comparing to reading it all and then applying predicate on higher layers
+
+- projection pushdown
+  - reading only data for columns user requested in their query
+  - example: if your projection selects only 3 columns out of 10, then less columns will be passed from the storage to Spark and if your storage is columnar (e.g. Parquet, not Avro) and the non selected columns are not a part of the filter, then these columns won't even have to be read.
+
 
 
 ## references

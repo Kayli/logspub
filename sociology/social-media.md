@@ -22,8 +22,8 @@
 ## creator digital platforms
 
 - patreon
-  - 8% - 12% of the income you earn, depending on a plan
-  - plus payment processing, currency conversion, payout fees, and applicable taxes
+  - platform charges 8% - 12% of the income you earn, depending on a plan
+    - plus payment processing, currency conversion, payout fees, and applicable taxes
 
 - youtube
-  - 30% of the income you earn via 'super thanks' feature
+  - platform charges 30% of the income you earn via 'super thanks' feature

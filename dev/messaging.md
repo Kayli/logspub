@@ -45,7 +45,7 @@
       - implies a benefit from the better performance of generated code
   - apache avro (.avsc)
     - supports dynamic typing
-  - parquet
+  - parquet?
   - orc (optimized row columnar)
 
 

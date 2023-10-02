@@ -7,6 +7,13 @@
   - ~/.zshrc
 
 
+## executable binary format
+
+- mach-o (mach object)
+  - format for executables, object code, shared libraries, dynamically loaded code, and core dumps
+  - like 'elf' on linux, 'pe' on windows
+
+
 ## useful terminal commands
 
 - list block devices (like lsblk on linux)
@@ -30,7 +37,7 @@
 - pieces of code that can run independently of any user
 - network extensions can monitor and filter network traffic
 - needs developer subscription which costs 100 bucks a year
-- running/debugging system extensions without subscription is a pain, as you need to
+- running/debugging system extensions without subscription is a pain, as you need to [1]
   - reset all previous System Extensions
     > systemextensionsctl reset
   - turn on developer mode and disable some of the restrictions like having to run from /Applications
@@ -58,6 +65,27 @@
   - warning: posts some user data to a third-party service
 
 
+## security [2]
+
+- gatekeeper
+  - verifies that the software 
+    - from an identified developer
+    - notarized by Apple to be free of known malicious content
+    - and hasn’t been altered
+  - requests user approval before opening downloaded software for the first time to make sure the user hasn’t been tricked into running executable code they believed to simply be a data file
+
+- system integrity protection (sip) 
+  - is a security technology designed to help prevent potentially malicious software from modifying protected files and folders
+  - introduced in OS X El Capitan (2015)
+  - does not allow root user to change certain system folders
+
+- XProtect
+  - identifies and blocks malware when its just copied/downloaded
+  - acts to remediate malware that has managed to successfully execute
+  - scans only apps that have been changed or apps at first launch
+
+
 ## references
 
-[^1]: https://stackoverflow.com/questions/60674561/how-to-run-un-signed-system-extensions-in-osx-catalina
+[1]: https://stackoverflow.com/questions/60674561/how-to-run-un-signed-system-extensions-in-osx-catalina
+[2]: https://habr.com/ru/companies/bastion/articles/763468/

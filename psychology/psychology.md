@@ -220,6 +220,7 @@
   
   - drama triangle roles: victim, persecutor, hero
   - alternative roles: creator, challenger, coach
+    - empowerment dynamic approach
 
   - rewrite how you take part in your relationships
     - examine how you may adopt any of these roles
@@ -228,6 +229,17 @@
     - in conflict, we naturally tend to act on the first thought that crosses our minds
     - choose an idea that considers the best long-term outcome
       - it is more beneficial than one that satisfies the short-term and can produce a negative result
+
+- using 'i-statements' instead of blaming other party
+  - this keeps locus of control in your hands
+  - examples
+    - i feel like i don't have many people to turn to with my problems
+
+- us against the problem instead of us against each other
+  - both should be stepping into a coach position (empowerment dynamic approach)
+
+- a bird sitting on a tree is never afraid of the branch breaking
+  - because its trust is not on the branch but in its own wings
 
 
 ## psychophysiology
@@ -332,7 +344,7 @@
 
 - role play framing
   - intentionally imposes certain kinds of fragmentation through metafor/analogy
-  - can help to better understand/model psychodynamics of self or of other individuals
+  - can help to better understand/model psychodynamics of self or other individuals
   - examples
     - inner parent vs inner child (see heidi preiebe videos)
 
@@ -378,7 +390,8 @@
     - unanswerable questions: possibilities are endless and debilitating (изнуряющие)
     - broad generalizations: distort information
       - specific context often gets removed
-      - generalizing to personality trait when failing some task (we become a failure: can't do anything right)
+      - generalizing to personality trait when failing some task
+        - we become a failure: can't do anything right
       - we more likely to apply generalisations to other people, labeling them selfish and uncaring
       - prevent us from learning, leaving us with a sense of hopelesness
       - example: everyone is amenable to reason
@@ -412,8 +425,8 @@
     - expressing in words, gestures, symbols
 
 - letting go of fantasies (forms of denial) that
-  - some things can be fixed
-  - there is always hope for change
+  - all things can be fixed (some can, but fixing all may not be practical)
+  - there is always hope for change (hope is not enough)
 
 - healthy daydreaming
   - helps you identify things missing in your life
@@ -480,6 +493,36 @@
   - unconscious competence (mastery)
     - healthy responses become automatic, the one you employ by default
 
+- attachment styles [19] [21]
+  - insecure
+    - characterized by difficulties with cultivating and maintaining healthy relationships
+    - subtypes
+      - anxious (also referred to as preoccupied)
+        - negative self-view, but a positive view of others
+      - avoidant (also referred to as dismissive)
+        - have a positive self-view and negative one of others
+        - prefer to foster a high sense of independence and self-sufficiency
+          - especially on an emotional level
+      - disorganized (also referred to as fearful-avoidant)
+        - vacillate between the traits of both anxious and avoidant attachment
+          - depending on their mood and circumstances
+        - tends to show confusing and ambiguous behaviors in their social bonds
+  - secure
+    - comfortable expressing emotions openly
+    - can depend on their partners and, in turn, let their partners rely on them
+    - often thrive in their relationships
+    - don’t fear being on their own
+    - tend to have a positive view of themselves and others
+    - do not overly seek external approval or validation
+
+- potential red flags
+  - not objective but higly personal criteria
+  - examples
+    - we don't feel naturally affirmed by this person
+    - having quality time together
+    - feeling inhibited around person/people
+    - 
+
 
 ## iq
 
@@ -510,14 +553,17 @@
   - agreeableness (friendly/compassionate vs. critical/rational)
   - neuroticism (sensitive/nervous vs. resilient/confident)
 
-- myers-briggs 
+- myers-briggs
+  - mbti: myers-briggs type indicator
   - cover four specific dichotomies, or scales
     - introversion-extraversion (i or e)
     - sensing-intuition         (s or n)
     - thinking-feeling          (t or f)
     - judging-perceiving        (j or p)
 
-- permutations give 16 personality types
+  - permutations give 16 personality types
+
+- attachment styles: anxious, avoidant, disorganized, secure
 
 
 ## interesting facts
@@ -568,3 +614,4 @@
 [18]: https://en.wikipedia.org/wiki/Attenuation_theory
 [19]: https://www.youtube.com/@heidipriebe1
 [20]: https://www.youtube.com/watch?v=lzuG82n5ICQ
+[21]: https://www.attachmentproject.com/blog/four-attachment-styles/

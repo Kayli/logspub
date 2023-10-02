@@ -370,6 +370,44 @@
 - supports automatic minification of js, css and html files
 
 
+## high performance computing (hpc)
+
+- work performed on clusters of computers often referred as 'nodes'
+    - use either high-performance multi-core CPUs or, more likely today, GPUs
+  - centralized scheduler manages the parallel computing workload
+  - clusters may include 100,000 or more nodes
+  - lower-latency, higher-throughput RDMA networking
+    - RDMA—remote direct memory access
+    - enables one networked computer to access another networked computer’s memory 
+      - without involving either computer’s operating system 
+      - or interrupting either computer’s processing
+- cuda model 
+  - can effectively utilize only gpu loads
+    - this contrasts with opencl, which can use both gpu and cpu for parallel processing
+  - sharing data between multiple gpu devices
+    - via shared memory, 'unified addressing' feature
+      - 'pinned' memory is a non-pageable memory on the host
+      - need to clone data from pageable memory to pinned, before copying to device
+    - via events
+  - kernel
+    - function (void only)
+    - launched, usually by the host or sometimes from another kernel
+    - executed asynchronously (non blocking the host) on the device
+  - device function
+    - just a function that runs on cuda-managed device
+    - can be called by kernel or other device function
+    - can't be called from host
+  - computation
+    - ilp: instruction-level parallelism
+    - stream
+      - sequence of kernels or CUDA commands that execute in order
+        - possibly issued by different host threads
+      - within single 'stream' kernels are executed sequentially
+      - you can have multiple streams running in-parallel
+    - other primitives: grid, block, warp, thread
+
+
+
 ## useful resources
 
 - 12 factor apps https://12factor.net/

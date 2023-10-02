@@ -31,7 +31,19 @@
   - word that is pronounced the same (to varying extent) as another word but differs in meaning
 
 - filler, hesitation marker, planner (дискурсивные слова, слова-паразиты)
-  
+
+- infinitive
+  - term for certain verb forms
+  - most common infinitive form is "to + verb," such as "to eat" "to run" "to study" 
+
+- non-infinitive verb
+  - is any form of a verb other than the base infinitive form
+  - past tense, past participle, present participle (gerund), and various verb conjugations
+
+- gerund
+  - verb form that functions as a noun
+  - in english means -ing form used such as 'playing on computers'
+
 
 ## parts of speech
 

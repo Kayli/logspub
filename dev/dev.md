@@ -30,7 +30,7 @@
 
 ## functional programming languages
 
-- classic functional programming [^1]
+- classic functional programming [1]
   - haskell
     - evaluation of statements is lazy by default
     - function call
@@ -43,7 +43,7 @@
     - type class
       - is a constraint (or interface) for types
       - defines operations allowed on variables of this type
-    - sequential data [^2]
+    - sequential data [2]
       - lists
         - standard way to represent sequences
         - implemented as singly-linked list under the hood
@@ -78,7 +78,7 @@
 ## verified compilers
 
 - CompCert 
-  - C verified compiler, 
+  - C verified compiler
   - provides high-assurance for almost all of the C language (ISO C 2011)
   - generates efficient code for the PowerPC, ARM, RISC-V and x86 processors
 
@@ -103,7 +103,7 @@
     - useful extensions
       - draw.io integration: unofficial extension integrates Draw.io (also known as diagrams.net)
       - markdown preview mermaid support: adds mermaid diagram and flowchart support to vs code's builtin markdown preview
-    - to increase scrolll buffer in terminal set the following option [^5]
+    - to increase scrolll buffer in terminal set the following option [5]
       - "terminal.integrated.scrollback": 1000 
 
 - jetbrains
@@ -143,7 +143,7 @@
 
 ## patterns
 
-- forbidden dependency test [^3]
+- forbidden dependency test [3]
   - enforces constraints on project structure
   - implementations: dependency-cruiser (nodejs)
 
@@ -154,7 +154,7 @@
 - recursive step: a set of rules that reduces all successive cases toward the base case
 
 - driver function: provides interface for algorithm and hides parameters needed for recursive calls
-- mutual recursion: when more than one function call one another recursively [^4]
+- mutual recursion: when more than one function call one another recursively [4]
 
 
 ## unicode
@@ -173,6 +173,13 @@
   - backward compatibility mechanism
 
 
+## interesting
+
+- escape analysis in go
+  - detects if variable value should live longer than its scope
+  - in such case it will allocate object in a heap
+
+
 ## useful resources
 
 - rosetta code https://rosettacode.org/wiki/Rosetta_Code
@@ -182,8 +189,8 @@
 
 ## references
 
-[^1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
-[^2]: https://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences
-[^3]: https://www.youtube.com/watch?v=TqfbAXCCVwE
-[^4]: https://youtu.be/LYIn_Ewpq-E?t=2205
-[^5]: https://stackoverflow.com/questions/39881395/visual-studio-code-scroll-back-buffer
+[1]: https://github.com/hmemcpy/milewski-ctfp-pdf/ (category theory for programmers)
+[2]: https://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences
+[3]: https://www.youtube.com/watch?v=TqfbAXCCVwE
+[4]: https://youtu.be/LYIn_Ewpq-E?t=2205
+[5]: https://stackoverflow.com/questions/39881395/visual-studio-code-scroll-back-buffer

@@ -1,6 +1,7 @@
 # notes on some basic english grammatics
 
 - tense: shows or indicates a time in which a verb is used
+- adjective: прилагательное
 
 
 ## verbs

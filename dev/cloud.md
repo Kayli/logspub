@@ -3,6 +3,10 @@
 
 ## commonly used terms
 
+- hyperscalers
+  - large cloud service providers
+  - can provide services such as computing and storage at enterprise scale
+
 - infrastructure as a service (iaas)
   - virtualization and management of servers, operating systems, networks, and storage
 
@@ -109,10 +113,10 @@
   - cloud computing execution model 
   - in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers
 
-- usually contrasted with traditional styles, such as microservices or monoliths
+- usually contrasted with more traditional styles, such as microservices or monoliths
 
 - devs are not concerned with
-  - capacity planning, configuration, management, maintenance, fault tolerance
+  - compute capacity planning, configuration management, maintenance, fault tolerance
   - scaling of containers, VMs, or physical servers
 
 

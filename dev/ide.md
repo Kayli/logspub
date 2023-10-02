@@ -2,6 +2,12 @@
 
 ## vscode
 
+- history
+  - first announced on april 29, 2015, by microsoft at the 2015 build conference. 
+  - same year the source was released under the mit license and made available on github
+    - extension support was also announced
+  - community distribution, called vscodium, is maintained, which provides mit licensed binaries
+
 - shortcuts
   - macos
     - opt + cmd + left/right:   switch between tabs

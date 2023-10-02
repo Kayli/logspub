@@ -153,8 +153,11 @@
   - java 21
     - unnamed classes
     - record patterns to deconstruct record values
-    - virtual threads: lightweight threads that dramatically reduce the effort of writing, maintaining, and observing high-throughput concurrent applications
+    - virtual threads
+      - lightweight threads that dramatically reduce the effort of writing, maintaining, and observing high-throughput concurrent applications
       - see Thread.Builder api
+    - SequencedCollection interface
+      - additional methods simplifying work with collections
     - string templates (preview)
 
 
@@ -227,6 +230,8 @@
   - uses dynamic code evolution java virtual machine to propagate changes to running app in dev mode
 
 - jdk main-line development: https://github.com/openjdk/jdk
+
+- preview features must be explicitly enabled with vm option --enable-preview
 
 
 ## references

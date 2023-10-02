@@ -28,8 +28,6 @@
       - so they are executed concurrently
 
 
-
-
 ## provable kernels
 
 - seL4 [ess-e-ell-four]
@@ -59,6 +57,17 @@
     - and you want to allow access from machine A to machine B
   - run the following command, to add your public key to authorized_keys on a server machine
     > ssh-copy-id -i ~/.ssh/id_ed25519.pub username@ipaddress
+
+
+## popular executable library formats
+
+- pe: on microsoft windows
+- elf: on linux and most other versions of unix
+- mach-o: on macos and ios
+- mz: on dos
+
+- fat binary (or multiarchitecture binary)
+  - is a computer executable program or library which has been expanded (or "fattened") with code native to multiple instruction sets which can consequently be run on multiple processor types
 
 
 ## references

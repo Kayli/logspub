@@ -15,7 +15,7 @@
 - python3.x naturally supports big numbers with int type (which was called 'long' in 2.x)
 
 - mixins
-  - work out of the box [^3]
+  - work out of the box [3]
   - just specify multiple 'base classes' on class declaration
   
 - reflection and alike
@@ -335,7 +335,7 @@
     --tags ~@skip         # run all tests except ones marked with skipped tag 
 
 - hypothesis
-  - implements concept of property-based testing [^11]
+  - implements concept of property-based testing [11]
   - augments pytest with test sampling logic
     - decorated functions are called multiple times for every element of sample set
     - values are dynamically injected into a decorated function
@@ -358,7 +358,7 @@
   - usage: pylint <package-folder-path>
 
 - pyright https://github.com/microsoft/pyright
-  - much faster than mypy? [^9]
+  - much faster than mypy? [9]
 
 - black
   - popular code formatter
@@ -456,7 +456,7 @@
   - https://www.geeksforgeeks.org/how-to-create-a-correlation-matrix-using-pandas/
 
 - fourier transform
-  - scipy’s fast fourier transform (fft) is preferable to other alternatives [^1] 
+  - scipy’s fast fourier transform (fft) is preferable to other alternatives [1] 
   - fft is an algorithm for computing the discrete fourier transform (dft)
     - whereas the dft is the transform itself
 
@@ -509,7 +509,7 @@
   - lightweight container with simple, intuitive api
 
 
-## command line interface (cli) [^4]
+## command line interface (cli) [4]
 
 - PyInquirer: interactive command line interfaces, cli wizards 
   - https://github.com/CITGuru/PyInquirer
@@ -559,11 +559,11 @@
 
 ## messaging
 
-- kafka client [^7]
+- kafka client [7]
   - kafka-python https://kafka-python.readthedocs.io/en/master/index.html
 
 
-## package distribution [^8]
+## package distribution [8]
 
 - package distribution types 
   - source distribution, or sdist
@@ -616,7 +616,7 @@
     >>> task = asyncio.create_task(some_async_func())
     >>> await task
 
-- global interpreter lock (gil) [^6]
+- global interpreter lock (gil) [6]
   - lock is enabled by default and that it is periodically released
     - as opposed to the paradigm often seen in many multi-threaded programs where locks are generally 
       not held except when specifically required in so-called "critical sections"
@@ -631,7 +631,7 @@
 
 - constructor overloading
   - does not work out of the box
-  - in python 3.x need to inherit from MultipleMeta class to achieve something like that [^2]
+  - in python 3.x need to inherit from MultipleMeta class to achieve something like that [2]
 
 
 ## vscode extensions
@@ -642,7 +642,7 @@
 
 ## history
 
-- was inspired by 'abc' programming language [^10]
+- was inspired by 'abc' programming language [10]
 - initially designed by guido van rossum
 - got funding by DARPA after proposal in August 1999
   - computer programming for everybody (CP4E)
@@ -671,6 +671,7 @@
 - 2006, 2.5
   - 'with' statement and context manager (RAII-like behavior)
 - 2008, 3.0 - 3.6
+  - broke backward compatibility
   - reduce feature duplication by removing old ways of doing things
   - print as a built-in function, not a statement
   - move reduce() into functools
@@ -680,7 +681,31 @@
   - introducing a separate immutable bytes type
     - with corresponding mutable bytearray type, both of which represent arrays of bytes
 - 2018, 3.7
-  - 
+  - new time functions with nanosecond resolution
+  - built-in breakpoint()
+  - core support for typing module and generic types
+  - .pyc files using hashed source code for invalidation
+  - dataclasses via @dataclass decorator
+  - context variables for compatible with asyncio.Task
+- 2019, 3.8
+  - walrus operator := (assignment expression)
+  - positional-only parameters
+- 2020, 3.9
+  - dict merge (|) and update (|=) operators
+  - new removeprefix() and removesuffix() string methods
+  - builtin generic types
+  - zoneinfo module, support for the IANA time zone database
+- 2021, 3.10
+  - structural pattern matching using 'match ... case' statement, see pep-0636
+  - writing union types as X | Y
+  - parenthesized context managers
+- 2022, 3.11
+  - between 10-60% faster than previous version
+  - exception groups and except*
+  - task groups
+- 2023, 3.12 (release candidate)
+  - f-string improvements: multiline, nested, etc.
+  - @override decorator for static checkers
 
 
 ## misc
@@ -714,14 +739,14 @@
 
 ## references
 
-[^1]: https://realpython.com/python-scipy-fft/
-[^2]: https://stackoverflow.com/questions/141545/how-to-overload-init-method-based-on-argument-type
-[^3]: https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
-[^4]: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
-[^5]: https://stackoverflow.com/questions/5517241/is-there-any-trick-to-overload-the-dot-operator
-[^6]: https://thomasnyberg.com/releasing_the_gil.html
-[^7]: https://stackoverflow.com/questions/26021541/how-to-programmatically-create-a-topic-in-apache-kafka-using-python
-[^8]: https://realpython.com/python-wheels/
-[^9]: https://www.reddit.com/r/Python/comments/b5nvvp/pyright_yet_another_alternative_to_mypy_this_time/
-[^10]: https://en.wikipedia.org/wiki/ABC_(programming_language)
-[^11]: https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237
+[1]: https://realpython.com/python-scipy-fft/
+[2]: https://stackoverflow.com/questions/141545/how-to-overload-init-method-based-on-argument-type
+[3]: https://stackoverflow.com/questions/533631/what-is-a-mixin-and-why-are-they-useful
+[4]: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df
+[5]: https://stackoverflow.com/questions/5517241/is-there-any-trick-to-overload-the-dot-operator
+[6]: https://thomasnyberg.com/releasing_the_gil.html
+[7]: https://stackoverflow.com/questions/26021541/how-to-programmatically-create-a-topic-in-apache-kafka-using-python
+[8]: https://realpython.com/python-wheels/
+[9]: https://www.reddit.com/r/Python/comments/b5nvvp/pyright_yet_another_alternative_to_mypy_this_time/
+[10]: https://en.wikipedia.org/wiki/ABC_(programming_language)
+[11]: https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237
