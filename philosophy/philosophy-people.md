@@ -327,12 +327,15 @@
 
 ## charles darwin 1809-1882
 
-- in 1859 published 'Origin of Species by Means of Natural Selection'
+- in 1859 published 'origin of species by means of natural selection'
 - species are not fixed: they change and evolve
 - one species evolved from another species
 - discovered one important mechanism of evolution: natural selection
 - humans are not result of divine creation and evolved over time as all other beings
 - philosophers was concerned that evolution happens mechanically and there is no purpose in it 
+- meeting of linean society [6]
+  - joint reading of darwin and alfred wallace works on what later became a theory of evolution
+  - wallace was a proponent of group selection and didn't take ideas of sexual selection seriously [7]
 
 
 ## arthur schopenhauer 1788-1860
@@ -1196,3 +1199,5 @@
 [3]: https://www.overthinkpodcast.com
 [4]: https://www.philosophizethis.org/podcasts (by stephen west)
 [5]: https://youtu.be/Lr-rUkFS-FA?t=1996
+[6]: https://www.thegreatcourses.com/courses/great-ideas-of-psychology (lecture 34)
+[7]: https://darwin200.christs.cam.ac.uk/what-about-wallace

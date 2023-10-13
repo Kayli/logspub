@@ -33,6 +33,11 @@
 - availability zone
   - physically separated data centers within the region, providing additional redundancy and fault tolerance
 
+- provisioning automation frameworks
+  - cloud-agnostic: terraform, pulumi
+  - aws: cloud development kit
+  - crossplane: provisioning through k8s
+
 
 ## closed-source cloud solutions
 
@@ -118,6 +123,14 @@
 - devs are not concerned with
   - compute capacity planning, configuration management, maintenance, fault tolerance
   - scaling of containers, VMs, or physical servers
+
+- implementations
+  - knative
+    - is a platform-agnostic solution for running serverless deployments
+    - coarse features
+      - functions
+      - serving
+      - eventing
 
 
 ## terminology

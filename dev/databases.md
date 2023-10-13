@@ -150,6 +150,60 @@
 - synapse
 
 
+## transaction isolation
+
+- acid transaction guarantees
+  - atomic
+    - each transaction is treated as a single "unit"
+      - which either succeeds completely or fails completely
+  - consistent
+    - transaction can only bring the database from one consistent state to another
+    - state transitions should preserve database invariants
+  - isolation
+    - ensures that concurrent execution of transactions leaves the database in the same state that would have been obtained if the transactions were executed sequentially
+  - durable
+    - once a transaction has been committed, it will remain committed even in the case of a system failure
+
+- mssql isolations levels
+  - read uncommitted (least restrictive)
+    - allows dirty reads
+    - no locks or checks on reading
+
+  - read committed
+    - cannot read data that has been modified but not committed by other transactions
+    - data can be changed by others between individual statements within the current transaction
+      - allows non-repeatable reads within single transaction
+    - sql server default
+    - 'read commited snapshot' mode can be applied to use versioning (optimistic) instead of locks
+      - default on azure sql database
+
+  - repeatable read
+    - cannot read data that has been modified but not yet committed by other transactions 
+    - no other transactions can modify data that has been read by the current transaction until the current transaction completes
+
+  - snapshot
+    - statements in a transaction get a snapshot of the committed data as it existed at the start of the transaction
+    - uses versioning, not locks
+
+  - serializable (most restrictive)
+    - cannot read data that has been modified but not yet committed by other transactions
+    - no other transactions can modify data that has been read by the current transaction until the current transaction completes
+    - other transactions cannot insert new rows with key values that would fall in the range of keys read by any statements in the current transaction until the current transaction completes
+    - this is the only isolation level where 'range locks' are created
+
+- shared locks acquired for 'read committed' or 'repeatable read' are generally row locks, although the row locks can be escalated to page or table locks if a significant number of the rows in a page or table are referenced by the read
+
+- deltalake (databricks) isolations levels
+  - snapshot (for reads)
+    - guarantee that all reads made in a transaction will see a consistent snapshot of the delta table
+  - write serializable (default)
+    - guarantees order for writes, but not for reads
+    - a reader could see a table/record that does not exist in the delta log
+  - serializable (most restrictive)
+
+
+
+
 ## object relational mappers (orms)
 
 - python
@@ -354,7 +408,6 @@
 - projection pushdown
   - reading only data for columns user requested in their query
   - example: if your projection selects only 3 columns out of 10, then less columns will be passed from the storage to Spark and if your storage is columnar (e.g. Parquet, not Avro) and the non selected columns are not a part of the filter, then these columns won't even have to be read.
-
 
 
 ## references

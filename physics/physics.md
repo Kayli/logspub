@@ -25,20 +25,24 @@
 
 - si system
   - most widely used system of units and is used in everyday life, commerce, and most scientific and engineering applications
-  - base units
-    - fundamental
-    - can't be derived from other units
-    - 7 in total
-      - length: meter
-      - mass: kilogram
-      - time: second
-      - temperature: kelvin (K)
-      - amount of substance: mole (mol)
-      - electric current: ampere
-      - luminous intensity: candela (cd)
-  - derived units
-    - well defined
-    - can be derived from base
+  - units
+    - base units
+      - fundamental, can't be derived from other units
+      - 7 in total
+        - length: meter
+        - mass: kilogram
+        - time: second
+        - temperature: kelvin (K)
+        - amount of substance: mole (mol)
+        - electric current: ampere
+        - luminous intensity: candela (cd)
+    - derived units
+      - well defined
+      - can be derived from base
+  - prefixes
+    - deka    10^1
+    - hecto   10^2
+    - kilo    10^3
 
 - natural units
   - alternative system of units that can be used to describe physical phenomena
@@ -167,29 +171,6 @@
       - is it analogous to "electron hole" or "hole current" quasiphenomena?
   - it has been understood that Maxwell's equations do not give an exact description of electromagnetic phenomena, 
     but are instead describe it as a classical limit of the more precise theory of quantum electrodynamics
-
-- bosons
-  - standard model
-    - photons
-    - gluons
-    - W boson 
-    - Z bosons 
-  - higgs boson
-  - graviton (hypothetical!)
-
-- dark matter particles
-  - does not interact with photons
-  - rarely interacts with itself
-  - slow-moving
-  - interacts with other particles via gravity
-  - candidates
-    - sterile neutrino
-    - axion
-    - supersymmetric twin
-
-- planck length has not been proven to be the smallest possible unit of space
-  - Jack Fraser, DPhil Theoretical Physics, University of Oxford (2022)
-  - https://www.quora.com/Noting-the-planck-length-and-voxels-is-there-any-actual-thing-at-physics-that-is-actually-analog
 
 - simplest atoms and their composition 
   - hydrogen

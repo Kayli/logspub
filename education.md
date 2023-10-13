@@ -29,3 +29,29 @@
     - take around 2-3 years to complete
   - doctoral degree (докторская степень)
     - doctoral degrees take around 5-6 years
+
+
+## branches of science
+
+- formal sciences
+  - study of formal systems
+    - such as those under the branches of logic and mathematics
+    - which use an a priori, as opposed to empirical, methodology
+
+- empirical sciences
+  - natural sciences
+    - study of natural phenomena
+      - including cosmological, geological, physical, chemical, and biological factors of the universe
+    - branches
+      - physical science
+      - life science
+
+  - social sciences
+    - the study of human behavior in its social and cultural aspects
+    - examples: anthropology, archaeology, economics, human geography, linguistics, management science, communication science, psychology, political science
+
+- applied sciences
+  - use of existing scientific knowledge to achieve practical goals, like technology or inventions
+  - examples: computer science, engineering, medicine, agricultural science, pharmacy, business administration, jurisprudence, pedagogy
+
+  - computer science: is the study of computation, information, and automation

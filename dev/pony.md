@@ -75,7 +75,7 @@
 - uses llvm toolchain
 - lldb for debugging
 - vscode extension: codelldb
-- in order to make shit work
+- in order to make things work
   - certain modifications required to launch.json, settings.json, tasks.json
   - see repo for more details: git@gitlab.com:illiakailli/ponyworld 
 

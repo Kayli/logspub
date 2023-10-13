@@ -33,6 +33,28 @@
   - SoC developers stands for system on chip developers
 
 
+## android [1]
+
+- runtimes
+  - dalvik vm: used till 2013
+  - android runtime (art)
+    - application runtime environment used by the android operating system
+    - unlike dalvik, art introduces the use of ahead-of-time (aot) compilation by compiling entire applications into native machine code upon their installation
+    - once an application is compiled by using art's on-device dex2oat utility, it is run solely from the compiled elf executable
+
+- “плацебо” обновления
+  - были случаи, когда вендоры отправляли патчи пустышки – обновления по факту приходят, а в нем нет ничего. такие обновления можно назвать “плацебо”, т.к. часть пользователей верит, что они делают их устройства быстрее и безопаснее
+
+- механизм direct boot
+  - позволяет приложениям работать до ввода пароля на устройстве. 
+  - приложение сможет использовать часть хранилища, которая не требует разблокировки пользователем, а достаточно загрузить устройство. так вы без проблем получите sms, телефонные звонки, будильники, пуш уведомления и др.
+
+- project treble
+  - гарантирует обратную совместимость с 3 предыдущими версиями реализации вендора
+  - это значит, что gsi android 13 можно будет установить на любое устройство с android 12, 11 и 10.
+
+
+
 ## oses tested
 
 - ubuntu touch 
@@ -248,3 +270,8 @@
   - postmarketos (alpine linux derivative)
     - most adequate (usable) of 3 i've tried
     - but still needs more polish to be a real replacement for android
+
+
+## references
+
+[1]: https://habr.com/ru/companies/broadcast/articles/763094/

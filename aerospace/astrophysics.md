@@ -115,6 +115,16 @@
       - multiverse - can control collections of universes (type 5)
       - humans - ones that don't qualify, like we are now (type 0)
 
+- dark matter particles
+  - does not interact with photons
+  - rarely interacts with itself
+  - slow-moving
+  - interacts with other particles via gravity
+  - candidates
+    - sterile neutrino
+    - axion
+    - supersymmetric twin
+
 
 ## cluster/group
 
@@ -322,6 +332,10 @@
 - polar ice caps co2(more) and h2o(less)
 - radiation risk
   - 80 бэр, 0.8 zivert/year (norm 0.05/year)
+- atmosphere
+  - is over 100 times thinner than earth's
+  - is primarily composed of carbon dioxide, nitrogen and argon gases
+
 - notable missions
   - mariner 4
     - launched on 1965

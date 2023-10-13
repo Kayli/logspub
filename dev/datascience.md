@@ -1,24 +1,91 @@
 # notes on datascience
 
+## basics
+
+- data science
+  - is an interdisciplinary academic field
+  - uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data
+
+- data analysis
+  - is the process of inspecting, cleansing, transforming, and modeling data 
+  - the goal is to discover useful information, informing conclusions, supporting decision-making
+
+  - data mining
+    - is a particular data analysis technique
+    - focuses on statistical modeling and knowledge discovery
+    - does so for predictive rather than purely descriptive purposes
+
+  - business intelligence
+    - data analysis that relies heavily on aggregation, focusing mainly on business information
+
+
+## big data
+
+- extremely large and complex sets of data that cannot be easily managed, processed, or analyzed using traditional data processing tools
+
+- key charachteristics
+  - velocity
+    - big data is generated and collected at high speeds
+    - it can flow in rapidly from various sources like sensors, social media, etc.
+    - real-time or near-real-time processing is often necessary to extract valuable insights
+  - veracity 
+    - quality and reliability of the data
+    - big data may contain inaccuracies, inconsistencies, or missing information
+  - variety
+    - encompasses diverse types of data, e.g.
+      - structured (e.g., databases)
+      - semi-structured (e.g., XML or JSON)
+      - unstructured (e.g., text, images, videos)
+  - volume
+    - involves vast amounts of information
+      - often exceeding the capacity of conventional databases and data processing systems
+    - can range from terabytes to petabytes or even exabytes of data
+  - value
+    - benefits and insights that organizations can derive from the analysis and effective utilization of large and complex data sets
+    - isn't just profit, as it may have medical or social benefits, as well as customer, employee, or personal satisfaction
 
 
 ## datascience process
 
-- analysis
-  - use case
-    - what goal do we want to achieve?
-    - what problem to solve?
+- datascience methodology
+  - problem definition
+    - clearly define the problem or business question you aim to address using data
+    - understand objectives and the context
     - scope: accuracy, time, cost constraints
-  - what kind of data is required? 
-    - talk to a domain expert
-
-- data engineering
+  
   - data collection
-  - data preparation
-  - exploratory data analysis
+    - where data sourced from and how to receive the data?
+      - this can involve structured data (from databases), semi-structured data (e.g., json or xml files), and unstructured data (text, images, etc.)
+      - consider batch processing as well as streaming techniques
+    - talk to domain experts
+    - where are we going to store all the data we're planning to collect?
+    - how data will be stored?
+  
+  - data preprocessing
+    - clean and prepare the data for analysis. this step involves handling missing values, outliers, data normalization, and transforming data into a suitable format for analysis.
+  
+  - exploratory data analysis (eda)
+    - perform exploratory data analysis to understand the data's characteristics and identify patterns, trends, or anomalies. this often involves visualizations, statistical summaries, and data profiling
+  
   - feature engineering
-    - ml technique
-    - transform available datasets into sets of figures essential for a specific task
+    - create new features or transform existing ones to extract more meaningful information from the data. this can improve the performance of machine learning models.
+  
+  - model development
+    - build and select appropriate machine learning or statistical models based on the problem's nature (e.g., classification, regression, clustering)
+    - split data into training and testing sets
+  
+  - model training
+    - train the selected models using the training data. hyperparameter tuning and cross-validation may be applied to optimize model performance.
+  
+  - model evaluation
+    - evaluate model performance using various metrics (e.g., accuracy, precision, recall, f1-score, rmse) on the testing dataset. make adjustments and refinements if necessary.
+  
+  - model deployment
+    - deploy the model into a production environment, where it can make predictions or generate insights for the organization. this may involve integrating the model into a software application or system.
+  
+  - interpretability and explanation
+    - for transparency and trustworthiness, interpret the model's predictions or decisions, especially when working with stakeholders or end-users who may need to understand the rationale behind the results
+
 
 - machine learning
   - model training and evaluation
@@ -28,9 +95,26 @@
 
 ## approaches
 
-- data warehouse: classic approach, for relational structured data
-- data lake: centralized, infinite scaling
+- data warehouse: classic approach
+  - pros
+    - relatively simple, homogeneous tech stack
+    - clean, well-structured relational data
+
+  - painpoints
+    - no native support/optimization for ml applications
+    - not well suited to work with unstructured data
+      - unconventional data formats are not supported
+    - proprietary storage formats
+      - don't allow outside vendors to easily access their data
+    - don't scale that well comparing to alternatives
+
+- data lake
+  - data storage and compute are not coupled
+  - centralized, infinite scaling
+  - data stored in open formats
+
 - data mesh: distributed, fast, realtime
+
 - data lakehouse
   - transaction support
   - schema enforcement and governence
@@ -41,108 +125,9 @@
   - end-to-end streaming ?? enables realtime analytics
 
 
-## apache spark [1]
+## apache spark and databricks
 
-- is an open-source unified analytics engine for large-scale data processing
-- the most popular opensource platform for data science
-- written in scala, has scala shell for interacting with data
-- sparksql: lets you query structured data inside Spark programs, using either SQL or a DataFrame API
-- graphx: used to query network/graph data
-- pyspark
-  - bindings/adapters for spark
-  - heavily influenced by pandas
-
-- spark cluster architecture
-  - driver program: provides context for user operation
-  - cluster manager: coordination of worker nodes based on user request
-    - default spark cluster manager
-    - on hadoop via yarn
-    - in aws using elastic mapreduce
-  - worker nodes
-  - data sources
-    - hdfs, sql, nosql, etc.
-    - azure datalake gen1 gen2: emulate hdfs, but implement it more efficiently for the azure cloud
-
-- spark components
-  - spark core: provides shared functionality for all other components
-  - spark streaming: realtime data
-  - spark sql: treat your data like in a data warehouse
-  - mllib: ml algorithms, like pearson correlation
-  - graphx: network theory algorithms
-
-- localhost deployment using kind and kubernetes
-  - spark operator, argocd and argo workflows to create a spark application workflow solution on kubernetes and uses gitops to propagate the changes
-  - is cloud-agnostic
-  - see article for more details: https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2
-  - spark k8s operator on gcp https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
-
-- supports 'schema on read'
-  - allows to derive schema by sampling only small fraction of data
-
-- facades: objects that we use to interact with most other things
-  - SparkContext
-    - allows to load data directly from 
-      - hdfs
-      - json, csv
-      - compressed file formats
-      - was used in earlier versions (< 2.0) of Spark or Pyspark
-  - SparkSession
-      - in later versions of spark (>= 2.0)
-      - combined class for all different contexts we used to have prior to 2.0
-        - instead of SparkContext, SQLContext, HiveContext etc.
-      - entry point for programming with DataFrame and Dataset
-
-- rdd (resilient distributed dataset)
-  - fault-tolerant collection of elements that can be operated on in parallel
-  - supports partitioning
-    - partitions by 128MB blocks of data by default
-    - slices and partitions are synonyms in the context of rdd
-  
-  - support two types of operations
-    - transformations: create a new dataset from an existing one
-      - map: like Select in linq
-      - flatmap: like SelectMany in linq
-      - filter: like Where in linq
-      - distinct: like Distinct in linq
-      - sample: returns random sample of data
-      - union, intersection, subtract, cartesian
-      - more others ...
-    
-    - actions: return a value to the driver program after running a computation on the dataset
-      - collect
-      - count
-      - countByValue
-      - take
-      - top
-      - reduce
-      - more others ...
-
-  - analogous to iqueryable in dotnet in some ways
-    
-
-- spark full course: https://www.youtube.com/watch?v=S2MUhGA3lEw
-
-
-## databricks
-
-- commercial product
-- was created by developers of apache spark and uses apache spark under the hood
-- complete development environment designed to get up and running quickly
-- designed for large size team collaboration
-- can't run on-premise, designed to run in the cloud
-
-- user interface
-  - notebooks ide interface (similar to jupiter notebooks)
-  - supports: python, r, scala, sql
-  - clusters maintanence
-  - sharing of clusters and notebooks
-  - custom libraries installation
-
-- workspace
-  - contains all compute resources needed to support databricks
-    - file storage
-    - vms to run databricks user interface
-    - some other stuff
+- see datascience-spark.md for details
 
 
 ## apache hadoop
@@ -170,9 +155,30 @@
     - amazon s3
     - windows azure storage blobs (wasb) file system
 
-- spark or presto are often used as a replacement for map-reduce amd hive components of hadoop stack
+- spark or presto are often used as a replacement for map-reduce and hive components of hadoop stack
 
 
-## references
+## interesting ideas
 
-[1]: https://www.youtube.com/watch?v=ChISx0-cMpU&list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp
+- bronze-silver-gold pattern
+  - tables are marked with one of the 3 labels indicating its quality level
+  - bronze table
+    - raw unstructured data in a state as it just gets ingested
+    - examples: json, csv files
+  - silver table
+    - cleaned-up, normalized data
+    - ready for use by analysts and ml
+    - represents a single source of truth
+  - gold table
+    - provides aggregates to query for a specific business case
+    - example: weekly reports
+
+
+## useful links
+
+- spark and ml basics video tutorial and jupiter notebook
+  - https://www.youtube.com/watch?v=crtBiZvcUOE
+  - https://colab.research.google.com/github/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/Certification_Trainings/Public/6.Playground_DataFrames.ipynb
+
+- spark full course: https://www.youtube.com/watch?v=S2MUhGA3lEw
+

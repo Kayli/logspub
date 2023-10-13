@@ -10,11 +10,6 @@
   - usa possesses the world’s largest aerospace industrial complex
     - under half of the global aerospace industry (2017)
 
-- aerodynamics
-  - branch of dynamics
-  - deals with the motion of air and the way that it interacts with objects in motion
-    - such as an aircraft
-
 
 ## history
 
@@ -73,22 +68,7 @@
   - airbus a380
   - boeing 727, 747-400
 
-- main flight control surfaces
-  - ailerons (рули крена, элероны): roll
-  - elevators (руль высоты́): pitch, horizontal axis
-  - rudder (руль направления): yaw, vertical axis
 
-- yoke (control wheel or a control column)
-  - is a device used for piloting some fixed-wing aircraft
-  - pilot uses the yoke to control the attitude of the plane, usually in both pitch and roll
-    - rotating the control wheel controls the ailerons and the roll axis
-    - fore and aft movement of the control column controls the elevator and the pitch axis
-      - when the yoke is pulled back, the nose of the aircraft rises
-      - when the yoke is pushed forward, the nose is lowered
-
-- skin of an aircraft
-  - is the outer surface which covers much of its wings and fuselage
-  - most commonly used materials are aluminum and aluminium alloys
 
 
 ## countries and companies
@@ -159,47 +139,7 @@
 
 ## aerodynamics
 
-- air properties
-  - density
-  - pressure
-  - temperature
-  - humidity
-  - viscosity
-
-- international standard atmosphere (isa)
-
-- mach number
-  - fraction/multiplier of a speed of sound in a medium for local conditions
-  - e.g. 'mach 2' means 2 times speed of sound
-  - depends on
-    - temperature
-    - atmospheric density/altitude
-  - speed of sound at sea level is about 340 m/s
-
-- flight envelope (also service envelope, or performance envelope)
-  - applied to an aircraft or spacecraft
-  - refers to the capabilities of a design in terms of 
-    - airspeed
-    - altitude (sometimes unpacked as load factor or atmospheric density)
-  - pushing the envelope
-    - when aircraft being taken to or beyond its designated altitude and speed limits
-    - for instance by diving it at high speeds, it is said to be flown "outside the envelope"
-      - something considered rather dangerous
-  - may refer more generally to the predictable behavior of a given phenomenon or situation, and hence, its "flight envelope"
-
-- stall speed
-  - fixed-wing aircraft have a minimum speed at which they can maintain level flight
-
-- service ceiling
-  - maximum altitude
-  - additional speed will not result in increased altitude
-  - zero rate of climb
-    - is caused by the lift of the aircraft getting smaller at higher altitudes, until it no longer exceeds gravity
-    - caused by lower atmospheric density at higher altitudes
-
-- top speed
-  - power needed varies almost linearly with altitude
-  - but nature of drag means that it varies with the square of speed
+- see aerodynamics.md
 
 
 ## other information

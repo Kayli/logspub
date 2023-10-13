@@ -75,6 +75,10 @@
   - self-heal/check repository
     > git fsck --full
 
+- github cli
+  > gh auth login
+  > gh repo create
+
 
 ## mercurial
 

@@ -15,12 +15,29 @@
     - state: is a formalism that represents the state of the world, i.e. what the agent's idea of the world is
     - policy: maps states to actions, where action is what action it should take in that state
 
-- phases
-  - training (pre-training and fine-funing sub phases)
-  - validation/test
-  - application
+- popular models as of jan 2023
+  - gpt-3.5
+  - dall-e 2
+  - codex code generator
 
-- dataset types
+
+## stages of ml worklflow [2]
+
+- collect and load/ingest data
+
+- explore and validate data (exploratory data analysis, eda)
+  - evaluate its quality, perform statistical testing, assess distribution and variety
+
+- clean/preprocess data
+  - remove or fill-in missing data
+  - determine which features are useful and which are redundant
+    - analyse correlations
+
+- extract features (feature engineering)
+  - writing code to produce new features
+  - enrich existing data from other sources
+
+- split data into different dataset types
   - training (60%): used to train the model, learning its parameters
   - validation (20%)
     - tune the model, learning its hyper-parameters 
@@ -30,31 +47,26 @@
     - used to access quality of the model
     - is a separate dataset from 'training' and 'validation' one to have a realistic estimate
 
-- data augmentation in pattern recognition
-  - altering input data by introduction of small transformations/disturbances
-  - goals
-    - make recognition more robust
-    - extract invariant representations of detected phenomenon
+- train and tune the model
+  - pick appropriate ml technique/algorithm
+  - train model using ml algorithm and training dataset
+  - tune model hyperparameters using validation dataset
+  - outcome of this stage is the model
+    - popular formats: tensorflow savedmodel, pmml, pfa or onnx
 
-- ani: artificial narrow intelligence
-- agi: artificial general intelligence
+- evaluate model with test data
+  - measure model performance on previously unseen data: test dataset
+  - here you may have to go back and retrain the model if results are not satisfactory
 
-- deep learning
-  - model has multiple layers of learned representations, which makes it superior to other models
-  - dnns are dominating space, but there are some other ways to do it
+- deploy the model
+  - consider its all dependencies
+  - model server is often used which allows serving model via https or grpc
 
-- transfer learning
-  - storing knowledge gained while solving one problem and applying it to a different but related problem
+- monitor the model
+  - must be constantly monitored for drift using fresh data
+    - the decay of models' predictive power as a result of the changes in real world environments
 
-- popular models as of jan 2023
-  - GPT-3.5
-  - DALL-E 2
-  - Codex code generator
-
-- transformer
-  - deep learning model
-  - adopts the mechanism of self-attention
-    - differentially weighting the significance of each part of the input data
+...
 
 
 ## standard terminology for anns
@@ -133,6 +145,7 @@
 
 ## books to consider
 
+- scaling machine learning with spark by adi polak https://www.amazon.ca/gp/product/B0BXQTTJ3N
 - python machine learning (raschka, 2019) https://www.amazon.ca/dp/1789955750
 
 
@@ -170,13 +183,59 @@
   > watch -n0.1 nvidia-smi
 
 
-## fun
+## mlflow
+
+- open source platform for the machine learning lifecycle
+
+- key features
+  - tracking
+    - api and ui for logging parameters, code versions, metrics, and output files when running your machine learning code and for later visualizing the results
+    - lets you log and query experiments using python, rest, r api, and java api apis.
+  - projects: format for packaging data science code in a reusable and reproducible way
+  - models: standard format for packaging machine learning models
+    - supported by mlserver
+  - model registry: store, annotate, discover, and manage models in a central repository
+
+
+## ml model servers
+
+- there are bunch of them: BentoML, Cortex, TensorFlow Serving, TorchServe, KFServing, Multi Model Server, Triton Inference Server, ForestFlow, DeepDetect, Seldon Core, DeepSparse, OpenVINO Model Server, KServe
+
+
+## interesting ideas
 
 - modern ml models as [1]
   - stochastic parrots/chameleons
   - analogous to biological mimicry
 
+- data augmentation in pattern recognition
+  - altering input data by introduction of small transformations/disturbances
+  - goals
+    - make recognition more robust
+    - extract invariant representations of detected phenomenon
+
+
+## terminology
+
+- ani: artificial narrow intelligence
+- agi: artificial general intelligence
+
+- features: are usually represented as columns in a dataset
+
+- deep learning
+  - model has multiple layers of learned representations, which makes it superior to other models
+  - dnns are dominating space, but there are some other ways to do it
+
+- transfer learning
+  - storing knowledge gained while solving one problem and applying it to a different but related problem
+
+- transformer
+  - deep learning model
+  - adopts the mechanism of self-attention
+    - differentially weighting the significance of each part of the input data
+
 
 ## references
 
 [1]: https://www.youtube.com/watch?v=fhn6ZtD6XeE&t=186s
+[2]: https://www.amazon.ca/gp/product/B0BXQTTJ3N (scaling machine learning with spark by adi polak)

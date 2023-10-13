@@ -469,12 +469,6 @@
 - LLaMA (large language model meta ai) https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 
 
-## useful commands
-
-- check gpu cuda usage
-  > watch -n 0.5 nvidia-smi
-
-
 ## references
 
 [1]: https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d

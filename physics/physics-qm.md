@@ -37,6 +37,20 @@
       - the electron’s initially prepared spin can be in any direction but, oddly, when you measure the spin it is always only up or down
 
 
+- planck length has not been proven to be the smallest possible unit of space
+  - Jack Fraser, DPhil Theoretical Physics, University of Oxford (2022)
+  - https://www.quora.com/Noting-the-planck-length-and-voxels-is-there-any-actual-thing-at-physics-that-is-actually-analog
+
+- bosons
+  - standard model
+    - photons
+    - gluons
+    - W boson 
+    - Z bosons 
+  - higgs boson
+  - graviton (hypothetical!)
+
+
 ## heisenberg uncertainty principle
 
 - is a general principle of the universe

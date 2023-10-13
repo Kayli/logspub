@@ -49,6 +49,7 @@
   - explanation for something which serves as a function of its end, its purpose, or its goal
   - intrinsic: something which serves as a function of its cause (like acorn turns into an oak tree)
   - extrinsic: purpose that is imposed by a human use
+- teleological explanation: based on consiseration of goals
 
 - eschatology: part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
 
@@ -66,6 +67,7 @@
 
 - phenomenology
   - study of the structures of experience and consciousness
+
 
 
 ## periods
@@ -271,7 +273,7 @@
 - reincarnation is just a poetic expression of what collective memory is [2]
 - embracing anxiety as a natural emotion that animates body [3]
 - бытие определяет сознание ... еще это назвают проф деформацией [4]
-
+- disappointing people may be very humanizing, it can give those the opportunity to realize that their demands might not be reasonable [6]
 
 ## unsorted
 
@@ -362,3 +364,4 @@
 [3]: https://www.youtube.com/watch?v=0PwRH5-TiIc
 [4]: https://habr.com/ru/company/itsumma/blog/688932/
 [5]: https://stats.stackexchange.com/questions/2245/statistics-and-causal-inference
+[6]: https://www.youtube.com/watch?v=TrNIuFrso8I

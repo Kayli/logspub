@@ -183,6 +183,8 @@
 
 - founder: sigmund freud 1856 - 1939
   - was an austrian neurologist
+  - graduated from university of vienna 
+  - planned but abandoned 'scientific psychology' project
 
 - a clinical method for evaluating and treating pathologies in the psyche through dialogue 
   between a patient and a psychoanalyst
@@ -562,6 +564,9 @@
     - judging-perceiving        (j or p)
 
   - permutations give 16 personality types
+  - disadvantages
+    - descrease transparency of communicated information
+    - at high risk of getting stuck in false dichotomies
 
 - attachment styles: anxious, avoidant, disorganized, secure
 
@@ -571,15 +576,19 @@
 - сумчатая мышь https://youtu.be/USFhhovkurE?t=4943
   - всплеск тестестерона разваливает иммунитет
   - поэтому особь живет недолго после спаривания
+
 - бутират натрия типа восстанавливает память, 15 патентов в сша
   - https://youtu.be/fLh7Qj1LDDA?t=3479
+
 - ингибитор метилтрансферазы днк выключает память (обратимо)
   - https://youtu.be/fLh7Qj1LDDA?t=3652
+
 - гипотеза о памяти хранящейся в miRNA 
   - эксперементально подтвержденная, но на простых модельных организмах aplysia
   - отвечают за регуляцию экспрессии генов
   - miRNA много разных видов
   - выброс серотонина - стимулятор воспоминаний (улитка)
+
 - suffix -osis (-ωσις)
   - 'diseased' or 'abnormal condition'
   - like in: schlerosis
