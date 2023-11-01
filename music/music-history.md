@@ -50,6 +50,11 @@
     - grand ballabile (waltz of the flowers)
 
 
+## carl philipp emanuel (cpe) bach 1685-1750
+
+- tbd
+
+
 ## johann sebastian bach 1685-1750
 
 - well known

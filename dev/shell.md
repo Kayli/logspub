@@ -42,6 +42,10 @@
     Have a nice day
     EoF
   ```
+
+- pause script execution
+  > read -s -n 1 -p "Press any key to continue . . ."
+
 - conditionals
   - string equality check: spaces around = operator are very important!!!
     > if [ $my_var = test ] ; then echo yes ; else echo no ; fi
@@ -84,6 +88,10 @@
 
 - run command as a different user
   > su [username] -c "[command]"
+
+- export [name[=value]] ...
+  - the supplied names are marked for automatic export to the environment of subsequently executed commands
+
 
 
 ## zsh

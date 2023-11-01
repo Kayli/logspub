@@ -17,6 +17,9 @@
   - press ctrl-shift-p 
   - select OmniSharp: Select Project to select the correct project (or .sln file)
 
+- install "code" command in macos terminal
+  - open the command pallette with Command + Shift + P (or F1)
+
 
 ## intellij idea
 

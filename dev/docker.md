@@ -192,6 +192,30 @@
   - prefer using 'docker compose' command instead
 
 
+## credential helpers
+
+- are tools or utilities that assist in managing and securely storing authentication credentials
+  - used when you try to pull, push, or otherwise interact with a Docker image in a private registry
+  - automatically provide the necessary credentials without manual intervention
+  
+- help securely store sensitive information 
+  - like usernames and passwords, API tokens, or other forms of authentication credentials
+
+
+## devcontainers
+
+- development container defines an environment in which you develop your application before you are ready to deploy
+
+- specification: https://containers.dev/implementors/spec/
+
+- to change default shell
+  - https://stackoverflow.com/questions/55987337/visual-studio-code-remote-containers-change-shell
+
+- development container features
+  - are self-contained, shareable units of installation code and development container configuration
+  - each feature script executes as its own layer to aid in caching and rebuilding
+
+
 ## alternatives
 
 - podman
@@ -208,20 +232,6 @@
     > colima start
 
 
-## devcontainers
-
-- structured json with comments (jsonc) metadata format that tools can use to store any needed configuration 
-  required to develop inside of local or cloud-based containerized coding
-
-- metadata can be persisted in
-  - devcontainer.json
-  - embedded in images (how?)
-  - some other formats (which ones?)
-
-- https://containers.dev/implementors/spec/
-
-
-
 ## other useful tools
 
 - portainer
@@ -229,11 +239,6 @@
   - deploy and see the state of individual containers, restart them and debug them when necessary
     - all without needing to use the command line
 
-
-## problems
-
-- can't locate docker images in wsl
-  - it works somehow differently whem using docker desktop
 
 
 ## references

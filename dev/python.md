@@ -196,6 +196,19 @@
 
 - pyenv (pyenv-win)
   - lets you easily switch between multiple versions of python
+  - install via brew
+    > brew install pyenv
+
+    - install different python versions
+      > pyenv install 3.6.15
+      > pyenv install 3.7.13
+      > pyenv install 3.9.10
+
+    - check installed versions
+      > pyenv versions
+    
+    - set current global version
+      > pyenv global 3.7.13
 
 - pip
   - general python package installer
@@ -266,6 +279,9 @@
   - clear cache (helps with hash-related errors)
     > rm -rf ~/.cache/pypoetry
   - allows flexible rules to constraint package versions https://python-poetry.org/docs/dependency-specification/
+  - add interpreter to vscode
+    > poetry config virtualenvs.in-project true
+    - https://stackoverflow.com/questions/59882884/vscode-doesnt-show-poetry-virtualenvs-in-select-interpreter-option 
 
 - visual studio code
   - use the 'Python: Select Interpreter' command from the command palette (ctrl+shift+p)
@@ -634,10 +650,15 @@
   - in python 3.x need to inherit from MultipleMeta class to achieve something like that [2]
 
 
-## vscode extensions
+## vscode 
 
-- mypy https://github.com/matangover/mypy-vscode
-- trunk https://trunk.io/products/check
+- howto hide pycache files: https://paulnelson.ca/posts/hiding-pycache-files-in-vscode
+
+- extensions
+  - mypy https://github.com/matangover/mypy-vscode
+  - trunk https://trunk.io/products/check
+
+
 
 
 ## history
@@ -735,6 +756,11 @@
 ## books
 
 - fluent python https://www.fluentpython.com
+
+
+## useful links
+
+- howto create cli with poetry https://medium.com/clarityai-engineering/how-to-create-and-distribute-a-minimalist-cli-tool-with-python-poetry-click-and-pipx-c0580af4c026
 
 
 ## references

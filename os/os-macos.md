@@ -3,8 +3,8 @@
 ## startup configuration
 
 - commands from following files are executed on every shell start
-  - ~/.zprofile 
-  - ~/.zshrc
+  - ~/.zprofile (every login)
+  - ~/.zshrc (every session)
 
 
 ## executable binary format
@@ -48,9 +48,14 @@
     > nvram boot-args="amfi_get_out_of_my_way=0x1"
 
 
-# screen sharing
+## screen sharing
 
 - sidecar: sharing screen on macos with ipad
+
+
+## finder
+
+- show hidden files: command + shift + . (the period key)
 
 
 ## useful libraries
