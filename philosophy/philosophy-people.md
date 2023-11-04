@@ -132,6 +132,30 @@
   - nazi reality is so miserable that it does not deserve to be called 'true'
 
 
+## ludwig wittgenstein 1889-1951
+
+- austrian philosopher
+- studied bertrand russell's foundation of mathematics and formal logic
+- linguistic categories of focus: true, false, meaningless
+
+- language insufficient to describe transcendental concepts
+  - quote: 'whereof one cannot speak, thereof one must be silent'
+  - for example 'meaning of our life' doesn't make sense as can't be expressed in language
+
+- famous works
+  - tractatus logico-philosophicus
+    - his early work
+    - there is an underlying form shared by both language and the world it describes
+
+- meaning of the words: conventional, fluid
+
+- private language: beetle in a box
+  - imagine a community in which the individuals each have a box containing a "beetle"
+  - no one can look into anyone else's box, and everyone says he knows what a beetle is only by looking at his beetle
+
+- language game
+
+
 ## heidegger martin 1889-1976 [1]
 
 - phenomenologist, atheist

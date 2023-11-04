@@ -3,6 +3,10 @@
 - david hilbert (1862–1943) holds that mathematics is only a language and a series of games
   - "... and to what extent has the formula game thus made possible been successful? This formula game enables us to express the entire thought-content of the science of mathematics in a uniform manner and develop it in such a way that, at the same time, the interconnections between the individual propositions and facts become clear" [1] [2]
 
+- bertrand russell
+  - mathematician and philosopher
+  - worked on foundation of mathematics and formal logic
+
 - reverse mathematics
   - program in mathematical logic that seeks to determine which axioms are required to prove theorems of mathematics 
   - can briefly be described as "going backwards from the theorems to the axioms"
