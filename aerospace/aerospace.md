@@ -69,8 +69,6 @@
   - boeing 727, 747-400
 
 
-
-
 ## countries and companies
 
 - canada

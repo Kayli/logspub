@@ -99,6 +99,8 @@
     - get written into your Docker image as a new layer
   - CMD
     - default command to run when your container starts
+  - WORKDIR <path>
+    - sets default working directory for running commands
 
 - .dockerignore files are an easy way to selectively copy only image relevant files
 

@@ -28,6 +28,8 @@
     - efficient: uses no resources if there are no requests
   - supports blue-green and canary deployments
   - automatic redundancy
+  - stateless, ephemeral containers
+  - execution time limit: 15 minutes
 
 - athos
   - google's proprietary container and vms orchestrator
@@ -39,16 +41,56 @@
   - functions as a service (faas) to run event-driven code written in Node.js, Java, Python, or Go.
 
 
-## storage
+## storage [3]
 
-- cloud storage (gcs bucket)
-  - object storage that is secure, durabl, scalable
-  - several storage classes:
+- cloud storage
+  - is an 'object storage' which is good for
+    - blobs, object data
+    - unstructured data like media, docs, logs, backups, application binaries, vm images
+  - 'buckets' are the basic containers that hold your data
+  - main characteristics: available, durable, secure    
+  
+  - location types
+    - regional: data stored redundantly in a single region
+      - best for high-performance analytics where data needs to be collocated with compute
+    - multi-region
+      - stored redundantly across the continent
+      - not visible which regions your data is in
+    - dual-region
+      - best for datalakes for streaming, etl and ml projects
+  
+  - storage classes
     - standard (snappiest)
     - nearline
     - coldline
     - archive (cheapest, but there are retrieval fees and min duration constraint)
+  - automatically transition data to lower-cost storage based on user-defined lifecycle rules
+  
   - offers some s3 compatability, devil is in details [1]
+  - auto versioning
+
+- cloud storage transfer tools
+  - help to upload data from computer to the cloud
+  - gsutil: rsync-like incremental copies, multithreaded, also helps managing gcs buckets
+
+- other transfer services
+  - storage transfer service, transfer appliance, bigquery data transfer service
+  - helps with migration and moving things around
+
+- filestore
+  - data is organized into files and folders
+  - fully managed network attached storage (nas)
+
+- persistent disk
+  - is a block data storage
+  - stores evenly-sized blocks of binary data
+  - is not aware of the filesystem
+  - offers higher performance and lower latency
+  - other block storage gcp services: local ssd
+  - can be mounted to cloud run gen2 instances [2]
+
+
+## databases
 
 - cloud sql
   - relational database service
@@ -139,3 +181,5 @@
 ## references
 
 [1]: https://vamsiramakrishnan.medium.com/a-study-on-using-google-cloud-storage-with-the-s3-compatibility-api-324d31b8dfeb
+[2]: https://stackoverflow.com/questions/64228967/how-to-mount-persistent-storage-to-google-cloud-run
+[3]: https://cloud.google.com/blog/topics/developers-practitioners/introducing-visualizing-google-cloud-101-illustrated-references-cloud-engineers-and-architects

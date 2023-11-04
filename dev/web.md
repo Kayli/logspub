@@ -8,6 +8,7 @@
   - database (stateful)
 
 - check domain public informtaion https://who.is/
+- email addresses are not case sensitive
 
 
 ## popular frameworks

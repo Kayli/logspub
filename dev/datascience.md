@@ -45,22 +45,22 @@
     - isn't just profit, as it may have medical or social benefits, as well as customer, employee, or personal satisfaction
 
 
-## datascience process
+## datascience process/methodology
 
-- datascience methodology
-  - problem definition
-    - clearly define the problem or business question you aim to address using data
-    - understand objectives and the context
-    - scope: accuracy, time, cost constraints
-  
-  - data collection
-    - where data sourced from and how to receive the data?
-      - this can involve structured data (from databases), semi-structured data (e.g., json or xml files), and unstructured data (text, images, etc.)
-      - consider batch processing as well as streaming techniques
-    - talk to domain experts
-    - where are we going to store all the data we're planning to collect?
-    - how data will be stored?
-  
+- problem definition
+  - clearly define the problem or business question you aim to address using data
+  - understand objectives and the context
+  - scope: accuracy, time, cost constraints
+
+- data collection
+  - where data sourced from and how to receive the data?
+    - this can involve structured data (from databases), semi-structured data (e.g., json or xml files), and unstructured data (text, images, etc.)
+    - consider batch processing as well as streaming techniques
+  - talk to domain experts
+  - where are we going to store all the data we're planning to collect?
+  - how data will be stored?
+
+- preparation
   - data preprocessing
     - clean and prepare the data for analysis. this step involves handling missing values, outliers, data normalization, and transforming data into a suitable format for analysis.
   
@@ -69,28 +69,23 @@
   
   - feature engineering
     - create new features or transform existing ones to extract more meaningful information from the data. this can improve the performance of machine learning models.
-  
+
+- modelling
+  - focuses on developing models that either descriptive or predictive
   - model development
-    - build and select appropriate machine learning or statistical models based on the problem's nature (e.g., classification, regression, clustering)
+    - build/select appropriate machine learning or statistical models based on the problem's nature (e.g., classification, regression, clustering)
     - split data into training and testing sets
-  
   - model training
     - train the selected models using the training data. hyperparameter tuning and cross-validation may be applied to optimize model performance.
-  
-  - model evaluation
-    - evaluate model performance using various metrics (e.g., accuracy, precision, recall, f1-score, rmse) on the testing dataset. make adjustments and refinements if necessary.
-  
-  - model deployment
-    - deploy the model into a production environment, where it can make predictions or generate insights for the organization. this may involve integrating the model into a software application or system.
-  
-  - interpretability and explanation
-    - for transparency and trustworthiness, interpret the model's predictions or decisions, especially when working with stakeholders or end-users who may need to understand the rationale behind the results
 
+- model evaluation
+  - evaluate model performance using various metrics (e.g., accuracy, precision, recall, f1-score, rmse) on the testing dataset. make adjustments and refinements if necessary.
 
-- machine learning
-  - model training and evaluation
-  - model deployment
-  - post deployment: monitor model performance against real-life data
+- model deployment
+  - deploy the model into a production environment, where it can make predictions or generate insights for the organization. this may involve integrating the model into a software application or system.
+
+- interpretability and explanation
+  - for transparency and trustworthiness, interpret the model's predictions or decisions, especially when working with stakeholders or end-users who may need to understand the rationale behind the results
 
 
 ## approaches

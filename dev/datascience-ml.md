@@ -15,6 +15,12 @@
     - state: is a formalism that represents the state of the world, i.e. what the agent's idea of the world is
     - policy: maps states to actions, where action is what action it should take in that state
 
+- key components to manage
+  - execution environments
+  - models
+  - data
+  - code
+
 - popular models as of jan 2023
   - gpt-3.5
   - dall-e 2
@@ -58,6 +64,9 @@
   - measure model performance on previously unseen data: test dataset
   - here you may have to go back and retrain the model if results are not satisfactory
 
+- model governance/compliance checks (optional)
+  - set of policies, procedures, and controls put in place to ensure that ML models and systems are developed, deployed, and used responsibly, ethically, and in compliance with regulations
+
 - deploy the model
   - consider its all dependencies
   - model server is often used which allows serving model via https or grpc
@@ -91,7 +100,7 @@
 
 ## model sizes
 
-- as of 2023 
+- anns as of 2023 
   - number of parameters: tens of billions
   - dimensions: thousands
   - n heads: tens
@@ -183,23 +192,54 @@
   > watch -n0.1 nvidia-smi
 
 
+## automated ml pipelines [3]
+
+- benfits
+  - ability to focus on new models, not maintaining old ones
+  - prevention of bugs
+    - a common source of bugs is a change in the preprocessing step after a model was trained
+      - leads to deploying a model with different set of instructions than the model was trained with
+  - audit trail
+  - standardization
+  - simpler processes to update existing models
+    - as soon as model has users, it will require continuous updates and fine-tuning
+  - less time to reproduce models
+
+- typical steps
+  - data ingestion and versioning
+  - data validation
+  - data preprocessing
+  - model training and tuning
+  - model analysis (manual)
+  - model versioning
+  - model deployment
+  - feedback (can be manual)
+
+- tools
+  - apache beam
+  - apache airflow
+  - kubeflow pipelines
+  - mlflow
+
+- model servers
+  - also called 'inference servers'
+  - there are bunch of them: BentoML, Cortex, TensorFlow Serving, TorchServe, KFServing, Multi Model Server, Triton Inference Server, ForestFlow, DeepDetect, Seldon Core, DeepSparse, OpenVINO Model Server, KServe
+
+
 ## mlflow
 
 - open source platform for the machine learning lifecycle
-
 - key features
   - tracking
-    - api and ui for logging parameters, code versions, metrics, and output files when running your machine learning code and for later visualizing the results
-    - lets you log and query experiments using python, rest, r api, and java api apis.
+    - api and ui for logging parameters, code versions, metrics, and output files 
+    - available when running your machine learning code and for later visualizing the results
+    - lets you log and query experiments using 
+      - python, rest, r api, and java api apis
+      - spark datasource
   - projects: format for packaging data science code in a reusable and reproducible way
   - models: standard format for packaging machine learning models
     - supported by mlserver
   - model registry: store, annotate, discover, and manage models in a central repository
-
-
-## ml model servers
-
-- there are bunch of them: BentoML, Cortex, TensorFlow Serving, TorchServe, KFServing, Multi Model Server, Triton Inference Server, ForestFlow, DeepDetect, Seldon Core, DeepSparse, OpenVINO Model Server, KServe
 
 
 ## interesting ideas
@@ -220,7 +260,8 @@
 - ani: artificial narrow intelligence
 - agi: artificial general intelligence
 
-- features: are usually represented as columns in a dataset
+- features: variables (columns) that are used as input to a machine learning model
+- labels: target or output variables (columns) in a supervised learning problem
 
 - deep learning
   - model has multiple layers of learned representations, which makes it superior to other models
@@ -234,8 +275,13 @@
   - adopts the mechanism of self-attention
     - differentially weighting the significance of each part of the input data
 
+- champion/challenger models
+  - champion is the model that was elected to be deployed in production
+  - challengers are potential candidates for a champion
+
 
 ## references
 
 [1]: https://www.youtube.com/watch?v=fhn6ZtD6XeE&t=186s
 [2]: https://www.amazon.ca/gp/product/B0BXQTTJ3N (scaling machine learning with spark by adi polak)
+[3]: https://www.amazon.ca/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/

@@ -27,8 +27,7 @@
 - lead Pb (plumbum, свинец)
 - silver Ag (argentum, серебро) 
 - copper Сu (cuprum, медь)
-- bronze smelting
-  - alloy of copper with about 12–12.5% tin
+- bronze: alloy of copper with about 12–12.5% tin
 - antimony Sb (stibium, сурьма)
 - mercury Hg (hydrargyrum)
 - iron Fe (железо)
