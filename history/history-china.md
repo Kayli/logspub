@@ -2,6 +2,10 @@
 
 # basic facts
 
+- китай
+  - происходит от слова обозначающего монгольское племя "китани" в северном китае
+    - были вассалами китая
+
 - noteable rivers: yangtze (янцзы), huáng hé (yellow river хуанхэ)
 - pīnyīn (пиньинь) 
   - фонетическое письмо
@@ -31,16 +35,27 @@
 # imperial period
 
 - qin 221–207 bc
-  - phonetic: ch'in
+  - phonetic: ch'in (чин)
   - terracotta army, legalism, confucianism
   - proto-wall of china: connecting walls/forts along the northern border
   - emperor: qin shi huang
+
 - 9-10 dynasties in-between ...
   - northern and southern dynasties 420–589
     - daosism and buddhism cross-polination/integration
-      - bushwacker's pelevenisms [3] 
+      - bushwacker's pelevenisms [3]
+
+- tang (тан) 618-907 ce
+  - 800s: первая в мире печатная книга
+    - станок не был найден
+
+- ming 1368-1644 ce
+  - phonetic: min, мин
+  - the great wall of china
+    - the vast majority of the brick and stone great wall seen today is a product of ming dynasty
+
 - qing 1636-1912 ce
-  - phonetic: shin
+  - phonetic: shin, цин
   - 1850-1864 taiping rebellion
     - hong xiuquan: ideologist, crazy christian of chinese origin
     - with 20 to 30 million dead, the established qing government won
@@ -85,4 +100,5 @@
 
 ## references
 
+[0]: https://www.youtube.com/@ButKorn (bushwacker youtube streams)
 [1]: https://www.youtube.com/playlist?list=PLk7JM19SQtzAfxnVYq3sQ3p0KLbTPfjwr

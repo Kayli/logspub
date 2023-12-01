@@ -72,6 +72,7 @@
     - paleolithic 3.4mya-8800 bce
     - mesolithic 8800 – 4900 bce
       - first use of drilling tools made of flint (кремень)
+      - 8700 bce work with copper, northern iraq area
     - neolithic 4900 – 2000 bce
 - bronze age 3300 - 1200 bce
 - iron age 1110 - 1 bce

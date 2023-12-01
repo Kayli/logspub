@@ -249,6 +249,12 @@
   - http://dagitty.net allows to draw and analyse causal diagrams
 
 
+## fallacies
+
+- multiple comparisons problem
+  - arise when a statistical analysis involves multiple simultaneous statistical tests, each of which has a potential to produce a "discovery"
+  - example: consider the efficacy of a drug in terms of the reduction of any one of a number of disease symptoms. As more symptoms are considered, it becomes increasingly likely that the drug will appear to be an improvement over existing drugs in terms of at least one symptom due to random sampling error alone
+
 
 ## references
 

@@ -38,6 +38,12 @@
 - exergonic reaction
   - chemical reaction where there is a net release of free energy (the change in the free energy is negative)
 
+- redox (reduction–oxidation)
+  - oxidation: is the loss of electrons or an increase in the oxidation state
+    - originally implied a reaction with oxygen to form an oxide
+    - later, meaning was generalized to include all processes involving the loss of electrons or the increase in the oxidation state of a chemical species
+  - reduction: is the gain of electrons or a decrease in the oxidation state
+
 
 ## atomic structure important for a chemist
 
