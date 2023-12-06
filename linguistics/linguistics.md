@@ -230,7 +230,7 @@
   - to unintentional and uncontrollable (e.g., vocal features that mark age or sex)
 
 
-## terminology
+## other terminology
 
 - historical regions/areas
   - geographic areas 
@@ -258,6 +258,12 @@
     a single phoneme in a particular language
   - for example, in English, top - stop
     - [t] as in stop [stɒp] and the aspirated form [tʰ] as in top
+
+- ambigram
+  - is a calligraphic composition of glyphs that can yield different meanings depending on the orientation of observation
+  - most ambigrams are visual palindromes that rely on some kind of symmetry, and they can often be interpreted as visual puns
+  - examples
+    - oulipo: ouvroir de littérature potentielle
 
 
 ## funny languages

@@ -66,6 +66,9 @@
   - focuses on role of social structures and institutions in maintaining social order and stability
   - people: durkheim
 
+- frame analysis
+  - people: erving goffman
+
 
 ## religion 
 

@@ -179,7 +179,7 @@
     - examples: remembering to take a medication, mail a birthday card, or turn off the stove after cooking
 
 
-## psychoanalysis
+## psychoanalysis, analytical psychology
 
 - founder: sigmund freud 1856 - 1939
   - was an austrian neurologist
@@ -203,6 +203,19 @@
   - is the benefit that a third party receives from the patient's symptoms
   - it includes gaslighting
     - in which a family member or healthcare worker, for financial or other reasons, manipulates a patient into believing he or she is mentally ill
+
+- shadow
+  - also known as ego-dystonic complex, repressed id, shadow aspect, or shadow archetype
+  - projected as archetypes, personified within the collective unconscious, trickster
+  - внутренняя пуля (хуже блаватской)
+  - психотехники
+    - черезмерное, намеренное преувеличение негативных эмоций и ощущений 
+      - при ожидании столкновения с феноменом "тени"
+    - драматизация с целью нагнетания важности и силы тени
+    - имперсонирование, подсасывание к раздутой тени через механизмы манипулятивной интерпретации
+      - затягивание разрешения с целью максимизации внимания/прибыли
+    - все это наиболее эффективно в сочетании с предварительной длительной социальной изоляцией жертвы
+      - цирковой трюк: выголод пуделей перед представлением
 
 
 ## conflict resolution
@@ -346,7 +359,7 @@
 
 - role play framing
   - intentionally imposes certain kinds of fragmentation through metafor/analogy
-  - can help to better understand/model psychodynamics of self or other individuals
+  - can help to better understand/model psychodynamics of ourselves and others
   - examples
     - inner parent vs inner child (see heidi preiebe videos)
 
@@ -448,6 +461,9 @@
 - signs
   - resisting tension in our bodies
   - distracting ourselves by venting, alcohol, eating unhealthily
+
+
+
 
 
 ## relationships [19]

@@ -151,13 +151,35 @@
 - indus valley (harappan culture, modern pakistan)
 
 
-## mediterranean region [1]
+## mediterranean: ancient greece
 
-- greece
-  - minoan and mycenaen civilization (proto greeks) 2000-1250bce
-  - аттика
-    - историческая область греции
-    - которая находится на полуострове, выступающем на южную часть материковой греции и окруженный морем
+- 2000-1250 bce: minoan and mycenaen civilization (proto greeks)
+  - бронзовая греция
+  - crete island
+    - minoans
+      - no city walls
+      - bulls fresco (mural painting)
+      - women with open breasts
+      - cold and hot water in buildings
+    - mycenaeans
+      - 'immigrants' from mainland
+      - city walls
+  - 1200 bce: dark ages, all cities were destroyed by dorians
+    - письменность утрачена
+    - dorians 
+      - settled south of greece
+      - one of the four major ethnic groups into which the hellenes (ancient greeks) divided themselves
+  - 1400 bce: first greeks
+
+- аттика
+  - историческая область греции
+  - которая находится на полуострове, выступающем на южную часть материковой греции и окруженный морем
+  
+- macedonia
+  - 356-323 bce: alexander the great
+
+
+## mediterranean region [1]
 
 - phoenicians
   - rus: финикийцы, карфагеняне
@@ -297,9 +319,15 @@
   - группа на фейсбуке: https://www.facebook.com/groups/812058052274650/
 
 
+## other
+
+- трансгуманизм во все поля ... раде трипл-кила на миде [5]
+
+
 ## references
 
 [1]: https://www.youtube.com/channel/UCGzfpg1YiBIlgcODQI4lDvQ
 [2]: https://infogram.com/share-of-world-gdp-throughout-history-1gjk92e6yjwqm16
 [3]: https://www.youtube.com/watch?v=HvVFxUtNEDQ&t=5188s
 [4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
+[5]: https://youtu.be/hZzA1hAIc2c?si=u9lKLKWrzHm07UIT&t=12077
