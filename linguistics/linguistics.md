@@ -281,13 +281,14 @@
   - а есть социальные отношения которые кристаллизовались в языковых формах [2]
 
 
-## phonetic similarities
 
-- acid house / acid cows
-- comet / covid / corvid
-- берлиоз / berylliosis
-  - poisoning by beryllium or beryllium compounds, especially by inhalation causing fibrosis of the lungs
-- set alite / satelite
+
+## chinese
+
+- pinyin (hanyu pinyin)
+  - phonetic symbols for chinese characters
+  - is the system to transcribe mandarin chinese sounds into a latin alphabet
+  - most common romanization system for standard chinese
 
 
 ## references

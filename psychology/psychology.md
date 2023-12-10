@@ -24,6 +24,7 @@
   - physiologically overwhelming event 
     - that wasn't properly contextualized or integrated into rest of our understanding
   - can be framed as an incomplete learning
+    - may lead to fragmentation of self, multiple personality disorder
 
 
 ## stress
@@ -78,8 +79,9 @@
     - denial
     - unproductive self-rumination
     - aggressive defences that block positive resolutions
-  - genetically defined instincts based on what appears socially acceptable, not on what is right or true
-    - fear of disapproval
+  - genetically defined instincts based on what appears socially acceptable
+    - but not on what is right or true
+    - may lead to fear of disapproval
   - healthy shame
     - appears when we're acting out of integrity with ourselves
     - when violating our own or someone else's boundaries
