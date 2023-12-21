@@ -2,9 +2,16 @@
 
 ## startup configuration
 
+- check Preferences > Users & Groups > Login Items
+- startup items can also be located in one of the following folders
+  - /Library/StartupItems
+  - /Library/LaunchAgents
+  - /Library/LaunchDaemons
+  - ~/Library/LaunchAgents
+
 - commands from following files are executed on every shell start
-  - ~/.zprofile (every login)
-  - ~/.zshrc (every session)
+  - ~/.zprofile
+  - ~/.zshrc
 
 
 ## executable binary format

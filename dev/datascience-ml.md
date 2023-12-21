@@ -279,6 +279,20 @@
   - champion is the model that was elected to be deployed in production
   - challengers are potential candidates for a champion
 
+- structured/unstructured data
+  - structured data comes with a pattern that is clearly identifiable and searchable by computers
+  - while unstructured data, despite having an internal structure humans can understand, lacks those patterns
+
+- ibb: image bounding boxes, used for object detection and annotation
+- rag: retrieval augmented generation
+- completion: llm output based on input prompt
+- vector database: type of database that indexes and stores vector embeddings for fast retrieval and similarity search, with capabilities like CRUD operations, metadata filtering, and horizontal scaling
+- embeddings: vectorized representation of a word or a phrase in nlp
+
+- ann
+  - artificial neural network
+  - approximate nearest neighbor, a variant of 'nearest neighbor' search
+
 
 ## references
 

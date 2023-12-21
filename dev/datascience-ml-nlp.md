@@ -58,6 +58,7 @@
     - continuous bag of words (cbow)
       - predict target word from bag-of-words context
   - similarity calculated using dot product of vector representations
+  - word embeddings have dimensions ranging from 50 to 300
 
 - sentence embedding
   - encodes sentence similarity

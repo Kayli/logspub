@@ -16,6 +16,9 @@
 - software as a service (saas)
   - cloud-first apps built on top of iaas and paas
 
+- function as a service (faas)
+  - serverless hosting for app code
+
 - service-level agreement (sla)
   - commitment between a service provider and a client
   - particular aspects of the service – quality, availability, responsibilities – are agreed

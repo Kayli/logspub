@@ -11,25 +11,37 @@
 
 ## compute
 
-- compute engine: customizable vms
+- cloud functions
+  - functions as a service (faas) to run event-driven code written in Node.js, Java, Python, or Go.
+  - deployment unit: code
+  - routes only 1 request at a time to function instance
+  - timeout: up to 9 minutes 
 
-- kubernetes engine (gke)
-  - free tier: provides $74.40 in monthly credits per billing account
-
-- app engine
-  - does not require app to be containerized
 
 - cloud run
   - based on knative
     - is a platform-agnostic solution for running serverless deployments
   - no vendor lock-in
     - app components should be containerized
+  - deployment unit: container
+  - routes multiple requests at a time to container instance
+    - this enables more efficient requests handling, reduces latency, handles larger volumes cheaper
+  - allows using any tools/executables/system libraries in our app
   - zero-configuration fast autoscaling
     - efficient: uses no resources if there are no requests
   - supports blue-green and canary deployments
   - automatic redundancy
   - stateless, ephemeral containers
-  - execution time limit: 15 minutes
+  - execution time limit: up to 60 minutes
+
+
+- app engine
+  - does not require app to be containerized
+
+- kubernetes engine (gke)
+  - free tier: provides $74.40 in monthly credits per billing account
+
+- compute engine: customizable vms
 
 - athos
   - google's proprietary container and vms orchestrator
@@ -37,8 +49,7 @@
   - integrates on-prem with cloud components
   - integrates service mesh
 
-- cloud functions
-  - functions as a service (faas) to run event-driven code written in Node.js, Java, Python, or Go.
+
 
 
 ## storage [3]

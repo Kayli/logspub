@@ -247,7 +247,7 @@
   - standard virtual environment creation toolchain for python 2.x and 3.x
 
 - virtualenv
-  - improved version of virtual environments toolchain, part of standard library in python 3.6s
+  - improved version of virtual environments toolchain, part of standard library in python 3.6+
 
 - pipenv
   - modern way to create an isolation layer with explicitly defined dependencies for your application
@@ -281,10 +281,11 @@
   - allows flexible rules to constraint package versions https://python-poetry.org/docs/dependency-specification/
   - add interpreter to vscode
     > poetry config virtualenvs.in-project true
-    - https://stackoverflow.com/questions/59882884/vscode-doesnt-show-poetry-virtualenvs-in-select-interpreter-option 
+    - https://stackoverflow.com/questions/59882884/vscode-doesnt-show-poetry-virtualenvs-in-select-interpreter-option
 
-- visual studio code
-  - use the 'Python: Select Interpreter' command from the command palette (ctrl+shift+p)
+- https://github.com/mitsuhiko/rye
+  - allows installing and managing python versions automatically
+
 
 
 ## debugging
@@ -761,6 +762,10 @@
 ## useful links
 
 - howto create cli with poetry https://medium.com/clarityai-engineering/how-to-create-and-distribute-a-minimalist-cli-tool-with-python-poetry-click-and-pipx-c0580af4c026
+
+- mojo programming language: https://www.modular.com/max/mojo
+  - faster pythonesque language
+  - but proprietary
 
 
 ## references

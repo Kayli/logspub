@@ -6,7 +6,7 @@
   - ukraine:	66.4 (males) 76.2 (females)
   - canada: 79.7 (males);	83.9 (females)
 
-- heat death of the universe comes in about 10^100 years
+- heat death of the universe comes in about 10^100 (googol) years
 
 - terror management theory
   - there is a psychological conflict between self-preservation instinct and inevitability of death
@@ -20,7 +20,44 @@
 - старение: рост вероятности смертности с возрастом
   - у людей растет по экспоненте, удваиваясь раз в 7 лет
   - отсутствие старения не является бессмертием
+
+
+## people
+
+- michel de montaigne
+  - let us deprive death of its strangeness, let us frequent it, let us get used to it, let us have nothing more often in mind than death ... We don't know where death awaits us, so let us wait for it everywhere. To practice death is to practice freedom
+  - a man who has learned to die has unlearned how to be a slave [1]
+
+ - david benatar https://en.wikipedia.org/wiki/David_Benatar
+    - antinatalism and pessimism are most notable topics
+    - there is a crucial asymmetry between the good and the bad things, such as pleasure and pain
+    - shares stats
+      - in the first 88 years of the twentieth century 170 million (and possibly as many as 360 million)
+        people were shot, beaten, tortured, knifed, burned, starved, frozen, crushed, or worked to death;
+        buried alive, drowned, hanged, bombed, or killed in any other of the myriad ways governments have
+        inflicted death on unarmed, helpless citizens and foreigners
+      - about 40 million children are abused each year
+      - more than 100 million currently living women and girls have been subjected to genital cutting
+      - suicide get committed every 40 seconds, more than 800,000 people per year
+      
+  - peter wessel zapffe
+    - we are able to analyze the past and the future, both our situation and that of others,
+      as well as to imagine the suffering of billions of people (as well as of other living beings)
+      and feel compassion for their suffering
+    - we yearn for justice and meaning in a world that lacks both
+      - this ensures that the lives of conscious individuals are tragic
+    - our species still exists only because we limit our awareness of what that reality actually entails
+    - dismissal from our consciousness and the consciousness of others about all negative thoughts and 
+      feelings associated with the unpleasant facts of our existence
   
+  - julio cabrera
+    - we do not have to have bad intentions to treat others with disregard
+      - we are compelled to do so in order to survive, pursue our projects, and escape from suffering
+    
+  - seana shiffrin
+    - impossibility of obtaining consent from the human who will be brought into existence
+
+
 
 ## suicide
 
@@ -72,8 +109,8 @@
 ## rational suicide
 
 - referred as 'maid' acronym in canada
+  - medical assistance in dying
 
-- medical assistance in dying
 - other terms used
   - euthanasia and assisted suicide (eas, used in netherlands)
   - rational suicide
@@ -91,37 +128,7 @@
 
   - with the rise of christianity
     - suicide came to be viewed as a sin (a violation of the sixth commandment)
-
-
-- people
-  - david benatar https://en.wikipedia.org/wiki/David_Benatar
-    - antinatalism and pessimism are most notable topics
-    - there is a crucial asymmetry between the good and the bad things, such as pleasure and pain
-    - shares stats
-      - in the first 88 years of the twentieth century 170 million (and possibly as many as 360 million)
-        people were shot, beaten, tortured, knifed, burned, starved, frozen, crushed, or worked to death;
-        buried alive, drowned, hanged, bombed, or killed in any other of the myriad ways governments have
-        inflicted death on unarmed, helpless citizens and foreigners
-      - about 40 million children are abused each year
-      - more than 100 million currently living women and girls have been subjected to genital cutting
-      - suicide get committed every 40 seconds, more than 800,000 people per year
-      
-  - peter wessel zapffe
-    - we are able to analyze the past and the future, both our situation and that of others,
-      as well as to imagine the suffering of billions of people (as well as of other living beings)
-      and feel compassion for their suffering
-    - we yearn for justice and meaning in a world that lacks both
-      - this ensures that the lives of conscious individuals are tragic
-    - our species still exists only because we limit our awareness of what that reality actually entails
-    - dismissal from our consciousness and the consciousness of others about all negative thoughts and 
-      feelings associated with the unpleasant facts of our existence
-  
-  - julio cabrera
-    - we do not have to have bad intentions to treat others with disregard
-      - we are compelled to do so in order to survive, pursue our projects, and escape from suffering
-    
-  - seana shiffrin
-    - impossibility of obtaining consent from the human who will be brought into existence
+ 
 
 
 ## organizations
@@ -150,3 +157,8 @@
 - overdosing sleeping pills will cause death
   - in most western countries there are now no medically prescribed barbiturate sleeping tablets
   - what remains in the public consciousness, however, is the belief that an overdose of sleeping tablets - any sleeping tablet - will cause death. This misconception leads to many failed suicide attempts as elderly or seriously ill people often stockpile, then take, large numbers of modern, non-lethal sleeping tablets
+
+
+## references
+
+[1]: https://www.thegreatcourses.com/courses/practicing-mindfulness-an-introduction-to-meditation (lecture 23: Finitude—Living in the Face of Death)
