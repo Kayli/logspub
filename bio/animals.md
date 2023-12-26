@@ -46,8 +46,9 @@
 - warbler (славка, очеретянка, from warble: трель)
 - siskin (чиж)
 
-- shorebirds, waders
+- shorebirds, waders (кулики)
   - plover
+    - piping plover
 
 - woodpecker family (дятел)
   - downy woodpecker

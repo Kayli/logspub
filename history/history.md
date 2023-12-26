@@ -51,6 +51,8 @@
   - phanerozoic 541 ma - present
     - cambrian explosion
     - first vertebrate land animals 380 ma
+    - first birds 150 ma
+    - first flowers 130 ma
     - non-avian dinosaurs 230-66 ma
     - first hominins 2 ma
     - everything else
@@ -263,10 +265,10 @@
 
 ## world wars
 
-- Second World War
-  - Battle of Dunkirk
-    - was fought around the French port of Dunkirk (Dunkerque) during the 
-    - Allies vs Nazi Germany
+- second world war
+  - battle of dunkirk
+    - was fought around the french port of dunkirk (dunkerque) during the 
+    - allies vs nazi germany
 
 
 ## modern global order
@@ -319,9 +321,16 @@
   - группа на фейсбуке: https://www.facebook.com/groups/812058052274650/
 
 
+## interesting facts
+
+- britain was often allied in wartime with its dominant prussia [6]
+  - before the Unification of Germany in 1871
+
+
 ## other
 
 - трансгуманизм во все поля ... раде трипл-кила на миде [5]
+
 
 
 ## references
@@ -331,3 +340,4 @@
 [3]: https://www.youtube.com/watch?v=HvVFxUtNEDQ&t=5188s
 [4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
 [5]: https://youtu.be/hZzA1hAIc2c?si=u9lKLKWrzHm07UIT&t=12077
+[6]: https://en.wikipedia.org/wiki/Germany%E2%80%93United_Kingdom_relations

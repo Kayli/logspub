@@ -91,7 +91,18 @@
   - if there exists an isomorphism between two groups, then the groups are called isomorphic
 
 
+## topology
+
+- euclidean vs riemann geometry
+  - euclidean geometry
+    - is the geometry of a flat space (the parallel axiom holds)
+    - euclid assumed two or three dimensions only, but it can be extended to higher dimensions
+  - riemannian geometries
+    - allow for curved spaces with any number of dimensions
+    - include euclidean geometries as special cases (manifold)
+
+
 ## references
 
 [1]: socratica youtube channel, playlist "abstract algebra"
-[2]: https://youtu.be/igf04k13jZk
+[2]: https://youtu.be/igf04k13jZk (category theory: an introduction to abstract nonsense by feynman's chicken)

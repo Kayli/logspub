@@ -42,12 +42,14 @@
 - precision: number of correct labels among the labels predicted by ml model
 - recall: number of labels that successfully were predicted, among all the real labels
 
+- embeddings
+  - vectorized representation of a word or a phrase in nlp
+  - often associated with nlp due to their effectiveness in capturing semantic relationships between words
+    - but found applications in many other domains
+  
+
 
 ## data representations
-
-- one-hot vector, localist ([00000000100000] vector)
-  - huge size
-  - does not encode relations between words
 
 - word embeddings (word2vec)
   - representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning
@@ -468,6 +470,9 @@
   - meta's llama model fine-tuned by standford
 
 - LLaMA (large language model meta ai) https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
+
+- ollama.ai
+  - simple to install local llm model rest server + cli
 
 
 ## references

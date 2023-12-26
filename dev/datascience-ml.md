@@ -78,6 +78,25 @@
 ...
 
 
+## data representations
+
+- one-hot vector, localist ([00000000100000] vector)
+  - pros: simple, intuitive representation
+  - cons
+    - huge size
+    - does not encode relations between words
+    - for high-cardinality variables — those with many unique categories — the dimensionality of the transformed vector becomes unmanageable
+    - doesn't work well for cosine-distance similarity comparison algorithm
+      - similarity is 0 for every comparison between entities
+      - this is because encoding does not place similar entities closer to one another in vector space
+
+- embeddings [4]
+  - learned low-dimensional representations of discrete data as continuous vectors
+  - overcome limitations of one-hot encoding
+  - can be extracted from model and reused to speed-up training in some situations
+  - training and testing sets can be joined for the purpose of training embeddings [gpt]
+
+
 ## standard terminology for anns
 
 - parameter: value that is learned by the network during the training process
@@ -96,6 +115,13 @@
 - heads
   - output layers that are added to the network for specific tasks such as classification or regression
   - example: in a typical image classification task, the "head" of the network is a softmax layer that predicts the probability of each class based on the features extracted by the previous layers of the network
+
+
+
+- adam: (adaptive moment estimation) 
+  - optimization algorithm used for training artificial neural networks
+  - extension of the stochastic gradient descent (sgd) optimization algorithm and is designed to address some of its limitations
+  - combines ideas from two other optimization methods: rmsprop (root mean square propagation) and momentum
 
 
 ## model sizes
@@ -117,6 +143,13 @@
   - network should devote more focus to the small, but important, parts of the data
 
 - self-attention
+
+- cosine similarity
+  - dot product of the vectors (e.g. embeddings) divided by the product of their magnitudes
+  - results in a value between -1 and 1 where
+    (1) means vectors are identical
+    (0) means vectors are orthogonal
+    (-1) means vectors are diametrically opposed
 
 
 ## reinforcement learning
@@ -254,6 +287,21 @@
     - make recognition more robust
     - extract invariant representations of detected phenomenon
 
+- squaring vs abs
+  - terminology
+    - L2 norm: square of a quantity, also 'squared loss', 'l2 loss'
+    - L1 norm: absolute value
+    - L1 and L2 regularization: using squares vs abs
+  - pros of squaring
+    - squaring a term makes the function differentiable everywhere
+      - while the absolute value function is not differentiable at zero
+      - derivative changes smoothly when squaring, and abruptly with abs
+    - penalizing larger errors
+  - cons
+    - squaring tends to amplify the influence of outliers because large errors contribute disproportionately to the overall loss. Absolute values are less sensitive to outliers in this regard
+  - examples
+    - some algorithms, like LASSO (L1 regularization), promote sparsity and are useful for feature selection, while others, like Ridge regression (L2 regularization), penalize the magnitude of weights and can help prevent overfitting
+
 
 ## terminology
 
@@ -262,6 +310,18 @@
 
 - features: variables (columns) that are used as input to a machine learning model
 - labels: target or output variables (columns) in a supervised learning problem
+- example: is a particular instance of data
+  - labeled example: used to train the model
+  - unlabeled example: used for making predictions on new data
+- model: maps examples to predicted labels
+  - defined by internal parameters, which are learned
+- training: creating or learning the model
+- inference: applying the trained model to unlabeled examples to make useful predictions
+- batch: is the set of examples you use to calculate the gradient in a single training iteration
+
+- regression vs. classification
+  - regression model predicts continuous values
+  - classification model predicts discrete values
 
 - deep learning
   - model has multiple layers of learned representations, which makes it superior to other models
@@ -287,11 +347,31 @@
 - rag: retrieval augmented generation
 - completion: llm output based on input prompt
 - vector database: type of database that indexes and stores vector embeddings for fast retrieval and similarity search, with capabilities like CRUD operations, metadata filtering, and horizontal scaling
-- embeddings: vectorized representation of a word or a phrase in nlp
 
 - ann
   - artificial neural network
   - approximate nearest neighbor, a variant of 'nearest neighbor' search
+
+- orthogonal relationship: two things are independent or unrelated to each other
+- diametrically opposed: as opposed as they can be, related to line outlining diameter of a circle
+
+- epoch: pass through all the input data in learning phase
+
+- LR: learning rate
+  - neural network adjusts its weights based on the error between its predictions and the actual target values. The learning rate influences the size of these weight updates.
+
+- mse: (mean square error) is the average squared loss per example over the whole dataset.
+
+
+## tensorflow
+
+- tf.keras: high-level api, easy to use
+
+
+## useful links
+
+- foundational ml courses from google with executable collab notebooks
+  - https://developers.google.com/machine-learning/foundational-courses
 
 
 ## references
@@ -299,3 +379,4 @@
 [1]: https://www.youtube.com/watch?v=fhn6ZtD6XeE&t=186s
 [2]: https://www.amazon.ca/gp/product/B0BXQTTJ3N (scaling machine learning with spark by adi polak)
 [3]: https://www.amazon.ca/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/
+[4]: https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526

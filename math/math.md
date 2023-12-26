@@ -43,6 +43,14 @@
   - zfc in coq [4]
 
 
+## linear algebra
+
+- tensor rank
+  - single number is a rank 0 tensor
+  - vector is a rank 1 tensor
+  - matrix is a rank 2 tensor
+
+
 ## random notes
 
 - euler's number
@@ -63,7 +71,7 @@
   - highest lyapunov exponent represents chaoticity of a system
 
 - теорема пифагора доказана в аксиомах эвклидовой геометрии
-  - кривизна пространства-времени ото свидетельствует о неэвклидовых свойствах его геометрии?
+  - кривизна пространства-времени ото свидетельствует о неэвклидовых свойствах его геометрии
 
 
 ## self-referential systems
@@ -243,6 +251,7 @@
 
 - zfc https://ncatlab.org/nlab/show/ZFC
 - isabelle/hol https://www.youtube.com/watch?v=1nEpUoVopT0
+
 
 
 ## software products
