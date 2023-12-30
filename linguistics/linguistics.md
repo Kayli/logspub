@@ -5,30 +5,22 @@
 - syntax: examines sentence structures, principles, and relationships
 - semantics: studies aspects of meaning
 - pragmatics: study of how context contributes to meaning
-- auto-antonym or contronym
-  - word with multiple meanings (senses) of which one is the reverse of another
-  - combination of homonym (words with similar spelling or pronunciation) and antonym
-
 - morphology
   - study of words, how they are formed, and their relationship to other words in the same language
 
-- hypernym
-  - a word with a broad meaning that more specific words fall under; a superordinate. 
-  - example: color is a hypernym of red
+- writing systems
+  - semasiography
+    - relates visible marks to meaning directly 
+      - without reference to any specific spoken language
+  - glottography: using visible marks to represent forms of a spoken language
+    - logography
+      - marks correspond to morphemes or words
+    - phonography
+      - marks correspond to phonemes, syllables
 
-- hyponym (opposite of hypernym)
-  - represents a specific member of that category or a lower-level concept that is subsumed under the hypernym
-  - example: animal is a hypernym of cat, dog, fish, etc.
 
-- synonym
-  - cognitive synonym ?
-    - words so similar in meaning that they cannot be differentiated either denotatively or connotatively, that is, not even by mental associations, connotations, emotive responses, and poetic value
-    - it is a stricter (more precise) technical definition of synonymy, specifically for theoretical (e.g., linguistic and philosophical) purposes
-  - near synonym
-    - synonyms with greater differences
 
-- homophone
-  - word that is pronounced the same (to varying extent) as another word but differs in meaning
+
 
 - filler, hesitation marker, planner (дискурсивные слова, слова-паразиты)
 
@@ -41,8 +33,50 @@
   - past tense, past participle, present participle (gerund), and various verb conjugations
 
 - gerund
-  - verb form that functions as a noun
-  - in english means -ing form used such as 'playing on computers'
+  - verb form that can function as a noun
+  - in english means -ing form used such as 'playing on computers' and 'genious of play'
+
+
+## lexical relations
+
+- antonymy
+
+  - contronym
+    - also: contranym, autantonym, enantiosemy, enantionymy, antilogy, auto-antonym, antagonym, enantiodrome, janus word, self-antonym, addad
+    - word with multiple meanings (senses) of which one is the reverse of another
+    - combination of homonym (words with similar spelling or pronunciation) and antonym
+    - examples
+      - cleave: "to cut apart" or "to bind together"
+      - sanction: "permit" or "penalize"
+      - fast: "moving rapidly" or "fixed in place"
+      - "awful, pompous, and artificial" meaning "awe-inspiring, majestic, and ingeniously designed" in old english
+
+- hypernym
+  - a word with a broad meaning that more specific words fall under; a superordinate. 
+  - example: color is a hypernym of red
+
+- hyponym (opposite of hypernym)
+  - represents a specific member of that category or a lower-level concept that is subsumed under the hypernym
+  - example: animal is a hypernym of cat, dog, fish, etc.
+
+- synonym
+  - cognitive synonym
+    - refer to the same thing independently of context
+      - also words' interchangeability is not context-sensitive
+    - if all instances of both words express the same exact thing, and the referents are necessarily identical
+    - examples: liberty/freedom, statesman/politician, hide/conceal, thrifty/economical/stingy
+  - near synonym
+    - synonyms with greater differences
+
+- homophone: same sound, different spelling and meaning
+- homonyms: same spelling, same sound, but different meaning
+- homograph: same spelling, but different sound and meaning
+
+- polysemy: capacity for a sign to have multiple related meanings
+  - sign can be a symbol, a morpheme, a word, phrase, etc.
+
+- metonymy
+- prototypes
 
 
 ## parts of speech

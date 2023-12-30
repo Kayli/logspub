@@ -42,25 +42,23 @@
 - precision: number of correct labels among the labels predicted by ml model
 - recall: number of labels that successfully were predicted, among all the real labels
 
-- embeddings
-  - vectorized representation of a word or a phrase in nlp
-  - often associated with nlp due to their effectiveness in capturing semantic relationships between words
-    - but found applications in many other domains
-  
-
 
 ## data representations
 
 - word embeddings (word2vec)
-  - representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning
-  - you can get 'nearest neighbours' to find closely related words from the trained model
+  - vectorized representation of word for text analysis
+  - encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning
+  - allow to run 'nearest neighbours' algorithm to find closely related words from the trained model
   - types
     - skip-grams (sg)
       - predict context words given a target
     - continuous bag of words (cbow)
       - predict target word from bag-of-words context
   - similarity calculated using dot product of vector representations
-  - word embeddings have dimensions ranging from 50 to 300
+  - vector dimensionality ranges from 50 to 300
+  - often associated with nlp 
+    - due to their effectiveness in capturing semantic relationships between words
+    - but found applications in many other domains
 
 - sentence embedding
   - encodes sentence similarity
@@ -172,6 +170,7 @@
   - recurrent neural network (rnn)
   - long short-term memory (lstm) 
   - transformer and self-attention (gpt-2)
+    - llms: large language models
 
 
 ## gpt
@@ -190,6 +189,15 @@
 
 - rlhf: reinforcement learning from human feedback
   - fine-funing technique that makes trained language models more predictable/focused
+
+- training separated into two stages
+    - pretraining
+      - uses data from all internet
+      - costly: about 2m USD to train
+      - produces 'base model'
+    - finetuning
+      - 100k domain-specific questions/answers/labeled data
+      - produces 'assistant model'
 
 
 ## chatgpt

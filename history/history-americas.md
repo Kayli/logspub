@@ -88,6 +88,13 @@
     - south was supported by the United States and other anti-communist allies
 
 
+## other
+
+- quipu (also spelled khipu)
+  - recording devices fashioned from strings 
+  - historically used by a number of cultures in the region of andean south america
+
+
 ## references
 
 [1]: https://www.pc.gc.ca/en/pn-np/bc/yoho/activ/burgess

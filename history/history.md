@@ -91,7 +91,11 @@
 
 - post-medieval period 1500 – 1800 ce
   - renaissance 1500-1600 ce
+    - people move away from religion in favour of free thought and religious freedom
+    - people: rene decartes, leonardo da vinci, michelangelo, and copernicus
   - enlightenment, age of reason 1700-1800 ce
+    - scientific thought and rational thinking took centre stage
+    - people: rousseau, voltaire, and john locke
 
 - industrial/modern 1800 ce - now
 
@@ -179,6 +183,11 @@
   
 - macedonia
   - 356-323 bce: alexander the great
+
+- contraception methods
+  - сильфий
+  - детоубийство
+  - поощрение гомосексуализма
 
 
 ## mediterranean region [1]
@@ -324,12 +333,20 @@
 ## interesting facts
 
 - britain was often allied in wartime with its dominant prussia [6]
-  - before the Unification of Germany in 1871
+  - before the unification of germany in 1871
+
+- сильфий: древний фитоконтрацептив
+  - растение было обнаружено и стало предметом торговли греческих колонистов в киренах, древнегреческом городе на побережье северной африки около современного шаххата, ливия. все попытки пересадить и культивировать сильфий вне кирен не увенчались успехом. [8]
 
 
 ## other
 
 - трансгуманизм во все поля ... раде трипл-кила на миде [5]
+
+- термин "осевое время" (нем. "achsenzeit") [7]
+  - from 800-400 bc
+  - karl jaspers использовал для обозначения периода в истории, который он считал особенно значимым и решающим для духовного развития человечества
+  - произошли ключевые события и культурные трансформации в различных частях мира, такие как индия, китай, персия, иудея, греция
 
 
 
@@ -341,3 +358,5 @@
 [4]: https://www.youtube.com/watch?v=BWplj4BSIwY&t=560s
 [5]: https://youtu.be/hZzA1hAIc2c?si=u9lKLKWrzHm07UIT&t=12077
 [6]: https://en.wikipedia.org/wiki/Germany%E2%80%93United_Kingdom_relations
+[7]: https://youtu.be/m5o1XrFdB8k?si=IAXGbK_jAvQSSaNJ&t=3554 (bushwacker, culture/laozi stream)
+[8]: https://novate.ru/blogs/011216/39032/

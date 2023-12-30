@@ -275,6 +275,11 @@
           exerts upon the other in the vacuum of free space
       - see for more details https://en.wikipedia.org/wiki/Vacuum_permeability
 
+- drift velocity
+  - actual speed of electrons in a wire
+  - is quite slow, typically on the order of millimeters per second. 
+    - this is because, in a metal conductor, electrons are constantly colliding with atoms in the lattice structure of the material
+
 
 ## fluid simulation [4][5]
 

@@ -136,6 +136,7 @@
 
 - austrian philosopher
 - studied bertrand russell's foundation of mathematics and formal logic
+- 7 bros and sisters, 3 of which committed suicide
 - linguistic categories of focus: true, false, meaningless
 
 - language insufficient to describe transcendental concepts
@@ -1133,6 +1134,11 @@
   - 'all of western philosophy subsequently after plato consists of a set of footnotes to plato and his work'
   - used by dugin in one of his lectures without referencing the source?
 
+- восточное (персидское) влияние [8]
+  - близость платоновских идей относительно бессмертия души и митраизмом (культ митры, mithras) в максимальной степени обнаруживается в представлениях о метемпсихозе – неотъемлемой частью митраистического учения
+  - бессмертная человеческая душа из высших областей бытия нисходит в материальные формы
+  - путем постоянного и постепенного усовершенствования души очищаются от греховной нечистоты, освобождаются от уз материи и достигают, наконец, вечного божественного жилища, соединяясь со своим божественным началом
+
 
 ## democritus 460-370 bce
 
@@ -1225,3 +1231,4 @@
 [5]: https://youtu.be/Lr-rUkFS-FA?t=1996
 [6]: https://www.thegreatcourses.com/courses/great-ideas-of-psychology (lecture 34)
 [7]: https://darwin200.christs.cam.ac.uk/what-about-wallace
+[8]: https://plato.spbu.ru/SUMMERSCHOOL/summerschool5/01-Pozdnyakov.htm

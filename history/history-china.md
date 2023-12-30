@@ -37,6 +37,7 @@
 - qin 221–207 bc
   - phonetic: ch'in (чин)
   - terracotta army, legalism, confucianism
+    - legalism (легизм, legisme) was a key to mobilize/assemble first empire 
   - proto-wall of china: connecting walls/forts along the northern border
   - emperor: qin shi huang
 

@@ -5,19 +5,6 @@
 - etymology
   - religio (respect for what is sacred)
   - religare (to bind, in the sense of an obligation)
-  - god
-    - english word itself is derived from the Proto-Germanic * ǥuđan
-    - reconstructed Proto-Indo-European form * ǵhu-tó-m 
-      - was likely based on the root * ǵhau(ə)-, which meant either "to call" or "to invoke"
-  - allāh
-    - arabic term used by muslims and arabic speaking christians and jews meaning "the god"
-    - has no plural form
-    - ʾilāh is the term used for a deity or a god in general
-  - бог
-    - общеславянское происхождение 
-    - родственно иранскому baga и санскритскому bhagas — «податель благ»
-    - богатство, bogatъ, ubogъ
-    - доля, делить, получать долю, наделять
 
 - what is religion [3]
   - things that surpass the limits of our knowledge (durkheim)
@@ -92,6 +79,31 @@
   - main themes: alienation, imminent divine intervention, transformation
 
 
+## more etymology
+
+- god
+  - english word itself is derived from the Proto-Germanic * ǥuđan
+  - reconstructed Proto-Indo-European form * ǵhu-tó-m 
+    - was likely based on the root * ǵhau(ə)-, which meant either "to call" or "to invoke"
+- allāh
+  - arabic term used by muslims and arabic speaking christians and jews meaning "the god"
+  - has no plural form
+  - ʾilāh is the term used for a deity or a god in general
+- бог
+  - общеславянское происхождение 
+  - родственно иранскому baga и санскритскому bhagas — «податель благ»
+  - богатство, bogatъ, ubogъ
+  - доля, делить, получать долю, наделять
+- бОга: дырка в голове
+- господь
+  - господин
+  - hospes (лат): хозяин, предаставляющий гостеприимство
+  - potis (лат): могущественный
+  - jaspatis (др инд)
+    - "jas" could be related to the PIE root "yewes" or "yewos," which is associated with words related to religious or ritual activities
+    - "pati" is a common element and is related to words like "patir" or "pə́ter," meaning "father"
+      - еще так звали собаку ежи ;) [5]
+
 
 ## monoteism
 
@@ -125,12 +137,15 @@
 
 ### zoroastrism
 
-- ahura mazda: lit. 'lord of wisdom'
+- ahura mazda: literally 'lord of wisdom'
 - zoroaster 
   - greek rendering of the avestan name zarathustra
   - zar - king?
   - zorro - fox (spanish)
   - aster - star?
+- places significant importance on fire as a symbol of purity and divinity
+- dualistic cosmology
+  - good (ahura mazda) vs evil (angra mainyu)
 
 
 ### paganism
@@ -139,8 +154,8 @@
   who practiced polytheism or ethnic religions other than judaism
 
 - saturnalia
-  - celebration in honour of the god Saturn
-  - held on 17 December of the Julian calendar and later expanded with festivities through to 23 December
+  - celebration in honour of the god saturn
+  - held on 17 december of the julian calendar and later expanded with festivities through to 23 december
   - was overriden later by christmas, which is celebrated at about the same time now
 
 
@@ -186,6 +201,10 @@
 
 ### hinduism 15.1%
 
+- has some common themes with zoroastrism
+  - agni puja: worship of fire
+  - 'asura' (from ahura mazda) came to be associated with malevolent or demonic beings
+
 - brahman
   - connotes the highest universal principle, the ultimate reality in the universe
   - мир как он есть, до конца непознаваемый
@@ -207,6 +226,7 @@
 
 - forms between 600-400 bce
 - originated in ancient India as a Sramana tradition
+- influenced daoism (taoism)
 
 
 ### sikhism (0.3%)
@@ -232,6 +252,8 @@
 
 ### taosism 0.04%
 
+- forms around 600 bce
+- originated by laozi (lao tzu)
 - keystones
   - tao te ching, a book containing teachings attributed to lao tzu (late 4th century bce)
   - later writings of zhuangzi
@@ -299,3 +321,4 @@
 [2]: https://en.wikipedia.org/wiki/Rastafari
 [3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
 [4]: https://youtu.be/yImlXr5Tr8g?t=5435
+[5]: https://incopolis.livejournal.com/10666.html

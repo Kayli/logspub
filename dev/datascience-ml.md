@@ -78,6 +78,8 @@
 ...
 
 
+
+
 ## data representations
 
 - one-hot vector, localist ([00000000100000] vector)

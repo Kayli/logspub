@@ -27,7 +27,7 @@
 
 ## sign
 
-- is anything that communicates a meaning that is not the sign itself to the interpreter of the sign
+- something that stands for or represents something else
 
 - categories
   - icon
@@ -62,7 +62,11 @@
   - can be vewed as robotic turing test, which is hybrid symbolic/sensorimotor
 
 - procedural semantics
-  - semantics of natural language sentences can be characterized in a formalism whose meanings are defined by abstract procedures that a computer (or a person) can either execute or reason about. In this theory the meaning of a noun is a procedure for recognizing or generating instances, the meaning of a proposition is a procedure for determining if it is true or false, and the meaning of an action is the ability to do the action or to tell if it has been done
+  - semantics of natural language sentences can be characterized in a formalism whose meanings are defined by abstract procedures that a computer (or a person) can either execute or reason about. 
+  - in this theory 
+    - the meaning of a noun is a procedure for recognizing or generating instances
+    - the meaning of a proposition is a procedure for determining if it is true or false
+    - the meaning of an action is the ability to do the action or to tell if it has been done
 
 
 ## stylistics
@@ -82,7 +86,7 @@
 
 ## people
 
-- roland barthes, umbero eco, roman jakobson and juri lotman
+- roland barthes, umbero eco, roman jakobson, juri lotman, alfred tarski
 
 
 ## interesting
