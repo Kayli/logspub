@@ -375,6 +375,8 @@
 - foundational ml courses from google with executable collab notebooks
   - https://developers.google.com/machine-learning/foundational-courses
 
+- stable diffusion: https://deforum.art
+
 
 ## references
 

@@ -219,6 +219,8 @@
     without form and is all pervasive
   - similar to soul?
 
+- god yama: keeper of debts
+
 - tbd
 
 

@@ -51,6 +51,7 @@
   - phanerozoic 541 ma - present
     - cambrian explosion
     - first vertebrate land animals 380 ma
+    - first snakes 160 ma
     - first birds 150 ma
     - first flowers 130 ma
     - non-avian dinosaurs 230-66 ma
@@ -196,7 +197,7 @@
   - rus: финикийцы, карфагеняне
   - notable cities: tyre, sidon, beirut, byblos
   - punic people
-    - were a Semitic people in the Western Mediterranean who migrated from Tyre, Phoenicia[1] to North Africa during the Early Iron Age
+    - were a semitic people in the western mediterranean who migrated from tyre, phoenicia[1] to north africa during the early iron age
 
 - persians
   - modern territories of iran
@@ -221,12 +222,36 @@
 
 - byzantine empire
   - also referred to as the eastern roman empire
-  - was the continuation of the roman empire in its eastern provinces during Late Antiquity and the Middle Ages, 
-  - capital city Constantinople
-  - survived the fragmentation and fall of the Western Roman Empire in the 5th century AD and continued to exist 
-    for an additional thousand years until the fall of Constantinople to the Ottoman Empire in 1453
+  - was the continuation of the roman empire in its eastern provinces during late antiquity and the middle ages, 
+  - capital city constantinople
+  - survived the fragmentation and fall of the western roman empire in the 5th century ad and continued to exist 
+    for an additional thousand years until the fall of constantinople to the ottoman empire in 1453
 
 - dutch (nederlanders) are a germanic ethnic group and nation native to the netherlands
+
+- france
+  - carolingian empire
+    - king of the franks: charlemagne
+    - 800-900 ce: carolingian renaissance
+      - carolingian minuscule (caroline minuscule)
+        - is a latin alphabet script
+        - developed as a calligraphic standard introducing
+          - clearly distinguishable glyphs
+          - clear capital letters
+          - spaces between words
+        - forgotten and then rediscovered during later renaissance of 1500-1600
+  
+  - 11xx-12xx ce: cattari
+    - фр. catiers, то есть «котопоклонники» 
+      - из-за якобы бытовавших у «еретиков» ритуалов с участием кошек
+        - история про ритуал посвящения - целование кота под хвостом
+    - с греческим καθαρος, тем самым ассоциируя их с существовавшим в эпоху раннего христианства движением новациан, именовавших себя «кафарами» (от греч. καθαροί — «чистые, неосквернившиеся»)
+  
+  - людовик 9
+    - дядя норм, не пил
+    - современник фомы аквинского, слушался церковь
+    - инспирировал два крестовых похода
+    - любил бичевание, просил духовника дать себе розог
 
 
 ### england
@@ -314,6 +339,12 @@
 
 - ирак этимология: по одной из гипотез, от названия шумерского города урук (библейский эрех)
 
+- факто́рия
+  - торговое поселение (пост), образованное иностранными (чаще всего европейскими) купцами на территории другого государства или колонии
+
+- subsaharian africa
+  - современный термин вместо "черная африка"
+
 
 ## abbreviations
 
@@ -348,8 +379,9 @@
   - karl jaspers использовал для обозначения периода в истории, который он считал особенно значимым и решающим для духовного развития человечества
   - произошли ключевые события и культурные трансформации в различных частях мира, такие как индия, китай, персия, иудея, греция
 
-
-
+- прокопий кесарийский, юстиниан, его жена императрица феодора и гуси [9]
+  
+  
 ## references
 
 [1]: https://www.youtube.com/channel/UCGzfpg1YiBIlgcODQI4lDvQ
@@ -360,3 +392,4 @@
 [6]: https://en.wikipedia.org/wiki/Germany%E2%80%93United_Kingdom_relations
 [7]: https://youtu.be/m5o1XrFdB8k?si=IAXGbK_jAvQSSaNJ&t=3554 (bushwacker, culture/laozi stream)
 [8]: https://novate.ru/blogs/011216/39032/
+[9]: https://www.vokrugsveta.ru/vs/article/5967/

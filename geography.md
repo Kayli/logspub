@@ -5,7 +5,7 @@
 - fertile crescent
   - refers to a semi-circular area of the eastern mediterranean region
   - including the valleys of the nile, tigris and euphrates rivers
-  - includes parts of the modern countries of Israel, Lebanon, Jordan, Syria, northern Egypt, and Iraq
+  - includes parts of the modern countries of israel, lebanon, jordan, syria, northern egypt, and iraq
 
 - east asia
   - modern china, japan, mongolia, north korea, south korea, and taiwan
@@ -21,7 +21,7 @@
   - east and southeast asia as well as the russian far east to a lesser extent
 
 - middle east (ash-sharq al-awsat)
-  - region spanning the Levant, Arabian Peninsula, Anatolia (including modern Turkey and Cyprus), Egypt, Iran and Iraq
+  - region spanning the levant, arabian peninsula, anatolia (including modern turkey and cyprus), egypt, iran and iraq
 
 - near east: kinda similar to middle east
 
@@ -39,10 +39,16 @@
   - stretch of land bordering the Mediterranean in southwestern Asia
   - historical region of syria (greater syria), which includes present-day Israel, Jordan, Lebanon, Palestine, Syria and most of Turkey southwest of the middle Euphrates
 
+- rainforest: тропический лес
+
+- cава́нны: пространства в субэкваториальном поясе, покрытые травяной растительностью с редко разбросанными деревьями и кустарниками
+
+- гидро́ним: названия водных объектов, подвид топонима
+
 
 ## europe
 
-- nitherlands, holland,  [2]
+- netherlands, holland [2]
   - capital: amsterdam
   - languages: dutch (нидерла́ндский или голландский язык)
   - country located in Western Europe with overseas territories in the caribbean

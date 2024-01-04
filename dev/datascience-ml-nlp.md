@@ -482,6 +482,9 @@
 - ollama.ai
   - simple to install local llm model rest server + cli
 
+- lmstudio https://lmstudio.ai/
+  - vscode-based local llm ide
+
 
 ## references
 
