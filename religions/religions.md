@@ -94,7 +94,6 @@
   - родственно иранскому baga и санскритскому bhagas — «податель благ»
   - богатство, bogatъ, ubogъ
   - доля, делить, получать долю, наделять
-- бОга: дырка в голове
 - господь
   - господин
   - hospes (лат): хозяин, предаставляющий гостеприимство
@@ -137,12 +136,16 @@
 
 ### zoroastrism
 
-- ahura mazda: literally 'lord of wisdom'
-- zoroaster 
+- dualistic cosmology
+  - ahura mazda: literally 'lord of wisdom'
+  - ahreman or angra mainyu: opposing, evil, destructive spirit
+- zoroaster (zarathustra)
+  - spiritual founder of zoroastrianism, iranian prophet
   - greek rendering of the avestan name zarathustra
-  - zar - king?
-  - zorro - fox (spanish)
-  - aster - star?
+  - etymology
+    - zar - king?
+    - zorro - fox (spanish)
+    - aster - star?
 - places significant importance on fire as a symbol of purity and divinity
 - dualistic cosmology
   - good (ahura mazda) vs evil (angra mainyu)
@@ -169,9 +172,9 @@
 - forms 610-670 ce
   - sacred cities: mecca, medina, jerusalim
   - masjid al-haram (great mosque of mecca)
+    - kaaba, kabba or kabah: black-gold-white cube building in mecca (city)
     - hijr al-aswad (the black stone) 
-      - presumably a meteorite
-      - located in kabba (black-gold-white cube building) in mecca (city)
+      - presumably a meteorite, located in kaaba
     - some areas in the grand mosque, including the central area around the kaaba, are reserved for men only
   - caliphate or khilāfah (arabic pronunciation: [xi'laːfah]) 
     - is an institution or public office governing a territory under islamic rule
@@ -198,6 +201,16 @@
   - allahu akbar: god the greatest
   - sall allahu alayhi wa sallam: may god bless him and grant him peace
 
+- хади́с (араб. الحديث)
+  - предание о словах и действиях пророка мухаммеда
+  - затрагивает разнообразные религиозно-правовые стороны жизни мусульманской общины
+
+- иртида́д (араб. اِرْتِدَاد)
+  - вероотступничество из ислама, один из самых больших грехов
+
+- qibla (arabic: قِبْلَة, lit. 'direction') 
+  - direction towards the kaaba in the sacred mosque in mecca
+
 
 ### hinduism 15.1%
 
@@ -221,6 +234,12 @@
 
 - god yama: keeper of debts
 
+- сансара: круговорот рождений и смертей
+
+- мо́кша, или му́кти
+  - освобождение из сансары от всех страданий и ограничений материального существования
+  - понятие используется в индуизме, джайнизме и раннем буддизме
+
 - tbd
 
 
@@ -233,23 +252,48 @@
 
 ### sikhism (0.3%)
 
+- sincretism of islam + hinduism
+  - syncretic aspects of sikhism can be found in its
+    - monotheism, drawn from islam
+    - belief in the transmigration of the soul, or reincarnation, drawn from hinduism
+
 - tbd
 
 
 ### judaism (0.2%)
 
-- tbd
+- forms
+  - 1300-1200 bce centuries as yahwism
+  - 600 bce - 70 ce transforms to judaism
+
 - зион - священная гора в израиле
+
+- rabbi
+  - a jewish scholar or teacher, especially one who studies or teaches jewish law
+  - a person appointed as a jewish religious leader
+
+- sabbath
+  - a day of religious observance and abstinence from work
+  - kept by jewish people from friday evening to saturday evening
+
+- rabbi (равин): руководитель общины
+
+- тора: ветхий завет, главная священная книга
+  - трактовки торы
+    - мишна: книги (6 томов) в которой каждое слово торы поясняется одной-двумя строчками трактовки
+    - талмуд: на каждые 2-3 строчки мишны 5-10 страниц коментариев
+    - в некоторой степени может считаться прототипом современных научных исследований
+      - поощрение сосредоточения на письменном слове
+
+- херем: отлучение от еврейской коммуны
 
 - cantor
   - trained vocalist and member of the clergy who leads the congregation in song and prayer
   - teaches music to both children and adults
   - officiates major life cycle events
 
-- rabbi
-  - a jewish scholar or teacher, especially one who studies or teaches jewish law
-  - a person appointed as a jewish religious leader
-
+- караимы: секта фундаменталистов не принявшая устных толкований торы
+  - избежали гитлеровских чисток, так как не были признаны как евреи официальными представителями иудаизма
 
 
 ### taosism 0.04%
@@ -305,7 +349,7 @@
 
 ### ai apacalypticism
 
-- organizations: transhumanist groups, new religious movements
+- organizations: transhumanism groups, new religious movements
 - people: ray kurzweil
 - cataclysimic event: singularity
   - exponential growth of human innovation which is unpredictable

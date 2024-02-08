@@ -20,6 +20,14 @@
 
 ## data structures
 
+- array
+- linked list
+- set
+- stack
+- queue
+- tree
+- graph
+
 - hashtable
   - synonyms: hashmap, map, dictionary, associative array
   - typical implementation gives access to elements by key in const time
@@ -90,12 +98,16 @@
 
 - bloom filter
   - 'contains element' operation
-    - can answer: probably yes, definitely no
+    - can answer: definitely no, probably yes
     - which means that false positives are possible, false negatives are not allowed
   - you can never remove an item from a bloom filter
   - implementation
     - multiple hashes are mapping element to flags array
     - all hashes need to refer to 'true' value in flags array in order to consider element probably present 
+  - examples
+    - cache systems: to quickly check if element is absent before consulting with slower storage
+    - network Routing: check ip address or dns name
+    - spell checker: is word absent from the dictionary?
 
 
 ## asymptotic analysis

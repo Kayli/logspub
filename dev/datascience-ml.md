@@ -99,7 +99,7 @@
   - training and testing sets can be joined for the purpose of training embeddings [gpt]
 
 
-## standard terminology for anns
+## aritificial neural networks (anns)
 
 - parameter: value that is learned by the network during the training process
   - types
@@ -118,17 +118,16 @@
   - output layers that are added to the network for specific tasks such as classification or regression
   - example: in a typical image classification task, the "head" of the network is a softmax layer that predicts the probability of each class based on the features extracted by the previous layers of the network
 
-
-
 - adam: (adaptive moment estimation) 
   - optimization algorithm used for training artificial neural networks
   - extension of the stochastic gradient descent (sgd) optimization algorithm and is designed to address some of its limitations
   - combines ideas from two other optimization methods: rmsprop (root mean square propagation) and momentum
 
+- most common mathematical operations
+  - sum and multiplication: dot product
+  - exponentiation: softmax normalization layer
 
-## model sizes
-
-- anns as of 2023 
+- ann model sizes as of 2023 
   - number of parameters: tens of billions
   - dimensions: thousands
   - n heads: tens

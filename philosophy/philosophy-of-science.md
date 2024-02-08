@@ -28,6 +28,19 @@
     - testability?
 
 
+## history
+
+- ibn al-haytham (latinized as alhazen)
+  - medieval mathematician, astronomer, and physicist of the islamic golden age from present-day iraq
+  - father of modern optics
+  - works of alhazen were frequently cited during the scientific revolution 
+    - by isaac newton, johannes kepler, christiaan huygens, and galileo galilei
+  - early pioneer of the scientific method
+    - argued that hypothesis must be supported by experiments 
+      - based on confirmable procedures or mathematical 
+    - sometimes described as the world's "first true scientist"
+
+
 ## basic principles
 
 - fact

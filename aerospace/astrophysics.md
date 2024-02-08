@@ -150,6 +150,11 @@
   - size: 100 kly in diameter (when avg is 150kly??)
   - saggitarius a* active galactic nucleus
     - supermassive black hole at the center
+  - on average, a supernova will occur once every 50 years in a galaxy the size of the milky way
+  - galactic year
+    - it takes our sun approximately 225 million years to make the trip around our galaxy
+    - since the sun and the earth first formed, about 20 galactic years have passed
+      - meaning we have been around the galaxy 20 times
 
 
 ## planetary systems
@@ -364,6 +369,7 @@
   - spirit and opportunity
   - phoenix
   - curiosity
+  - ingenuity helicopter
 
 - water
   - ice caps
@@ -422,6 +428,36 @@
   - diameter of typical large telescope 10' (arcmin)
 
 
+
+## synthesis [8]
+
+- fission: splits a heavy element (with a high atomic mass number) into fragments
+- fusion: joins two light elements (with a low atomic mass number), forming a heavier element
+
+- right after the big bang most of hydrogen and helium in the universe form
+
+- hydrostatic nuclear synthesis
+  - fuses hydrogen > helium > carbon > oxygen
+  - happens before explosion of supernova
+
+- explosive nuclear synthesis
+  - oxygen > silicon > ...
+  - happens after explosion of supernova
+
+- merging neutron stars (hydrodynamic)
+
+- cosmic ray fission
+  - bore, berillium, lithium
+
+- heaviest elements in the universe
+  - uranium: you can mine it for practical use
+  - plutonium: some trace amounts here and there
+    - but you can synthesise more in a lab
+  - all others are too rare and short-living
+
+- synthesis periodic table https://en.wikipedia.org/wiki/Cosmic_ray_spallation#/media/File:Nucleosynthesis_periodic_table.svg
+
+
 ## interesting links
 
 - celestial zoo https://www.pablocarlosbudassi.com/2021/02/the-celestial-zoo-celestial-zoo-tour-of.html
@@ -430,11 +466,12 @@
 ## references and materials used
 
 - wikipedia
-  - lecture by Vladimir Surdin about
-    - solar system https://www.youtube.com/watch?v=jHgSBeGrQo8
-    - mars https://www.youtube.com/watch?v=ax729BABw9w
+- lecture by vladimir surdin about
+  - solar system https://www.youtube.com/watch?v=jHgSBeGrQo8
+  - mars https://www.youtube.com/watch?v=ax729BABw9w
 - anton petrov youtube channel https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ
 [4]: https://en.wikipedia.org/wiki/Lagrange_point
 [5]: https://www.youtube.com/watch?v=bGcYp_npJb8
 [6]: https://science.sciencemag.org/content/346/6205/61
 [7]: https://youtu.be/SqX70ypN7bA?t=784
+[8]: https://youtu.be/V28YdLuYnjk?si=gV2mUzsEEtLG773W

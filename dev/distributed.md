@@ -44,7 +44,7 @@
 - encourage team autonomy, freedom and responsibility
   - splitting the ownership of the code is an important part of ms architecture
 
-- each microservice own its logic and data under an autonomous lifecycle, with independent deployment per microservice.
+- each microservice owns its logic and data under an autonomous lifecycle, with independent deployment per microservice
 
 - it should be easy to rewrite microservice
   - its normal to do that several times, always adapting to business requirements
@@ -294,7 +294,11 @@
   
   - service meshes: istio, envoy
   
-  - infrastructure monitoring: zabbix
+  - infrastructure monitoring
+    - azure monitor/app insights
+    - aws cloudwatch
+    - k8s prometheus + grafana
+    - zabbix
 
 
 ## testing
@@ -302,7 +306,7 @@
 - faking service dependencies: hoverfly and others
 
 - performance/load testing
-  - tools: jmeter, gatling, jmeter, flood.io
+  - tools: jmeter, gatling, flood.io
 
 - security testing
   - findsecbugs, bdd-security, arachni, gauntlt, serverspec, docker bench for security, clair
@@ -317,7 +321,7 @@
 ## security
 
 - static vulnerability analysis for docker images
-  - snyk, etc.
+  - snyk, veracode, SonarQube, owasp dependency check, etc.
 
 
 ## high availability

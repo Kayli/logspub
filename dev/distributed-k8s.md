@@ -437,7 +437,7 @@
 - historical overview of how deployments evolved: https://kubernetes.io/docs/concepts/overview/
 
 - pod realization process
-  - once the best worker node is found, the control plane notifies the instance of kubelet running on the identified worker node to realize a pod's container. Then, kubelet does the work of installing the container on the worker node (Figure 3) and reports back to the API server the particulars about the container installation. That information is stored in the etcd database.
+  - once the best worker node is found, the control plane notifies the instance of kubelet running on the identified worker node to realize a pod's container. Then, kubelet does the work of installing the container on the worker node and reports back to the API server the particulars about the container installation. That information is stored in the etcd database.
 
 - despite sometimes being referred as 'orchestration platform', k8s eliminates the need for orchestration
   - technical definition of orchestration is execution of a defined workflow: first do A, then B, then C

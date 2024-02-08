@@ -64,6 +64,12 @@
   - blocking and diverting: diverting a conversation from the subject matter to questioning the victim's thoughts and controlling the conversation
   - trivializing: making the victim believe their thoughts or needs are unimportant
   - forgetting and denial: pretending to forget things that have really occurred
+  - use of aesopian language
+    - can try to deny responsibility for toxic messages being delivered
+      - you're making it up
+      - you're reading too much into it
+      - you're sick
+    - subliminal priming/masking/shadowing [5] techniques can be used to make it worse
 
 - hero culture
   - one gets a good rating for fighting a fire
@@ -150,6 +156,7 @@
 - https://thethinkingshop.org/
 - master list of fallacies from owen williamson 
   - https://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm
+- propaganda techniques https://youtu.be/sybo484veJY?si=Jv1EhxPN1d3u_aXd
 
 
 ## references
@@ -158,3 +165,4 @@
 [2]: https://www.qualitygurus.com/edwards-deming-quotes/#:~:text=One%20gets%20a%20good%20rating,first%20time%2C%20you%20are%20invisible.
 [3]: https://youtu.be/YIQocoxv5tg?t=942
 [4]: https://www.bakercommunications.com/archive/apr13/negotiation040113.html
+[5]: https://youtu.be/lBU64nfe8nM?si=3D0bo-FJJ7K6zIX7&t=425

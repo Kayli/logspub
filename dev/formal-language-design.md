@@ -33,6 +33,8 @@
     - parses the input from Left to right, performing leftmost derivation of the sentence
   - LL(k) parser is a deterministic pushdown automaton with the ability to peek on the next k input symbols without reading
 
+- self-hosting: when compiler is written in the same language it compiles
+
 
 ## grammar
 

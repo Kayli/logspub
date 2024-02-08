@@ -2,12 +2,12 @@
 
 ## basics
 
-- latest versions as of jan 13, 2023
-  - csharp 11 released in November 2022
-  - dotnet 7.0 released in January 2023
+- latest versions as of jan 29, 2024
+  - dotnet 8 lts, csharp 12, released January 9, 2024
   - visual studio 2022 ide
 
 - important legacy versions
+  - .net 6 lts, released november 2021, end of support november 2024
   - .net framework 4.8.1 released in August, 2022
     - preinstalled on windows 11
   - no longer officially supported
@@ -217,7 +217,7 @@
 
 ## async/await
 
-- one way to return result from asynchronous method
+-  to return result from asynchronous method (blocks caller thread)
   > var data = new { myprop = "something" };
   > return Task.FromResult(data);
 

@@ -6,13 +6,13 @@
   - форма отражения объективной действительности позволяющая организму 
     адекватно ориентировать свою активность по отношению к компонентам среды
 
-- neurosis
-  - a class of functional mental disorders involving chronic distress, 
-    but neither delusions nor hallucinations
-
 - healthy narcissism
   - is an essential component of mature self-esteem and basic self-worth
   - narcissistic behaviors are a system of intrapersonal and interpersonal strategies devoted to protecting one's self-esteem
+
+- neurosis
+  - a class of functional mental disorders involving chronic distress, 
+    but neither delusions nor hallucinations
 
 - suppression: conscious inhibition of one's own emotional expressive behavior while emotionally aroused [15]
 
@@ -59,6 +59,7 @@
 
 - anger
   - occurs when some essential need is threatened or frustrated
+  - mindless cursing: driven by basal ganglia, something like an animal cry [22]
 
 - эффект неприятия потерь (англ. loss aversion) [11]
   - поведенческая аномалия, проявляющаяся в условиях неопределённости и риска
@@ -465,9 +466,6 @@
   - distracting ourselves by venting, alcohol, eating unhealthily
 
 
-
-
-
 ## relationships [19]
 
 - 3 levels of interaction
@@ -539,9 +537,8 @@
   - not objective but higly personal criteria
   - examples
     - we don't feel naturally affirmed by this person
-    - having quality time together
+    - not having quality time together
     - feeling inhibited around person/people
-    - 
 
 
 ## iq
@@ -585,8 +582,17 @@
   - disadvantages
     - descrease transparency of communicated information
     - at high risk of getting stuck in false dichotomies
+    - not an evidence-based: (not based on pca or clustering)
 
 - attachment styles: anxious, avoidant, disorganized, secure
+
+
+## race
+
+- face recognition [23]
+  - people are good at recognizing faces from their racial group
+  - minority group members are still good at majority group faces
+  - majority group members are not good at minority group faces
 
 
 ## interesting facts
@@ -610,6 +616,8 @@
 - suffix -osis (-ωσις)
   - 'diseased' or 'abnormal condition'
   - like in: schlerosis
+
+- funny word: cryosphere, its when criosphere starts melting
 
 
 ## terms
@@ -642,3 +650,5 @@
 [19]: https://www.youtube.com/@heidipriebe1
 [20]: https://www.youtube.com/watch?v=lzuG82n5ICQ
 [21]: https://www.attachmentproject.com/blog/four-attachment-styles/
+[22]: https://youtu.be/SjjGiqf96rI?si=OmFAukWDXX9qSlVw&t=1974
+[23]: https://youtu.be/MYMYXhR2Ppw?si=AejTEN-EkxaSRQOy&t=2851

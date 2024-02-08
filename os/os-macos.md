@@ -96,6 +96,9 @@
   - acts to remediate malware that has managed to successfully execute
   - scans only apps that have been changed or apps at first launch
 
+- mrt (malware removal tool)
+  - often runs after system upgrades
+
 
 ## references
 

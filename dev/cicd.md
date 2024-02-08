@@ -10,6 +10,7 @@
   - is used to store containers and deploy them into different environments
 
 - iac: infrastructure as code
+
 - gitops: applying iac best practice of having git repo as a single source of truth 
   - push model: using pull request and going through ci/cd pipeline to propagate changes
   - pull model: monitoring some branches and propagating changes automatically as soon as they appear
@@ -73,6 +74,19 @@
   - a bit confusing terminology (not a big deal)
     - pipeline instance is called 'pipeline' and pipeline is called 'pipeline template'
   - does not support prepopulation of values for parametrized pipelines (but jenkins does if i remember correctly)
+
+
+## github
+
+- platform offering set of tools for automating developer workflows
+- can react to 'events' which signal that something happened 'pr created', 'pr merged', etc
+- action: reusable piece of pipeline code
+  - some actions have 'simplified' syntax, like 'run'
+  - for others you need to specify where action code is located, e.g. 'actions/checkout@v2'
+- workflow: chain of actions
+- action runner
+  - github offers predefined runners
+  - but you can host your own
 
 
 ## jenkins
@@ -158,6 +172,13 @@
       - 'public registries' concept is used when referring to a third-party artifacts repositories
     - legacy, historical aspects of how product was evolving are mangled with things that really matter in some doc pages
 
+
+## other tools
+
+- artifacts repositories
+  - nexus
+  - docker hub
+  - azure container registry (acr)
 
 
 ## reference

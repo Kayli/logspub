@@ -5,6 +5,8 @@
 - american multinational corporation
   - that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, telecommunications equipment, and missiles worldwide
 
+- employs more than 140,000 people worldwide
+
 - worlds largest defence contractor and service provider to nasa
 - with the 747 program coming to an end, the 777X will become Boeing's flagship big plane
 
@@ -49,3 +51,8 @@
       - control law, a few lines of software code in the FCC, could autonomously command nosedives, when even a single sensor failure resulted in bad data; MCAS was omitted from aircraft manuals and training, therefore flight crews had no knowledge of its existence or functioning
   - politics
     - republican congressman sam graves at the house aviation subcommittee hearing, blamed the 737 max crashes on poor training of the indonesian and ethiopian pilots; he stated that "pilots trained in the u.s. would have been successful" in handling the emergencies on both jets
+
+
+## other
+
+- seek speak and listen program: https://youtu.be/e8Rt1qN2t9s

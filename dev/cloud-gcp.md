@@ -6,6 +6,7 @@
 - mostly used
   - compute
   - storage
+  - databases
   - ci/cd
 
 
@@ -108,6 +109,20 @@
   - fully managed, proprietary
   - offers compatability with mysql, postgresql, and sql server apis
     - database migration service (dms): offers simplified data migration procedures
+
+- cloud spanner
+  - relational database service
+  - offers postgresql compatability api
+  - automatic (re)sharding, synchronous replication
+
+- firestore: nosql document db
+  - serverless, cloud-native
+  - automatic multi-region replication and strong global consistency
+  - acid transactions across shards with serializable isolation
+
+- cloud bigtable
+  - wide-column nosql database
+  - scales to petabyte-scale
 
 
 ## ci/cd

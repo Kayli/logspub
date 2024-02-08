@@ -89,7 +89,24 @@
   - provides introspection over its schema [5]
 
 
+## http auth
+
+- uses header to authorize http requests, comes in the following format:
+    Authorization: <scheme> <parameters>
+
+- authorization schemas
+  - Basic
+    - parameters are base64 encoded username and password separated with colon (:) 
+  - Bearer
+    - can be
+      - opaque token string (easier to revoke)
+      - or jwt string
+    - server will check for a valid JWT in the Authorization header, and if it's present, the user will be allowed to access protected resources. If the JWT contains the necessary data, the need to query the database for certain operations may be reduced, though this may not always be the case
+
+
 ## single sign-on (sso)
+
+
 
 - protocols
   - oauth

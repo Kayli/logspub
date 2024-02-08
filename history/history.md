@@ -30,24 +30,25 @@
   - eons divided into eras, then divided into periods, then epochs and ages
 
 - eons
-  - hadean 4.6-4 ga
-    - earth formed
-    - big splash hypothesis: moon formed after earth collision with theia
-    - earliest water
-  - archean 4-2.5 ga
-    - earliest life
-    - first oxygen
-    - photosynthesis
-    - pongola glaciation
-  - proterozoic 2.5 ga - 541 ma
-    - atmospheric oxygen
-    - huronian glaciation
-    - sexual reproduction
-    - eukaryotes
-    - multicellular life 1.5 ga
-    - fungi
-    - earliest plants
-    - earliest animals 650 ma
+  - precambrian (cryptozoic)
+    - hadean 4.6-4 ga
+      - earth formed
+      - big splash hypothesis: moon formed after earth collision with theia
+      - earliest water
+    - archean 4-2.5 ga
+      - earliest life
+      - first oxygen
+      - photosynthesis
+      - pongola glaciation
+    - proterozoic 2.5 ga - 541 ma
+      - atmospheric oxygen
+      - huronian glaciation
+      - sexual reproduction
+      - eukaryotes
+      - multicellular life 1.5 ga
+      - fungi
+      - earliest plants
+      - earliest animals 650 ma
   - phanerozoic 541 ma - present
     - cambrian explosion
     - first vertebrate land animals 380 ma
@@ -129,11 +130,11 @@
 
 - people live in cities for last 9k years
   - earliest known cities are
-    - Çatalhöyük (lit. вилообразный холм)
+    - çatalhöyük (lit. вилообразный холм)
       - a settlement of some 10000 people in southern anatolia (mediterranean region of modern turkey)
         that existed from approximately 7100 to 5700 bce
-    - Jericho (иерихон)
-      - from сanaanite word for "moon" (Yareaẖ) or the name of the lunar deity Yarikh
+    - jericho (иерихон)
+      - from сanaanite word for "moon" (yareaẖ) or the name of the lunar deity yarikh
 
 
 ## 6 early civilizations
@@ -158,6 +159,38 @@
 - indus valley (harappan culture, modern pakistan)
 
 
+## mediterranean: ancient egypt
+
+- 'egypt' etymology
+  - hikuptah: home of the ka (soul) of ptah
+  - ptah: ancient egyptian deity, a creator god and patron deity of craftsmen and architects
+
+- climate changes around 8000 BCE began to desiccate the pastoral lands of Egypt, forming the Sahara
+- early tribal peoples 
+  - migrated to the Nile River where they developed agricultural economy and more centralised society
+  - semits and egyptians are both part of afroasian family
+- страх смерти: определяющий фактор формирования культуры
+- пили много пива и музыку
+- unified kingdom was founded c. 3150 bce by king menes
+- barter was an official currency: grain, beer and oil
+
+- 2550 bce: meidum geese from nefermaat's tomb
+- kek and keket: frog-headed dieties
+  - deification of the concept of primordial darkness and fertility
+    - заболачивание местности в дельте нила, хорошо для жаб
+  - originates in ancient egyptian ogdoad (eightfold) cosmogony of hermopolis
+
+- рамзес второй - самый влиятельный/известный фараон
+  - 1200 bce: battle of kadesh
+  - проиграл битву при кадеше, но смог представить как самую великую победу
+
+- 1200 bce: bronze age collapse
+  - associated with environmental change, mass migration
+  - destruction of cities in medeterranian region
+
+- рим положил конец египетской письменности: надписи исчезают после 100 bc
+
+
 ## mediterranean: ancient greece
 
 - 2000-1250 bce: minoan and mycenaen civilization (proto greeks)
@@ -171,16 +204,16 @@
     - mycenaeans
       - 'immigrants' from mainland
       - city walls
+  - 1400 bce: first greeks
   - 1200 bce: dark ages, all cities were destroyed by dorians
     - письменность утрачена
     - dorians 
       - settled south of greece
       - one of the four major ethnic groups into which the hellenes (ancient greeks) divided themselves
-  - 1400 bce: first greeks
 
 - аттика
   - историческая область греции
-  - которая находится на полуострове, выступающем на южную часть материковой греции и окруженный морем
+  - находится на полуострове, выступающем на южную часть материковой греции и окруженный морем
   
 - macedonia
   - 356-323 bce: alexander the great
@@ -203,19 +236,48 @@
   - modern territories of iran
   - notable ppl: cyrus, darius, xerxes
 
-- arabs
+- arabs [10]
   - arabian penissula (аравийский полуостров)
   - modern territories of
     - saudi arabia, united arab emirates, oman, yemen, quatar, bahrain, 
       kuwait, iraq, syria, jordan, israel, lebanon
+  - caliphate or khilāfah (arabic: خِلَافَةْ [xi'laːfah]) 
+    - institution or public office
+    - under the leadership of an islamic steward with the title of caliph
+  - сарацины: так называли арабов
+    - дети сары (мифология), считались библейским народом
+  - 622–750 ce: arab conquests
+    - sudden and dramatic conquest led by arab armies
+    - quickly conquered much of the middle east, north africa, and spain
+    - перекрыли торговые пути в европу, там начинаются темные века
+  - 750 ce: adapt chineese technology of paper manufacturing
+    - while europe will adapt it only after 700 years
+  - 660-1000 ce: translation of many greek works into arabic
+  - adapted indian numbers
+  - created modern trigonometry
+    - one of the motivations was to calculate mecca's location/direction
+    - favored simpler calculations: proto-optimization
+  - pioneered many works in astronomy
+    - words: альдебаран, зенит, денеб, азимут, надир
+  - practiced advanced irrigation/piping technology
 
-- egypt
-  - climate changes around 8000 BCE began to desiccate the pastoral lands of Egypt, forming the Sahara
-  - early tribal peoples migrated to the Nile River where they developed agricultural economy and more centralised society
-  - unified kingdom was founded c. 3150 BCE by King Menes
-  - barter was an official currency: grain, beer and oil
-  - рамзес второй - самый влиятельный/известный фараон
-    - проиграл битву при кадеше, но смог представить как самую великую победу
+- israelites
+  - branched out of the canaanite peoples
+    - "canaanites" and "canaan" appear in near eastern and egyptian texts around 2000 bce
+  - appear for the first time in the merneptah stele
+    - an ancient egyptian inscription which dates to about 1200 bce
+  - святая вода из источника
+    - иерусалим находится рядом с источниками пресной воды
+  - 586 bce: babylonian captivity
+    - king nebuchadnezzar 2nd dissolved the kingdom 
+      - besieged and destroyed jerusalem and solomon's temple
+      - exiled much of the judean elite to babylon
+  - 539 bce return to from captivity
+    - persians (cyrus the great) allow judean and other populations return to their homelands
+  - 135 ce: восстание бар-кохбы
+    - римляне уничтожают и переселяют множество евреев
+    - запрещают селиться евреям на территории следующие 500 лет
+    - переименовывают провинцию иудея в сирию палестинскую
 
 
 ## europe
@@ -270,6 +332,10 @@
   - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
 
 - 1830 abolition of slavery
+  - ideologically: more fair
+  - practically
+    - improves workforce mobility
+    - no need for centralized control/coordination
 
 
 ## india
@@ -380,8 +446,12 @@
   - произошли ключевые события и культурные трансформации в различных частях мира, такие как индия, китай, персия, иудея, греция
 
 - прокопий кесарийский, юстиниан, его жена императрица феодора и гуси [9]
-  
-  
+
+- засоление почв
+  - следствие искусственного орошения/заболачивания
+  - делает землю неплодородной (вода уходит, а соли остаются)
+
+
 ## references
 
 [1]: https://www.youtube.com/channel/UCGzfpg1YiBIlgcODQI4lDvQ
@@ -393,3 +463,4 @@
 [7]: https://youtu.be/m5o1XrFdB8k?si=IAXGbK_jAvQSSaNJ&t=3554 (bushwacker, culture/laozi stream)
 [8]: https://novate.ru/blogs/011216/39032/
 [9]: https://www.vokrugsveta.ru/vs/article/5967/
+[10]: https://youtu.be/CfeGd_KC6sI?si=gsjlA-MXe9RdwcHr

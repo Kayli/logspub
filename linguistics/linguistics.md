@@ -2,6 +2,11 @@
 
 ## basics
 
+- филология
+  - иностранные языки
+  - лингвистика
+  - литературоведение
+
 - syntax: examines sentence structures, principles, and relationships
 - semantics: studies aspects of meaning
 - pragmatics: study of how context contributes to meaning
@@ -18,10 +23,6 @@
     - phonography
       - marks correspond to phonemes, syllables
 
-
-
-
-
 - filler, hesitation marker, planner (дискурсивные слова, слова-паразиты)
 
 - infinitive
@@ -35,6 +36,10 @@
 - gerund
   - verb form that can function as a noun
   - in english means -ing form used such as 'playing on computers' and 'genious of play'
+
+- aesopian language
+  - means of communication with the intent to convey a concealed meaning to informed members of a conspiracy or underground movement, whilst simultaneously maintaining the guise of an innocent meaning to outsiders
+
 
 
 ## lexical relations
@@ -298,6 +303,18 @@
   - most ambigrams are visual palindromes that rely on some kind of symmetry, and they can often be interpreted as visual puns
   - examples
     - oulipo: ouvroir de littérature potentielle
+
+
+## phonetics
+
+- vowel: гласный звук
+  - monophthongs: sh(i)p, g(oo)d
+  - diphthongs, also 'gliding vowel': w(ai)t, b(oy)
+- consonant: согласный звук
+
+- occlusive (смычные согласные, sometimes known as a stop) 
+  - is a consonant sound produced by occluding (i.e. blocking) airflow in the vocal tract
+    - but not necessarily in the nasal tract
 
 
 ## funny languages
