@@ -196,7 +196,7 @@
   - limitaions
     - pks and fks are implemented but can't be enforced
       - performance considerations are the main reason
-      - also the whole pk/fk functionality is still in 'public preview'
+      - also the whole pk/fk functionality is still in 'public preview' (as of oct 2023)
     - multitable transactions are not supported
       - applications that modify multiple tables commit transactions to each table in a serial fashion
 

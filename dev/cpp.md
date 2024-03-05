@@ -1,8 +1,14 @@
 # notes about c++ language and related tools
 
+## basics
+
+- developed in 1979 by bjarne stroustrup 
+  - while working on his ph.d. thesis at bell labs
+
 
 ## cpp 11
 
+- what most people use nowadays
 - alternative function declaration syntax with auto and -> (arrow)
 
 
@@ -53,6 +59,21 @@
 ## interesting stuff
 
 - cpp2: cppfront transpiler https://github.com/hsutter/cppfront
+
+
+## c basics
+
+- history
+  - dennis ritchie: creator
+    - worked at bell labs in early 1970s 
+    - was an augmented version of ken thompson's b programming language
+  - brian kernighan: had written the first c tutorial
+    - also persuaded ritchie to coauthor a book on the language
+
+- float: represents a signed, single-precision number
+  - most often a 32-bit (4 bytes) data type
+    - but it depends on the processor architecture
+
 
 
 ## reference

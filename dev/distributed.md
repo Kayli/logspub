@@ -3,7 +3,6 @@
 ## basics
 
 - distributed system consists of multiple apps communicating with each other over the network
-  - nowadays such apps referred as 'microservices'
   - most ppl start to realize problems with big chunks of tangled code
 
 - conway’s law
@@ -58,6 +57,22 @@
 
 ## patterns [2]
 
+- ambassador
+  - used in distributed systems or microservices architectures
+  - helps in offloading certain responsibilities related to network communication from the main business logic, promoting better separation of concerns
+
+- circuit breaker
+  - prevents failures by proxying requests and handling errors of the remote services
+  - accumulates error stats and provides canned response when failure treshold is reached
+
+- leader election
+  - allows coordination of activities in a cluster by electing a leader node
+  - consensus algorithms: paxos, raft, bully
+
+- pubsub
+- sharding
+- strangler fig: replacing legacy systems with new implementations
+
 - event notification
   - pubsub using events
   - events contain some information about state
@@ -97,7 +112,7 @@
   - teams are loosely coupled, each iterating their own process
 
 - micro frontend [8]
-  - react: 'module federation plugin'
+  - for react apps see 'module federation plugin'
 
 - api gateway
   - useful for data aggregation from multiple microservices that own different databases
@@ -110,7 +125,8 @@
 ## antipatterns
 
 - vague/meaningless terms
-  - service-oriented architecture, event-driven architecture
+  - service-oriented architecture
+  - event-driven architecture?
 
 - integration database
 

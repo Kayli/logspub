@@ -197,8 +197,55 @@
 
 ## gradle
 
+- its somewhat similar to make, but for java
 - may take several seconds to run a trivial command
   - to speedup execution, enable daemon mode [4]
+
+
+## servlet
+
+- is a part of jvm enterprise edition apis
+- is analogous to some parts of asp.net
+
+- provides abstractions for working with http
+  - HttpServlet: request handler class
+    - uses web.xml to map urls to HttpServlet classes
+    - or annotations to do the same thing but in code
+  - request, response, session, cookie
+
+- jsp: java server pages
+  - similar to cshtml files (razor)
+  - may contain
+    - directive: import-related stuff
+    - declaration: init-related stuff
+    - scriptlet: java code inside jsp markup
+    - markup: html
+
+
+- restful services
+
+- using standard java ee apis
+  - classes are located in javax.ws.rs
+  - each api resource path is mapped to a class annotated with @Path
+  - annotations: @Path, @GET, @Produces, etc
+
+
+## spring ecosystem
+
+- originated as ioc container framework, but accumulated lots of additional stuff
+- spring boot
+  - provides default configuration and ways to override/extend it
+  - package: org.springframework.boot
+
+- spring mvc
+  - builds on top of servlet apis
+  - restful services
+    - package: org.springframework.web.bind.annotation.RestController
+  - implemnents front-controller pattern to map requests to classes
+  - can render jsp pages using tomcat jasper
+
+- spring boot security
+  - offers baked-in auth services, dao and ui
 
 
 ## desktop apps development [5]

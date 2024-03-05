@@ -303,6 +303,13 @@
   - examples
     - some algorithms, like LASSO (L1 regularization), promote sparsity and are useful for feature selection, while others, like Ridge regression (L2 regularization), penalize the magnitude of weights and can help prevent overfitting
 
+- for educational purposes 
+  - it might help to use 'finite difference' method for approximating derivative 
+    - to start with something simple
+    
+- its impossible to model xor gate with a single neuron
+  - but combination of 'or', 'nand', 'and' will do: (x|y) & ~(x&y)
+
 
 ## terminology
 

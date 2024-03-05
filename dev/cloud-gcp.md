@@ -3,11 +3,6 @@
 ## basics
 
 - lists over 100 products under the google cloud brand
-- mostly used
-  - compute
-  - storage
-  - databases
-  - ci/cd
 
 
 ## compute

@@ -201,7 +201,23 @@
       - игра слов: жидкий, жид, жидкий кристалл
       - цель: информационная вакцина для минимизации отторжения цифровых сми
         - людей садят в международную коммуникационную сеть и это нормально
-      
+
+- games people play [13]
+  - basic game
+    - people want to “feel each other out” to see where your lives might connect
+      - where are you from, what do you do, what music/art/books do you like, etc
+  - importance game
+    - participants jockey for position
+    - ascend high enough to reach for something that will set her above her interlocutor
+    - needs to signal enough power to establish a hierarchy
+    - casual references to wealth, talent, accomplishment or connections
+  - leveling game
+    - uses empathy to equalize the players
+    - reaches down low enough to hit common ground
+    - singals enough powerlessness to establish equality
+    - share feelings of stress, inadequacy or weakness
+    - express discontent with the some third parties
+
 
 ## references
 
@@ -217,3 +233,4 @@
 [10]: https://youtu.be/-p8pIhXCVmg?t=2150
 [11]: https://youtu.be/Lr-rUkFS-FA?t=96
 [12]: https://www.youtube.com/watch?v=reKjvK2ldmg
+[13]: https://thepointmag.com/examined-life/who-wants-to-play-the-status-game-agnes-callard/

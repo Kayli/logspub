@@ -1,6 +1,55 @@
 # notes about philosophers [1]
 
 
+## byung-chul han 1959 [9]
+
+- south korean born, german philosopher
+
+- digital panopticon
+  - the prisoner of the digital panopticon is a perpetrator and a victim at the same time
+  - herein lies the dialectic of freedom: it turns out to be a form of control
+
+- psychopolitics: doctrine of obsessive incompleteness
+  - all the stuff we can be doing in theory
+    - if only we make themselves valuable enough
+    - if only we work hard enough to make our minds as efficient and optimized as they can be
+  - endlessly maximizing abilities
+    - they’ll spend the rest of their lives going crazy about never being good enough
+    - never doing enough, never being efficient enough
+
+- authenticity
+  - that’s the true measure of someone who’s free…someone who’s not being told by anybody who they should be when you can be anything you want…
+  - but authenticity he says is an ad campaign of neoliberalism, a self-absorbed nightmare
+    - risk: may lead to a narcissism
+
+- special type of narcissistic delusion
+  - it starts to even resemble religion
+  - the infinite work on the ego resembles self-observation and self-examination in the Protestant religion, and they, in turn, represent a technique of subjectivation and domination. Instead of looking for sins, now negative thoughts are the ones to be sought, the ego struggles with itself as against an enemy.
+
+- credit card debt like religious debt to be repaid
+  - you start in debt like with original sin
+  - and then only through your participation in the market driven, achievement narcissism game do you ever get to repay that debt
+
+- narcissistic torture
+  - you set goals for yourself, you have a picture of the person that you want to be in your mind. you work hard, maximizing everything about yourself… only to wake up the next day and try to push yourself even more…until one day…you break…because nobody is supposed to be constantly exerting themselves…and then you often have the added bonus of self hatred…because you’re left to deal with the feelings of what seems to you like you lack the motivation… to even be you.
+  - in contrast with physical exhaustion there is a mental one that prevails: a burnout
+  - delusion that anxiety leads to higher production in intellectual domain
+  - terror of the same, due to shallow experiences of the world
+
+- making sense of the world by slowing down
+  - meaning, knowledge, truth…these things only come… when you contemplate how the present moment connects to the past and the future. but there’s no time to contemplate when you’re just scrolling from one distraction in life to the next. it takes takes someone actively, making the choice to slow down… and take an inventory of how this stuff actually impacts you.
+  - we need to find a way to reintroduce…that negativity…or that otherness into our lives.
+  - becoming a resonance chamber for the other person to “speak themselves free”
+    - joke: sounds like simone weil was reanimated from the grave, broke into his house and wrote that in his journal
+  - gardening, sitting in silence
+    - coding?
+
+- criticism
+  - justifying toxic levels of mediocrity in their life. 
+  - gardening and sitting in silence…i call that just a waste of time.
+  - every second that you spend taking a rest day doing things simply for the sake of joy…for every one of those seconds there is somebody else out there grinding, working to take everything that you have. 
+
+
 ## donald david hoffman 1955
 
 - multimodal user interface (MUI) theory
@@ -1232,3 +1281,4 @@
 [6]: https://www.thegreatcourses.com/courses/great-ideas-of-psychology (lecture 34)
 [7]: https://darwin200.christs.cam.ac.uk/what-about-wallace
 [8]: https://plato.spbu.ru/SUMMERSCHOOL/summerschool5/01-Pozdnyakov.htm
+[9]: https://www.philosophizethis.org/transcript/episode-188-transcript (#188: achievement society)

@@ -32,7 +32,23 @@
   - 'package' == 'assembly' in .net
 
 
+## zed
+
+- faster load times
+- gpu acceleration
+- native integration with copilot
+- some other native useful features
+  - convert case functionality
+  - keymap and palette similar to vscode
+
+- but
+  - no plugins
+  - wasn't able to open text file from terminal quickly (but haven't checked cli package yet)
+
+
 ## questions
 
 - is there an automatic citation plugin for copy when editing text/markdown files?
   - scenario: i've copied something from the internet and want plugin to generate citation automatically
+  - answer: there is something similar in copilot windows app (preview)
+    - chat agent is able to give citations to sources for web pages/articles it uses

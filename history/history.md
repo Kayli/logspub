@@ -184,6 +184,10 @@
   - 1200 bce: battle of kadesh
   - проиграл битву при кадеше, но смог представить как самую великую победу
 
+- 1550-1070 bce: book of the dead
+  - reflects the ancient Egyptians' beliefs about the afterlife
+  - importance of morality, rituals and magic needed for a successful journey to the realm of the dead
+
 - 1200 bce: bronze age collapse
   - associated with environmental change, mass migration
   - destruction of cities in medeterranian region

@@ -165,6 +165,35 @@
   - what remains in the public consciousness, however, is the belief that an overdose of sleeping tablets - any sleeping tablet - will cause death. This misconception leads to many failed suicide attempts as elderly or seriously ill people often stockpile, then take, large numbers of modern, non-lethal sleeping tablets
 
 
+## peaceful pill
+
+- pentobarbital
+  - class: barbiturate
+  - lethal dose: 6-10gm
+    - one bottle (100ml @ 60mg/ml) of veterinary nembutal
+  - marketed as
+    - nembutal
+    - valabarb or lethabarb
+    - pentobarbital sodium
+    - mexico: anestesal, pisabental, barbithal, sedalpharma, sedalforte, pentovet, pentomax
+    - peru: halatal or pento-hypnol
+    - pentobarbitone
+
+
+- barbiturate test kit
+  - https://www.exitinternational.net/product/barbiturate-test-kit-qualitative/
+  - only provides qualitative evidence of the presence of the drug
+    - quantitative testing (ie. drug concentration and strength) is not yet available as a home test
+
+
+## note
+
+- leave a suicide note, signed and dated, stating that 
+  - your actions were entirely your own
+  - you understood the consequences of what you are about to do
+  - specify the reasons for dying
+
+
 ## links
 
 - end of life doula association of canada https://endoflifedoulaassociation.org/

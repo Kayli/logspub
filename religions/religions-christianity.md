@@ -106,6 +106,9 @@
   - religious discipline of defending religious doctrines through systematic argumentation and discourse
   - word means 'defence', stems from classical greek legal system
 
+- immaculate conception: a social engineering/eugenics technique
+
+
 
 ## protestantism
 

@@ -75,18 +75,22 @@
   - buttercms
 
 
-## rpc/apis
+## api architecture styles
 
-- rest
-  - industry most popular choice for apis
-  - cons: lacks standardization
-    - therefore unified observability and introspection is hindered across heterogeneous stack
-    - but check https://oai.github.io/Documentation as it suggests some standard and generators
-
+- soap: xml-based
+- restful: focused on resources and utilize http verbs more fully
 - graphql
-  - queryable apis
-  - reduces amount of work required on server side, when you need richer queries support
-  - provides introspection over its schema [5]
+  - flexibility for querying specific data client needs
+  - reduces amount of dev work required on server side, when you need richer queries support
+  - but steep learning curve, more processing server-side
+- grpc
+  - default serialization is protocol buffers (binary)
+  - widely used for communication between microservices inside distributed system
+  - limited browser support
+- websocket: async bi-directional low-latency data exchange
+- webhook: async event-driven communication
+  - similar to pubsub, but may not involve the concept of channels or topics
+  - focus on delivering specific event notifications to specific endpoints
 
 
 ## http auth
