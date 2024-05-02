@@ -41,6 +41,9 @@
       - how entities are grouped into basic categories
       - which of these entities exist on the most fundamental level
 
+- phenomenology
+  - study of the structures of experience and consciousness
+
 - axiology (greek 'axios' meaning worthy, worth, of like value)
   - is the philosophical study of value
   - axiological point or judgement: value judgement
@@ -51,7 +54,9 @@
   - extrinsic: purpose that is imposed by a human use
 - teleological explanation: based on consiseration of goals
 
-- eschatology: part of theology concerned with death, judgement, and the final destiny of the soul and of humankind
+- eschatology
+  - part of theology
+  - concerned with death, judgement, and the final destiny of the soul and of humankind
 
 - continental philosophy
   - philosophy of continental europe which is not analytic philosophy
@@ -64,10 +69,6 @@
 - representationalism
   - philosophical theory of knowledge based on the assertion that the mind perceives only 
     mental images (representations) of material objects outside the mind, not the objects themselves
-
-- phenomenology
-  - study of the structures of experience and consciousness
-
 
 
 ## periods
@@ -94,6 +95,12 @@
 
 ## existentianalism
 
+- pioneered by søren kierkegaard 1813-1855
+
+- notable ideas
+  - authenticity: self-actuallization, heading towards your deepest possibilities in life
+  - inauthenticity: deferrance to others
+
 - frankfurt's school philosophers
   - jean-paul sartre
   - maurice merleau-ponty
@@ -102,6 +109,10 @@
   - theodor adorno
   - max horkheimer
   - herbert marcuse
+
+- branches
+  - existential phenomenology
+  - literary existentialism
 
 
 ## postmodernism
@@ -138,6 +149,9 @@
 ## ethics (moral philosophy)
 
 - branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong behavior
+
+- ethics vs morality is like intelligible principles vs felt sense about right and wrong
+
 - ethical aspects of quantified relationships
   - https://www.researchgate.net/publication/317552368_The_Quantified_Relationship
 
@@ -275,6 +289,7 @@
 - бытие определяет сознание ... еще это назвают проф деформацией [4]
 - disappointing people may be very humanizing, it can give those the opportunity to realize that their demands might not be reasonable [6]
 
+
 ## unsorted
 
 - medieval period (middle ages) 5-14 century
@@ -289,18 +304,18 @@
   - meaning: philosophy of the schools
   - based on aristotel's logic and metaphysics
   - scholasticism is essentially aristotel + christianity
-  - integrated by saint Thomas Aquinas (1200-1300)
+  - integrated by saint thomas aquinas (1200-1300)
   - the Earth is at the center of the universe but it's the lowest place (sin, etc)
   - end of scholasticism
-    - the discovery of the New World in 1492
-    - Protestant reformation in 1516
+    - the discovery of the new world in 1492
+    - protestant reformation in 1516
     - the decline of the aristocracy and rise of the royal power
-    - Scientific revolution of Copernicus, Bacon, Kepler, Galileo, Bruno, Newton
-      - Copernicus - heliocentric system
-      - Giordano Bruno - space is infinite
-      - Galileo - uniform motion without the final cause
-      - Newton - same laws for lunar and sublunar
-    - platonic science replaces Aristotilean
+    - scientific revolution of copernicus, bacon, kepler, galileo, bruno, newton
+      - copernicus - heliocentric system
+      - giordano bruno - space is infinite
+      - galileo - uniform motion without the final cause
+      - newton - same laws for lunar and sublunar
+    - platonic science replaces aristotilean
 
 - scientific revolution 17th century
   - driven by

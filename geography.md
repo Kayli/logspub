@@ -72,6 +72,15 @@
     - largest city
   - nordic island country in the north atlantic ocean and in the arctic ocean
 
+- italy
+  - capital: rome
+  - 1946: establishment of an italian nation-state
+  - italian peninsula, sicily and sardinia islands
+
+- france
+  - capital: paris
+  - corsica island
+
 
 ## asia
 

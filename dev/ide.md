@@ -23,6 +23,10 @@
 - install "code" command in macos terminal
   - open the command pallette with Command + Shift + P (or F1)
 
+- questions
+  - but how to find non ASCII printable characters (with codes other than 32-127) by typing a similarly looking one in find/replace ui?
+    - example: to find 'swé' by typing 'swe'
+
 
 ## intellij idea
 

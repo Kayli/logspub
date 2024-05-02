@@ -176,8 +176,7 @@
       - to game a system (распилить грант)
       - to produce/communicate hard to fake fitness signal (works of art?)
 
-- in dante's hell, the worst sinners are the fradulent, those who misuse language to mislead and decieve, and 
-  those who use language not to render a concrete and useful reality but to frustrate the virtuous use of intellect [5]
+- in dante's hell, the worst sinners are the fradulent, those who misuse language to mislead and decieve, and those who use language not to render a concrete and useful reality but to frustrate the virtuous use of intellect [5]
 
 
 ## references

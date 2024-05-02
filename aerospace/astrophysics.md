@@ -44,6 +44,14 @@
     - observable universe will likely contain only our galaxy
       - due to accelerated expansion
 
+- matter-antimatter assymetry: we don't know why
+
+- cosmic inflation
+  - early period of observable universe formation
+  - universe is thought to have expanded at an exponential rate
+    - doubling in size very rapidly multiple (10^24) times
+  - it took on the order of around 10^-32 to 10^-36 seconds after the big bang
+
 - cosmic rays
   - visilbe as auroras (полярные сияния)
   - nuclei of atoms: hydrogen (protons), helium, etc
@@ -139,6 +147,14 @@
     - including 'seeing' with gravitational waves?
   - eventually observable 62.9 bly
   - ultimately observable 79.4 bly
+
+
+## predictive horizon
+
+- indicates the duration into the future for which astronomers and astrophysicists can reliably forecast the positions, orbits, and movements of planets
+
+- for planets in solar system
+  - several hundred years into the future with a high degree of precision
 
 
 ## galaxies
@@ -461,6 +477,11 @@
 ## interesting links
 
 - celestial zoo https://www.pablocarlosbudassi.com/2021/02/the-celestial-zoo-celestial-zoo-tour-of.html
+
+
+## funny stuff
+
+- hot and dance primordial soup universe
 
 
 ## references and materials used

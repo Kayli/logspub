@@ -4,9 +4,9 @@
 
 - scientific approach to history
   - astronimical observations
-  - computational modelling (universe and geological simulations)
   - parallel sources describing same events
   - archeological findings
+  - computational modelling (universe and geological simulations)
 
 - first radioactive dating method
   - carbon 14 dating
@@ -31,12 +31,12 @@
 
 - eons
   - precambrian (cryptozoic)
-    - hadean 4.6-4 ga
+    - hadean 4.6-4 ga (гадэй)
       - earth formed
       - big splash hypothesis: moon formed after earth collision with theia
       - earliest water
     - archean 4-2.5 ga
-      - earliest life
+      - earliest life: bacteria, archea
       - first oxygen
       - photosynthesis
       - pongola glaciation
@@ -78,7 +78,9 @@
       - first use of drilling tools made of flint (кремень)
       - 8700 bce work with copper, northern iraq area
     - neolithic 4900 – 2000 bce
+
 - bronze age 3300 - 1200 bce
+
 - iron age 1110 - 1 bce
 
 - roman 56 bce – 476 ce
@@ -253,6 +255,7 @@
   - 622–750 ce: arab conquests
     - sudden and dramatic conquest led by arab armies
     - quickly conquered much of the middle east, north africa, and spain
+      - европа ослаблена юстиниановой чумой
     - перекрыли торговые пути в европу, там начинаются темные века
   - 750 ce: adapt chineese technology of paper manufacturing
     - while europe will adapt it only after 700 years
@@ -286,60 +289,7 @@
 
 ## europe
 
-- byzantine empire
-  - also referred to as the eastern roman empire
-  - was the continuation of the roman empire in its eastern provinces during late antiquity and the middle ages, 
-  - capital city constantinople
-  - survived the fragmentation and fall of the western roman empire in the 5th century ad and continued to exist 
-    for an additional thousand years until the fall of constantinople to the ottoman empire in 1453
-
-- dutch (nederlanders) are a germanic ethnic group and nation native to the netherlands
-
-- france
-  - carolingian empire
-    - king of the franks: charlemagne
-    - 800-900 ce: carolingian renaissance
-      - carolingian minuscule (caroline minuscule)
-        - is a latin alphabet script
-        - developed as a calligraphic standard introducing
-          - clearly distinguishable glyphs
-          - clear capital letters
-          - spaces between words
-        - forgotten and then rediscovered during later renaissance of 1500-1600
-  
-  - 11xx-12xx ce: cattari
-    - фр. catiers, то есть «котопоклонники» 
-      - из-за якобы бытовавших у «еретиков» ритуалов с участием кошек
-        - история про ритуал посвящения - целование кота под хвостом
-    - с греческим καθαρος, тем самым ассоциируя их с существовавшим в эпоху раннего христианства движением новациан, именовавших себя «кафарами» (от греч. καθαροί — «чистые, неосквернившиеся»)
-  
-  - людовик 9
-    - дядя норм, не пил
-    - современник фомы аквинского, слушался церковь
-    - инспирировал два крестовых похода
-    - любил бичевание, просил духовника дать себе розог
-
-
-### england
-
-- стримы бушвакера
-  - скандинавы, варяги, викинги https://www.youtube.com/watch?v=M1xwsNqF8ks
-    - 8-9k years ago icecaps were melting and hunter-gatherers moved towards north of scandinavia following raindeers
-    - 2k bce protogermans came from the continent and mixed with scandinavians
-    - 1st century ce germans and in 2nd century ce goths move from scandinavia to european continent
-      - 3rn century ce goths will reach crimea and romainia regions
-    - ships: knarr (cargo transport) and drakkar
-    - ethnonym 'slavic' turns into 'slave' word during this period, as vikings were actively trading slavic ppl
-    
-  - закат эпохи викингов и конец темных веков https://www.youtube.com/watch?v=9rQy2BORj5o
-  - англосаксы и рождение англии https://www.youtube.com/watch?v=jQtj8uANmIE
-  - средневековая англия 11-13века https://www.youtube.com/watch?v=2ixyOG2PKc8
-
-- 1830 abolition of slavery
-  - ideologically: more fair
-  - practically
-    - improves workforce mobility
-    - no need for centralized control/coordination
+- see history-europe.md
 
 
 ## india
@@ -351,6 +301,7 @@
     - it was one of the largest settlements of the ancient indus civilisation
     - already used standardized bricks, street grids, and covered sewerage systems
       - отдельно канализация биоотходов и отдельно сточных вод!!
+
 - aryan migration 1750 bce
   - synthesis of arian with harappan cultures evolved into a vedic culture
 
@@ -369,10 +320,27 @@
 
 ## world wars
 
-- second world war
-  - battle of dunkirk
-    - was fought around the french port of dunkirk (dunkerque) during the 
-    - allies vs nazi germany
+- 1914-1918: first world war, ww1
+  - died: 17 mil
+- 1939-1945: second world war, ww2
+  - died: 73 mil
+
+
+## pandemics
+
+- 541-767: first plague pandemic
+  - died: 15-100 mil
+  - also called: юстинианова чума, plague of justinian, early medieval pandemic
+- 1346–1353: black death
+  - died: 25-50 mil, around 30-60% of europe's population
+  - also called: the plague, bubonic plague
+- 1918-1919: spanish flu
+  - died: 50 mil
+  - caused by h1n1 influenza a virus
+- 1980s: hiv/aids
+  - died: 41 mil
+- 2019-2022: covid-19
+  - died: 7 mil
 
 
 ## modern global order

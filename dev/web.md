@@ -110,8 +110,6 @@
 
 ## single sign-on (sso)
 
-
-
 - protocols
   - oauth
   - openid connect (oidc)

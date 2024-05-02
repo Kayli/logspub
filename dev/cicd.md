@@ -76,17 +76,22 @@
   - does not support prepopulation of values for parametrized pipelines (but jenkins does if i remember correctly)
 
 
-## github
+## github actions
 
 - platform offering set of tools for automating developer workflows
 - can react to 'events' which signal that something happened 'pr created', 'pr merged', etc
+
+- workflow: consists of one or multiple jobs
+- job: consists of multiple steps
+- steps: 
+  - can run shell command using 'run'
+  - or can call some action
 - action: reusable piece of pipeline code
-  - some actions have 'simplified' syntax, like 'run'
   - for others you need to specify where action code is located, e.g. 'actions/checkout@v2'
-- workflow: chain of actions
+
 - action runner
   - github offers predefined runners
-  - but you can host your own
+  - but you can self-host
 
 
 ## jenkins
@@ -106,7 +111,7 @@
   - azure devops tutorial for beginners | ci/cd with azure pipelines https://www.youtube.com/watch?v=4BibQ69MD8c
 
 
-### pipelines
+### azdo pipelines
 
 - key entities
   - stages usually contain set of jobs

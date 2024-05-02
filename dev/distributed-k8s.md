@@ -93,13 +93,19 @@
   - in terms of amazon, alb can be used as an ingress controller
 
 - deployment
-  - defines/configures pods and replica sets via deployment controller
-    - replica set defines how many pod instances we need across cluster
+  - defines templates for deploying pods 
+  - defines/configures desired state for ReplicaSet via deployment controller
+    - ReplicaSet: defines how many pod instances we need across cluster
+  - creates new pods based on a pod template and then removes old ones
+
   - abstraction on top of pods
   - may be described as yaml with desired state [1]
     > kubectl apply -f <myconfig.yaml>
   - or created using direct cli command
     > kubectl create deployment <name> --image=<image-name>
+
+    - they provide desired state for a ReplicaSet
+          
 
 - stateful set
   - like a deployment, a statefulset manages pods that are based on an identical container spec

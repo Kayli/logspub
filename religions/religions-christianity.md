@@ -4,14 +4,14 @@
   - judaism was formed around 500bce
     - stems from jahwism 
       - jahwism was formed around 1200bce, mesopotamia
-- old testament
-  - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
-  - was written around 500 bce
 
 - bible
   - from greek word biblion, which originally referred to papyrus or scroll books
-  - greek word came from a semitic place name, Byblos, or Gebal, a very ancient port in Lebanon, 
+    - greek word came from a semitic place name, Byblos, or Gebal, a very ancient port in Lebanon, 
     once famous for production of papyrus books
+  - old testament
+    - based primarily upon the 24 books of the Hebrew Bible or Tanakh 
+    - was written around 500 bce
 
 - deism
   - god created earth but after that no longer had influence on life
@@ -136,6 +136,9 @@
       - limited atonement: jesus christ died only for the elect, not for all humanity
       - irresistible grace: god's grace is so powerful that it cannot be resisted by those who are chosen for salvation
       - perseverance of the saints: chosen for salvation will persevere in their faith and good works until the end of their lives
+    - huguenots (гугеноты)
+      - calvinists of france during the 16th and 17th centuries 
+      - faced persecution in france
 
   - anglicanism
     - founded in England in the 16th century during the reign of King Henry VIII

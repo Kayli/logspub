@@ -188,6 +188,13 @@
   - curly tails
 
 
+## other
+
+- nuclear winter vs greenhouse effect [5]
+  - soot or dust or ash (from nuclear war or impacts as we see in Earth's history) block sunlight from reaching Earth's surface, and thus, lead to cooling. However, CO2 released from similar processes leads to longer-term warming due to the greenhouse effect
+  - it is the difference between blocking incoming sunlight (like dust/soot does) versus blocking outgoing infrared radiation (like greenhouse gases do), as frequency of sunlight decreases to infrared once it hits the earth
+
+
 ## keywords
 
 - cell, replicator, life, evolution
@@ -199,3 +206,4 @@
 [2]: https://www.youtube.com/playlist?list=PLZVQqcKxEn_4vjM5OgDpRSLlsoIVu7s6n
 [3]: https://academic.oup.com/genetics/article/197/3/795/5935921
 [4]: https://biology.stackexchange.com/questions/6937/how-many-organisms-have-ever-lived-on-earth
+[5]: https://www.youtube.com/watch?v=WM-C728HoRA (comments section of the video)

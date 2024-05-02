@@ -76,6 +76,13 @@
 - against qualia as a concept
   - quote: 'concept of qualia is so confused that it cannot be put to any use or understood in any non-contradictory way'
 
+- "synantropic memes": cultural ideas, behaviors, or practices that facilitate symbiotic or cooperative relationships within human societies
+
+- quotes
+  - "religion is a nurse crop for science"
+  - twist on aviary analogy from plato's theaetetus
+    - "knowledge is like birds in a giant aviary ... the trick is: can you get them to come when you call?" [11]
+
 
 ## sandra harding
 ## susan bordo
@@ -308,6 +315,53 @@
   - in order to justify objective reality, as reaction against representationalism
   - ideal objects/perceptions are part of a transcendental ego which determines our experience
 - starts talking about alienation later in his career
+
+
+## william james 1842-1910
+
+- american pragmatist
+
+- пирамида миров (henri bergson, william james)
+    - в основании: верховная реальность (paramount reality)
+    - посередине
+      - научное теоретизирование
+      - спектакль
+      - галлюцинации
+    - в самом верху: миры сновидений
+  - транспонирование
+    - переходы между мирами
+    - изучение феномена переноса, когда он происходит
+      - когда игровой поединок превращается в драку?
+      - когда театральная постановка переходит в убийство? (римская империя, тит ливий?)
+
+- once- vs. twice-born believers
+    - once-born believer
+      - this is the only world where we have a chance to be happy
+      - viewing the world through a positive lense
+      - possible pathology: neglecting suffering of others
+    - twice-born believers (also 'sick-soul')
+      - viewing the world through a negative lense
+      - looking towards next world to become happy/satisfied
+        - don't believe in reconciliation in this world
+      - possible pathology: low tolerance for suffering, anhedonia, panicked fear
+    - divided self: carnality (fleshness) vs spiritual
+
+- sciousness by william james [10]
+  - 'con' means 'with', 'consciousness' literally means 'knowing with'
+  - takes a form of a process
+    - its what now means 'stream of consciousness', but william james just calls it sciousness
+    - to get rid of the idea that its internally dual
+
+- we are sad because we cry (william james)
+
+- requirements for religious experience
+  - seriousness
+  - any form of divine
+    - doesn't have to be a god: e.g. divine nature or buddism
+  - higher emotions
+    - sense of reality of their believes
+
+- books: the varieties of religious experience
 
 
 ## soren kierkegard 1813-55
@@ -872,6 +926,10 @@
     - "active intellect" which actually brings that knowledge to fruition
   - mirror analogy: intellect is like a mirror that reflects the divine light of knowledge, and that it is this light that allows us to perceive the truth
 
+- early contagion theory
+  - people can transmit disease to others by breath
+  - contagion can contaminate water, food, and garments
+
 
 ## boethius 480–524 ce
 
@@ -1011,9 +1069,11 @@
 - life facts
   - was born with physical abnormalities
   - been successful holding position of minister of crime
-  - being rejected by the ruling class (envy)
+  - rejected by the ruling class (envy)
     - died at 73
 - confucianism remained dominant philosophy until rise of communist china
+- name origin
+  - "confucius" is a latinized form of the mandarin chinese kǒng fūzǐ (孔夫子, "master kong")
 
 
 ## zhuangzi (гуандзы) 369-286 bce
@@ -1282,3 +1342,5 @@
 [7]: https://darwin200.christs.cam.ac.uk/what-about-wallace
 [8]: https://plato.spbu.ru/SUMMERSCHOOL/summerschool5/01-Pozdnyakov.htm
 [9]: https://www.philosophizethis.org/transcript/episode-188-transcript (#188: achievement society)
+[10]: overthink podcasrt 61 self-knowledge
+[11]: https://youtu.be/VWpm2NOF2Zw?si=tryyaPkHB0v9TAzR&t=2580

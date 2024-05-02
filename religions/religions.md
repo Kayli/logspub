@@ -11,6 +11,14 @@
   - a sigh of the oppressed creature, the heart of a heartless world, and the soul of 
     soulless conditions. It is the opium of the people (marx)
 
+- theories of myth [6]
+  - solar (frazer, jung)
+  - meteorological (franz felix adalbert kuhn)
+  - agricultural (wilhelm mannhardt)
+  - evolutionary (tylor animism, frazer)
+  - psychological (freud, jung)
+  - functional (malinowski and lévi-strauss)
+
 - functions
   - performs the key function of providing social solidarity in a society
   - rituals, worship of icons, and belief in supernatural beings 
@@ -94,6 +102,7 @@
   - родственно иранскому baga и санскритскому bhagas — «податель благ»
   - богатство, bogatъ, ubogъ
   - доля, делить, получать долю, наделять
+  - bog: болото, wetland that accumulates peat as a deposit of dead plant materials
 - господь
   - господин
   - hospes (лат): хозяин, предаставляющий гостеприимство
@@ -361,6 +370,8 @@
 - guilty until proven innocent vs innocent until proven guilty
 
 
+
+
 ## references
 
 [1]: https://en.wikipedia.org/wiki/Charvaka
@@ -368,3 +379,4 @@
 [3]: https://opentextbc.ca/introductiontosociology/chapter/chapter-15-religion
 [4]: https://youtu.be/yImlXr5Tr8g?t=5435
 [5]: https://incopolis.livejournal.com/10666.html
+[6]: https://www.youtube.com/watch?v=hC-fCZ9azxY

@@ -2,6 +2,10 @@
 
 ## basics
 
+- jre: java runtime engine
+- jdk: java development kit, containing jre and java libraries
+- jvm: virtual machine inside jre
+
 - java language is part of jdk and they have same versioning
   - in contrast with c# where language and framework versions are different
 
@@ -81,9 +85,10 @@
   - Project Object Model is the fundamental unit of work in Maven
   - it is an XML file that contains information about the project and configuration details used by Maven to build the project
 
-- H2
-  - is a relational database management system written in java
-  - it can be embedded in java applications or run in client-server mode
+- memory allocation
+  - standalone primitive types are allocated on stack
+  - object types are allocated on heap
+    - unless JVM sees a way to allocate it on stack as a performance optimization technique
 
 
 ## notable language features timeline
@@ -144,7 +149,7 @@
 
 - 2022
   - java 18
-    - utf by default
+    - utf-8 by default
     - javadoc code snippets: facilitate the validation of source code fragments, by providing API access to those fragments
     - finalization deprecated
 
@@ -161,6 +166,25 @@
     - string templates (preview)
 
 
+## exceptions
+
+- checked exceptions verified during compile-time, inherit from Exception class
+- unchecked exceptions are not verified and inherit from RuntimeException
+
+
+## collections
+
+- interfaces
+  - List is ordered and allows duplicates
+    - common implementations: ArrayList, LinkedList, and Vector (thread-safe)
+  - Set is unordered and does not allow duplicates.
+    - common implementations: HashSet, TreeSet, and LinkedHashSet
+  - Map is a collection of key-value pairs, where keys are unique, and ordering is not guaranteed
+    - common implementations: HashMap, TreeMap, and LinkedHashMap
+
+- stream api: similar to linq in csharp
+
+
 ## reflection
 
 - java.lang.reflect package
@@ -174,6 +198,37 @@
 
 - weld: reference implementation in Java SE
   - http://weld.cdi-spec.org/
+
+- spring ioc: part of a wider spring framework ecosystem
+
+
+## multithreading
+
+- Thread abstraction provides lifecycle and priority management
+
+- synchronization abstractions
+  - Synchronized Methods and Blocks
+  - Object Locks
+  - ReentrantLock
+  - Semaphore
+  - CountDownLatch
+
+- thread pool: Executors class offers factory methods that create different kinds of thread pools
+  - newFixedThreadPool, newCachedThreadPool, newSingleThreadExecutor, newScheduledThreadPool
+
+- you can also simply execute lambda in another thread
+  ```java
+    var executorService = Executors.newFixedThreadPool(5);
+    executorService.submit(() -> {
+      System.out.println("Lambda executed by thread: " + Thread.currentThread().getName());
+    });
+    executorService.shutdown();
+  ```
+
+- volatile keyword: ensures visibility of changes made by one thread to other threads
+- atomic operations
+  - ints are likely atomic by design, as they are always 32 bit
+    - but it is up to JVM
 
 
 ## useful links
@@ -221,7 +276,6 @@
     - scriptlet: java code inside jsp markup
     - markup: html
 
-
 - restful services
 
 - using standard java ee apis
@@ -246,6 +300,13 @@
 
 - spring boot security
   - offers baked-in auth services, dao and ui
+
+
+## database
+
+- relational
+  - JDBC, Spring JDBC
+  - Hibernate ORM
 
 
 ## desktop apps development [5]
@@ -279,6 +340,12 @@
 - jdk main-line development: https://github.com/openjdk/jdk
 
 - preview features must be explicitly enabled with vm option --enable-preview
+
+- H2
+  - is a relational database management system written in java
+  - it can be embedded in java applications or run in client-server mode
+
+
 
 
 ## references

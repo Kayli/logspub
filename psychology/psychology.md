@@ -184,11 +184,6 @@
 
 ## psychoanalysis, analytical psychology
 
-- founder: sigmund freud 1856 - 1939
-  - was an austrian neurologist
-  - graduated from university of vienna 
-  - planned but abandoned 'scientific psychology' project
-
 - a clinical method for evaluating and treating pathologies in the psyche through dialogue 
   between a patient and a psychoanalyst
 
@@ -258,6 +253,11 @@
 
 - a bird sitting on a tree is never afraid of the branch breaking
   - because its trust is not on the branch but in its own wings
+
+
+## humanistic psychology
+
+- carl rogers, abraham maslow
 
 
 ## psychophysiology
@@ -481,9 +481,9 @@
     - avoiding because you going through difficult times
   - attachment avoidance
     - because you fell in love with them
-    - you see a future with them
-    - but you don't want to commit to them forever
-    - so its intimacy triggering your alarm bells
+      - you see a future with them
+      - but you don't want to commit to them forever
+      - so its intimacy triggering your alarm bells
 
 - boundaries
   - in order to enforce a boundary it has to be in your control

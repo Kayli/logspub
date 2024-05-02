@@ -75,6 +75,11 @@
 
 ## insects
 
+- arthropods evolved from aquatic ancestors
+- believed to have been among the first animals to colonize land (before vertibrates)
+  - emerged from aquatic environments during the Devonian period
+    - around 400-350 million years ago
+
 - chilopoda
   - a class of myriapod arthropods which comprises the centipedes
 

@@ -23,6 +23,13 @@
     - phonography
       - marks correspond to phonemes, syllables
 
+- corpus (plural: corpora)
+  - large and structured collection of texts (or spoken language recordings) 
+    - used for linguistic analysis and research
+
+- lexicographer: someone who compiles, edits, or writes dictionaries
+  - there are several widely recognized and frequently used corpora in lexicography
+
 - filler, hesitation marker, planner (дискурсивные слова, слова-паразиты)
 
 - infinitive
@@ -332,14 +339,29 @@
   - а есть социальные отношения которые кристаллизовались в языковых формах [2]
 
 
-
-
 ## chinese
 
 - pinyin (hanyu pinyin)
   - phonetic symbols for chinese characters
   - is the system to transcribe mandarin chinese sounds into a latin alphabet
   - most common romanization system for standard chinese
+
+
+## typography
+
+- glyph (/ɡlɪf/): is any kind of purposeful mark
+
+- diacritic: a glyph added to a letter 
+  - also diacritical mark, diacritical point, diacritical sign, or accent
+
+- interesting diacritical marks with examples
+  - grave: À
+  - acute: Á
+  - circumflex: Â
+  - tilde: Ã
+  - diaeresis: Ä
+  - overring: Å
+  - cedilla: Ç
 
 
 ## references

@@ -95,6 +95,9 @@
       - PostgreSQL, SQLite as of version 3.9
       - supports JSON SQL operations
       - allows nested selectors into json column [2]
+
+- java: hibernate
+
 - dotnet
   - entity framework
   - nhibernate
@@ -373,8 +376,44 @@
 
 ## sql syntax
 
+- joins
+  - actively use concepts/imagery of venn diagrams
+  - types
+    - inner join
+    - left outer join
+    - right outer join
+    - full join
+    - cross join: cartesian product, all possible permutations
+    - self join
+
 - "having" clause
   - used when filtering is needed for aggregate functions on grouped results
+
+
+## data warehouses
+
+- star vs snowflake schema
+  - both feature central 'facts table' with many 'dimension tables'
+
+  - star schema
+    - is simpler
+    - dimension tables are denormalized
+      - making it easier to understand and query
+      - they may contain redundant data for ease of use and performance
+    - denormalization means it requires fewer joins
+      - resulting in potentially faster query performance
+
+  - snowflake schema
+    - is more efficient
+    - dimension tables are more normalized
+      - this potentially reduces redundancy and saves storage space
+      - but slows down queries because more joins are now necessary
+
+
+## commonly used datastructures
+
+- b+ tree
+- hashtable
 
 
 ## useful tools
@@ -405,7 +444,7 @@
   - using predicates to read only required data
   - comparing to reading it all and then applying predicate on higher layers
 
-- projection pushdown
+- projection pushdown (column pruning)
   - reading only data for columns user requested in their query
   - example: if your projection selects only 3 columns out of 10, then less columns will be passed from the storage to Spark and if your storage is columnar (e.g. Parquet, not Avro) and the non selected columns are not a part of the filter, then these columns won't even have to be read.
 

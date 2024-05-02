@@ -617,7 +617,8 @@
   - named tuples (collections.namedtuple) are slotted automatically 
 
 - each instance of a class has
-  - reference counter (8 bytes == 64 bits) and pointer to class(type) object (8 bytes == 64 bits) == 16 bytes
+  - reference counter (8 bytes == 64 bits) and pointer to class(type) object (8 bytes == 64 bits) 
+    - 16 bytes in total
   - and more <tbd>
 
 - metaclasses
@@ -634,13 +635,12 @@
     >>> await task
 
 - global interpreter lock (gil) [6]
-  - lock is enabled by default and that it is periodically released
+  - lock is enabled by default and it is periodically released
     - as opposed to the paradigm often seen in many multi-threaded programs where locks are generally 
       not held except when specifically required in so-called "critical sections"
   - python releases gil when doing io
-    - this means that print() function also releases gil and can lead to race conditions and inconsistent 
-      output when called from multiple threads 
-  - you can release gil inside your custom-written c extension using macroses:
+    - this means that print() function also releases gil and can lead to race conditions and inconsistent output when called from multiple threads 
+  - you can release gil inside your custom-written c extension using macroses
     Py_BEGIN_ALLOW_THREADS, Py_END_ALLOW_THREADS
 
 - re-raising exception using exception chaining syntax
@@ -658,8 +658,6 @@
 - extensions
   - mypy https://github.com/matangover/mypy-vscode
   - trunk https://trunk.io/products/check
-
-
 
 
 ## history

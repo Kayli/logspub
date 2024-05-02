@@ -111,7 +111,8 @@
     - expose producer and consumer apis
     - kafka 'broker', 'server', 'node', 'storage node' all refer to the same concept and are synonyms
   - producer: publishes events
-  - consumer: subscribes and consumes events
+  - consumer: consumes events by subscribing to one or multiple topics
+    - each consumer is single-threaded and processes messages sequentially
 
 - can preserve immutable log of events
   - retention time can be configured based on number, size or ttl of objects
@@ -119,12 +120,32 @@
 - topic: named container for similar events
 
 - partitioning
-  - messages without a key will be distributed to nodes in a round-robin manner
-  - asigning a key makes messages with the same key to end up on same partition
+  - messages without a partition key will be distributed to nodes in a round-robin manner
+  - asigning a partition key makes messages with the same key to end up on same partition
   - whenever a topic is created, the partitions are divided among the cluster nodes
     - each partition has a leader node and replica nodes (see replication factor)
     - producers write to the leader node and kafka internally replicates the data on the replica nodes
     - consumers consume data of a partition from its leader node
+  - each partition is assigned to exactly one consumer (never more)
+    - this may provide guarantees of sequential processing for stream of messages that can't be processed in-parallel (event sourcing)
+
+- consumer group
+  - maintains a single shared offset for all consumers in that group
+    - this offset defines which messages have been read successfully
+  - messages within a single consumer group may be processed in-parallel
+    - if there are more than 1 consumer in a group
+    - but degree of parallelism will be limited by the number of partitions
+  - by default
+    - in the absence of an explicitly specified group.id consumers usually generate a unique group ID for each instance
+
+  - if consumers are microservices
+    - make sure that partition key for the event message is set to entityId/streamId
+    - running multiple instances of consumer 
+      - will increase degree of parallelism
+      - will provide fault tolerance
+    - multiple instances of one microservice may share same group.id
+      - this can be done if every individual event should be processed only once within bounded context
+
 
 - kafka connect
   - provides ecosystem of pluggable connectors

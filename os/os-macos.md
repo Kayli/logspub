@@ -69,6 +69,7 @@
 
 - kernel sources mirror https://github.com/apple/darwin-xnu
 - python bindings for macos api https://github.com/ronaldoussoren/pyobjc/
+- XQuartz: x window system that runs on macos
 
 
 ## useful applications

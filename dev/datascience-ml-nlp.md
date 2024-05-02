@@ -1,6 +1,6 @@
 # notes related to automated natural language analysis using machine learning
 
-## basics 
+## basics
 
 - nlp: natural language processing
   - processes free form natural language text and transforms it into a standardized structure

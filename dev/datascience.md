@@ -6,6 +6,19 @@
   - is an interdisciplinary academic field
   - uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data
 
+- data types (non mutually exclusive)
+  - structured: relational databases, spreadsheets, and csv files
+  - semi-structured: json and xml files, nosql databases
+  - unstructured: documents, images, videos, audio files, social media posts, emails
+  - multistructured: contains elements of both structured and unstructured data
+  - temporal: includes information related to time or timestamps
+    - time series
+      - data recorded at successive, evenly spaced intervals over time
+      - typically represents how a particular variable or set of variables changes over time
+  - geospatial: involves information that is tied to specific geographical locations or coordinates
+  - graph: represents relationships between entities in a network-like structure
+  - streaming: continuously generated and processed in real-time or near real-time
+
 - data analysis
   - is the process of inspecting, cleansing, transforming, and modeling data 
   - the goal is to discover useful information, informing conclusions, supporting decision-making
@@ -17,6 +30,11 @@
 
   - business intelligence
     - data analysis that relies heavily on aggregation, focusing mainly on business information
+
+- sampling
+  - random sampling: generates random subset of your dataset
+  - downsampling: reduces the data volume by aggregating over time intervals
+  - stratified sampling
 
 
 ## big data
@@ -155,18 +173,28 @@
 
 ## interesting ideas
 
-- bronze-silver-gold pattern
-  - tables are marked with one of the 3 labels indicating its quality level
-  - bronze table
-    - raw unstructured data in a state as it just gets ingested
-    - examples: json, csv files
-  - silver table
-    - cleaned-up, normalized data
-    - ready for use by analysts and ml
-    - represents a single source of truth
-  - gold table
-    - provides aggregates to query for a specific business case
-    - example: weekly reports
+- medallion architecture
+  - helps to logically organize data in a lakehouse
+  - goal: incrementally and progressively improving the structure and quality of data as it flows through each layer of the architecture
+  - flow: bronze ⇒ silver ⇒ gold
+  - layers
+    - bronze
+      - raw unstructured data in a state as it just gets ingested
+      - examples: json, csv files
+    - silver
+      - filtered, clean, normalized, augmented data
+      - ready for use by analysts and ml
+      - represents a single source of truth
+    - gold
+      - provides aggregates to query for a specific business case
+      - example: weekly reports
+      
+
+
+## terminology
+
+- etl: extract, transform, load
+- elt: extract, load, transform
 
 
 ## useful links

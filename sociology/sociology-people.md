@@ -1,11 +1,26 @@
 # notes on famous sociologists [1]
 
+
 ## richard florida 1957
 
 - concept of the creative class [2]
   - разрушение сильных связей
   - побег от общества в классическом понимании
   - свобода одиночества, приватная жизнь
+
+
+## ron westrum 1945
+
+- author of 'westrum organizational typology' [3]
+  - pathological (power-oriented) organizations 
+    - characterized by large amounts of fear and threat
+    - people often hoard information or withhold it for political reasons, or distort it to make themselves look better
+  - bureaucratic (rule-oriented) organization
+    - protect departments. 
+    - those in the department want to maintain their “turf,” insist on their own rules, and generally do things by the book—their book
+  - generative (performance-oriented) organizations 
+    - focus on the mission, how do we accomplish our goal?
+    - everything is subordinated to good performance, to doing what we are supposed to do
 
 
 ## pierre bourdieu 1930-2002
@@ -402,3 +417,4 @@
 
 [1]: https://www.youtube.com/watch?v=hd33BahdAjs&list=PLDF7B08FF8564D1FE&index=2
 [2]: https://youtu.be/Pqz-sqDbTmo?t=439
+[3]: https://itrevolution.com/articles/westrums-organizational-model-in-tech-orgs/

@@ -128,13 +128,17 @@
   - exponentiation: softmax normalization layer
 
 - ann model sizes as of 2023 
-  - number of parameters: tens of billions
+  - number of parameters: tens of billions 
   - dimensions: thousands
   - n heads: tens
   - n layers: tens
   - learning rate: 10^-4 (e.g. 3.0e-4)
   - batch size: 4m
   - n tokens: 1-1.4 trillion
+
+- march 2024
+  - number of parameters: 10^12
+    - estimate of gpt4, 8 models in mixture of experts (moe) mode
 
 
 ## popular techniques
@@ -257,7 +261,14 @@
 
 - model servers
   - also called 'inference servers'
-  - there are bunch of them: BentoML, Cortex, TensorFlow Serving, TorchServe, KFServing, Multi Model Server, Triton Inference Server, ForestFlow, DeepDetect, Seldon Core, DeepSparse, OpenVINO Model Server, KServe
+  - top
+    - mlflow model serving (foss)
+    - seldon core (foss)
+    - tensorflow serving (google)
+    - torchserve (aws)
+    - triton inference server, also tensorrt (nvidia)
+  - there are bunch of others
+    - BentoML, Cortex, KFServing, Multi Model Server, ForestFlow, DeepDetect, DeepSparse, OpenVINO Model Server, KServe
 
 
 ## mlflow
@@ -280,7 +291,7 @@
 
 - modern ml models as [1]
   - stochastic parrots/chameleons
-  - analogous to biological mimicry
+    - analogous to biological mimicry
 
 - data augmentation in pattern recognition
   - altering input data by introduction of small transformations/disturbances
@@ -369,6 +380,10 @@
   - neural network adjusts its weights based on the error between its predictions and the actual target values. The learning rate influences the size of these weight updates.
 
 - mse: (mean square error) is the average squared loss per example over the whole dataset.
+
+- новые перспективные области исследования
+  - neuro-inspired computing: вдохновленные нейроным вычислением
+  - neuromorphic engineering: нейроморфная инженерия
 
 
 ## tensorflow
