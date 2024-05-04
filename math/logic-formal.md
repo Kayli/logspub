@@ -15,7 +15,7 @@
   - informal logic
     - examines arguments expressed in natural language
     - associated with informal fallacies, critical thinking, and argumentation theory
-    - see psychology/logic-informal.md for more details
+    - see philosophy/logic-informal.md for more details
     
 
 ## propositional logic, boolean algebra

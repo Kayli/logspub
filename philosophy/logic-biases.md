@@ -1,5 +1,11 @@
 # cognitive biases and releated information [1]
 
+- cognitive biases definition
+  - tendencies or inclinations in human thinking that can lead to errors in reasoning
+  - stem from cognitive heuristics
+    - which are mental shortcuts our brains use to process information quickly 
+      - but can sometimes result in flawed judgments
+
 - additive bias
   - e.g. individuals could add or subtract items on a travel itinerary for the optimal experience
     across all experiments, the vast majority of participants chose addition over subtraction
@@ -15,19 +21,11 @@
       по аналогии со стенками клетки (body cell, mind prison cell, similar analogies)
   - some scientists believe that the belief in creator gods is an evolutionary by-product of agent detection
 
-- ты заболел
-  - патологизация - инструмент контроля рабов мычащих не в такт
-  - doctors often incentivised to find diseases rather than taking care of wellbeing of their patients
-
 - ambiguity effect
   - decision making is affected by a lack of information, or "ambiguity"
   - people tend to select options for which the probability of a favorable outcome is known, 
     over an option for which the probability of a favorable outcome is unknown
-  - a risk-averse investor might tend to put their money into "safe" investments such as government bonds 
-    and bank deposits, as opposed to more volatile investments such as stocks and funds. Even though the 
-    stock market is likely to provide a significantly higher return over time, the investor might prefer 
-    the "safe" investment in which the return is known, instead of the less predictable stock market in 
-    which the return is not known
+  - a risk-averse investor might tend to put their money into "safe" investments such as government bonds and bank deposits, as opposed to more volatile investments such as stocks and funds. Even though the stock market is likely to provide a significantly higher return over time, the investor might prefer the "safe" investment in which the return is known, instead of the less predictable stock market in which the return is not known
 
 - clustering illusion
   - when presented with large amounts of confounding variables, people still tend to claim knowledge 

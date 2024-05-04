@@ -1,5 +1,9 @@
 # logical fallacies and related info
 
+- logical fallacy definition
+  - specific type of error in reasoning that occur in arguments
+  - flaws in the structure of an argument that render it invalid or unsound
+
 - sunk cost
   - escalation of commitment, irrational escalation, or sunk cost fallacy, where people justify increased investment 
     in a decision, based on the cumulative prior investment, despite new evidence suggesting that the decision was probably wrong
@@ -85,6 +89,10 @@
 - rug pull
   - a sudden revelation that completely contradicts the assumptions one has been led to believe
   - name comes from the phrase to pull the rug out from under (someone), meaning to withdraw support unexpectedly
+
+- ты заболел
+  - патологизация - инструмент контроля рабов мычащих не в такт
+  - doctors often incentivised to find diseases rather than taking care of wellbeing of their patients
 
 
 ## woo-woo mindset
