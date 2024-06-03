@@ -270,6 +270,9 @@
   - there are bunch of others
     - BentoML, Cortex, KFServing, Multi Model Server, ForestFlow, DeepDetect, DeepSparse, OpenVINO Model Server, KServe
 
+- hosting
+  - https://dagshub.com/pricing (mlflow hosting but no inference server)
+
 
 ## mlflow
 
