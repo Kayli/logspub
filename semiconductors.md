@@ -10,8 +10,15 @@
 - doping
   - intentional introduction of impurities into an intrinsic semiconductor 
     for the purpose of modulating its electrical, optical and structural properties
+  - only a small fraction of dopant atoms is needed 
+    - to significantly alter the electrical properties of silicon
+    - doping of phosphorus (n-type) or boron (p-type) in concentrations as low as parts per million
 
-- typical motherboard has 12 track layers
+- layering
+  - typical motherboard has 12 track layers
+  - typical processor die has 20+ layers
+    - but only a single transistor layer
+      - however there are 3D stacking or 3D integration techniques companies slowly adopt
 
 - mosfet
   - is a type of insulated-gate field-effect transistor that is fabricated by the controlled 

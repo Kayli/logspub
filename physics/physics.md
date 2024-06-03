@@ -106,6 +106,40 @@
 - salted water boils at higher temperatures and freezes at lower
 
 
+## fields
+
+- aether vs field difference
+
+  - aether 
+    - suppose to have mechanical properties, such as rigidity and elasticity
+      - similarly to how air supports sound waves
+    - is a stationary absolute frame of reference
+    - obsolete model
+  
+  - field
+    - assigns a value (such as a vector or scalar) to every point in space and time
+    - do not require a physical medium to propagate
+    - more fundamental than particles
+      - describe particles as excitations of underlying fields
+        - unifying quantum mechanics with field theory
+    
+    - gravitational
+      - is unique in a way that it alters space-time itself, when other fields don't
+      - acts as attractive force
+      - affects all forms of mass and energy, without exception
+        - while other forces interact selectively
+
+    - electromagnetic
+      - can be both attractive and repulsive
+
+    - magnetic
+      - can be both attractive and repulsive
+
+      - when material is magnetized/demagnitized
+        - main changes are in electrons spins alignment
+        - crystalline structure does not change significantly
+
+
 ## particle physics
 
 - four fundamental interactions known to exist

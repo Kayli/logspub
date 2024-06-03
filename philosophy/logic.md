@@ -33,7 +33,30 @@
       - real or imaginary
       - resolvable or not
       - agreed upon or controversial
+
+    - types
+      - facts
+        - are objective statement about reality, those that
+          - describe the world as it is, independent of personal opinions, beliefs, or perspectives
+          - based on empirical evidence, observation, and logical reasoning
+        - verifiable and can be confirmed/disproved through repeatable experiments or observations
+
+      - value judgements
+        - subjective assessments based on personal beliefs, preferences, or moral principles
+        - involve making evaluations about what is good, bad, right, or wrong
+        - influenced by cultural, societal, and individual perspectives
+        - kinds
+          - aesthetic value judgements
+            - matters of taste, art, attractiveness
+            - typically quite different from person to person, there is no universal right answer
+          - practical value judgements: accomplishing ends, getting things done
+          - moral value judgements
+            - what's right and wrong, good and bad
+            - typically should be the same for everyone
+            - are a part of cultural/moral convention
+        
     - examples
+      - water contains two hydrogen atoms
       - we should raise tuition
       - batman will beat spiderman in a battle
       - freedom is good
@@ -43,9 +66,12 @@
   - example: should we raise tuition?
 
 - argument: a set of claims
+  - composable, so that they can consist of other arguments
   - claims can be
     - premises: represent support for the conclusion
+      - indicator words: because, given, since, in view of
     - conclusion: claim we want to agree on
+      - indicator words: it follows that, thus, therefore, so, hence, consequently, this implies that
 
   - what's not an argument
     - non-controversial claim, one that everyone agrees with
@@ -57,15 +83,22 @@
   - can be
     - deductive
       - given premises, conclusion is certain
+      - can be
+        - valid: sound, unsound
+        - invalid
       - examples
         - socrates is a man, all man are mortal -> socrates is mortal
         - socrates is in jail, everybody in jail are guilty -> socrates broke the law
+    
     - inductive
       - given premises, conclusion is likely 
+      - can be
+        - strong: cogent, not cogent
+        - weak
       - examples
         - socrates is in jail, people in jail usually broke the law -> socrates broke the law
 
 
 ## references
 
-[1]: https://youtu.be/eJnvehWcrhY?si=560rglflpi6OsEUg
+[1]: https://www.youtube.com/playlist?list=PL447DFE6900523895 (FSU lectures: critical thinking)

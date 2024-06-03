@@ -27,11 +27,11 @@
 - maya 2000bce-1697ce
 - aztecz 1300-1521ce
   - confederation of three city-states established in 1427
-    - Tenochtitlan, city-state of the Mexica
-      - Mēxihcatl or Mexicas, were a Nahuatl-speaking indigenous people of the Valley of Mexico 
-        - were the rulers of the Aztec Empire at some point
-    - Texcoco
-    - Tlacopan
+    - tenochtitlan, city-state of the mexica
+      - mēxihcatl or mexicas, were a nahuatl-speaking indigenous people of the valley of mexico 
+        - were the rulers of the aztec empire at some point
+    - texcoco
+    - tlacopan
 - incas 1300ce
 - zapotec 500bce-now
 
@@ -69,23 +69,25 @@
   - declaration of independence july 4, 1776
   - 13 british colonies got independence
 
-- us vs uk war 1812-1815
+- 1812-1815: us vs uk war 
 
-- civil war 1861-1865
+- 1861-1865: civil war 
   - slaveholding south and a free north
     - democrats supported slave owners (private property rights)
     - republicans were against slavery
 
-- independence of canada 1867
+- 1867: independence of canada 
   - british north america act, july 1st
   - four separate colonies of upper canada, lower canada, nova scotia, and new brunswick 
     were united into a single dominion within the british empire called canada
 
-- vietnam war 1955-1975
-  - officially fought between North Vietnam and South Vietnam
+- 1929: great depression in us
+
+- 1955-1975: vietnam war
+  - officially fought between north vietnam and south vietnam
   - proxy war during cold war era
-    - north was supported by the Soviet Union, China, and other communist states
-    - south was supported by the United States and other anti-communist allies
+    - north was supported by the soviet union, china, and other communist states
+    - south was supported by the united states and other anti-communist allies
 
 
 ## other

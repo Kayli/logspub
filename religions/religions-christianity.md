@@ -43,7 +43,7 @@
     - variations related to age
       - infants are baptized
       - only those who have made a conscious decision to follow christ are baptized
-    - modern version: ???
+    - modern version: лучевая терапия при фейковом диагнозе (overdiagnosis)
 
   - confirmation
     - laying on of hands
@@ -58,13 +58,14 @@
     - words often pronounced: Hoc est corpus meum, or "this is my body"
       - origin of 'hocus pocus' expression
     - symbolic cannibalism, improvement over archaic form - literal cannibalism
-    - modern version: consumption of food during a sports event
+    - modern version: swallowing a hot dog during sports event
 
   - penance (покаяние)
     - confession of sins to a priest or minister
     - receiving of absolution or forgiveness for sins committed
     - later evolved into 'sacrament of penance' with 5 steps:
       - examination of conscience, confession, contrition, absolution, penance
+    - i.t. analogy: core dump
     - modern version: session with a psychotherapist
 
   - anointing of the sick (помазание больных)
@@ -72,7 +73,7 @@
     - offering hope and comfort in the face of death
     - reinforcing belief that god's grace and healing power are available to those who seek them
       - that the sick person is not alone in their struggle
-    - modern version: treating allergy with cortecosteroids
+    - modern version: treating allergy with cortecosteroids лол
 
   - holy orders
     - ordination of individuals to serve as clergy within the church
@@ -108,6 +109,8 @@
 
 - immaculate conception: a social engineering/eugenics technique
 
+- нимб (от латинского nimbus — “туча”, “облако”)
+  - это символическое изображение света, окружающего голову христа, богоматери и святых в христианском искусстве
 
 
 ## protestantism

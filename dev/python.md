@@ -745,6 +745,9 @@
 - restart vscode language server
   - issue command in vscode pallete 'python: restart language server'
 
+- dictionary property wrapper: ConfigBox
+  - https://github.com/cdgriffith/Box.wiki.git
+
 
 ## binary data
 

@@ -26,6 +26,13 @@
   - dall-e 2
   - codex code generator
 
+- loss vs accuracy for ml models evaluation
+  - accuracy metric is only applicable to classification tasks
+    - is usually determined after the model parameters are learned and fixed and no learning is taking place
+    - accuracy is not differentiable and therefore you can't backprop on it
+  - loss metric is for regression tasks
+    - loss is calculated on training and validation and its interperation is how well the model is doing for these two sets
+
 
 ## stages of ml worklflow [2]
 
@@ -118,6 +125,10 @@
   - output layers that are added to the network for specific tasks such as classification or regression
   - example: in a typical image classification task, the "head" of the network is a softmax layer that predicts the probability of each class based on the features extracted by the previous layers of the network
 
+- universal approximation theorem
+  - states that feedforward neural network with a single hidden layer containing a finite number of neurons (units) can approximate any continuous function to arbitrary accuracy, given a sufficiently large number of neurons in the hidden layer
+
+
 - adam: (adaptive moment estimation) 
   - optimization algorithm used for training artificial neural networks
   - extension of the stochastic gradient descent (sgd) optimization algorithm and is designed to address some of its limitations
@@ -183,7 +194,7 @@
   - similarities with definition of a function in math, but just for ai domain
 
 - simplest ones
-  - final state machine (fsm): used in computer games and some devices
+  - final state machine (fsm)
 
 - notable examples
   - connectionist: neural networks

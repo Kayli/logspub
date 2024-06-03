@@ -99,12 +99,12 @@
     - people: rene decartes, leonardo da vinci, michelangelo, and copernicus
   - enlightenment, age of reason 1700-1800 ce
     - scientific thought and rational thinking took centre stage
-    - people: rousseau, voltaire, and john locke
+    - people: rousseau, voltaire, john locke, newton
 
 - industrial/modern 1800 ce - now
 
 
-## ice ages
+## ice ages (glaciation periods)
 
 - earth's climate alternates between ice ages and greenhouse periods
   - during greenhouse periods there are no glaciers on the planet
@@ -118,8 +118,12 @@
   - huronian        2.5 - 2.2 gya
   - cryogenian      720 - 635 mya
   - andean-saharan  460 - 420 mya
-  - late paleozoic  360 - 255 mya
+  - late paleozoic  360 - 255 mya  (also karoo ice age)
   - quaternary      2.58 mya - now
+    - last glacial maximum (lgm)
+      - peaked around 26,5 kya
+      - large ice sheets covered significant portions of north america, northern europe, and asia
+      - ended 8-9 kya
 
 
 ## holocene
@@ -240,7 +244,15 @@
 
 - persians
   - modern territories of iran
+  - cатрапы: губернаторы, назначаемые персидскими царями для управления провинциями (сатрапиями)
   - notable ppl: cyrus, darius, xerxes
+  - 499–449 bc: греко-персидские войны 
+    - 480 bc: сожгли афины
+    - 479 bc: армия ксеркса разбита в битве при платеях 
+  - 465-424 bc: артаксеркс первый
+    - практика непрямого воздействия на грецию
+      - подкуп ораторов
+      - поддержка оппозиционных сил
 
 - arabs [10]
   - arabian penissula (аравийский полуостров)
@@ -292,36 +304,17 @@
 - see history-europe.md
 
 
-## india
+## asia
 
-- harappan culture (хараппская цивилизация)
-  - 3300-1300 bce
-  - mohenjo-daro
-    - built around 2500 bce
-    - it was one of the largest settlements of the ancient indus civilisation
-    - already used standardized bricks, street grids, and covered sewerage systems
-      - отдельно канализация биоотходов и отдельно сточных вод!!
-
-- aryan migration 1750 bce
-  - synthesis of arian with harappan cultures evolved into a vedic culture
-
-
-## china
-
-- see history-china.md
-
-
-## japan
-
-- 6 streams: https://www.youtube.com/playlist?list=PLk7JM19SQtzCNIPqRInEygcvKA_CwF5ey
-- 1890 compulsory education for everyone
-  - one of the major causes of fast economic growth
+- see history-asia*.md
 
 
 ## world wars
 
 - 1914-1918: first world war, ww1
   - died: 17 mil
+  - usa and japan are winners (gained more than lost)
+
 - 1939-1945: second world war, ww2
   - died: 73 mil
 
@@ -393,7 +386,7 @@
 ## useful links
 
 - bushwacker
-  - неофициальный с полными записями https://vk.com/club180058315
+  - неофициальный с полными записями https://vk.com/video/@club180058315
   - официальная группа вконтакте https://vk.com/club111751633
   - пекач https://sc2tv.ru/bushwacker
   - группа на фейсбуке: https://www.facebook.com/groups/812058052274650/
@@ -406,6 +399,11 @@
 
 - сильфий: древний фитоконтрацептив
   - растение было обнаружено и стало предметом торговли греческих колонистов в киренах, древнегреческом городе на побережье северной африки около современного шаххата, ливия. все попытки пересадить и культивировать сильфий вне кирен не увенчались успехом. [8]
+
+- первооткрыватели
+  - христофор колумб
+  - васко да гама: морской путь из европы в азию, минуя африку
+  - барталамео диаш: обогнул мыс доброй надежды, открыв морской путь к индийскому океану через южную оконечность африки
 
 
 ## other

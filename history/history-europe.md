@@ -18,12 +18,12 @@
 
 ## byzantine empire
 
-  - 395 ce: continuation of the roman empire in its eastern provinces
-  - survived the fragmentation and fall of the western roman empire
-    - also referred to as the eastern roman empire
-  - capital city: constantinople (modern istanbul)
-  - 5xx-7xx ce: southern crimea was part of the empire
-  - 1453 ce: fall of constantinople to the ottoman empire
+- 395 ce: continuation of the roman empire in its eastern provinces
+- survived the fragmentation and fall of the western roman empire
+  - also referred to as the eastern roman empire
+- capital city: constantinople (modern istanbul)
+- 5xx-7xx ce: southern crimea was part of the empire
+- 1453 ce: fall of constantinople to the ottoman empire
 
 
 ## france
@@ -98,6 +98,15 @@
 - 875: settlers from denmark establish danelaw
 - 935: wessex region dominates and creates unified england (regni anglorum)
 - 1030-1066 ce: region ruled by vikings
+- 1066: invaded by normans from northern france
+- 1154-89: rules henry 2nd, introduction of case law
+- 1215: king john signs magna carta (великая хартия вольностей)
+  - under pressure from his barons and nobles
+  - was abandoned right after signing
+  - but had to be followed by next king henric 3rd (1217)
+  - later becomes foundational document in the history of constitutional law and individual rights
+- 1265: montfort parliament, первый парламент (говорильня, от фр. parler говорить)
+  - создан чтобы предотвратить постоянные конфликты короля и баронов
 
 - 1830 abolition of slavery
   - ideologically: more fair

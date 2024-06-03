@@ -10,11 +10,10 @@
   - herein lies the dialectic of freedom: it turns out to be a form of control
 
 - psychopolitics: doctrine of obsessive incompleteness
-  - all the stuff we can be doing in theory
-    - if only we make themselves valuable enough
-    - if only we work hard enough to make our minds as efficient and optimized as they can be
+  - if only we make ourselves valuable enough
+  - if only we work hard enough to make our minds as efficient and optimized as they can be
   - endlessly maximizing abilities
-    - they’ll spend the rest of their lives going crazy about never being good enough
+    - people spend their lives going crazy about never being good enough
     - never doing enough, never being efficient enough
 
 - authenticity
@@ -45,8 +44,8 @@
     - coding?
 
 - criticism
-  - justifying toxic levels of mediocrity in their life. 
-  - gardening and sitting in silence…i call that just a waste of time.
+  - justifying toxic levels of mediocrity in their life
+  - gardening and sitting in silence…i call that just a waste of time
   - every second that you spend taking a rest day doing things simply for the sake of joy…for every one of those seconds there is somebody else out there grinding, working to take everything that you have. 
 
 
@@ -70,7 +69,7 @@
   - 2 mixed colors vs music interval example https://youtu.be/RZdfE_7cde0?t=186
 
 
-## daniel dannett 1942
+## daniel dannett 1942-2024
 
 - defender of the idea of free will
 - against qualia as a concept
@@ -81,7 +80,7 @@
 - quotes
   - "religion is a nurse crop for science"
   - twist on aviary analogy from plato's theaetetus
-    - "knowledge is like birds in a giant aviary ... the trick is: can you get them to come when you call?" [11]
+    - "knowledge is like birds in a giant aviary ... the trick is: can you get them to come when you call?" [11] 
 
 
 ## sandra harding
@@ -619,15 +618,23 @@
 - objects are just a list of experienced properties, nothing more
 - there is no god, there is no soul
 - causality is a part of nature and we can't apply it to nature itself
-- all believes about the world has no rational justification
+- all beliefs about the world has no rational justification
 - provided model for all sceptics and modern philosophers argue with him still
 
 
 ## isaac newton 1643-1727
 
 - symbolic icon of the enlightment
+
 - unification of laws of motion, gravity, earth and cosmic bodies and optics
+  - formalized 3 laws of motion
+  - demonstrated that kepler's laws are a natural consequence of his laws of motion and the law of universal gravitation
+
 - completed what galileo started
+  - formalized the concept of inertia that galileo had described
+
+
+
 
 
 ## voltaire
@@ -845,6 +852,12 @@
   - circular arguments
   - need to beilive in things like: cause must be greater then its effect
   - animals are just machines, material substances (no soul vs Arestotelian 3 levels of soul)
+
+
+## galileo galilei 1564-1642
+
+- described concept of inertia
+- first noted that objects fall at the same rate regardless of mass
 
 
 ## erasmus of rotterdam 1469–1536
@@ -1184,6 +1197,20 @@
   - eternal, unchanging entity that is responsible for setting the universe in motion
   - mnemonic: unmowed mower
 
+- uniquely positive view of anger [12]
+  - as motivational force
+    - when directed towards the right objects, could serve as a motivating force for action
+    - could spur individuals to rectify injustices or correct wrongs
+  - sense of justice
+    - could arise from a sense of justice or fairness
+    - could prompt individuals to stand up against wrongdoing and advocate for what is right
+  - self-assertion
+    - provide means of asserting oneself and defending one's dignity or honor
+    - allows individuals to establish boundaries and assert their rights in certain situations
+  - instrumental value
+    - might be necessary to display controlled anger in leadership roles
+      - to maintain discipline or to inspire others
+
 - quotes
   - the whole is greater than the sum of its parts
   - we are what we repeatedly do. Excellence, then, is not an act, but a habit
@@ -1344,3 +1371,4 @@
 [9]: https://www.philosophizethis.org/transcript/episode-188-transcript (#188: achievement society)
 [10]: overthink podcasrt 61 self-knowledge
 [11]: https://youtu.be/VWpm2NOF2Zw?si=tryyaPkHB0v9TAzR&t=2580
+[12]: https://www.youtube.com/watch?v=REF2DPyaCHA

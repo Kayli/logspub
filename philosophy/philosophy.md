@@ -275,7 +275,13 @@
 
 - epicurianism: self-sufficiency, pleasure, friendship, materialism
 - cynics: don't care about social conventions (diogenes)
-- stoics: fatalism, dog tight to a cart being moved by a horse
+
+- stoics: fatalism
+  - dog philosophy
+    - a dog that is tied to a moving cart, and the dog is essentially dragged along by the cart
+      - they used this image to convey the idea of fate or determinism
+    - teaches that while we may not have control over external events or circumstances (the movement of the cart), we do have control over how we respond to them (the attitude of the dog)
+
 - scepticism: suspend judgement as we never can be fully certain
 - neoplatonism
 - aristotelianism

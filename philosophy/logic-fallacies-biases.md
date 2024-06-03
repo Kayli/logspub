@@ -1,8 +1,23 @@
-# logical fallacies and related info
+# logical fallacies, biases and related info
+
+## basics
 
 - logical fallacy definition
   - specific type of error in reasoning that occur in arguments
   - flaws in the structure of an argument that render it invalid or unsound
+
+- cognitive biases definition
+  - tendencies or inclinations in human thinking that can lead to errors in reasoning
+  - stem from cognitive heuristics
+    - which are mental shortcuts our brains use to process information quickly 
+      - but can sometimes result in flawed judgments
+
+
+## fallacies
+
+- division/composition
+  - false assumption that what is true for the whole must also be true for its parts
+    - or vice versa
 
 - sunk cost
   - escalation of commitment, irrational escalation, or sunk cost fallacy, where people justify increased investment 
@@ -58,6 +73,62 @@
   - post hoc ergo propter hoc: after this, therefore because of this
   - assumes that since event Y followed event X, event Y must have been caused by event X
 
+
+## cognitive biases [6]
+
+- additive bias
+  - e.g. individuals could add or subtract items on a travel itinerary for the optimal experience
+    across all experiments, the vast majority of participants chose addition over subtraction
+    out of 94 participants who completed the grid task, 73 added squares, 18 subtracted 
+    squares and another three simply reworked the original number of squares
+  - examples: tbd
+
+- agent detection
+  - inclination for animals, including humans, to presume the purposeful intervention of a 
+    sentient or intelligent agent in situations that may or may not involve it
+  - если вам говорят что никаких агентов не существует, это вовсе не означает что их там нет
+    - может использоваться как пси-барьер за котрый нельзя выходить когнитивным процессам жертвы
+      по аналогии со стенками клетки (body cell, mind prison cell, similar analogies)
+  - some scientists believe that the belief in creator gods is an evolutionary by-product of agent detection
+
+- ambiguity effect
+  - decision making is affected by a lack of information, or "ambiguity"
+  - people tend to select options for which the probability of a favorable outcome is known, 
+    over an option for which the probability of a favorable outcome is unknown
+  - a risk-averse investor might tend to put their money into "safe" investments such as government bonds and bank deposits, as opposed to more volatile investments such as stocks and funds. Even though the stock market is likely to provide a significantly higher return over time, the investor might prefer the "safe" investment in which the return is known, instead of the less predictable stock market in which the return is not known
+
+- clustering illusion
+  - when presented with large amounts of confounding variables, people still tend to claim knowledge 
+    of the unknowable this produces cognitive dissonance which when avoided leads people to try to change 
+    venues to something with more certainty
+
+- anchoring effect
+  - cognitive bias whereby an individual's decisions are influenced by a particular reference point or 'anchor'
+  - once the value of the anchor is set, subsequent arguments, estimates, etc. made by an individual may change 
+    from what they would have otherwise been without the anchor
+  - for example, an individual may be more likely to purchase a car if it is placed alongside 
+    a more expensive model (anchor)
+
+- halo effect (halo error)
+  - tendency for positive impressions of a person, company, country, brand, or product in one area to positively or negatively influence one's opinion or feelings in other areas
+  - how to avoid while gathering opinions from the group of experts 
+    - before discussing problem in a group setting, get individual opinion from very person separately 
+    - this prevents first voiced opinions to influence expression of subsequent ones
+  - examples
+    - nobel price laureate roger penrose and his microtubule vibrations speculations
+
+- frequency illusion (baader-meinhoff phenomenon)
+  - tendency to notice something more often after noticing it for the first time
+  - leads to the belief that it has an increased frequency of occurrence
+
+- zeigarnik effect (incomplete work vs mind)
+  - activity that has been interrupted may be more readily recalled
+  - may lead to problems with sleeping
+    - solution: create a plan to complete the task without implementing it
+
+- peak-end rule [8]
+  - psychological heuristic that changes the way we recall past events
+  - we remember a memory or judge an experience based on how they felt at the peak moments, as well as how they felt at the end
 
 ## manipulative tactics
 
@@ -167,6 +238,13 @@
 - propaganda techniques https://youtu.be/sybo484veJY?si=Jv1EhxPN1d3u_aXd
 
 
+## random stuff
+
+- bless yourself with holy water, have masses said, and so on
+  - by simple and natural process this will make you believe
+  - this will dull you, quiet your critical intellect [7]
+
+
 ## references
 
 [1]: https://www.txstate.edu/philosophy/resources/fallacy-definitions/Begging-the-Question.html
@@ -174,3 +252,6 @@
 [3]: https://youtu.be/YIQocoxv5tg?t=942
 [4]: https://www.bakercommunications.com/archive/apr13/negotiation040113.html
 [5]: https://youtu.be/lBU64nfe8nM?si=3D0bo-FJJ7K6zIX7&t=425
+[6]: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+[7]: https://www.youtube.com/watch?v=fZpJ7yUPwdU
+[8]: https://thedecisionlab.com/biases

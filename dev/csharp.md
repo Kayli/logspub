@@ -68,6 +68,10 @@
     - those new apis are experimental as of mid 2022
 
 
+## .net 8, csharp 12
+
+- 
+
 ## .net 7, csharp 11
 
 - default language version: csharp 11
