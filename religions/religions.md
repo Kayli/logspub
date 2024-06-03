@@ -86,6 +86,10 @@
   - a genre of literature portraying god revealing hidden truth about the future to it's chosen individual
   - main themes: alienation, imminent divine intervention, transformation
 
+- монолатрия
+  - форма религиозного культа, где один божественный объект (обычно бог) принимается как основной объект поклонения, но признается существование других божеств или духов
+  - отличается от монотеизма, где признается только одно божество
+
 
 ## more etymology
 
@@ -102,7 +106,8 @@
   - родственно иранскому baga и санскритскому bhagas — «податель благ»
   - богатство, bogatъ, ubogъ
   - доля, делить, получать долю, наделять
-  - bog: болото, wetland that accumulates peat as a deposit of dead plant materials
+  - bog: болото, wetland that accumulates peat (торф) as a deposit of dead plant materials
+    - peat: a brown deposit resembling soil, formed by the partial decomposition of vegetable matter lol
 - господь
   - господин
   - hospes (лат): хозяин, предаставляющий гостеприимство

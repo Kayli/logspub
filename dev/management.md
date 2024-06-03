@@ -40,6 +40,7 @@
   - covers all unionized worksites in an industry, market or company
   - establishes the terms and conditions of employment common to all workers in the industry, market or company
 
+
 ## communication
 
 - face-to-face conversations
@@ -64,6 +65,7 @@
   - culture of obscurity for the sake of job security manifistations
     - spaghetti code without realistic plans of addressing it
     - unreasonably overcomplicated processes to follow
+    - overengineering, semantic maze
   - it is useful to view obscurity as an emergent process, not something done intentionally
     - however, malignant intent should not be taken out from consideration completely
     - gives short term benefits (local extremum)
@@ -72,9 +74,10 @@
 - managerial feudalism [2]
   - hunt for power for its own sake
 
-- putting employees through a sweeze [7]
-- wearing a badge of exhaution, burnout and tiredness almost as if it shows our strong work ethic and moral fiber [7]
-
+- putting employees through a squeeze [7]
+- wearing a badge of exhaution, burnout and tiredness
+  - almost as if it shows our strong work ethic and moral fiber [7]
+  - easy to confuse with real exhaustion, burnout and tiredness
 
 
 ## microagressions
@@ -84,7 +87,7 @@
 
 ## planning
 
-- agile
+- agile methodologies
 - evidence-based scheduling by Joel Spolsky [5]
 - cologne cathedral: 600 years planning horizon
 
@@ -100,10 +103,7 @@
 ## law
 
 - in canada there are statutory termination requirements when terminating someone without cause, 
-  but there are also Common Law rights to “Due Notice”: time to find another job without loss of income.
-  Just meeting the statutory requirements can result in a Wrongful Dismissal lawsuit, so it is best to 
-  put together a package that you think the person will find acceptable from the outset rather than have 
-  them running to a lawyer [3]
+  but there are also Common Law rights to “Due Notice”: time to find another job without loss of income. Just meeting the statutory requirements can result in a Wrongful Dismissal lawsuit, so it is best to put together a package that you think the person will find acceptable from the outset rather than have them running to a lawyer [3]
 
 - statutory vs. common law termination notice [4]
 

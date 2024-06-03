@@ -128,6 +128,9 @@
 
 - not acknowledging differences between people is a sin against reality of difference
 
+- постструктурализм (poststructuralism)
+  - возник как реакция на структурализм, который утверждал, что структура лежит в основе всех культурных и социальных явлений и может быть раскрыта через систематический анализ
+
 
 ## antinatalism
 
@@ -199,12 +202,12 @@
   - absence of expected evidence
   - presence of conflicting evidence
 
-- blind faith demands that we disregard
-  - absence of expected evidence
-  - presence of conflicting evidence
+  - blind faith demands that we disregard
+    - absence of expected evidence
+    - presence of conflicting evidence
 
-- robert oppenheimer quote
-  - 'we know that the only way to avoid error is to detect it and the only way to detect it is to be free to inquire'
+  - robert oppenheimer (physicist) quote
+    - 'we know that the only way to avoid error is to detect it and the only way to detect it is to be free to inquire'
 
 
 ## relativism, antirealism
@@ -294,6 +297,8 @@
 - embracing anxiety as a natural emotion that animates body [3]
 - бытие определяет сознание ... еще это назвают проф деформацией [4]
 - disappointing people may be very humanizing, it can give those the opportunity to realize that their demands might not be reasonable [6]
+- спгс (синдром поиска глубинного смысла) [7]
+
 
 
 ## unsorted
@@ -386,3 +391,4 @@
 [4]: https://habr.com/ru/company/itsumma/blog/688932/
 [5]: https://stats.stackexchange.com/questions/2245/statistics-and-causal-inference
 [6]: https://www.youtube.com/watch?v=TrNIuFrso8I
+[7]: https://tinyurl.com/25tzkn4b

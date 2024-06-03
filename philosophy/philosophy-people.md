@@ -152,12 +152,20 @@
 
 ## lyotard, jean-françois 1924–1998
 
+- french philosopher, sociologist, and literary theorist
 - distinctive sciences are incommensurable (like physics and psychology)
   - their modes of knowledge can't be integrated and we should not try
   - postmodern practice of science will not try to unify and even won't tolerate unification, integration of different views of science
-- fragmentation is good and unification means suppression of individual differences
-- fragmentation of language games is what makes freedom possible
+
 - ruling class constructs a separate class of people onto which all ills are getting projected
+
+- вводит концепцию «метанарративов» (или «больших нарративов»)
+  - это крупные, всеобъемлющие теории и идеологии, которые претендуют на объяснение и управление миром
+
+- призывает к скептицизму в отношении метанарративов и к их деконструкции
+  - он предлагает вместо этого поддерживать «малые нарративы» — локальные, контекстуальные и плюралистические истории, которые не претендуют на универсальность и более честно отражают сложность человеческого опыта
+  - fragmentation is good and unification means suppression of individual differences
+  - fragmentation of language games is what makes freedom possible
 
 
 ## hannah arendt 1906-1975
