@@ -62,6 +62,11 @@
   - sqlite 3.26+ (at least)
 
 
+## postgresql
+
+- automatic migrations: liquibase
+
+
 ## useful links
 
 - cloud sql editors

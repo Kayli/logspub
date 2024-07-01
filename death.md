@@ -69,7 +69,11 @@
 
 - suicide is a fundamental human right 
   - not widely recognized
-  - gift of life that you can't easily return is a burdain
+  - gift of life that you can't easily return is a burdain (slime pie)
+
+- легализация эвтаназии
+  - это признание автономного права человека распоряжаться своей жизнью
+  - признание этого права первично по сравнению с коллективными интересами
 
 - most popular methods
   - firearm (52%)
