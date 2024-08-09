@@ -175,10 +175,16 @@
     - class functions are virtual by default
     - just match function name and parameters
   - use super() to access base class function
+    - returns a proxy object that proxies the attribute lookup to the next class in the method resolution order
+    
 
 - it is possible to override module functions using 
   - single dispatch:    @functools.singledispatch and type annotations
   - multiple dispatch:  multipledispatch package
+
+- multiple inheritance
+  - when method names collide in a class that inherits from multiple mixins, the method resolution order (mro) determines which method is called
+  - magic attribute: print(MyClass.__mro__)
 
 
 ## file system
@@ -369,6 +375,8 @@
     
 
 ## linters
+
+- ruff https://docs.astral.sh/ruff/
 
 - pylint 
   - standard source-code quality checker

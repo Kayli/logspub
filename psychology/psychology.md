@@ -563,13 +563,44 @@
 
 ## taxonomies of personality traits
 
-- big five
-  - openness to experience (inventive/curious vs. consistent/cautious)
-  - conscientiousness (efficient/organized vs. extravagant/careless)
-  - extraversion (outgoing/energetic vs. solitary/reserved)
-  - agreeableness (friendly/compassionate vs. critical/rational)
-  - neuroticism (sensitive/nervous vs. resilient/confident)
+- stereotype content model (scm) [24]
+  - people universally evaluate others based on two fundamental dimensions
+  - these two dimensions form the basis of stereotypes and social judgments
+    - warmth
+      - this dimension assesses perceived friendliness, trustworthiness, and benevolence
+      - addresses whether the intentions of others are positive or negative
+    - competence
+      - this dimension evaluates perceived ability, intelligence, and efficiency
+      - it assesses whether others have the capability to act on their intentions
 
+
+- big five, five-factor model (ffm) or ocean
+  - methodology (briefly)
+    - trait descriptive adjectives (tda) were identified and used in forming questioneers
+    - cluster analysis and correlation algorithms were used to come up with five categories
+    - same categories arose across different languages/cultures
+
+  - identified categories
+    - openness to experience (inventive/curious vs. consistent/cautious)
+      - tda: imaginative, creative, curious, original, artistic, insightful, inventive, reflective, unconventional, complex and others
+
+    - conscientiousness (efficient/organized vs. extravagant/careless)
+      - tda: organized, responsible, reliable, efficient, methodical, diligent, detail-oriented, disciplined, punctual, persevering and others
+    
+    - extraversion (outgoing/energetic vs. solitary/reserved)
+      - tda: outgoing, sociable, assertive, energetic, talkative, gregarious, adventurous, assertive, dominant, excitable and others
+
+    - agreeableness (friendly/compassionate vs. critical/rational)
+      - tda: kind, cooperative, warm, friendly, compassionate, trusting, altruistic, modest, sympathetic, tolerant and others
+
+    - neuroticism, emotional stability (sensitive/nervous vs. resilient/confident)
+      - tda: anxious, moody, tense, nervous, insecure, vulnerable, irritable, easily stressed, emotional, prone to worry and others
+
+  - association with neurotransmitters
+    - neuroticism, sensitivity: associated with differences in serotonin function
+    - extraversion, sensitivity: linked to dopamine
+
+  
 - myers-briggs
   - mbti: myers-briggs type indicator
   - cover four specific dichotomies, or scales
@@ -584,6 +615,7 @@
     - at high risk of getting stuck in false dichotomies
     - not an evidence-based: (not based on pca or clustering)
 
+
 - attachment styles: anxious, avoidant, disorganized, secure
 
 
@@ -593,6 +625,19 @@
   - people are good at recognizing faces from their racial group
   - minority group members are still good at majority group faces
   - majority group members are not good at minority group faces
+
+
+## cognitive psychology
+
+- the need for cognition (nfc)
+  - is a psychological construct that describes an individual's tendency to engage in and enjoy effortful cognitive activities
+  - measuremenent: how individual answer questions like: "i prefer complex to simple problems" and "thinking is not my idea of fun"
+  - high nfc individuals are more likely to evaluate the quality of arguments rather than relying on peripheral cues
+
+- the need for cognitive closure (nfcc)
+  - refers to an individual's desire for a firm answer to a question and an aversion to ambiguity. This need influences how people process information and make decisions
+  - measurement: assessing preferences for order, predictability, decisiveness, and discomfort with ambiguity
+  - high nfcc individuals might prefer clear and decisive leaders and may be more prone to stereotyping and resistance to change
 
 
 ## interesting facts
@@ -652,3 +697,5 @@
 [21]: https://www.attachmentproject.com/blog/four-attachment-styles/
 [22]: https://youtu.be/SjjGiqf96rI?si=OmFAukWDXX9qSlVw&t=1974
 [23]: https://youtu.be/MYMYXhR2Ppw?si=AejTEN-EkxaSRQOy&t=2851
+[24]: http://www.juliaminson.com/uploads/1/1/3/1/113175333/jeong_minson_gino_chapter.pdf
+[25]: https://www.youtube.com/watch?v=G1eHJ9DdoEA

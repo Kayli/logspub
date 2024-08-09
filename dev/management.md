@@ -49,6 +49,9 @@
 - meetings
 - information radiators
 
+- disagreements, make counterpart feel heard https://shorensteincenter.org/commentary/better-disagreements-change-words-4-ways-make-counterpart-feel-heard-keep-conversation-going/
+
+
 
 ## disfunctions
 
@@ -134,6 +137,12 @@
 - эффективно делегировать полномочия сотрудникам
 - применять мотиваторы для сотрудников
 - управлять конфликтами среди подчиненных
+- how concepts of the need for cognition (nfc) and the need for cognitive closure (nfcc) apply to management and i.t. specifically
+
+
+## other links
+
+- conflict negotiation research from harvard http://www.juliaminson.com/conflict--negotiation.html
 
 
 ## references

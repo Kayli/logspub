@@ -17,6 +17,11 @@
 
 - first practiced by neoplatonics and neopythagoreans
 
+- spectral puppeteers
+  - generally refers to entities or beings in speculative fiction or paranormal contexts
+  - they are often described as mysterious figures or forces that manipulate or control events from behind the scenes, metaphorically akin to puppeteers controlling puppets
+  - ащур за окном
+
 
 ## esoteric studies
 

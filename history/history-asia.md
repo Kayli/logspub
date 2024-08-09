@@ -1,5 +1,6 @@
 # notes on history of asian countries
 
+
 ## india
 
 - indian tectonic plate drift
@@ -235,6 +236,13 @@
     - mandarin chinese is the dominant and official language in taiwan
     - significant portion of the population also speaks taiwanese hokkien and hakka chinese
   - well known corporations: tsmc, acer, asus, msi, foxconn, mediatek
+
+
+## korea
+
+- современная корея
+  - северная: кндр, корейская народная демократическая республика
+  - южная: республика корея
 
 
 ## references

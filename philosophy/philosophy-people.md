@@ -1,5 +1,16 @@
 # notes about philosophers [1]
 
+## ellie anderson
+  
+- https://philpeople.org/profiles/ellie-anderson-2/publications
+
+
+## david pena guzman
+
+- https://philpeople.org/profiles/david-m-pena-guzman
+
+
+
 
 ## byung-chul han 1959 [9]
 
@@ -69,9 +80,11 @@
   - 2 mixed colors vs music interval example https://youtu.be/RZdfE_7cde0?t=186
 
 
-## daniel dannett 1942-2024
+## daniel dennett 1942-2024
 
 - defender of the idea of free will
+  - compatabilist: even in deterministic world free will still makes sense
+
 - against qualia as a concept
   - quote: 'concept of qualia is so confused that it cannot be put to any use or understood in any non-contradictory way'
 
@@ -80,14 +93,28 @@
 - quotes
   - "religion is a nurse crop for science"
   - twist on aviary analogy from plato's theaetetus
-    - "knowledge is like birds in a giant aviary ... the trick is: can you get them to come when you call?" [11] 
+    - "knowledge is like birds in a giant aviary ... the trick is: can you get them to come when you call?" [11] (paraphrase from plato's dialogue 'theaetetus')
 
 
-## sandra harding
-## susan bordo
+## sandra harding 1935-now
+## susan bordo 1947-now
 
-- claim that modern epistemology (since 17th century) has expressed gendered (characteristically male) conception of knowledge
+- modern epistemology (since 17th century) is not neutral or objective but deeply intertwined with gendered power dynamics. Their work calls for a re-evaluation of how knowledge is defined and valued, advocating for a more inclusive and equitable approach that recognizes the contributions and experiences of all gender
+
+- traits traditionally ascribed to 
+  - masculinity: emphasis on objectivity, detachment, and rationality 
+  - femininity: emotion, subjectivity, and intuition
+
 - reason itself is a male construction based on a political need to maintain power in male hands
+  - enlightenment period placed a strong emphasis on reason, science, and objectivity
+  
+  - these ideals were framed in opposition to traits stereotypically associated with femininity
+    - such as emotion, subjectivity, and intuition
+  
+  - construction of reason as inherently masculine serves to privilege male perspectives and experiences while marginalizing or devaluing those of women. The association of reason with masculinity has political implications, as it supports the maintenance of male dominance in intellectual and social spheres
+  
+  - what counts as true knowledge, who gets to be considered a legitimate knower, and how knowledge is produced and validated are all influenced by a need to maintain male dominance
+
 
 
 ## jaques derrida 1930-2004 [3]
@@ -133,19 +160,37 @@
 - space of communicative discourse: the only place where we reach agreement
 
 
+## gilles deleuze 1925-95
+
+- french poststructuralist and postmodernist
+
+- philosophy is an art of creating concepts
+  - philosopher and concept is like woodworker and wood
+  - its a process of creation rather than discovery
+
+- assemblage
+  - is a whole made up of heterogeneous parts that function together
+  - characterized by its ability to form connections and produce new realities
+
+- rhizomatic structures
+  - are non-hierarchical, decentralized, and interconnected
+  - can be entered at any point and do not follow a linear path
+  - emphasize multiplicity, diversity, and connectivity
+
+
 ## joseph margolis 1924-2021
 
 - cognition and the world are symbiotic (no access to things in themselves)
   - worlded language and languaged world
 
-- no universal bivalence (certain statements are either true or false)
+- no universal bivalence (certain statements are neither true or false)
   - bivalence claim is applicable in some areas (math), but may not be in others (history)
   - often it is perfectly reasonable to relax bivalence requirement
     - as our judjements are not detachable from evidence
   - truth is relative to fields of evidence
     - historical, esthetical or art judgements
     - allows multiple objective but incompatible interpretations
-  
+
 - turning to pragmatic biological grounds
   - human inquiry develops out of the biological and precognitive interaction between organism and environment
 
@@ -218,6 +263,39 @@
   - no one can look into anyone else's box, and everyone says he knows what a beetle is only by looking at his beetle
 
 - language game
+
+
+## bertrand russell 1872-1970
+
+- british mathematician, logician, philosopher, and public intellectual
+- played pivotal role in the development of analytic philosophy
+- co-authored "principia mathematica" with alfred north whitehead, an ambitious work aimed at grounding mathematics in logical foundations.
+- distinction between wrong and meaningless statements
+
+- theory of descriptions
+  - approach involves breaking down the logical structure of sentences that contain descriptions.
+  - example
+    - original statement: the current king of france is bald
+    - transformed statement
+      - there exists an x such that x is currently the king of france
+      - for all y, if y is currently the king of france, then y is identical to x (uniqueness)
+      - x is bald
+
+- russell's paradox: a set-theoretic paradox about set containing itself
+
+- russell's teapot
+  - idea: the burden of proof lies with the person making an extraordinary claim
+  - analogy: if he were to claim that a teapot orbits the sun somewhere in space between the earth and mars, it would be absurd for others to believe him solely on the basis that they cannot definitively prove him wrong
+
+
+
+## george edward moore
+
+- most famous work: principia ethica (1903)
+  - "good" is a simple, indefinable property that cannot be reduced to or defined in terms of any 
+natural property
+- played pivotal role in the development of analytic philosophy
+
 
 
 ## heidegger martin 1889-1976 [1]
@@ -371,6 +449,62 @@
 - books: the varieties of religious experience
 
 
+## gottlob frege 1848-1925
+
+- father of analytic philosophy
+  - philosophy of language
+
+- invented a new logic of 'predicate calculus' (first-order logic, FOL)
+  - first new one since aristotel
+  - developed an analysis of quantified statements and formalized the notion of a ‘proof’ in terms that are still accepted today
+  - define quantifiers which are specific kinds of predicates
+  - predicate is
+    - a function over terms (which could be variables or constants)
+    - yields true or false result ('interpreted' term is used)
+
+- formalized concept of functions within the framework of logic and set theory
+
+- started a 'logicists project'
+  - ambitious philosophical and mathematical endeavor aimed at providing a foundation for mathematics based solely on logic and the concept of number
+
+  - tried to create arithmetic from first principles (minimal set of axioms and theorems)
+    - but stumbled over self-referential expressions of set theory (russel's paradox)
+
+  - showed that arithmetic is 'analytic' because mathematical truths in arithmetic can be derived from definitions and logical principles alone. Geometry, on the other hand, is considered 'synthetic' because its truths often require empirical or geometrical constructions and proofs that go beyond mere definitions (using kant's synthetic vs analytic terminology)
+
+
+
+## charles peirce 1839-1914
+
+- one of the founders of
+  - pragmatism as philosophical tradition
+  - semiotics
+
+- there never is a certain foundation for our knowledge
+  - only reasonable approximations
+
+- convergence theory of truth
+  - truth is something on which a community of inquierers converge upon in a long run
+
+- type vs token distinction
+  - types: abstract descriptive concepts
+  - tokens: individual instances that instantiate those concepts
+
+- triadic nature of sign: sign, signified, interpreter
+- invented sign types: icons, indexes, symbols
+
+- foresaw quantum mechanics 'virtual particles' concept
+  - universe is constantly producing chance events
+    - which are not determined
+    - which are developed to great connection and continuity
+    - thats the process of evolution
+- anticipated heisenberg uncertainty principle [13]
+
+- influenced: dewey, william james
+
+- died in poverty
+
+
 ## soren kierkegard 1813-55
 
 - examines question: what does it mean to be a christian?
@@ -462,7 +596,6 @@
 
 ## charles darwin 1809-1882
 
-- in 1859 published 'origin of species by means of natural selection'
 - species are not fixed: they change and evolve
 - one species evolved from another species
 - discovered one important mechanism of evolution: natural selection
@@ -471,6 +604,15 @@
 - meeting of linean society [6]
   - joint reading of darwin and alfred wallace works on what later became a theory of evolution
   - wallace was a proponent of group selection and didn't take ideas of sexual selection seriously [7]
+
+- publications
+  - 1859: "происхождение видов" – самая известная работа дарвина, в которой он изложил свою теорию эволюции путем естественного отбора. в этой книге дарвин представил обширные доказательства своей теории и обсудил механизмы, с помощью которых виды эволюционируют с течением времени.
+
+  - 1871: "происхождение человека и половой отбор" – в этой книге дарвин применил свою теорию эволюции к человеку, обсуждая происхождение человека и роль полового отбора в эволюционном процессе.
+
+  - 1872: "выражение эмоций у человека и животных" – в этом труде дарвин исследовал, как эмоции выражаются у различных видов, включая человека, и как эти выражения могут быть связаны с эволюцией.
+
+  - 1868: "изменение домашних животных и культурных растений" – в этой работе дарвин рассмотрел процесс изменения, происходящего в результате одомашнивания растений и животных, и как это связано с естественным отбором.
 
 
 ## arthur schopenhauer 1788-1860
@@ -721,8 +863,17 @@
   - pantheism - god and world are the same: extreme version of immanent notion
   - panentheism - god has world (nature) in it, but god is more than nature
   - transcendent - god is separate from the world
-- german idealists were heavily influenced by Spinoza, as well as religious thought
-- einstein said that his god was mostly like Spinoza's god
+- german idealists were heavily influenced by spinoza, as well as religious thought
+- einstein said that his god was mostly like spinoza's god
+
+
+## blaise pascal 1623-1662
+
+- was a french mathematician, physicist, inventor, writer, and christian philosopher
+- pascal's wager: an argument in favor of belief in god based on probability theory and utility
+- criticism of casuistic reasoning
+  - casuistry: method of resolving moral problems by applying theoretical rules to specific cases
+  - church was concerned that casuistry method of thought may undermine its authority
 
 
 ## wilhelm leibniz 1646–1716
@@ -1016,6 +1167,19 @@
   - bottom:       soul which creates physical world we live in
 
 
+## galen of pergamon 129-216 ce
+
+- roman and greek physician, surgeon, and philosopher
+- one of the most influential figures in the history of medicine
+- wrote 'galenic corpus'
+  - comprise hundreds of treatises covering a wide range of medical topics
+  - cornerstone of medical education in both the islamic world and medieval europe for many centuries
+  - described numerous surgical procedures and techniques, including the treatment of wounds, fractures, and dislocations
+- believed that empirical evidence provided a reliable foundation for knowledge
+- sought to understand the underlying principles of biological processes and the organization of living beings
+- emphasized the physiological basis of mental functions
+
+
 ## epicurus 341–270 bce
 
 - truth
@@ -1071,6 +1235,7 @@
 - concerned with practical matters: useful things to save china
 - was an aggregator of chinese wisdom teachings
   - quote: i transmit and not innovate
+- promoted free education (will teach for food)
 - goal: to become a superior man
 
 - tried to answer question: what is the best way for a man to live his life and to govern?
@@ -1237,14 +1402,14 @@
 
 ## plato 423-348 bce
 
-- famous student: aristotel
-
 - associated with idealism
   - one can only have mere opinions about the perceivable objects
     - it is not possible to have knowledge of anything that could change or was particular
     - but one can have (complete?) knowledge about the world of ideas/universals/forms
   - world of forms is the true reality, eternal and unchanging
   - denies that eternal forms are mental artifacts (platonic realism)
+
+- famous student: aristotel
 
 - allegory of the cave
   - was also critical of poetry and drama, which he believed could corrupt the morals of young people
@@ -1380,3 +1545,4 @@
 [10]: overthink podcasrt 61 self-knowledge
 [11]: https://youtu.be/VWpm2NOF2Zw?si=tryyaPkHB0v9TAzR&t=2580
 [12]: https://www.youtube.com/watch?v=REF2DPyaCHA
+[13]: https://youtu.be/-eR5Y1FiA3U?si=2lNXFLr29EkKFShH&t=378

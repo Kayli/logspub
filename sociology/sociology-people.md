@@ -30,10 +30,16 @@
 
 ## erving goffman 1922-1982
 
+- frames
+  - are cognitive structures
+  - they shape how individuals perceive and interpret events, situations, and interactions
+    - help people make sense of the world by providing a framework for understanding and organizing their experiences
+
+
 - major works
-  - The Presentation of Self in Everyday Life (1956)
-  - Asylums: Essays on the Social Situation of Mental Patients and Other Inmates (1961)
-  - Frame Analysis (1974)
+  - the presentation of self in everyday life (1956)
+  - asylums: essays on the social situation of mental patients and other inmates (1961)
+  - frame analysis (1974)
 
 
 ## arnold gehlen 1904-1976

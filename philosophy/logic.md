@@ -61,6 +61,21 @@
       - batman will beat spiderman in a battle
       - freedom is good
 
+    - examples of domains
+      - moral and ethics: right vs wrong, good vs bad
+        - theft or murder are often judged as universally wrong
+        - honesty and charity are seen as universally right
+      - legal judgments: guilty or not guilty of a charge
+        - though there are nuances in the legal process
+      - mathematics: a statement is either true or false
+        - many judgments about propositions or proofs are bivalent
+        - however
+          - more advanced math incorporate probability and degrees of belief into math reasoning
+          - see fuzzy logic, quantum computing, stochastic processes, bayesean inference
+      - formal logic: propositions are either true or false
+      - binary classification: spam vs. non-spam emails or binary outcomes in medical tests
+        - in data science or machine learning
+
 - issue: a controversial claim
   - composed of claim and counterclaim (the opposite)
   - example: should we raise tuition?

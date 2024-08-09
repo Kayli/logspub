@@ -71,6 +71,7 @@
 
 - stone age (prehistoric)
   - lasted 3.4 million years
+  - first stone tools used by humans
   - contemporaneous with the evolution of the genus Homo
   - subdivisions
     - paleolithic 3.4mya-8800 bce
@@ -146,23 +147,32 @@
 ## 6 early civilizations
 
 - sumer (mesopotamia, later babylon) 6-5k bce
+- ancient egypt 3100-332 bce
+- minoan (crete island): 3000-1250 bce
+- china
+- norte chico (mexico)
+- olmec (mexico)
+- indus valley (harappan culture, modern pakistan)
+
+
+## mesopotamia
+
+- 6-5k bce: sumerians
   - historical region of southern mesopotamia (now southern iraq)
     - tigris and euphrates rivers
   - writing
     - seals, cylinder-seals
     - evolution: tokens > pictograph > cuneiform (клинопись)
+    - literacy among women as well as among men
   - cities
-    - uruk
-
-- ancient egypt 3100-332 bce
-  - writing: hieroglyphs, which combined 
-    - logographic, syllabic and alphabetic elements
-    - with a total of some 1,000 distinct characters
-
-- china
-- norte chico (mexico)
-- olmec (mexico)
-- indus valley (harappan culture, modern pakistan)
+    - uruk, ur, kish, akkad
+  - time tracking: sexagesimal numeral system
+    - also known as base 60
+    - originated with the ancient sumerians in the 3rd millennium bc, was passed down to the ancient babylonians, and is still used—in a modified form—for measuring time, angles, and geographic coordinates
+  - polytheistic beliefs
+    - anunnaki group of deities
+    - ishtar: goddess of war and sex
+    - enki: god of water, flood myth origin
 
 
 ## mediterranean: ancient egypt
@@ -170,6 +180,12 @@
 - 'egypt' etymology
   - hikuptah: home of the ka (soul) of ptah
   - ptah: ancient egyptian deity, a creator god and patron deity of craftsmen and architects
+
+- covers period 3100-332 bce
+
+- writing: hieroglyphs, which combined 
+  - logographic, syllabic and alphabetic elements
+  - with a total of some 1,000 distinct characters
 
 - climate changes around 8000 BCE began to desiccate the pastoral lands of Egypt, forming the Sahara
 - early tribal peoples 
@@ -206,7 +222,7 @@
 
 ## mediterranean: ancient greece
 
-- 2000-1250 bce: minoan and mycenaen civilization (proto greeks)
+- 3000-1250 bce: minoan and mycenaen civilization (proto greeks)
   - бронзовая греция
   - crete island
     - minoans
@@ -235,6 +251,9 @@
   - сильфий
   - детоубийство
   - поощрение гомосексуализма
+
+- slavery was a part of the culture
+  - animal is an 'instrumentum semivocalis', while a slave is an 'instrumentum vocalis'
 
 
 ## mediterranean region [1]
@@ -294,7 +313,7 @@
     - king nebuchadnezzar 2nd dissolved the kingdom 
       - besieged and destroyed jerusalem and solomon's temple
       - exiled much of the judean elite to babylon
-  - 539 bce return to from captivity
+  - 539 bce return from captivity
     - persians (cyrus the great) allow judean and other populations return to their homelands
   - 135 ce: восстание бар-кохбы
     - римляне уничтожают и переселяют множество евреев
@@ -393,6 +412,10 @@
   - официальная группа вконтакте https://vk.com/club111751633
   - пекач https://sc2tv.ru/bushwacker
   - группа на фейсбуке: https://www.facebook.com/groups/812058052274650/
+
+- interactive maps
+  - https://geacron.com/home-en/
+  - https://chronas.org 
 
 
 ## interesting facts

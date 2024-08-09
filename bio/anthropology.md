@@ -8,6 +8,17 @@
   - in both the present and past
   - including past human species
 
+- allochronism
+  - biological
+    - temporal separation of populations or species that might otherwise be capable of interbreeding
+    - can lead to reproductive isolation and potentially to speciation
+  
+  - anthropological
+    - perception of cultures as existing in different time periods
+    - this can often reflect an ethnocentric view where one culture is seen as "modern" and another as "primitive" or "ancient," despite both existing in the same historical time frame
+    - power dynamics
+      - dominant cultures often have the power to construct narratives about other cultures, which can lead to allochronistic depictions. These representations can portray other cultures as "timeless" "primitive," or "stuck in the past," reinforcing the dominance of the depicting culture and marginalizing the depicted one
+
 
 ## taxonomy
 

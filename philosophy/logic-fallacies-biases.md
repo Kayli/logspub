@@ -130,6 +130,7 @@
   - psychological heuristic that changes the way we recall past events
   - we remember a memory or judge an experience based on how they felt at the peak moments, as well as how they felt at the end
 
+
 ## manipulative tactics
 
 - gaslighting
@@ -164,6 +165,10 @@
 - ты заболел
   - патологизация - инструмент контроля рабов мычащих не в такт
   - doctors often incentivised to find diseases rather than taking care of wellbeing of their patients
+
+- belittling slur
+  - is an offensive term or phrase used to demean, insult, or degrade a person or group based on their characteristics, such as race, gender, sexuality, ethnicity, or other attributes
+  - are intended to belittle and dehumanize the target, perpetuating stereotypes and fostering discrimination and prejudice
 
 
 ## woo-woo mindset

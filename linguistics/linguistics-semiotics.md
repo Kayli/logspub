@@ -14,19 +14,17 @@
     - sign, signified, prolocutor (encoder, sender), interpreter (decoder, receiver)
 
 - denotation
-
   - the most basic or literal meaning of a sign
   - e.g., the word "rose" signifies a particular kind of flower
 
 - connotation
-
   - the secondary, cultural meanings of signs; or "signifying signs," signs that are used as signifiers for a secondary meaning, e.g., the word "rose" signifies passion.
 
 - semiosis
-
   - sign process, is any form of activity, conduct, or process that involves signs, including the production of meaning.
 
 - polysemy: capacity for a sign (e.g. a symbol, a morpheme, a word, or a phrase) to have multiple related meanings
+
 
 ## sign
 
@@ -74,6 +72,7 @@
     - the meaning of a proposition is a procedure for determining if it is true or false
     - the meaning of an action is the ability to do the action or to tell if it has been done
 
+
 ## stylistics
 
 - is the study and interpretation of texts or spoken language in regard to their linguistic and tonal style, where style is the particular variety of language used by different individuals and/or in different situations or settings
@@ -83,19 +82,21 @@
 - best poems are characterised by semantic density, which is to say a lot of meaning is packed into them [1]
 
 - lipogram
-
   - a kind of constrained writing or word game
   - consisting of writing paragraphs or longer works in which a particular letter or group of letters is avoided
 
 - poem is a diary with the lock removed. poetry is communication with oneself as well as with others. it is the most personal of arts. (billy collins)
 
+
 ## people
 
 - roland barthes, umbero eco, roman jakobson, juri lotman, alfred tarski
 
+
 ## interesting
 
 - visual rhetoric [1]
+
 
 # references
 

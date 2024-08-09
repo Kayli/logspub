@@ -21,13 +21,6 @@
   - ochlocracy (mob rule)
   - tyranny
 
-- libertarianism
-  - from Latin: libertas, "freedom"
-  - a political philosophy that upholds liberty as a core value
-  - seek to maximize autonomy and political freedom, minimize the state
-  - emphasizing free association, freedom of choice, individualism and voluntary association
-  - share a skepticism of authority and state power
-
 - systems of classifying political positions
   - conservative-progressive spectrum
   - left–right spectrum
@@ -46,18 +39,32 @@
   - is the notion of a political system in which economic goods and/or political power are vested in
     individual people based on talent, effort, and achievement, rather than wealth or social class
 
+- realpolitik
+  - from the german words "real" (meaning "realistic" or "practical") and "politik" (meaning "politics")
+  - refers to a political philosophy or approach that emphasizes pragmatic, practical, and results-oriented considerations over ideological, moral, or ethical premises
 
-## vague terms (to clarify)
+- hobbs's fool 
+  - is a theoretical concept used by thomas hobbes to illustrate the importance of rationality and social order in his political philosophy
+  - emphasizes the idea that without a structured authority and adherence to rational principles, individuals may act in ways that harm themselves and others, perpetuating a state of conflict rather than cooperation
 
-- alt-right
-  - an abbreviation of alternative right
-  - a loosely connected far-right white nationalist movement
-  - largely online phenomenon (propaganda artifact?)
-  - originated in the united states during the early 2010s went into a decline after 2017
-  - the term is ill-defined
-    - having been used in different ways by alt-right members, media commentators, and academics
-    - usually a stub word for something bad?
-  - strong nationalism + totalitarian regime with lots of violence
+
+## political ideologies aka 'political philosophies' 
+
+- liberalism
+  - emphasizes individual liberty, democracy, and equality before the law
+  - advocates for civil rights, political freedoms, and the protection of private property
+  - mixed economy: free market + government for regulation
+
+- neoliberalism
+  - emphasizes free-market capitalism and reducing the role of the state in economic affairs
+  - free market fundamentalism
+  - deregulation, privatization, and austerity (ascetism) measures
+
+- libertarianism
+  - upholds liberty as a core value
+  - seeks to maximize autonomy and political freedom, minimize the state
+  - emphasizing free association, freedom of choice, individualism and voluntary association
+  - share a skepticism of authority and state power
 
 
 ## political language
@@ -111,7 +118,7 @@
 
 ## war
 
-- nationalism and modern war as a social engineering? technique
+- nationalism and modern proxy-wars as a social engineering? technique
   - petri-dish approach on global scale
 
 
@@ -173,12 +180,20 @@
     wisdom and are not likely to be taken in my the magical power of a deep and rumbling voice. instead, they
     they would tend to judge the leader on his acts and his judgment.
     the self-reliant person would be suspicious of easy promises and wild expectations because he has himself 
-    learned that reality is not generous but has to be approached correctly and patiently; and so he would also 
-    mistrust those who scorn reality by trying to push it, force it into fantasy or who fear it and try to over-control it.
-    a citizenry composed of large number of such people would be something to reckon with, because they would 
-    respect reality, bend to it, work it and survive with it. best of all ... they would place most of those who 
-    hold prominent political office today back in real-estate offices, restauraunts, cigar and clothing stores 
-    which they never would have left, where it for the fantasies of the masses
+    learned that reality is not generous but has to be approached correctly and patiently; and so he would also mistrust those who scorn reality by trying to push it, force it into fantasy or who fear it and try to over-control it. a citizenry composed of large number of such people would be something to reckon with, because they would respect reality, bend to it, work it and survive with it. best of all ... they would place most of those who hold prominent political office today back in real-estate offices, restauraunts, cigar and clothing stores which they never would have left, where it for the fantasies of the masses
+
+
+## vague terms (to clarify)
+
+- alt-right
+  - an abbreviation of alternative right
+  - a loosely connected far-right white nationalist movement
+  - largely online phenomenon (propaganda artifact?)
+  - originated in the united states during the early 2010s went into a decline after 2017
+  - the term is ill-defined
+    - having been used in different ways by alt-right members, media commentators, and academics
+    - usually a stub word for something bad?
+  - strong nationalism + totalitarian regime with lots of violence
 
 
 ## terminology

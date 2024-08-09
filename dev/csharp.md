@@ -90,6 +90,7 @@
   - restful api transcoding + openapi support
     - means that you can mirror your grpc endpoints to http2/rest automatically
 
+
 ## .net 6
 
 - default language version: csharp 10

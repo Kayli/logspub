@@ -93,15 +93,8 @@
   - matrimony (marriage)
     - seen as a way of expressing the love and commitment that god has for humanity
     - symbolizes relationship between christ and the church
+  
 
-- east–west schism (great schism) in 1054
-  - split between the eastern orthodox church and the roman catholic church
-  - points of disagreement
-    - alteration of original creed 
-      - catholics wanted to add that holy spirit proceeds not only from the father, but also from the son
-    - authority of pope
-      - orthodox church believed that each bishop had equal authority
-      - roman catholic church believed that the pope was the supreme authority in matters of doctrine and governance
 
 - apologetics
   - religious discipline of defending religious doctrines through systematic argumentation and discourse
@@ -111,6 +104,33 @@
 
 - нимб (от латинского nimbus — “туча”, “облако”)
   - это символическое изображение света, окружающего голову христа, богоматери и святых в христианском искусстве
+
+
+## schisms (расколы церкви)
+
+- 1054: east–west schism (great schism)
+  - split between the eastern orthodox church and the roman catholic church
+  - points of disagreement
+    - alteration of original creed (символ веры)
+      - catholics wanted to add that holy spirit proceeds not only from the father, but also from the son
+    - authority of pope
+      - orthodox church believed that each bishop had equal authority
+      - roman catholic church believed that the pope was the supreme authority in matters of doctrine and governance
+
+- 15xx: reformation
+  - martin luther initiated a movement
+  - criticism of abuses within the Catholic Church, such as the sale of indulgences
+  - desire for reforms in worship and church practice
+  - creation of various protestant denominations, such as lutheranism, calvinism, and anglicanism
+
+- 1650: the old believer schism
+  - occurred in the russian orthodox church due to reforms implemented by patriarch nikon
+    - believed that the russian church had deviated from the true orthodox practices
+    - sought to correct these perceived errors
+    - intended to align with practices of the greek orthodox church
+  - some believers, who rejected these reforms, became known as old believers or old ritualists
+  - russian state and the official church authorities, including tsar alexis 1st, supported nikon's reforms and actively persecuted those who opposed them. this included imprisonment, torture, execution, and exile for the leaders and followers of the old believer movement
+
 
 
 ## protestantism

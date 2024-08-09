@@ -115,6 +115,35 @@
     - no need for centralized control/coordination
 
 
+## germany
+
+- 16xx-17xx: rise of prussia
+  - kingdom of prussia emerged as a significant power under leaders such as frederick the great
+
+- 1871: unification of germany
+  - otto von bismarck, the prussian chancellor, orchestrated the unification of germany through a series of wars (danish war, austro-prussian war, franco-prussian war)
+  - german empire was proclaimed with king wilhelm i of prussia as emperor.
+
+- 1914-18: world war 1
+  - ended with germany’s defeat
+  - abdication of kaiser wilhelm ii
+  - establishment of the weimar republic
+
+- 1919-33 weimar republic
+  - period of political instability and economic hardship
+  - hyperinflation, and the rise of extremist political movements, including the nazis
+
+- 1933–1945: nazi germany and world war 2
+  - 1933: adolf hitler’s rise to power
+  - led to the establishment of a totalitarian regime, aggressive expansionism, and the genocide of six million jews in the holocaust
+  - ww2 ended in 1945 with germany’s defeat and occupation by allied forces
+
+- 1949: germany was divided into east germany (gdr) and west germany (frg) during the cold war
+  - berlin wall, erected in 1961, became a symbol of this division
+
+- 1989-90: the fall of the berlin wall, reunification of germany
+
+
 ## nederlands
 
 - dutch (nederlanders)

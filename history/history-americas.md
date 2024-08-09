@@ -69,12 +69,19 @@
   - declaration of independence july 4, 1776
   - 13 british colonies got independence
 
+- democratic party was originally supporting slavery
+  - was closely aligned with the interests of the southern states
+
+- 1794, 1807: acts prohibiting importation of slaves (but not domestic slave trade)
+
 - 1812-1815: us vs uk war 
 
 - 1861-1865: civil war 
   - slaveholding south and a free north
     - democrats supported slave owners (private property rights)
     - republicans were against slavery
+
+- 1865: abolishion of slavery
 
 - 1867: independence of canada 
   - british north america act, july 1st

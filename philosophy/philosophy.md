@@ -71,6 +71,11 @@
     mental images (representations) of material objects outside the mind, not the objects themselves
 
 
+- positivism school of thought
+  - only scientific knowledge derived from empirical evidence and logical analysis is meaningful
+  - rejects metaphysics and theism as sources of knowledge
+
+
 ## periods
 
 - ancient egyptian/greek
@@ -149,6 +154,39 @@
     is trapped in that state - it may be a life not worth living
 
 
+## creationism
+
+- there are many different types, e.g. scientific creationism, theistic evolution, philosophical creationism, intelligent design
+
+- "creative evolution" or "evolutionary creationism"
+  - all living beings, in a sense, participate in or embody aspects of creativity or creation
+  - integrates evolutionary theory with the concept of creativity or creation
+    - often emphasizing that the process of evolution itself can be seen as a creative or generative force
+
+
+## taoism, daoism
+
+- yin and yang
+  - describes opposite but interconnected forces
+  - yin is the receptive and yang the active principle
+
+
+## hellenism
+
+- epicurianism: self-sufficiency, pleasure, friendship, materialism
+- cynics: don't care about social conventions (diogenes)
+
+- stoics: fatalism
+  - dog philosophy
+    - a dog that is tied to a moving cart, and the dog is essentially dragged along by the cart
+      - they used this image to convey the idea of fate or determinism
+    - teaches that while we may not have control over external events or circumstances (the movement of the cart), we do have control over how we respond to them (the attitude of the dog)
+
+- scepticism: suspend judgement as we never can be fully certain
+- neoplatonism
+- aristotelianism
+
+
 ## ethics (moral philosophy)
 
 - branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong behavior
@@ -183,20 +221,25 @@
 - theories of truth
   - correspondence
     - idea has to correspond to reality to be considered 'truth'
+  
   - coherence
     - idea has to be coherent with other 'true' ideas to be considered 'truth' 
-  - pragmatic
+
+  - pragmatic (convergence)
     - idea has to be practicaly useful
     - has to have power to change the world 
     - subtypes
       - utilitarian
-      - personal (nitzsche)
+      - totalitarian, personal (nitzsche)
         - ideal human, uberman
+    - truth is something on which a community of inquierers converge upon in a long run
+
   - semantic (tarski theory of truth)
     - idea has to conform to a statement (sentense) expressed in some fixed language
     - axioms define initial truth statements 
     - theorems define truth statements derived from axioms and other proven theorems (recursive definition)
     - most relevant in formal sciences
+
 
 - how we detect lies?
   - absence of expected evidence
@@ -210,10 +253,37 @@
     - 'we know that the only way to avoid error is to detect it and the only way to detect it is to be free to inquire'
 
 
-## relativism, antirealism
+## relativism, antirealism, solipsism
 
-- standards of truth, rationality, and ethical right and wrong vary greatly between cultures and historical epochs 
-  - there are no universal criteria for picking best between them
+- naive relativism
+  - there is no universal criteria for picking best between standards of truth, rationality, and ethical right and wrong, as they vary greatly between cultures and historical epochs
+  - promotes tolerance and understanding of cultural diversity
+  - but makes it difficult to critique harmful practices or to establish any common ground for dialogue and improvement across different cultures
+
+- solipsism
+  - ontological (metaphysical): мир = мое представление
+  
+  - epistemological
+    - only one's own mind is sure to exist
+    - knowledge of anything outside one's own mind is uncertain
+  
+  - semantic
+    - meanings and understandings are inherently private and subjective
+      - rooted in the individual's own mind
+    - idea of a shared or common language becomes problematic
+    - misunderstandings and ambiguities in communication may be seen as inevitable
+  
+  - ethical (axiological): my world is the only moral one
+  
+  - methodological
+    - my consciousness is the source of inquiry
+    - decarte's 'i think therefore i am' approach
+  
+  - культурный
+    - belief or attitude that one's own culture is the only one that is worth understanding
+      - or truly exists
+    - often leads to a disregard or devaluation of other cultures
+
 
 
 ## pragmatism
@@ -267,27 +337,48 @@
   - emerge from interactions between different parts of matter
 
 
-## taoism, daoism
+## determinism
 
-- yin and yang
-  - describes opposite but interconnected forces
-  - yin is the receptive and yang the active principle
+- there is at any instant exactly one physically possible future (van inwagen)
 
 
-## hellenism
+## free will
 
-- epicurianism: self-sufficiency, pleasure, friendship, materialism
-- cynics: don't care about social conventions (diogenes)
+- aristotle
+  - introduced the concept of voluntary action
+  - distinguishes between actions done willingly and those done under compulsion
+    - voluntary
+      - when it originates from the agent
+      - is done with knowledge of the particular circumstances of the action
+    - involuntary
+      - when they are performed under compulsion or due to ignorance
+      - compulsion involves external forces that the agent cannot resist
+        - making the agent more of a passive participant
 
-- stoics: fatalism
-  - dog philosophy
-    - a dog that is tied to a moving cart, and the dog is essentially dragged along by the cart
-      - they used this image to convey the idea of fate or determinism
-    - teaches that while we may not have control over external events or circumstances (the movement of the cart), we do have control over how we respond to them (the attitude of the dog)
+- stoics
+  - concept of logos
+    - universal reason, which governs the cosmos
+    - logos is a rational and deterministic principle that orders and sustains the universe
+    - can be seen as a form of protophysics
 
-- scepticism: suspend judgement as we never can be fully certain
-- neoplatonism
-- aristotelianism
+- laplace's demon (pierre-simon laplace, a french mathematician)
+  - a thought experiment that assumes if someone (the demon) could know the precise positions and velocities of every particle in the universe at a given moment, and if they had unlimited computing power and knowledge of the laws of physics, they could theoretically predict the future state of the universe
+
+- daniel dennet
+  - free will is an evolved creation of human activity and beliefs and it is just as real as such other human creations as music and money
+  - agentocentric/antropocentric projection (dramatization) of causes
+    - regularities (ordinary mechanistic events) framed as cases of prevention, enabling, thwarting, deflecting, undoing, counteracting, etc.
+
+- no free will debates
+  - rightfully criticize 'magical' framing of free will
+  - conflate deterministic laws with non-deterministic universe
+  - trolling audience by trying to convince them that there is no consciousness, you don't have mind and no free will
+
+
+## emergence
+
+- some higher-level properties of a complex system are irreduceble to the lower properties alone
+- emergence can be thought as a certain level of surprise for the observer (michael levin) [8]
 
 
 ## interesting ideas
@@ -392,3 +483,4 @@
 [5]: https://stats.stackexchange.com/questions/2245/statistics-and-causal-inference
 [6]: https://www.youtube.com/watch?v=TrNIuFrso8I
 [7]: https://tinyurl.com/25tzkn4b
+[8]: https://youtu.be/c8iFtaltX-s?si=mrXaMbKx0eVxQlMq&t=96

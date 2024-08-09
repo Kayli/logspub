@@ -205,6 +205,24 @@
   - serializable (most restrictive)
 
 
+## tradeoffs
+
+- cap theorem
+  - consistency (c): every read receives the most recent write or an error.
+  - availability (a): every request receives a (non-error) response, without the guarantee that it contains the most recent write.
+  - partition tolerance (p): the system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.
+
+- pacelc theorem
+  - acronym
+    - P (Partition Tolerance) is still essential.
+    - A (Availability) vs. C (Consistency) trade-off exists during a partition
+    - E (Else): Even when there is no partition,
+    - L (Latency) vs. C (Consistency) trade-off is present.
+  - when there is a partition (pac)
+    - the system must choose between availability and consistency
+  - when there is no partition (elc)
+    - the system must choose between latency and consistency
+
 
 
 ## object relational mappers (orms)

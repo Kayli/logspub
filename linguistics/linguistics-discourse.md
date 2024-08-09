@@ -178,6 +178,8 @@
 
 - in dante's hell, the worst sinners are the fradulent, those who misuse language to mislead and decieve, and those who use language not to render a concrete and useful reality but to frustrate the virtuous use of intellect [5]
 
+- certain taboos may become a catalyst of faster language fragmentation
+  - papua new guinea
 
 ## references
 

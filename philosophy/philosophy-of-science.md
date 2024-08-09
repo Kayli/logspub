@@ -101,8 +101,10 @@
 - new organon 1620
   - francis bacon creates a new system of logic he believes to be superior to the old ways of syllogism
     - this is now known as the baconian method
+
 - principia mathematica 1687
-  - isaac newton defines laws of motion
+
+- isaac newton defines laws of motion
 
 - calvinism
   - сalvin clearly believed that science and reason were universal gifts to mankind, and non-Christians were just as capable of discovering scientific truth as Christians. To neglect the discoveries of non-Christians simply because of their lack of faith is, according to Calvin, to be guilty of “sloth”
@@ -215,11 +217,30 @@
 - paper should have at least two reviewers before being published in a journal
   - these reviewers are typically experts in the field, but should have no direct affiliation with the authors
 
+- h-index
+  - is calculated by counting the number of publications for which an author has been cited by other authors at least that same number of times. For instance, an h-index of 17 means that the scientist has published at least 17 papers that have each been cited at least 17 times
+
 
 ## keeping references to original works
 
 - stems from biblical tradition of hyperlinked text?
   - bible as a first hyperlinked text [1]
+
+- scientific journals & coutries ranks: https://www.scimagojr.com/ 
+
+
+## where and how to look for published papers [2]
+
+- fast way
+  - use google scholar's extended search capabilities to find article some criteria
+  - copy 'doi' of article and paste it into sci-hub.se or mirrors
+
+- alternative ways
+  - use resources like https://www.researchgate.net
+  - use affiliation/accounts/credentials of your educational institution
+  - запрос статьи напрямую у автора
+    - авторы научных статей часто готовы поделиться своими работами по запросу
+    - можно найти контактные данные автора в статье и отправить ему электронное письмо с просьбой прислать копию
 
 
 ## random thoughts
@@ -234,6 +255,7 @@
           - all existing user programs that have ever been entered till this moment
           - data that will be entered in the future
 
+
 ## references
 
 - coursera 'philosophy of sciences: introduction to philosophy of physical sciences' by university of edinburgh
@@ -241,3 +263,4 @@
 - wiki on falsifiability https://en.wikipedia.org/wiki/Falsifiability
 - anjan chakravartty on scientific realism https://plato.stanford.edu/entries/scientific-realism/
 [1]: https://youtu.be/HPO1cUXZ8Dk
+[2]: https://youtu.be/RzTVwhkuy98?si=_Q8sny3x3jY2Gz2d&t=1533

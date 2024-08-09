@@ -133,6 +133,14 @@
   - 5	Access is denied
 
 
+## nushell https://www.nushell.sh/
+
+- supports typed pipelines
+  - therefore error messages are easier to understand
+
+- has autocomplete, plugins
+
+
 ## task runners
 
 - gnu make

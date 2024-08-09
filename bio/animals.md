@@ -72,10 +72,22 @@
 - parts of body/plumage
   - nape (затылок)
 
+- grouse (рябчик)
+  - птицы из семейства фазановых, обитающие в лесах, степях и зарослях кустарников евразии и северной америки
+  - строят гнезда на земле среди растительности или в низких ветвях деревьев
+  - funny name: perdix perdix (grey partridge)
+  
 
 ## insects
 
-- arthropods evolved from aquatic ancestors
+- arthropods
+  - comes from the greek ἄρθρον árthron 'joint', and πούς pous (gen. ποδός podos) 'foot' or 'leg'
+  - 'arthropod' refers to all invertebrates with jointed legs
+    - all insects are also arthropods
+  - have a hard exoskeleton, like you might see on a crab or on a beetle
+  - they don't have bones inside their bodies like humans
+  - evolved from aquatic ancestors
+
 - believed to have been among the first animals to colonize land (before vertibrates)
   - emerged from aquatic environments during the Devonian period
     - around 400-350 million years ago

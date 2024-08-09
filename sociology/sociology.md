@@ -170,6 +170,19 @@
   - для этого социология изобретает свой язык, как систему различений, концептуализаций
 
 
+## computational social science, urban informatics, and human mobility modeling
+
+- high predictability of human mobility
+  - gonzález et al. research
+    - paper: understanding individual human mobility patterns
+      - nature 453, 779–782 (2008) https://doi.org/10.1038/nature06958
+      - 4230 citations as of 2024/06
+    - found that human mobility is highly predictable
+    - despite seeming random, individual movement patterns can be predicted with up to 93% accuracy based on past behavior
+    - this high predictability is due to the regularity and repetitiveness of people's daily routines
+
+
+
 ## other [12]
 
 - индустриальное
@@ -217,6 +230,9 @@
     - singals enough powerlessness to establish equality
     - share feelings of stress, inadequacy or weakness
     - express discontent with the some third parties
+
+
+
 
 
 ## references
