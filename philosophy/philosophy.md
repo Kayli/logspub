@@ -240,6 +240,9 @@
     - theorems define truth statements derived from axioms and other proven theorems (recursive definition)
     - most relevant in formal sciences
 
+  - bayesianism
+    - provides a formal method for evaluating beliefs and their correspondence to truth in a probabilistic framework
+
 
 - how we detect lies?
   - absence of expected evidence

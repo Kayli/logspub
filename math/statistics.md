@@ -256,6 +256,12 @@
   - example: consider the efficacy of a drug in terms of the reduction of any one of a number of disease symptoms. As more symptoms are considered, it becomes increasingly likely that the drug will appear to be an improvement over existing drugs in terms of at least one symptom due to random sampling error alone
 
 
+## hypothesis testing
+
+- p-value: indicates probability that null hypothesis is true
+  - e.g. in drug effects testing there are usually two hypotheses: 'null-hypothesis' is the one that claims drug has no effect, 'alternative hypothesis' claims that it has statistically significant effect
+
+
 ## references
 
 - "understanding and visualizing data with python" course https://www.coursera.org/learn/understanding-visualization-data

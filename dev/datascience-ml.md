@@ -412,6 +412,27 @@
 
 - stable diffusion: https://deforum.art
 
+- music generator https://suno.com/
+
+- writing assistaints [5]
+  - jenni https://jenni.ai/
+  - grammarly https://www.grammarly.com/
+  - writesonic https://writesonic.com/
+  - jasper https://www.jasper.ai/
+
+- research [5]
+  - quivr: chat with your documents https://www.quivr.com/
+  - ai search engine for research https://consensus.app/
+  - research papers reading assistaint https://www.explainpaper.com/
+  - semantic scholar https://www.semanticscholar.org/
+
+- tools for teachers and instructors [5]
+  - magic school, eduaide, teachmateai
+
+- memory [6]
+  - spaced-repetition flashcard https://www.idorecall.com/
+  - quizlet, kahoot!, anki
+
 
 ## references
 
@@ -419,3 +440,5 @@
 [2]: https://www.amazon.ca/gp/product/B0BXQTTJ3N (scaling machine learning with spark by adi polak)
 [3]: https://www.amazon.ca/Building-Machine-Learning-Pipelines-Automating-ebook/dp/B08CXDBWTX/
 [4]: https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526
+[5]: https://www.coursera.org/learn/learning-chatgpt/lecture/tYhuv/10-mapping-the-landscape-of-large-language-models-and-genai-learning
+[6]: https://www.coursera.org/learn/learning-chatgpt/lecture/3Ybkc/11-ai-driven-learning-maximizing-retrieval-practice

@@ -81,6 +81,11 @@
   - categorized as the variety of chert that occurs in chalk or marly limestone
   - used historically to make stone tools and start fires
 
+- faulting
+  - process where rocks break and slide past each other along a fracture or fault line
+  - occurs due to stress in the earth's crust
+  - faulting is the mechanism, while earthquakes are the result of that mechanism in action
+
 
 ### seismology
 
@@ -97,6 +102,13 @@
     - potassium-40  1.3e9
     - uranium-238   4.5e9
     - rubidium-87   4.9e10
+
+
+## useful links
+
+- geocron-like apps but for geologic time scale
+  - [gplates foss desktop app](https://www.gplates.org/)
+  - [ancient earth web app](https://dinosaurpictures.org/ancient-earth)
 
 
 ## terms and abbriviatures used

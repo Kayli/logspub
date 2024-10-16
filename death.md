@@ -198,6 +198,12 @@
   - specify the reasons for dying
 
 
+## interesting
+
+- метафора: чёрный фонарь смерти, который всегда светит из будущего на нас
+  - shines from the point of ultimate end of life, which remains beyond the grasp of rational systems or explanations
+
+
 ## links
 
 - end of life doula association of canada https://endoflifedoulaassociation.org/

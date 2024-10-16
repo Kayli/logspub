@@ -50,11 +50,13 @@
     - about 1 million of indigenous people lived there before first settlers arrived
     - 16th century pirates feast on spanish cargo ships
     
-    - 17th century france, holland 
+    - 17th century: france, dutch
+      - 1624: new amsterdam, dutch colony (modern new york)
 
     - first permanent english colony
       - jamestown, virginia in 1607
-      - puritans: english Protestants in the 16th and 17th centuries
+      - puritans: english protestants in the 16th and 17th centuries
+      - 1664: new york (english captured new amsterdam and renamed it)
     
     - black enslavement (1720-1780)
       - was justified by christians as they've treated blacks as descendants of hamits
@@ -72,7 +74,7 @@
 - democratic party was originally supporting slavery
   - was closely aligned with the interests of the southern states
 
-- 1794, 1807: acts prohibiting importation of slaves (but not domestic slave trade)
+- 1794, 1807: acts prohibiting importing slaves (but not domestic slave trade)
 
 - 1812-1815: us vs uk war 
 

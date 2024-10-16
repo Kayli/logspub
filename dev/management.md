@@ -143,6 +143,7 @@
 ## other links
 
 - conflict negotiation research from harvard http://www.juliaminson.com/conflict--negotiation.html
+- schedule meetings via shared calendar: https://calendly.com/
 
 
 ## references

@@ -1,6 +1,7 @@
 # notes on famous sociologists [1]
 
 
+
 ## richard florida 1957
 
 - concept of the creative class [2]
@@ -54,6 +55,13 @@
 - опыт упорядочивается у человека при помощи языка и при помощи социальных институтов
   - социальные институты придают человеческой психике стабильность
   - они необходимы для придания человеку определенной идентичности и выполняют функцию «психической разгрузки»
+
+
+## lewis mumford 1895-1990
+
+- modern cities as genetic sinks
+  - saw cities as places where people are disconnected from nature, leading to physical and mental health problems
+  - was not using 'genetic sinks' term
 
 
 ## emile durkheim 1858-1917

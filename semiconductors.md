@@ -10,6 +10,7 @@
 - doping
   - intentional introduction of impurities into an intrinsic semiconductor 
     for the purpose of modulating its electrical, optical and structural properties
+  - alters (increases) conductivity of silicon
   - only a small fraction of dopant atoms is needed 
     - to significantly alter the electrical properties of silicon
     - doping of phosphorus (n-type) or boron (p-type) in concentrations as low as parts per million
@@ -102,9 +103,15 @@
 - https://en.wikipedia.org/wiki/Organic_solar_cell
 
 
+## other
+
+- bubbles in a water may be a good 'hole current' analogy [6]
+
+
 ## references
 
 [2]: https://anysilicon.com/semiconductor-supply-chain-overview/
 [3]: https://www.sciencedirect.com/topics/materials-science/silicon-wafer
 [4]: https://en.wikipedia.org/wiki/Semiconductor_industry
 [5]: https://companiesmarketcap.com/semiconductors/largest-semiconductor-companies-by-market-cap/
+[6]: https://youtu.be/oC--fQr6ovM?si=-wkGkfV8hLNThdz-&t=224

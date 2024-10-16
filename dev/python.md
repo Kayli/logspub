@@ -8,6 +8,12 @@
 
 - cpython is a default state-of-the-art implementation of interpreter written in c
 
+- 4 fundamental collection types
+  - list: mylist = [1, 2, 3]
+  - dictionary: mydic = { "a": 1, "b": 2, "c": 3 }
+  - tuple: mytuple = (1, 2, 3)
+  - set: myset = {1, 2, 3}
+
 - python does not support
   - function overloading and therefore constructor overloading
   - passing variables by reference for value types

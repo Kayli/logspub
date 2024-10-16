@@ -1,8 +1,8 @@
 # notes on literature that i happened to read or read about
 
-## basics [1]
+## basics
 
-- stages of development: oral,  written, coded
+- stages of development: oral, written, coded
 - types
     - poetry
     - prose
@@ -21,6 +21,9 @@
       - self-documenting code
       - smart contracts
       - digital rhetoric
+
+- functions: compensatory, didactic (direct/indirect), aesthetic, cognitive, emotional, social
+
 
 
 ## tropes
@@ -104,4 +107,3 @@ https://thedifference.ru/chem-otlichaetsya-folklor-ot-literatury/
 
 ## references
 
-[1]: wikipedia + improvisation

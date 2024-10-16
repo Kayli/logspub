@@ -231,7 +231,8 @@
     - share feelings of stress, inadequacy or weakness
     - express discontent with the some third parties
 
-
+- genetic sinks
+  - when habitats are fragmented by human activity (urbanization, deforestation, etc.), populations can become isolated in poor-quality habitats that act as genetic sinks. Even when individuals are introduced through conservation efforts, if the habitat remains a sink, the population will struggle to become self-sustaining
 
 
 

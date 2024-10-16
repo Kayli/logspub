@@ -105,7 +105,7 @@
     - memory?
   - cingulate cortex
 
-- hindbrain
+- hindbrain (задний мозг)
   - brain stem (мозговой ствол)
     - basal ganglia
       - a group of subcortical nuclei, of varied origin, in the brains of vertebrates
@@ -124,7 +124,8 @@
     - medulla (продолговатый мозг)
       - cardiac, respiratory, vomiting and vasomotor centers
       - autonomic functions of breathing, heart rate and blood pressure as well as the sleep wake cycle
-    - pituitary gland, or hypophysis
+    - pituitary gland, or hypophysis (гипофиз)
+      - выделяет гормоны
   - cerebellum (мозжечок, дословно «малый мозг»)
     - functions
       - preserves and reactivates automated motor patterns

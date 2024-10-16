@@ -153,6 +153,8 @@
 - dualistic cosmology
   - ahura mazda: literally 'lord of wisdom'
   - ahreman or angra mainyu: opposing, evil, destructive spirit
+  - good (ahura mazda) vs evil (angra mainyu)
+
 - zoroaster (zarathustra)
   - spiritual founder of zoroastrianism, iranian prophet
   - greek rendering of the avestan name zarathustra
@@ -160,9 +162,9 @@
     - zar - king?
     - zorro - fox (spanish)
     - aster - star?
+- magi: zoroastrian priests
+
 - places significant importance on fire as a symbol of purity and divinity
-- dualistic cosmology
-  - good (ahura mazda) vs evil (angra mainyu)
 
 
 ### paganism
@@ -375,6 +377,9 @@
 - guilty until proven innocent vs innocent until proven guilty
 
 
+## funny
+
+- обе в одной нирване сидели
 
 
 ## references

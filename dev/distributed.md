@@ -427,10 +427,21 @@
     - other primitives: grid, block, warp, thread
 
 
+## 12 factor app principles [13]
 
-## useful resources
+codebase: one codebase tracked in version control, many deploys.
+dependencies: explicitly declare and isolate dependencies.
+config: store configuration in the environment.
+backing services: treat backing services as attached resources.
+build, release, run: strictly separate build and run stages.
+processes: execute the app as one or more stateless processes.
+port binding: export services via port binding.
+concurrency: scale out via the process model.
+disposability: maximize robustness with fast startup and graceful shutdown.
+dev/prod parity: keep development, staging, and production as similar as possible.
+logs: treat logs as event streams.
+admin processes: run admin/management tasks as one-off processes.
 
-- 12 factor apps https://12factor.net/
 
 
 ## some techs to uncover
@@ -473,3 +484,4 @@
 [10]: https://www.semanticscholar.org/paper/Zab%3A-High-performance-broadcast-for-primary-backup-Junqueira-Reed/b02c6b00bd5dbdbd951fddb00b906c82fa80f0b3?p2df
 [11]: https://www.youtube.com/watch?v=9vS7TbgirgY
 [12]: https://www.youtube.com/watch?v=PRsB6HzQ_ss
+[13]: https://12factor.net/

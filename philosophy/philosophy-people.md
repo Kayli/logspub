@@ -378,11 +378,19 @@ natural property
 
 ## henri bergson 1859-1941
 
-- process philosopher
+- process philosopher, france
+
 - emergence theory
   - some higher-level properties of a complex system are irreduceble to the lower properties alone
-- argued that mathematical analysis of time in physics was mistaken
-- we can't have infinitely small moments of time
+
+- subjective time
+  - argued that mathematical analysis of time in physics was mistaken
+    - while mathematical analysis is useful for practical purposes, it fails to capture the true nature of time as something that is constantly flowing and evolving
+  - we can't have infinitely small moments of time
+    - concept often implied by the mathematical treatment of time in physics
+    - such a division is an artificial construct that fails to capture the true nature of time
+  - distinction between "clock time" and "lived time" or "duration" (la durée)
+
 - physics of mechanics can't explain biological behavior of living things
   - which was mostly refuted later by scientists?
 
@@ -1383,6 +1391,12 @@ natural property
   - instrumental value
     - might be necessary to display controlled anger in leadership roles
       - to maintain discipline or to inspire others
+
+- catharsis
+  - emotional cleansing or purification that the audience experiences when watching a tragedy
+    - primarily through the emotions of pity and fear
+  - introduced the concept in his work poetics
+  - first greek to write about catharsis in a philosophical context
 
 - quotes
   - the whole is greater than the sum of its parts

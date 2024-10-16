@@ -9,9 +9,10 @@
 - esotericism 
   - can be seen as essentially describing an "enchanted" worldview
     - as compared to Max Weber's notion of "disenchantment"
+  - set of unscientific spiritual beliefs and psychotechniques
+  - often emerges around some charismatic person who creates a performance/book/movie on a topic
 
-- set of unscientific spiritual beliefs and psychotechniques
-- often emerges around some charismatic person who creates a performance/book/movie on a topic
+- occult: from 'hidden'
 
 - science: esoteric studies, эзотериология
 

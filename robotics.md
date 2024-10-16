@@ -17,6 +17,8 @@
 
 - automated guided vehicle (agv)
 
+- odometric drift: discrepancy between calculated and actual state
+
 
 ## fleet software
 

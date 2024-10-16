@@ -103,6 +103,7 @@
     - people: rousseau, voltaire, john locke, newton
 
 - industrial/modern 1800 ce - now
+  - germ theory of disease 1847-60s
 
 
 ## ice ages (glaciation periods)
@@ -431,6 +432,18 @@
   - васко да гама: морской путь из европы в азию, минуя африку
   - барталамео диаш: обогнул мыс доброй надежды, открыв морской путь к индийскому океану через южную оконечность африки
 
+- germ theory of disease developments [11]
+  - 460–370 bce: hippocrates writes on quality of the air
+    - which could become "corrupted" by environmental factors
+  - 129–216 ce: galen writes that diseases could arise from "corrupt" or "putrid" air
+  - 1346-53: во время эпидемий чумы люди начали активно использовать уксус для дезинфекции
+    - практиковалось мытье рук, монет, других предметов
+  - 1670s: discovery of animalcules
+    - antonie van leeuwenhoek (левенгук) used a microscope he designed (zoom 200-300x) to observe and describe microorganisms
+  - 1847: ignaz semmelweis noticed that handwashing with a chlorinated solution significantly reduced the incidence of puerperal fever in maternity wards
+  - 1860: louis pasteur conducted experiments showing that microorganisms were responsible for fermentation and spoilage and some diseases
+  - 1876-83: robert koch discovers bacterial agents of anthrax (сибирская язва), tuberculosis, cholera
+
 
 ## other
 
@@ -460,3 +473,4 @@
 [8]: https://novate.ru/blogs/011216/39032/
 [9]: https://www.vokrugsveta.ru/vs/article/5967/
 [10]: https://youtu.be/CfeGd_KC6sI?si=gsjlA-MXe9RdwcHr
+[11]: https://youtu.be/nNbILI8HASk?si=vp5JRZMmReG6D3L-

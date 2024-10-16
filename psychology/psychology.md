@@ -540,6 +540,10 @@
     - not having quality time together
     - feeling inhibited around person/people
 
+- tyranical antiparents, antipartners, anticommunities [26]
+  - parents:      skills, knowledge, independence
+  - antiparents:  passivity, timidity, submission, dependence
+
 
 ## iq
 
@@ -640,6 +644,16 @@
   - high nfcc individuals might prefer clear and decisive leaders and may be more prone to stereotyping and resistance to change
 
 
+## social psychology
+
+- major findings
+  - worthless groups may appear worthwile
+    - individuals who go through a difficult or unpleasant initiation process may later perceive the group more positively to justify the effort they expended [27]
+  
+  - 
+
+
+
 ## interesting facts
 
 - сумчатая мышь https://youtu.be/USFhhovkurE?t=4943
@@ -699,3 +713,5 @@
 [23]: https://youtu.be/MYMYXhR2Ppw?si=AejTEN-EkxaSRQOy&t=2851
 [24]: http://www.juliaminson.com/uploads/1/1/3/1/113175333/jeong_minson_gino_chapter.pdf
 [25]: https://www.youtube.com/watch?v=G1eHJ9DdoEA
+[26]: https://youtu.be/zcRUj8H3rc4?si=y5MGzVR4RUL_iVSx&t=583
+[27]: https://sci-hub.se/https://psycnet.apa.org/doi/10.1037/h0047195

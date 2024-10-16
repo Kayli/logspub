@@ -191,3 +191,8 @@
   - gluttony pig
   - lust goat
   - pride peacock
+
+
+## things to consider
+
+- mormon sect is official religious organization in australia, tax-free, protected status

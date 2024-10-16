@@ -2,7 +2,7 @@
 
 ## basics
 
-- layers of osi model of networking infrastructure
+- layers of osi model (open systems interconnection) of networking infrastructure
   - 1 physical: electrical signals
   - 2 data: hop to hop delivery using mac addresses
     - arp (address resolution protocol), ethernet
@@ -27,12 +27,64 @@
     - if a host has two IP addresses, 192.168.1.1 and 10.1.2.1, and a server running on the host 
       listens on 0.0.0.0, it will be reachable at both of those IPs
 
-
 - routing schemes
   - unicast: one to one
   - anycast: one to one of many
   - broadcast: one to many
   - multicast: one to some of many
+
+
+## network packets [3]
+
+- ethernet (data link layer, l2)
+  - contains data: frame
+    - communication between devices on the same local network or segment
+    - contains source and destination mac addresses
+      - is typically rewritten or replaced at each hop in a network
+
+- ip (network layer, l3)
+  - contains data: packet
+    - source and destination ip addresses
+    - ttl: number of hops after which packet is dropped  
+
+- tcp (transport layer, l4)
+  - contains data: segment
+    - source port, destination port
+    - sequence number, ack number
+      - incremented by number of bytes sent and received
+      - ack number can signal reception of multiple packets
+    - window
+      - how much data client sends before waiting for ack
+      - dynamic, sent in every segment
+        - this allows flow control: server can adjust window size to ensure optimal transmission rate
+      - can be set to 0 by server to indicate that it needs more time before receiving new data
+        - so client will wait for next ack from server with non-zero window size
+  - provides confirmation of data delivery and allows retransmission of lost packets
+  - allows flow control (see above)
+  - is bidirectional
+  - handshake
+    - is 3-way, which means 3 packets will be tranmitted over the wire
+    - establishes connection
+  - phantom byte: increment of a sequence number by 1 even when no bytes of data were sent
+  - closing connection
+    - graceful 4-way closure using fin flag (can be 3 or more packets)
+    - ungraceful, using rst flag, doesn't have to be acknowledged
+
+- udp (transport layer, l4)
+  - contains data: datagram
+    - source port, destination port
+    - length
+    - checksum
+  - allows to transmit data with less overhead
+  - connectionless
+    - there is no explicit connection or handshake
+    - connection is often simulated/defined using timeout
+  - no flow control
+    - can transmit data as fast as it can
+      - which may lead to loss of data
+  - doesn't provide reliability at l4
+    - if needed, apps have to implement it on top of udp
+
 
 ## http
 
@@ -43,6 +95,31 @@
   - uses connection id to speed-up switching between different networks on mobile devices
 
 - parts: protocol, hostname, path, resource, query string
+
+
+## tls
+
+- ssl (secure sockets layer) is now considered deprecated, tls is used instead
+- uses port 443
+- latest version is 1.3
+- since tls 1.2 https is faster than http
+- tls 1.3 improvements
+  - handshake can now be accomplished with a single roundtrip and enables zero roundtrip resumption (0-RTT)
+
+- handshake
+  - tls handshake enables the tls client and server to establish the secret keys with which they communicate
+  - both symmetric and asymmetric encryption methods are used
+  - public key from server is used to encrypt message from client
+    - this message contains symmetric key that server should use to form a response
+      - it is called 'session key'
+      - usually remains in use for the entire duration of a tls session (seconds to hours)
+  - about 4 handshake packets in wireshark for http1/2 + 3 handshake packets for every tcp connection
+    - 3 packets of handshake in http3(quic), no tcp handshake
+
+- termination
+  - the process of decrypting encrypted traffic before passing it along to a web server
+  - requires uploading pks into middleware, e.g. load balancer
+
 
 ## check for open ports
 
@@ -86,23 +163,6 @@
     > ssh -L 127.0.0.1:80:client.example.com:80 remote.example.com
 
 
-## tls
-
-- ssl (secure sockets layer) is now considered deprecated, tls is used instead
-- uses port 443
-- latest version is 1.3
-- since tls 1.2 https is faster than http
-- tls 1.3 improvements
-  - handshake can now be accomplished with a single roundtrip and enables zero roundtrip resumption (0-RTT)
-
-- handshake
-  - tls handshake enables the tls client and server to establish the secret keys with which they communicate
-  - both symmetric and asymmetric keys are used
-  - public key from server is used to encrypt message from client
-    - this message contains symmetric key that server should use to form a response
-
-- termination
-  - the process of decrypting encrypted traffic before passing it along to a web server
 
 
 ## todo
@@ -116,3 +176,4 @@
 
 [1]: https://avinetworks.com/glossary/l4-l7-network-services/
 [2]: https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/
+[3]: https://youtu.be/JFch3ctY6nE?si=eFAJzcr0sHiXa7A0

@@ -24,6 +24,8 @@
 - basal: forming or belonging to a bottom layer or base
 - lateral: of, at, toward, or from the side or sides
 
+- organ: collection of tissues joined in a structural unit to serve a common function
+
 
 ## human skeleton
 
@@ -100,15 +102,6 @@
   - nervous
     - neurons
     - glial
-
-
-## organs
-
-- organ is a collection of tissues joined in a structural unit to serve a common function
-- liver
-  - location: right side under the diaphragm
-- stomach
-  - left side under the diaphragm
 
 
 ## circulatory system
@@ -198,6 +191,23 @@
   - immune system functions
     - houses antibody-producing lymphocytes
     - analogous to a large lymph node
+
+
+## other organs
+
+- liver
+  - location: right side under the diaphragm
+- stomach
+  - left side under the diaphragm
+
+- eye
+  - pupil (зрачок): dark, central opening in the iris that allows light to pass through
+  - sklera (белок)
+  - iris (радужка)
+  - retina
+    - light-sensitive tissue lining the back of the eye
+    - converts light into neural signals
+  - fovea: a small pit in the macula that provides the clearest vision of detail
 
 
 ## references

@@ -78,6 +78,8 @@
 - gets its name from angles settlers
 - location: island of great britain
   - toponym: british isles, prettanikē, albion
+  - includes england, scotland, wales
+  - united kingdom: great britain + northern ireland
 
 - 8000 bc: warren field, a calendar monument
 - 3100-1600 bc: stonehenge, a burial ground
@@ -145,6 +147,10 @@
 
 
 ## nederlands
+
+- netherlands is the official name of the country (like the uk)
+  - holland is a region in the country (like england)
+  - dutch is the language they speak and their ethnicity (like english)
 
 - dutch (nederlanders)
   - germanic ethnic group and nation native to the netherlands

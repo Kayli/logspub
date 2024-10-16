@@ -112,9 +112,13 @@
 
 - protocols
   - oauth
+    - authorization framework
+    - may or may not use jwt to store data on a client
+    
   - openid connect (oidc)
-    - uses signed jwt document to share information across identity services
+    - rely on signed jwt document to share information across identity services
     - is a thin layer that sits on top of OAuth 2.0 that adds login and profile information about the person who is logged in
+
   - security assertion markup language (saml)
   - lightweight directory access protocol (ldap)
   - active directory federation services (adfs)
